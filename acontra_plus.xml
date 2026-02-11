@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260211185900 +0100" stop="20260211205900 +0100" channel="acontra+ CINE">
-    <title lang="es">Vergüenza (1968)</title>
-    <desc lang="es">La relación de una pareja destrozada a causa de una guerra civil que intentaban evitar. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71QagNZ4dPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260211205900 +0100" stop="20260211225100 +0100" channel="acontra+ CINE">
-    <title lang="es">Más allá del deber (2001)</title>
-    <desc lang="es">Un regimiento escocés, durante la Segunda Guerra, debió construir la vía ferroviaria de la muerte. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81P1jHaw-RL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260211225100 +0100" stop="20260212002900 +0100" channel="acontra+ CINE">
+  <programme start="20260211222900 +0100" stop="20260212002900 +0100" channel="acontra+ CINE">
     <title lang="es">El novio de mi madre (2007)</title>
     <desc lang="es">La agitada vida de una mujer madura cambia cuando se enamora de un hombre mucho más joven que ella. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81qWfjAZw8L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">El infierno del odio (1963)</title>
     <desc lang="es">El ejecutivo de una compañía de zapatos de éxito se convierte en víctima de extorsión. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81NFwmVYj5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260212061100 +0100" stop="20260212071500 +0100" channel="acontra+ CINE">
+    <title lang="es">El Malvado Zaroff (1932)</title>
+    <desc lang="es">Un cazador loco decide disfrutar de la caza mayor y dar muerte de los pasajeros de un naufragio. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71meH1CQ-ML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260212071500 +0100" stop="20260212093600 +0100" channel="acontra+ CINE">
+    <title lang="es">El cazador (1975)</title>
+    <desc lang="es">Vladimir, perdido en Siberia, conoce a Dersu Uzala, un cazador nómada que le ayuda a sobrevivir. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1q1nqsHVdL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
