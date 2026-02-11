@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260211153800 +0100" stop="20260211173800 +0100" channel="acontra+ CINE">
-    <title lang="es">Trono de sangre (1957)</title>
-    <desc lang="es">Un guerrero samurái tiene un encuentro espiritual y descubre que está destinado a la gloria. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81MOpG+TfFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260211173800 +0100" stop="20260211192000 +0100" channel="acontra+ CINE">
-    <title lang="es">Rufufú da el golpe (1959)</title>
-    <desc lang="es">Un milanés convence a Pepe y a sus amigos para ir a Milán para robar el furgón de las qunielas. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/71uBR3dN43L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260211192000 +0100" stop="20260211205900 +0100" channel="acontra+ CINE">
+  <programme start="20260211185900 +0100" stop="20260211205900 +0100" channel="acontra+ CINE">
     <title lang="es">Vergüenza (1968)</title>
     <desc lang="es">La relación de una pareja destrozada a causa de una guerra civil que intentaban evitar. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71QagNZ4dPL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">El novio de mi madre (2007)</title>
     <desc lang="es">La agitada vida de una mujer madura cambia cuando se enamora de un hombre mucho más joven que ella. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81qWfjAZw8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260212002900 +0100" stop="20260212020300 +0100" channel="acontra+ CINE">
+    <title lang="es">Las ocho campanadas (2003)</title>
+    <desc lang="es">Philip Calvert es un agente del servicio secreto naval cuya misión es la de desentrañar un robo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qMCGYTo5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260212020300 +0100" stop="20260212035000 +0100" channel="acontra+ CINE">
+    <title lang="es">Exótica (1994)</title>
+    <desc lang="es">Un solitario inspector de Hacienda acude cada noche al club de baile erótico Exótica. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B166go0R7zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260212035000 +0100" stop="20260212061100 +0100" channel="acontra+ CINE">
+    <title lang="es">El infierno del odio (1963)</title>
+    <desc lang="es">El ejecutivo de una compañía de zapatos de éxito se convierte en víctima de extorsión. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81NFwmVYj5L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
