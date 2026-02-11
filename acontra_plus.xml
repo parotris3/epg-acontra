@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="prime_acontra_plus">
+  <channel id="acontra+ CINE">
+    <display-name>acontra+ CINE</display-name>
+  </channel>
+  <programme start="20260211153800 +0100" stop="20260211173800 +0100" channel="acontra+ CINE">
+    <title lang="es">Trono de sangre (1957)</title>
+    <desc lang="es">Un guerrero samurái tiene un encuentro espiritual y descubre que está destinado a la gloria. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81MOpG+TfFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260211173800 +0100" stop="20260211192000 +0100" channel="acontra+ CINE">
+    <title lang="es">Rufufú da el golpe (1959)</title>
+    <desc lang="es">Un milanés convence a Pepe y a sus amigos para ir a Milán para robar el furgón de las qunielas. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/71uBR3dN43L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260211192000 +0100" stop="20260211205900 +0100" channel="acontra+ CINE">
+    <title lang="es">Vergüenza (1968)</title>
+    <desc lang="es">La relación de una pareja destrozada a causa de una guerra civil que intentaban evitar. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71QagNZ4dPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260211205900 +0100" stop="20260211225100 +0100" channel="acontra+ CINE">
+    <title lang="es">Más allá del deber (2001)</title>
+    <desc lang="es">Un regimiento escocés, durante la Segunda Guerra, debió construir la vía ferroviaria de la muerte. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81P1jHaw-RL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260211225100 +0100" stop="20260212002900 +0100" channel="acontra+ CINE">
+    <title lang="es">El novio de mi madre (2007)</title>
+    <desc lang="es">La agitada vida de una mujer madura cambia cuando se enamora de un hombre mucho más joven que ella. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qWfjAZw8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+</tv>
