@@ -14,21 +14,38 @@ CHANNEL_DISPLAY = "acontra+ CINE"
 
 def load_html_from_web(url: str) -> str:
     print(f"Descargando datos de: {url} ...")
-    # Simulamos ser un navegador real para evitar bloqueos
+    
+    # Aseguramos HTTPS
+    if url.startswith("http://"):
+        url = url.replace("http://", "https://")
+
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-        'Accept-Language': 'es-ES,es;q=0.9',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+        'Accept-Language': 'es-ES,es;q=0.9,en;q=0.8',
+        # ESTA ES LA CLAVE: Forzamos la configuración de región a España mediante cookies
+        'Cookie': 'lc-main=es_ES; i18n-prefs=ESP; av-timezone=Europe/Madrid',
+        'Cache-Control': 'max-age=0',
+        'Upgrade-Insecure-Requests': '1',
     }
     
     req = urllib.request.Request(url, headers=headers)
     
     try:
         with urllib.request.urlopen(req) as response:
-            return response.read().decode('utf-8')
+            html_content = response.read().decode('utf-8')
+            
+            # --- DEBUG EXTRA PARA GITHUB ACTIONS ---
+            # Si falla, esto nos dirá qué página está devolviendo Amazon (ej: Login, US Home, etc)
+            title_search = re.search(r'<title>(.*?)</title>', html_content)
+            if title_search:
+                print(f"DEBUG: Título de la página descargada: {title_search.group(1)}")
+            # ---------------------------------------
+            
+            return html_content
     except Exception as e:
-        raise RuntimeError(f"Error al descargar la web: {e}")
-
+        print(f"Error descargando: {e}")
+        return ""
 def extract_channel_json(html: str):
     # Buscamos el patrón específico del canal acontra+
     pattern = r'"logo":"https[^"]*acontra_plus_16x9_white[^"]*","name":"(acontra\+ CINE)","schedule":\[(.*?)\]'
