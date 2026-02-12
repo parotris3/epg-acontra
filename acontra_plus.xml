@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260211222900 +0100" stop="20260212002900 +0100" channel="acontra+ CINE">
-    <title lang="es">El novio de mi madre (2007)</title>
-    <desc lang="es">La agitada vida de una mujer madura cambia cuando se enamora de un hombre mucho más joven que ella. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qWfjAZw8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260212002900 +0100" stop="20260212020300 +0100" channel="acontra+ CINE">
-    <title lang="es">Las ocho campanadas (2003)</title>
-    <desc lang="es">Philip Calvert es un agente del servicio secreto naval cuya misión es la de desentrañar un robo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qMCGYTo5L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260212020300 +0100" stop="20260212035000 +0100" channel="acontra+ CINE">
-    <title lang="es">Exótica (1994)</title>
-    <desc lang="es">Un solitario inspector de Hacienda acude cada noche al club de baile erótico Exótica. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B166go0R7zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260212035000 +0100" stop="20260212061100 +0100" channel="acontra+ CINE">
+  <programme start="20260212041100 +0100" stop="20260212061100 +0100" channel="acontra+ CINE">
     <title lang="es">El infierno del odio (1963)</title>
     <desc lang="es">El ejecutivo de una compañía de zapatos de éxito se convierte en víctima de extorsión. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81NFwmVYj5L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">El cazador (1975)</title>
     <desc lang="es">Vladimir, perdido en Siberia, conoce a Dersu Uzala, un cazador nómada que le ayuda a sobrevivir. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1q1nqsHVdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260212093600 +0100" stop="20260212113100 +0100" channel="acontra+ CINE">
+    <title lang="es">Bright Star (2009)</title>
+    <desc lang="es">El romance de tres años entre el poeta John Keats y Fanny Brawne cerca del final de su vida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1zxyQnUk9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260212113100 +0100" stop="20260212132600 +0100" channel="acontra+ CINE">
+    <title lang="es">Mi amigo Mr. Morgan (2013)</title>
+    <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
