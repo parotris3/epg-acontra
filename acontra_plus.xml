@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260212041100 +0100" stop="20260212061100 +0100" channel="acontra+ CINE">
-    <title lang="es">El infierno del odio (1963)</title>
-    <desc lang="es">El ejecutivo de una compañía de zapatos de éxito se convierte en víctima de extorsión. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81NFwmVYj5L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260212061100 +0100" stop="20260212071500 +0100" channel="acontra+ CINE">
-    <title lang="es">El Malvado Zaroff (1932)</title>
-    <desc lang="es">Un cazador loco decide disfrutar de la caza mayor y dar muerte de los pasajeros de un naufragio. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71meH1CQ-ML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260212071500 +0100" stop="20260212093600 +0100" channel="acontra+ CINE">
-    <title lang="es">El cazador (1975)</title>
-    <desc lang="es">Vladimir, perdido en Siberia, conoce a Dersu Uzala, un cazador nómada que le ayuda a sobrevivir. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1q1nqsHVdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260212093600 +0100" stop="20260212113100 +0100" channel="acontra+ CINE">
+  <programme start="20260212093100 +0100" stop="20260212113100 +0100" channel="acontra+ CINE">
     <title lang="es">Bright Star (2009)</title>
     <desc lang="es">El romance de tres años entre el poeta John Keats y Fanny Brawne cerca del final de su vida. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1zxyQnUk9L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Mi amigo Mr. Morgan (2013)</title>
     <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260212132600 +0100" stop="20260212151400 +0100" channel="acontra+ CINE">
+    <title lang="es">Regreso a Bountiful (1986)</title>
+    <desc lang="es">Una mujer grande intenta realizar un último viaje a su pueblo natal, Bountiful. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91vuEIn4OYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260212151400 +0100" stop="20260212165400 +0100" channel="acontra+ CINE">
+    <title lang="es">Perdidos en el Pacífico (2015)</title>
+    <desc lang="es">Sin comida, agua, ni esperanza de rescate, unos soldados navegan sin rumbo tras un accidente. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91elM7CEYmL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260212165400 +0100" stop="20260212183500 +0100" channel="acontra+ CINE">
+    <title lang="es">Blood and Wine (1996)</title>
+    <desc lang="es">Un traficante de vinos pobre planea robar joyas de cliente. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ehsCHcjHL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
