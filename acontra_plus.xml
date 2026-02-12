@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260212131400 +0100" stop="20260212151400 +0100" channel="acontra+ CINE">
-    <title lang="es">Regreso a Bountiful (1986)</title>
-    <desc lang="es">Una mujer grande intenta realizar un último viaje a su pueblo natal, Bountiful. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/91vuEIn4OYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260212151400 +0100" stop="20260212165400 +0100" channel="acontra+ CINE">
-    <title lang="es">Perdidos en el Pacífico (2015)</title>
-    <desc lang="es">Sin comida, agua, ni esperanza de rescate, unos soldados navegan sin rumbo tras un accidente. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91elM7CEYmL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260212165400 +0100" stop="20260212183500 +0100" channel="acontra+ CINE">
-    <title lang="es">Blood and Wine (1996)</title>
-    <desc lang="es">Un traficante de vinos pobre planea robar joyas de cliente. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ehsCHcjHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260212183500 +0100" stop="20260212201100 +0100" channel="acontra+ CINE">
+  <programme start="20260212181100 +0100" stop="20260212201100 +0100" channel="acontra+ CINE">
     <title lang="es">House at the End of the Street (2012)</title>
     <desc lang="es">Madre e hija se mudan junto a la escena de un homicidio. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/818BZtzxqZL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El señor de las bestias (1983)</title>
     <desc lang="es">Dar, el príncipe guerrero, necesita salvar al amor de su vida, Kiri, ahora prisionera de un rey. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91WflJhW96L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260212234100 +0100" stop="20260213011700 +0100" channel="acontra+ CINE">
+    <title lang="es">Esperando la hora (1998)</title>
+    <desc lang="es">Cuatro mujeres jóvenes tienen en común la precariedad laboral y la esperanza de un contrato fijo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71aMWv9eWlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260213011700 +0100" stop="20260213034400 +0100" channel="acontra+ CINE">
+    <title lang="es">Becket (1964)</title>
+    <desc lang="es">Enrique II Plantagenet, rey de Inglaterra, y Thomas Becket se enfrentan violentamente. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91DlKcfPiZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260213034400 +0100" stop="20260213052200 +0100" channel="acontra+ CINE">
+    <title lang="es">Buscando la perfección (2019)</title>
+    <desc lang="es">En 1984, John McEnroe pierde la gran final del Roland Garros contra Ivan Lendl. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91vPU5eJPXL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
