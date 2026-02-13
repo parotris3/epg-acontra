@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260212231700 +0100" stop="20260213011700 +0100" channel="acontra+ CINE">
-    <title lang="es">Esperando la hora (1998)</title>
-    <desc lang="es">Cuatro mujeres jóvenes tienen en común la precariedad laboral y la esperanza de un contrato fijo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71aMWv9eWlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260213011700 +0100" stop="20260213034400 +0100" channel="acontra+ CINE">
-    <title lang="es">Becket (1964)</title>
-    <desc lang="es">Enrique II Plantagenet, rey de Inglaterra, y Thomas Becket se enfrentan violentamente. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91DlKcfPiZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260213034400 +0100" stop="20260213052200 +0100" channel="acontra+ CINE">
+  <programme start="20260213032200 +0100" stop="20260213052200 +0100" channel="acontra+ CINE">
     <title lang="es">Buscando la perfección (2019)</title>
     <desc lang="es">En 1984, John McEnroe pierde la gran final del Roland Garros contra Ivan Lendl. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91vPU5eJPXL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Habitación verde (2015)</title>
     <desc lang="es">Unos neonazis quieren matar a unos músicos. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/9163gYcEEDL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260213085300 +0100" stop="20260213104700 +0100" channel="acontra+ CINE">
+    <title lang="es">Sección especial</title>
+    <desc lang="es">En la Francia ocupada durante la Segunda Guerra Mundial, un oficial alemán es asesinado por un grupo de jóvenes insurgentes. Para evitar represalias mayores de los nazis, el gobierno colaboracionista de Vichy decide atribuir el asesinato a seis. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71yJ2Ob6BfL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260213104700 +0100" stop="20260213122800 +0100" channel="acontra+ CINE">
+    <title lang="es">La parte de los ángeles (2012)</title>
+    <desc lang="es">Robbie apenas evade la cárcel, se inspira para hallar la forma de salir de una vida sin esperanza. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ExK0oAYLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260213122800 +0100" stop="20260213140200 +0100" channel="acontra+ CINE">
+    <title lang="es">El séptimo sello (1956)</title>
+    <desc lang="es">Una alegoría del intento del ser humano por entender su destino y los misterios de la muerte. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/716CWrZG5-L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
