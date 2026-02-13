@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260213084700 +0100" stop="20260213104700 +0100" channel="acontra+ CINE">
-    <title lang="es">Sección especial</title>
-    <desc lang="es">En la Francia ocupada durante la Segunda Guerra Mundial, un oficial alemán es asesinado por un grupo de jóvenes insurgentes. Para evitar represalias mayores de los nazis, el gobierno colaboracionista de Vichy decide atribuir el asesinato a seis. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71yJ2Ob6BfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260213104700 +0100" stop="20260213122800 +0100" channel="acontra+ CINE">
-    <title lang="es">La parte de los ángeles (2012)</title>
-    <desc lang="es">Robbie apenas evade la cárcel, se inspira para hallar la forma de salir de una vida sin esperanza. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ExK0oAYLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260213122800 +0100" stop="20260213140200 +0100" channel="acontra+ CINE">
-    <title lang="es">El séptimo sello (1956)</title>
-    <desc lang="es">Una alegoría del intento del ser humano por entender su destino y los misterios de la muerte. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/716CWrZG5-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260213140200 +0100" stop="20260213153300 +0100" channel="acontra+ CINE">
+  <programme start="20260213133300 +0100" stop="20260213153300 +0100" channel="acontra+ CINE">
     <title lang="es">Frank y el robot (2012)</title>
     <desc lang="es">Un excriminal utiliza robots para robar nuevamente. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/712WibFxd0L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Traveller (1997)</title>
     <desc lang="es">Tras morir su padre, Pat O&#39;Hara quiere unirse a un grupo de estafadores irlandeses-americanos. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1Vr2YKjJIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260213183300 +0100" stop="20260213200700 +0100" channel="acontra+ CINE">
+    <title lang="es">Tsotsi (2005)</title>
+    <desc lang="es">Un ladrón sudafricano cuida al bebé de una mujer a la que disparó cuando esta viajaba en coche. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/C1skyL60iYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260213200700 +0100" stop="20260213214700 +0100" channel="acontra+ CINE">
+    <title lang="es">Adorable seductor (1989)</title>
+    <desc lang="es">El nuevo miembro de una compañía de teatro se enfrenta a un director bullicioso. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81eXQTzyLjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260213214700 +0100" stop="20260213232000 +0100" channel="acontra+ CINE">
+    <title lang="es">La cosecha (1994)</title>
+    <desc lang="es">En México, Charlie Pope, un guionista de cine en plena depresión, se ve envuelto en una pesadilla. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91d-BH1BVlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
