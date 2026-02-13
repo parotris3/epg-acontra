@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260213133300 +0100" stop="20260213153300 +0100" channel="acontra+ CINE">
-    <title lang="es">Frank y el robot (2012)</title>
-    <desc lang="es">Un excriminal utiliza robots para robar nuevamente. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/712WibFxd0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260213153300 +0100" stop="20260213165300 +0100" channel="acontra+ CINE">
-    <title lang="es">Willow Creek (2014)</title>
-    <desc lang="es">Una pareja se adentra en el bosque en busca de una foto que demuestre la existencia del bigfoot. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71QKxQmk0OL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260213165300 +0100" stop="20260213183300 +0100" channel="acontra+ CINE">
-    <title lang="es">Traveller (1997)</title>
-    <desc lang="es">Tras morir su padre, Pat O&#39;Hara quiere unirse a un grupo de estafadores irlandeses-americanos. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Vr2YKjJIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260213183300 +0100" stop="20260213200700 +0100" channel="acontra+ CINE">
+  <programme start="20260213180700 +0100" stop="20260213200700 +0100" channel="acontra+ CINE">
     <title lang="es">Tsotsi (2005)</title>
     <desc lang="es">Un ladrón sudafricano cuida al bebé de una mujer a la que disparó cuando esta viajaba en coche. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/C1skyL60iYL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,25 @@
     <title lang="es">La cosecha (1994)</title>
     <desc lang="es">En México, Charlie Pope, un guionista de cine en plena depresión, se ve envuelto en una pesadilla. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91d-BH1BVlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260213232000 +0100" stop="20260214004600 +0100" channel="acontra+ CINE">
+    <title lang="es">Bajo Cero (2006)</title>
+    <desc lang="es">Un grupo de alpinistas debe evitar que unos mercenarios utilicen una destructiva arma. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1F0SjuOWRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260214004600 +0100" stop="20260214021400 +0100" channel="acontra+ CINE">
+    <title lang="es">El brindis (2020)</title>
+    <desc lang="es">Un hombre espera un mensaje de reconciliación de su ex durante una cena familiar. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91YMCCqF3DL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260214021400 +0100" stop="20260214040000 +0100" channel="acontra+ CINE">
+    <title lang="es">Miss Julie (1999)</title>
+    <desc lang="es">Durante la noche de San Juan, Julie se siente atraída por Jean, un sirviente de carácter fuerte. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81el+nQmgXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260214040000 +0100" stop="20260214054400 +0100" channel="acontra+ CINE">
+    <title lang="es">Un italiano en Chicago</title>
+    <desc lang="es">Rocco Papaleo es un hombre italiano optimista y amable que vive y trabaja en un pueblo minero de Alaska. Rocco se aleja de su empresa en un viaje a Chicago para asistir a un combate de boxeo. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91vmD0hOu8L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
