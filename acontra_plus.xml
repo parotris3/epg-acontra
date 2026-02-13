@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260213180700 +0100" stop="20260213200700 +0100" channel="acontra+ CINE">
-    <title lang="es">Tsotsi (2005)</title>
-    <desc lang="es">Un ladrón sudafricano cuida al bebé de una mujer a la que disparó cuando esta viajaba en coche. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/C1skyL60iYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260213200700 +0100" stop="20260213214700 +0100" channel="acontra+ CINE">
-    <title lang="es">Adorable seductor (1989)</title>
-    <desc lang="es">El nuevo miembro de una compañía de teatro se enfrenta a un director bullicioso. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81eXQTzyLjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260213214700 +0100" stop="20260213232000 +0100" channel="acontra+ CINE">
-    <title lang="es">La cosecha (1994)</title>
-    <desc lang="es">En México, Charlie Pope, un guionista de cine en plena depresión, se ve envuelto en una pesadilla. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91d-BH1BVlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260213232000 +0100" stop="20260214004600 +0100" channel="acontra+ CINE">
+  <programme start="20260213224600 +0100" stop="20260214004600 +0100" channel="acontra+ CINE">
     <title lang="es">Bajo Cero (2006)</title>
     <desc lang="es">Un grupo de alpinistas debe evitar que unos mercenarios utilicen una destructiva arma. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1F0SjuOWRL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +22,15 @@
     <title lang="es">Un italiano en Chicago</title>
     <desc lang="es">Rocco Papaleo es un hombre italiano optimista y amable que vive y trabaja en un pueblo minero de Alaska. Rocco se aleja de su empresa en un viaje a Chicago para asistir a un combate de boxeo. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91vmD0hOu8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260214054400 +0100" stop="20260214073600 +0100" channel="acontra+ CINE">
+    <title lang="es">Sobre ruedas (2018)</title>
+    <desc lang="es">Un empresario de éxito y mujeriego empedernido finge ser discapacitado para seducir a una joven. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71+29jLNvnL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260214073600 +0100" stop="20260214094300 +0100" channel="acontra+ CINE">
+    <title lang="es">American Night (2021)</title>
+    <desc lang="es">Un cuadro de Andy Warhol desaparecido reaparece y desencadena una peligrosa reacción en cadena. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1RSx3WyEaL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
