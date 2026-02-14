@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260214034400 +0100" stop="20260214054400 +0100" channel="acontra+ CINE">
-    <title lang="es">Un italiano en Chicago</title>
-    <desc lang="es">Rocco Papaleo es un hombre italiano optimista y amable que vive y trabaja en un pueblo minero de Alaska. Rocco se aleja de su empresa en un viaje a Chicago para asistir a un combate de boxeo. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91vmD0hOu8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260214054400 +0100" stop="20260214073600 +0100" channel="acontra+ CINE">
-    <title lang="es">Sobre ruedas (2018)</title>
-    <desc lang="es">Un empresario de éxito y mujeriego empedernido finge ser discapacitado para seducir a una joven. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71+29jLNvnL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260214073600 +0100" stop="20260214094300 +0100" channel="acontra+ CINE">
-    <title lang="es">American Night (2021)</title>
-    <desc lang="es">Un cuadro de Andy Warhol desaparecido reaparece y desencadena una peligrosa reacción en cadena. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1RSx3WyEaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260214094300 +0100" stop="20260214113400 +0100" channel="acontra+ CINE">
+  <programme start="20260214093400 +0100" stop="20260214113400 +0100" channel="acontra+ CINE">
     <title lang="es">Padre patrón (1977)</title>
     <desc lang="es">La historia real de Gavino Ledda, que fue obligado por su autoritario padre a dejar la escuela. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/61+CRe2Rb7L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Twin Dragons (1992)</title>
     <desc lang="es">Dos gemelos idénticos separados poco después de nacer, se reencuentran años después. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81mPSuY5TqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260214130300 +0100" stop="20260214154200 +0100" channel="acontra+ CINE">
+    <title lang="es">Van Gogh (1992)</title>
+    <desc lang="es">La película de los últimos meses de la vida y el arte del pintor Vincent Van Gogh en París. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91bPQ3prf8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260214154200 +0100" stop="20260214174100 +0100" channel="acontra+ CINE">
+    <title lang="es">Oro (1974)</title>
+    <desc lang="es">El gerente de unas minas de Sudáfrica trama un plan para subir el precio del oro en el mercado. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81PzgJJMnvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260214174100 +0100" stop="20260214192800 +0100" channel="acontra+ CINE">
+    <title lang="es">Los girasoles (1970)</title>
+    <desc lang="es">Giovanna se casa con Antonio antes de la guerra, pero él no quiere ir al frente y simula estar loco. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1OT-cPmxeL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
