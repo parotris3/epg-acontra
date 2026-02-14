@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260214185900 +0100" stop="20260214205900 +0100" channel="acontra+ CINE">
-    <title lang="es">Love Bite (2012)</title>
-    <desc lang="es">Jamie descubre que la única forma de estar a salvo de un hombre lobo es teniendo sexo. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81B5h7R964L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260214205900 +0100" stop="20260214223200 +0100" channel="acontra+ CINE">
-    <title lang="es">Cuando se acaba (2017)</title>
-    <desc lang="es">La relación de Will y Anna cambia por terceras personas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91H7-OWuwyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260214223200 +0100" stop="20260215001600 +0100" channel="acontra+ CINE">
+  <programme start="20260214221600 +0100" stop="20260215001600 +0100" channel="acontra+ CINE">
     <title lang="es">Week-end (2005)</title>
     <desc lang="es">El matrimonio Durand se queda atrapado en un atasco y por ello viven experiencias desconcertantes. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71sTqayjxdL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">Walkabout (1972)</title>
     <desc lang="es">Un joven aborigen viene al rescate de una joven y su hermano, varados en la naturaleza australiana. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/61Ual-H9uKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260215053100 +0100" stop="20260215071100 +0100" channel="acontra+ CINE">
+    <title lang="es">JCVD (2008)</title>
+    <desc lang="es">Van Damme no pasa por un gran momento: sin trabajo y a punto de perder la custodia de su hija. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1pNYm7xglL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260215071100 +0100" stop="20260215085000 +0100" channel="acontra+ CINE">
+    <title lang="es">Tierra de sospecha (2017)</title>
+    <desc lang="es">Un hombre desaparece en medio de una ola de asesinatos y su hermana intenta encontrarlo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91fPYpH-AoL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
