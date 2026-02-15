@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260214221600 +0100" stop="20260215001600 +0100" channel="acontra+ CINE">
-    <title lang="es">Week-end (2005)</title>
-    <desc lang="es">El matrimonio Durand se queda atrapado en un atasco y por ello viven experiencias desconcertantes. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71sTqayjxdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260215001600 +0100" stop="20260215021500 +0100" channel="acontra+ CINE">
-    <title lang="es">Juntos (2003)</title>
-    <desc lang="es">Drama | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91UcJguueIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260215021500 +0100" stop="20260215035200 +0100" channel="acontra+ CINE">
-    <title lang="es">Staten Island (2009)</title>
-    <desc lang="es">Drama | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91egPGOTljL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260215035200 +0100" stop="20260215053100 +0100" channel="acontra+ CINE">
+  <programme start="20260215033100 +0100" stop="20260215053100 +0100" channel="acontra+ CINE">
     <title lang="es">Walkabout (1972)</title>
     <desc lang="es">Un joven aborigen viene al rescate de una joven y su hermano, varados en la naturaleza australiana. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/61Ual-H9uKL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Tierra de sospecha (2017)</title>
     <desc lang="es">Un hombre desaparece en medio de una ola de asesinatos y su hermana intenta encontrarlo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91fPYpH-AoL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260215085000 +0100" stop="20260215102900 +0100" channel="acontra+ CINE">
+    <title lang="es">La rueda de la maravilla (2017)</title>
+    <desc lang="es">La vida de cuatro personajes en la Nueva York de los 50. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1KN54-lOPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260215102900 +0100" stop="20260215120900 +0100" channel="acontra+ CINE">
+    <title lang="es">14 días, 12 noches (2021)</title>
+    <desc lang="es">Isabelle vuelve a Vietnam un año después de la trágica muerte de su hija Clara. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/918nQDfInWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260215120900 +0100" stop="20260215133900 +0100" channel="acontra+ CINE">
+    <title lang="es">Los papeles de Aspern (2019)</title>
+    <desc lang="es">Un editor intenta conseguir los poemas que un poeta escribió a quien fuera su musa y amante. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71pRf7q9NaL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
