@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260215082900 +0100" stop="20260215102900 +0100" channel="acontra+ CINE">
-    <title lang="es">La rueda de la maravilla (2017)</title>
-    <desc lang="es">La vida de cuatro personajes en la Nueva York de los 50. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1KN54-lOPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260215102900 +0100" stop="20260215120900 +0100" channel="acontra+ CINE">
-    <title lang="es">14 días, 12 noches (2021)</title>
-    <desc lang="es">Isabelle vuelve a Vietnam un año después de la trágica muerte de su hija Clara. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/918nQDfInWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260215120900 +0100" stop="20260215133900 +0100" channel="acontra+ CINE">
-    <title lang="es">Los papeles de Aspern (2019)</title>
-    <desc lang="es">Un editor intenta conseguir los poemas que un poeta escribió a quien fuera su musa y amante. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71pRf7q9NaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260215133900 +0100" stop="20260215150800 +0100" channel="acontra+ CINE">
+  <programme start="20260215130800 +0100" stop="20260215150800 +0100" channel="acontra+ CINE">
     <title lang="es">La ronda (1950)</title>
     <desc lang="es">Viena, 1900. El amor está en el aire, y las parejas van y vienen. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71BHBFA4BqL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,25 @@
     <title lang="es">El dossier 51 (2021)</title>
     <desc lang="es">Dominique Auphal es un diplomático francés que acepta un cargo de responsabilidad. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81XvzsFvNAL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260215181300 +0100" stop="20260215193500 +0100" channel="acontra+ CINE">
+    <title lang="es">Deal (2008)</title>
+    <desc lang="es">Un ex-jugador de póker transmite toda su sabiduría a un estudiante universitario. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91zLQrEfMQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260215193500 +0100" stop="20260215211000 +0100" channel="acontra+ CINE">
+    <title lang="es">Ciudad del crimen</title>
+    <desc lang="es">Un exboxeador que regenta un club descubre que dos de sus bailarinas han sido asesinadas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1OtJlIvFrL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260215211000 +0100" stop="20260215224300 +0100" channel="acontra+ CINE">
+    <title lang="es">Ártico (2018)</title>
+    <desc lang="es">Un hombre aprende a sobrevivir en medio del Ártico después de que su avión se estrelle. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91TPEQy3KRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260215224300 +0100" stop="20260216002400 +0100" channel="acontra+ CINE">
+    <title lang="es">Four Lions (2010)</title>
+    <desc lang="es">Cuatro musulmanes intentan realizar, sin éxito, actos de terrorismo en Inglaterra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81HPccFYNSL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
