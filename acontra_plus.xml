@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260215191000 +0100" stop="20260215211000 +0100" channel="acontra+ CINE">
-    <title lang="es">Ciudad del crimen</title>
-    <desc lang="es">Un exboxeador que regenta un club descubre que dos de sus bailarinas han sido asesinadas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1OtJlIvFrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260215211000 +0100" stop="20260215224300 +0100" channel="acontra+ CINE">
-    <title lang="es">Ártico (2018)</title>
-    <desc lang="es">Un hombre aprende a sobrevivir en medio del Ártico después de que su avión se estrelle. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91TPEQy3KRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260215224300 +0100" stop="20260216002400 +0100" channel="acontra+ CINE">
+  <programme start="20260215222400 +0100" stop="20260216002400 +0100" channel="acontra+ CINE">
     <title lang="es">Four Lions (2010)</title>
     <desc lang="es">Cuatro musulmanes intentan realizar, sin éxito, actos de terrorismo en Inglaterra. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81HPccFYNSL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">La hierba errante (1959)</title>
     <desc lang="es">El director de una compañía de teatro llega al pueblo donde vive su hijo no reconocido. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/81tYPNPnoNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260216054900 +0100" stop="20260216074700 +0100" channel="acontra+ CINE">
+    <title lang="es">Un soplo en el corazón (1971)</title>
+    <desc lang="es">Cuando a Laurent, de 15 años, le diagnostican un soplo, su madre le acompaña a un balneario. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/919fu+CNL5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260216074700 +0100" stop="20260216094500 +0100" channel="acontra+ CINE">
+    <title lang="es">Lullaby (2014)</title>
+    <desc lang="es">Un hombre recibe la noticia de que su padre ha decidido desconectarse del soporte vital. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81CqWEI58fL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
