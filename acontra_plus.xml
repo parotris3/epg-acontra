@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260216184000 +0100" stop="20260216204000 +0100" channel="acontra+ CINE">
-    <title lang="es">Aline (2020)</title>
-    <desc lang="es">Aline tiene una voz prodigiosa que no pasa desapercibida para un productor ambicioso. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ra+l9mqHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260216204000 +0100" stop="20260216222700 +0100" channel="acontra+ CINE">
-    <title lang="es">Algo celosa (2020)</title>
-    <desc lang="es">Una mujer divorciada y profesora de francés comienza a sentir celos de su hija de 18 años. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A17d+USpfJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260216222700 +0100" stop="20260217004000 +0100" channel="acontra+ CINE">
+  <programme start="20260216224000 +0100" stop="20260217004000 +0100" channel="acontra+ CINE">
     <title lang="es">Verano asesino (1985)</title>
     <desc lang="es">Elle, una joven de 19 años, regresa a su pueblo natal con un oscuro plan de venganza. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91iSUe6b7oL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Le week-end (2013)</title>
     <desc lang="es">Nick y Meg, a sus 60 años, viajan a París para pasar un fin de semana romántico que reavive su vida. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81A0oV0QixL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260217040900 +0100" stop="20260217054500 +0100" channel="acontra+ CINE">
+    <title lang="es">The Guest (2014)</title>
+    <desc lang="es">El exmarine David entra en la familia Peterson hasta que se dan cuenta de que no es lo que aparenta. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91yqoHlJH2L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260217054500 +0100" stop="20260217074200 +0100" channel="acontra+ CINE">
+    <title lang="es">Norman, el hombre que lo conseguía todo (2016)</title>
+    <desc lang="es">Norman conoce a un joven político que cambiará su vida tres años después para bien y para mal. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81rnT24IdkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260217074200 +0100" stop="20260217091800 +0100" channel="acontra+ CINE">
+    <title lang="es">El guardia (2011)</title>
+    <desc lang="es">Dos agentes de policía descubren que sus exsuperiores están involucrados en un caso de corrupción. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81QiXuZLC8L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
