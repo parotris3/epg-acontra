@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260216034900 +0100" stop="20260216054900 +0100" channel="acontra+ CINE">
-    <title lang="es">La hierba errante (1959)</title>
-    <desc lang="es">El director de una compañía de teatro llega al pueblo donde vive su hijo no reconocido. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tYPNPnoNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260216054900 +0100" stop="20260216074700 +0100" channel="acontra+ CINE">
-    <title lang="es">Un soplo en el corazón (1971)</title>
-    <desc lang="es">Cuando a Laurent, de 15 años, le diagnostican un soplo, su madre le acompaña a un balneario. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/919fu+CNL5L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260216074700 +0100" stop="20260216094500 +0100" channel="acontra+ CINE">
-    <title lang="es">Lullaby (2014)</title>
-    <desc lang="es">Un hombre recibe la noticia de que su padre ha decidido desconectarse del soporte vital. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81CqWEI58fL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260216094500 +0100" stop="20260216114700 +0100" channel="acontra+ CINE">
+  <programme start="20260216094700 +0100" stop="20260216114700 +0100" channel="acontra+ CINE">
     <title lang="es">Un pueblo y su rey (2019)</title>
     <desc lang="es">París, 1789. La Bastilla ha sido asaltada y un soplo de libertad invade las calles. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71AIj2LVkZL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">El placer (1953)</title>
     <desc lang="es">Un hombre que oculta su edad, un viaje al campo y un pintor ilustran tres historias sobre el placer. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81OVO5JCtKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260216132400 +0100" stop="20260216150600 +0100" channel="acontra+ CINE">
+    <title lang="es">Cal (1989)</title>
+    <desc lang="es">En Irlanda del Norte, un joven católico es sospechoso en el asesinato de un policía protestante. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81T3UBe8n8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260216150600 +0100" stop="20260216163900 +0100" channel="acontra+ CINE">
+    <title lang="es">El diablo, probablemente (1978)</title>
+    <desc lang="es">Un hombre intenta en vano con política, religión y psicoanálisis entender a la sociedad. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tlgl9XK8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260216163900 +0100" stop="20260216183400 +0100" channel="acontra+ CINE">
+    <title lang="es">Niños robados (1993)</title>
+    <desc lang="es">Un policía italiano es responsable de llevar a dos niños de Milán a un orfanato de Sicilia. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1zAEt6vtOL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
