@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260217034500 +0100" stop="20260217054500 +0100" channel="acontra+ CINE">
-    <title lang="es">The Guest (2014)</title>
-    <desc lang="es">El exmarine David entra en la familia Peterson hasta que se dan cuenta de que no es lo que aparenta. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91yqoHlJH2L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260217054500 +0100" stop="20260217074200 +0100" channel="acontra+ CINE">
-    <title lang="es">Norman, el hombre que lo conseguía todo (2016)</title>
-    <desc lang="es">Norman conoce a un joven político que cambiará su vida tres años después para bien y para mal. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81rnT24IdkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260217074200 +0100" stop="20260217091800 +0100" channel="acontra+ CINE">
-    <title lang="es">El guardia (2011)</title>
-    <desc lang="es">Dos agentes de policía descubren que sus exsuperiores están involucrados en un caso de corrupción. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81QiXuZLC8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260217091800 +0100" stop="20260217110900 +0100" channel="acontra+ CINE">
+  <programme start="20260217090900 +0100" stop="20260217110900 +0100" channel="acontra+ CINE">
     <title lang="es">The Sea of Trees (2015)</title>
     <desc lang="es">Un estadounidense y un japonés se conocen en un bosque. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81BFJfGFeZL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Fanny (1961)</title>
     <desc lang="es">Marius abandona a Fanny deseoso de conocer mundo, aunque ignora que está embarazada. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81WrIjDy2YL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260217150200 +0100" stop="20260217164100 +0100" channel="acontra+ CINE">
+    <title lang="es">El bello Sergio (1959)</title>
+    <desc lang="es">Un hombre vuelve a su ciudad natal y descubre que su mejor amigo se ha convertido en alcohólico. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71al89vV8gL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260217164100 +0100" stop="20260217181800 +0100" channel="acontra+ CINE">
+    <title lang="es">Dies Irae (1943)</title>
+    <desc lang="es">En un pueblo danés del siglo XVII, una anciana es acusada de brujería. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81zpJq2N50L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
