@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260217195300 +0100" stop="20260217215300 +0100" channel="acontra+ CINE">
-    <title lang="es">El secuestro de Alfred Heineken (2011)</title>
-    <desc lang="es">Heineken propietario de la multinacional cervecera fue secuestrado cuando salía de una sede. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Fhej4KTOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260217215300 +0100" stop="20260217231400 +0100" channel="acontra+ CINE">
-    <title lang="es">Dame 10 razones (2006)</title>
-    <desc lang="es">Un actor se adentra en un supermercado de un barrio obrero para investigar sobre su personaje. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81m7-duJJZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260217231400 +0100" stop="20260218004600 +0100" channel="acontra+ CINE">
+  <programme start="20260217224600 +0100" stop="20260218004600 +0100" channel="acontra+ CINE">
     <title lang="es">Biggles: el viajero del tiempo (2018)</title>
     <desc lang="es">Jim y el piloto de combate británico Biggles son hermanos gemelos, pero viven en distintas épocas. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1vrbXh6oHL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">El pecado del padre Mouret</title>
     <desc lang="es">Serge Mouret, un devoto párroco, sufre una pérdida de memoria. Una joven enfermera lo cuida. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71VCRO62IML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260218053300 +0100" stop="20260218071400 +0100" channel="acontra+ CINE">
+    <title lang="es">La desaparición de Alice Creed (2010)</title>
+    <desc lang="es">Rapto acaba en un juego de codicia, amor, sexo y violencia. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81LBfvDBf-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260218071400 +0100" stop="20260218085700 +0100" channel="acontra+ CINE">
+    <title lang="es">Lucky Luke (2009)</title>
+    <desc lang="es">El vaquero Lucky Luke regresa a su pueblo natal, Daisy Town, para instaurar de nuevo la paz. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81uqKlxpNsL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
