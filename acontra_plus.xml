@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260217090900 +0100" stop="20260217110900 +0100" channel="acontra+ CINE">
-    <title lang="es">The Sea of Trees (2015)</title>
-    <desc lang="es">Un estadounidense y un japonés se conocen en un bosque. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BFJfGFeZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260217110900 +0100" stop="20260217124800 +0100" channel="acontra+ CINE">
-    <title lang="es">La lectora (1989)</title>
-    <desc lang="es">Constance es una apasionada lectora que decide dedicarse a leer a domicilio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/41vj4NFX3TL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260217124800 +0100" stop="20260217150200 +0100" channel="acontra+ CINE">
+  <programme start="20260217130200 +0100" stop="20260217150200 +0100" channel="acontra+ CINE">
     <title lang="es">Fanny (1961)</title>
     <desc lang="es">Marius abandona a Fanny deseoso de conocer mundo, aunque ignora que está embarazada. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81WrIjDy2YL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Dies Irae (1943)</title>
     <desc lang="es">En un pueblo danés del siglo XVII, una anciana es acusada de brujería. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81zpJq2N50L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260217181800 +0100" stop="20260217195500 +0100" channel="acontra+ CINE">
+    <title lang="es">El amor está en el aire (2013)</title>
+    <desc lang="es">Julie, a punto de casarse, se encuentra a Antoine, un exnovio del que estuvo muy enamorada. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81s1C3uqZCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260217195500 +0100" stop="20260217215300 +0100" channel="acontra+ CINE">
+    <title lang="es">El secuestro de Alfred Heineken (2011)</title>
+    <desc lang="es">Heineken propietario de la multinacional cervecera fue secuestrado cuando salía de una sede. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Fhej4KTOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260217215300 +0100" stop="20260217231400 +0100" channel="acontra+ CINE">
+    <title lang="es">Dame 10 razones (2006)</title>
+    <desc lang="es">Un actor se adentra en un supermercado de un barrio obrero para investigar sobre su personaje. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81m7-duJJZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
