@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260217130200 +0100" stop="20260217150200 +0100" channel="acontra+ CINE">
-    <title lang="es">Fanny (1961)</title>
-    <desc lang="es">Marius abandona a Fanny deseoso de conocer mundo, aunque ignora que está embarazada. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81WrIjDy2YL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260217150200 +0100" stop="20260217164100 +0100" channel="acontra+ CINE">
-    <title lang="es">El bello Sergio (1959)</title>
-    <desc lang="es">Un hombre vuelve a su ciudad natal y descubre que su mejor amigo se ha convertido en alcohólico. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71al89vV8gL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260217164100 +0100" stop="20260217181800 +0100" channel="acontra+ CINE">
-    <title lang="es">Dies Irae (1943)</title>
-    <desc lang="es">En un pueblo danés del siglo XVII, una anciana es acusada de brujería. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81zpJq2N50L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260217181800 +0100" stop="20260217195500 +0100" channel="acontra+ CINE">
-    <title lang="es">El amor está en el aire (2013)</title>
-    <desc lang="es">Julie, a punto de casarse, se encuentra a Antoine, un exnovio del que estuvo muy enamorada. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81s1C3uqZCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260217195500 +0100" stop="20260217215300 +0100" channel="acontra+ CINE">
+  <programme start="20260217195300 +0100" stop="20260217215300 +0100" channel="acontra+ CINE">
     <title lang="es">El secuestro de Alfred Heineken (2011)</title>
     <desc lang="es">Heineken propietario de la multinacional cervecera fue secuestrado cuando salía de una sede. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Fhej4KTOL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +12,25 @@
     <title lang="es">Dame 10 razones (2006)</title>
     <desc lang="es">Un actor se adentra en un supermercado de un barrio obrero para investigar sobre su personaje. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81m7-duJJZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260217231400 +0100" stop="20260218004600 +0100" channel="acontra+ CINE">
+    <title lang="es">Biggles: el viajero del tiempo (2018)</title>
+    <desc lang="es">Jim y el piloto de combate británico Biggles son hermanos gemelos, pero viven en distintas épocas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1vrbXh6oHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260218004600 +0100" stop="20260218022600 +0100" channel="acontra+ CINE">
+    <title lang="es">El grito de la lechuza (2010)</title>
+    <desc lang="es">Un joven arquitecto, deprimido y en proceso de divorcio, se muda a una pequeña comunidad. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71eILbXT65L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260218022600 +0100" stop="20260218040000 +0100" channel="acontra+ CINE">
+    <title lang="es">Lawnmower Man 2: Jobe&#39;s War (1996)</title>
+    <desc lang="es">Un villano de la realidad virtual planea controlar al mundo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8105XNJ3boL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260218040000 +0100" stop="20260218053300 +0100" channel="acontra+ CINE">
+    <title lang="es">El pecado del padre Mouret</title>
+    <desc lang="es">Serge Mouret, un devoto párroco, sufre una pérdida de memoria. Una joven enfermera lo cuida. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71VCRO62IML._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
