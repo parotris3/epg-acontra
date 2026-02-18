@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260218084000 +0100" stop="20260218104000 +0100" channel="acontra+ CINE">
-    <title lang="es">Los asesinos de la luna de miel (1970)</title>
-    <desc lang="es">Martha Beck y su novio Ray Fernández se dedican a estafar y asesinar a mujeres ricas y solitarias. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ucXlfED7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260218104000 +0100" stop="20260218122500 +0100" channel="acontra+ CINE">
-    <title lang="es">Los seductores (2010)</title>
-    <desc lang="es">Álex y su hermana se dedican a separar parejas pero empezarán a encontrarse problemas. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ln4OpX+FL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260218122500 +0100" stop="20260218133900 +0100" channel="acontra+ CINE">
-    <title lang="es">De Repente (1954)</title>
-    <desc lang="es">Tres criminales secuestran a una familia en su casa para matar al presidente de Estados Unidos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-cn0GVi9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260218133900 +0100" stop="20260218155100 +0100" channel="acontra+ CINE">
+  <programme start="20260218135100 +0100" stop="20260218155100 +0100" channel="acontra+ CINE">
     <title lang="es">¡Vivir! (1994)</title>
     <desc lang="es">Una pareja se enfrenta a la turbulenta historia política de China a lo largo de 30 años. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71bSqDq2fPL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Más allá de la duda (1956)</title>
     <desc lang="es">Un escritor intenta demostrar la deficiencia de las leyes y la ineficacia de la policía. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Oc-S15fdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260218185100 +0100" stop="20260218204300 +0100" channel="acontra+ CINE">
+    <title lang="es">Las Diabólicas (1955)</title>
+    <desc lang="es">La mujer y el amante del director de un colegio ponen fin a la tiranía del hombre que comparten. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1i3cYW6luL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260218204300 +0100" stop="20260218224700 +0100" channel="acontra+ CINE">
+    <title lang="es">Desayuno en Plutón (2005)</title>
+    <desc lang="es">Patrick, un joven trans, sobrevive en un ambiente hostil gracias a su ingenio y su perseverancia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/810J0xbCEWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260218224700 +0100" stop="20260219002500 +0100" channel="acontra+ CINE">
+    <title lang="es">El rayo verde (1986)</title>
+    <desc lang="es">Delphine es una joven parisina que trata de recuperarse de una ruptura reciente. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81fcd9fiYlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
