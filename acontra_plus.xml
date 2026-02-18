@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260218033300 +0100" stop="20260218053300 +0100" channel="acontra+ CINE">
-    <title lang="es">El pecado del padre Mouret</title>
-    <desc lang="es">Serge Mouret, un devoto párroco, sufre una pérdida de memoria. Una joven enfermera lo cuida. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71VCRO62IML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260218053300 +0100" stop="20260218071400 +0100" channel="acontra+ CINE">
-    <title lang="es">La desaparición de Alice Creed (2010)</title>
-    <desc lang="es">Rapto acaba en un juego de codicia, amor, sexo y violencia. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81LBfvDBf-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260218071400 +0100" stop="20260218085700 +0100" channel="acontra+ CINE">
-    <title lang="es">Lucky Luke (2009)</title>
-    <desc lang="es">El vaquero Lucky Luke regresa a su pueblo natal, Daisy Town, para instaurar de nuevo la paz. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uqKlxpNsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260218085700 +0100" stop="20260218104000 +0100" channel="acontra+ CINE">
+  <programme start="20260218084000 +0100" stop="20260218104000 +0100" channel="acontra+ CINE">
     <title lang="es">Los asesinos de la luna de miel (1970)</title>
     <desc lang="es">Martha Beck y su novio Ray Fernández se dedican a estafar y asesinar a mujeres ricas y solitarias. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ucXlfED7L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">De Repente (1954)</title>
     <desc lang="es">Tres criminales secuestran a una familia en su casa para matar al presidente de Estados Unidos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81-cn0GVi9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260218133900 +0100" stop="20260218155100 +0100" channel="acontra+ CINE">
+    <title lang="es">¡Vivir! (1994)</title>
+    <desc lang="es">Una pareja se enfrenta a la turbulenta historia política de China a lo largo de 30 años. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71bSqDq2fPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260218155100 +0100" stop="20260218173400 +0100" channel="acontra+ CINE">
+    <title lang="es">Bailar con un extraño (1985)</title>
+    <desc lang="es">Ruth Ellis trabaja en un sórdido club. Una noche, conoce a un rico y atractivo piloto de carreras. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81sTim8TWNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260218173400 +0100" stop="20260218185100 +0100" channel="acontra+ CINE">
+    <title lang="es">Más allá de la duda (1956)</title>
+    <desc lang="es">Un escritor intenta demostrar la deficiencia de las leyes y la ineficacia de la policía. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Oc-S15fdL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
