@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260218135100 +0100" stop="20260218155100 +0100" channel="acontra+ CINE">
-    <title lang="es">¡Vivir! (1994)</title>
-    <desc lang="es">Una pareja se enfrenta a la turbulenta historia política de China a lo largo de 30 años. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71bSqDq2fPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260218155100 +0100" stop="20260218173400 +0100" channel="acontra+ CINE">
-    <title lang="es">Bailar con un extraño (1985)</title>
-    <desc lang="es">Ruth Ellis trabaja en un sórdido club. Una noche, conoce a un rico y atractivo piloto de carreras. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81sTim8TWNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260218173400 +0100" stop="20260218185100 +0100" channel="acontra+ CINE">
-    <title lang="es">Más allá de la duda (1956)</title>
-    <desc lang="es">Un escritor intenta demostrar la deficiencia de las leyes y la ineficacia de la policía. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Oc-S15fdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260218185100 +0100" stop="20260218204300 +0100" channel="acontra+ CINE">
+  <programme start="20260218184300 +0100" stop="20260218204300 +0100" channel="acontra+ CINE">
     <title lang="es">Las Diabólicas (1955)</title>
     <desc lang="es">La mujer y el amante del director de un colegio ponen fin a la tiranía del hombre que comparten. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1i3cYW6luL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">El rayo verde (1986)</title>
     <desc lang="es">Delphine es una joven parisina que trata de recuperarse de una ruptura reciente. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81fcd9fiYlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260219002500 +0100" stop="20260219023600 +0100" channel="acontra+ CINE">
+    <title lang="es">Muerte de un viajante (1985)</title>
+    <desc lang="es">Willy Loman un vendedor toma conciencia de l vacío de su vida e intenta ponerle remetido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81zTdAWcJuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260219023600 +0100" stop="20260219040900 +0100" channel="acontra+ CINE">
+    <title lang="es">No mires atrás (2010)</title>
+    <desc lang="es">El inspector Sanzio investiga la violenta muerte de una adolescente en un paraje montañoso italiano. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81G3YyAkyfL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
