@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260219192700 +0100" stop="20260219212700 +0100" channel="acontra+ CINE">
-    <title lang="es">El silencio (2002)</title>
-    <desc lang="es">Dos hermanas, Ester y Anna, y el hijo de una de ellas viajan en tren a un país en guerra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/812c7vMBQQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260219212700 +0100" stop="20260219225000 +0100" channel="acontra+ CINE">
-    <title lang="es">El infierno bajo tierra (2009)</title>
-    <desc lang="es">Un equipo científico ocupa una estación de perforación abandonada en el desierto del Sahara. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71mk-wkBfPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260219225000 +0100" stop="20260220002000 +0100" channel="acontra+ CINE">
+  <programme start="20260219222000 +0100" stop="20260220002000 +0100" channel="acontra+ CINE">
     <title lang="es">El señor de las moscas (1990)</title>
     <desc lang="es">Los supervivientes a un accidente de avión militar tendrán que sobrevivir en una isla. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81a1hgGIvjL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">Hombres contra mujeres (2010)</title>
     <desc lang="es">Cuatro historias de pareja, amor y desamor en las que se aborda el problema de la guerra de sexos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Vl5ixvOYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260220054300 +0100" stop="20260220073500 +0100" channel="acontra+ CINE">
+    <title lang="es">La venganza de un soldado</title>
+    <desc lang="es">Frank Morgan regresa de Vietnam y ayuda a una joven a luchar en una revolución centroamericana. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71RwtsQRteL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260220073500 +0100" stop="20260220094800 +0100" channel="acontra+ CINE">
+    <title lang="es">Papá está en viaje de negocios (1985)</title>
+    <desc lang="es">Un niño crece viendo cómo su padre tiene múltiples problemas políticos en los años 50 en Yugoslavia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/913GrwMD37L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
