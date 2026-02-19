@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260219041000 +0100" stop="20260219061000 +0100" channel="acontra+ CINE">
-    <title lang="es">Mi cena con Andre (1981)</title>
-    <desc lang="es">Durante una cena, dos actores y dramaturgos abordan los grandes temas de la existencia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1+nEcy5x7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260219061000 +0100" stop="20260219080100 +0100" channel="acontra+ CINE">
-    <title lang="es">El fotógrafo de Minamata (2020)</title>
-    <desc lang="es">W. Eugne Smith, fotógrafo de guerra, regresa a Japón para documentar el envenenamiento por mercurio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Y8Sd-EGgL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260219080100 +0100" stop="20260219093700 +0100" channel="acontra+ CINE">
-    <title lang="es">Hit &#38; Run (2012)</title>
-    <desc lang="es">Un piloto se arriesga para llevar a una mujer a Los Ángeles. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1SfhywIqsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260219093700 +0100" stop="20260219111000 +0100" channel="acontra+ CINE">
+  <programme start="20260219091000 +0100" stop="20260219111000 +0100" channel="acontra+ CINE">
     <title lang="es">Testigo mudo (1996)</title>
     <desc lang="es">Billy Hughes, una americana que trabaja en Rusia, es testigo de un asesinato en un plató de cine. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71n9KAvmIsL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Secretos y mentiras (1995)</title>
     <desc lang="es">Un sensible drama donde una mujer busca a su madre. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81VZmcnOdcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260219133200 +0100" stop="20260219151800 +0100" channel="acontra+ CINE">
+    <title lang="es">Bienvenidos al sur (2010)</title>
+    <desc lang="es">Un empleado de Correos de una pequeña ciudad hará todo lo posible porque lo trasladen a Milán. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81+R1HewwwL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260219151800 +0100" stop="20260219165000 +0100" channel="acontra+ CINE">
+    <title lang="es">20 años no importan (2013)</title>
+    <desc lang="es">La vida de Alice, una mujer ambiciosa y egocéntrica, cambia cuando conoce al joven Balthazar. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91sfPGXr9ML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260219165000 +0100" stop="20260219180800 +0100" channel="acontra+ CINE">
+    <title lang="es">El color de la granada (1968)</title>
+    <desc lang="es">Biografía del venerado poeta y músico armenio del siglo XVIII Sayat-Nova. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81rVw38VTBL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
