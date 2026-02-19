@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260219091000 +0100" stop="20260219111000 +0100" channel="acontra+ CINE">
-    <title lang="es">Testigo mudo (1996)</title>
-    <desc lang="es">Billy Hughes, una americana que trabaja en Rusia, es testigo de un asesinato en un plató de cine. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71n9KAvmIsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260219111000 +0100" stop="20260219133200 +0100" channel="acontra+ CINE">
-    <title lang="es">Secretos y mentiras (1995)</title>
-    <desc lang="es">Un sensible drama donde una mujer busca a su madre. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81VZmcnOdcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260219133200 +0100" stop="20260219151800 +0100" channel="acontra+ CINE">
+  <programme start="20260219131800 +0100" stop="20260219151800 +0100" channel="acontra+ CINE">
     <title lang="es">Bienvenidos al sur (2010)</title>
     <desc lang="es">Un empleado de Correos de una pequeña ciudad hará todo lo posible porque lo trasladen a Milán. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81+R1HewwwL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,25 @@
     <title lang="es">El color de la granada (1968)</title>
     <desc lang="es">Biografía del venerado poeta y músico armenio del siglo XVIII Sayat-Nova. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81rVw38VTBL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260219180800 +0100" stop="20260219195600 +0100" channel="acontra+ CINE">
+    <title lang="es">Nadia, mariposa (2021)</title>
+    <desc lang="es">A los 23 años, Nadia, campeona olímpica de natación, toma la controvertida decisión de retirarse. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71YCqu8eGJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260219195600 +0100" stop="20260219212700 +0100" channel="acontra+ CINE">
+    <title lang="es">El silencio (2002)</title>
+    <desc lang="es">Dos hermanas, Ester y Anna, y el hijo de una de ellas viajan en tren a un país en guerra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/812c7vMBQQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260219212700 +0100" stop="20260219225000 +0100" channel="acontra+ CINE">
+    <title lang="es">El infierno bajo tierra (2009)</title>
+    <desc lang="es">Un equipo científico ocupa una estación de perforación abandonada en el desierto del Sahara. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71mk-wkBfPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260219225000 +0100" stop="20260220002000 +0100" channel="acontra+ CINE">
+    <title lang="es">El señor de las moscas (1990)</title>
+    <desc lang="es">Los supervivientes a un accidente de avión militar tendrán que sobrevivir en una isla. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81a1hgGIvjL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
