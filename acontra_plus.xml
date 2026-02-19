@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260219131800 +0100" stop="20260219151800 +0100" channel="acontra+ CINE">
-    <title lang="es">Bienvenidos al sur (2010)</title>
-    <desc lang="es">Un empleado de Correos de una pequeña ciudad hará todo lo posible porque lo trasladen a Milán. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81+R1HewwwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260219151800 +0100" stop="20260219165000 +0100" channel="acontra+ CINE">
-    <title lang="es">20 años no importan (2013)</title>
-    <desc lang="es">La vida de Alice, una mujer ambiciosa y egocéntrica, cambia cuando conoce al joven Balthazar. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91sfPGXr9ML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260219165000 +0100" stop="20260219180800 +0100" channel="acontra+ CINE">
-    <title lang="es">El color de la granada (1968)</title>
-    <desc lang="es">Biografía del venerado poeta y músico armenio del siglo XVIII Sayat-Nova. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81rVw38VTBL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260219180800 +0100" stop="20260219195600 +0100" channel="acontra+ CINE">
-    <title lang="es">Nadia, mariposa (2021)</title>
-    <desc lang="es">A los 23 años, Nadia, campeona olímpica de natación, toma la controvertida decisión de retirarse. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71YCqu8eGJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260219195600 +0100" stop="20260219212700 +0100" channel="acontra+ CINE">
+  <programme start="20260219192700 +0100" stop="20260219212700 +0100" channel="acontra+ CINE">
     <title lang="es">El silencio (2002)</title>
     <desc lang="es">Dos hermanas, Ester y Anna, y el hijo de una de ellas viajan en tren a un país en guerra. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/812c7vMBQQL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +17,20 @@
     <title lang="es">El señor de las moscas (1990)</title>
     <desc lang="es">Los supervivientes a un accidente de avión militar tendrán que sobrevivir en una isla. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81a1hgGIvjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260220002000 +0100" stop="20260220020500 +0100" channel="acontra+ CINE">
+    <title lang="es">Eugénie Grandet (2021)</title>
+    <desc lang="es">Un padre no ve con buenos ojos a las partes que se apresuran a pedir la mano de su hija. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91hAc2jMZUL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260220020500 +0100" stop="20260220035100 +0100" channel="acontra+ CINE">
+    <title lang="es">Enigma (1982)</title>
+    <desc lang="es">Alex Holbeck debe evitar que varios disidentes políticos sean asesinados por el KGB. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81fgSzI8EzL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260220035100 +0100" stop="20260220054300 +0100" channel="acontra+ CINE">
+    <title lang="es">Hombres contra mujeres (2010)</title>
+    <desc lang="es">Cuatro historias de pareja, amor y desamor en las que se aborda el problema de la guerra de sexos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Vl5ixvOYL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
