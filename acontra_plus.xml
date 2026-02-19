@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260218222500 +0100" stop="20260219002500 +0100" channel="acontra+ CINE">
-    <title lang="es">El rayo verde (1986)</title>
-    <desc lang="es">Delphine es una joven parisina que trata de recuperarse de una ruptura reciente. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81fcd9fiYlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260219002500 +0100" stop="20260219023600 +0100" channel="acontra+ CINE">
-    <title lang="es">Muerte de un viajante (1985)</title>
-    <desc lang="es">Willy Loman un vendedor toma conciencia de l vacío de su vida e intenta ponerle remetido. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81zTdAWcJuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260219023600 +0100" stop="20260219040900 +0100" channel="acontra+ CINE">
-    <title lang="es">No mires atrás (2010)</title>
-    <desc lang="es">El inspector Sanzio investiga la violenta muerte de una adolescente en un paraje montañoso italiano. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81G3YyAkyfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260219040900 +0100" stop="20260219061000 +0100" channel="acontra+ CINE">
+  <programme start="20260219041000 +0100" stop="20260219061000 +0100" channel="acontra+ CINE">
     <title lang="es">Mi cena con Andre (1981)</title>
     <desc lang="es">Durante una cena, dos actores y dramaturgos abordan los grandes temas de la existencia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/B1+nEcy5x7L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">El fotógrafo de Minamata (2020)</title>
     <desc lang="es">W. Eugne Smith, fotógrafo de guerra, regresa a Japón para documentar el envenenamiento por mercurio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Y8Sd-EGgL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260219080100 +0100" stop="20260219093700 +0100" channel="acontra+ CINE">
+    <title lang="es">Hit &#38; Run (2012)</title>
+    <desc lang="es">Un piloto se arriesga para llevar a una mujer a Los Ángeles. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1SfhywIqsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260219093700 +0100" stop="20260219111000 +0100" channel="acontra+ CINE">
+    <title lang="es">Testigo mudo (1996)</title>
+    <desc lang="es">Billy Hughes, una americana que trabaja en Rusia, es testigo de un asesinato en un plató de cine. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71n9KAvmIsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260219111000 +0100" stop="20260219133200 +0100" channel="acontra+ CINE">
+    <title lang="es">Secretos y mentiras (1995)</title>
+    <desc lang="es">Un sensible drama donde una mujer busca a su madre. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81VZmcnOdcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
