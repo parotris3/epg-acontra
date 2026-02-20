@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260220095900 +0100" stop="20260220115900 +0100" channel="acontra+ CINE">
-    <title lang="es">Stonewall (2015)</title>
-    <desc lang="es">Stonewall se convirtió en el punto de partida de los derechos de los homosexuales en Nueva York. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91bmUydEiYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260220115900 +0100" stop="20260220134200 +0100" channel="acontra+ CINE">
-    <title lang="es">Un condenado a muerte se ha escapado (1956)</title>
-    <desc lang="es">En 1943, un soldado de la Resistencia francesa es arrestado y encerrado en el Fuerte Montliuc. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91CfviYQcvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260220134200 +0100" stop="20260220151800 +0100" channel="acontra+ CINE">
+  <programme start="20260220131800 +0100" stop="20260220151800 +0100" channel="acontra+ CINE">
     <title lang="es">¡Va por nosotras! (2020)</title>
     <desc lang="es">Para salvar a un club a punto de desaparecer, el entrenador decide formarlo solo por mujeres. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81duRIuPVhL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Y el mundo marcha (1928)</title>
     <desc lang="es">Tras casarse, un joven se siente atrapado y la tragedia lo obliga a replantear su vida. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81TrdQgVOWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260220183300 +0100" stop="20260220205900 +0100" channel="acontra+ CINE">
+    <title lang="es">Quemado por el sol (1994)</title>
+    <desc lang="es">La aparición de un hombre perturba la existencia de un héroe de la Revolución Soviética. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71qHPt+eWxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260220205900 +0100" stop="20260220225500 +0100" channel="acontra+ CINE">
+    <title lang="es">La tierra de los hijos</title>
+    <desc lang="es">El final de la civilización ha llegado. Un padre y su hijo se encuentran entre los supervivientes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81UTrjFMl3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260220225500 +0100" stop="20260221002100 +0100" channel="acontra+ CINE">
+    <title lang="es">Blanco perfecto (Downrange) (2018)</title>
+    <desc lang="es">Seis amigos se quedan tirados en la carretera y se convierten en el objetivo de un francotirador. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81nEFH7nABL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
