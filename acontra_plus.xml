@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260220131800 +0100" stop="20260220151800 +0100" channel="acontra+ CINE">
-    <title lang="es">¡Va por nosotras! (2020)</title>
-    <desc lang="es">Para salvar a un club a punto de desaparecer, el entrenador decide formarlo solo por mujeres. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81duRIuPVhL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260220151800 +0100" stop="20260220170000 +0100" channel="acontra+ CINE">
-    <title lang="es">Tierra de sangre (2006)</title>
-    <desc lang="es">Un idealista soldado llamado Joe entabla una prohibida amistad con un prisionero político. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81haPO5U-ZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260220170000 +0100" stop="20260220183300 +0100" channel="acontra+ CINE">
-    <title lang="es">Y el mundo marcha (1928)</title>
-    <desc lang="es">Tras casarse, un joven se siente atrapado y la tragedia lo obliga a replantear su vida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81TrdQgVOWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260220183300 +0100" stop="20260220205900 +0100" channel="acontra+ CINE">
+  <programme start="20260220185900 +0100" stop="20260220205900 +0100" channel="acontra+ CINE">
     <title lang="es">Quemado por el sol (1994)</title>
     <desc lang="es">La aparición de un hombre perturba la existencia de un héroe de la Revolución Soviética. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71qHPt+eWxL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Blanco perfecto (Downrange) (2018)</title>
     <desc lang="es">Seis amigos se quedan tirados en la carretera y se convierten en el objetivo de un francotirador. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81nEFH7nABL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260221002100 +0100" stop="20260221020300 +0100" channel="acontra+ CINE">
+    <title lang="es">La regla del juego (1939)</title>
+    <desc lang="es">Ilustración de clásico de Jean Renoir acerca de las reglas sociales y sexuales que separan a clases. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91ZzBu2bdRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260221020300 +0100" stop="20260221035500 +0100" channel="acontra+ CINE">
+    <title lang="es">La Noche de San Lorenzo (2008)</title>
+    <desc lang="es">Durante la Segunda Guerra Mundial, los vecinos de un pueblo toscano huyen a las montañas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71p0zWUMldL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260221035500 +0100" stop="20260221052200 +0100" channel="acontra+ CINE">
+    <title lang="es">La sombra del faraón (1999)</title>
+    <desc lang="es">La nieta de un arqueólogo desaparecido en Egipto en 1948 investiga la desaparición de su abuelo. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91OZFOCFz0L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
