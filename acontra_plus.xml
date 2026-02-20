@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260220034300 +0100" stop="20260220054300 +0100" channel="acontra+ CINE">
-    <title lang="es">Hombres contra mujeres (2010)</title>
-    <desc lang="es">Cuatro historias de pareja, amor y desamor en las que se aborda el problema de la guerra de sexos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Vl5ixvOYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260220054300 +0100" stop="20260220073500 +0100" channel="acontra+ CINE">
-    <title lang="es">La venganza de un soldado</title>
-    <desc lang="es">Frank Morgan regresa de Vietnam y ayuda a una joven a luchar en una revolución centroamericana. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71RwtsQRteL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260220073500 +0100" stop="20260220094800 +0100" channel="acontra+ CINE">
-    <title lang="es">Papá está en viaje de negocios (1985)</title>
-    <desc lang="es">Un niño crece viendo cómo su padre tiene múltiples problemas políticos en los años 50 en Yugoslavia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/913GrwMD37L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260220094800 +0100" stop="20260220115900 +0100" channel="acontra+ CINE">
+  <programme start="20260220095900 +0100" stop="20260220115900 +0100" channel="acontra+ CINE">
     <title lang="es">Stonewall (2015)</title>
     <desc lang="es">Stonewall se convirtió en el punto de partida de los derechos de los homosexuales en Nueva York. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91bmUydEiYL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Un condenado a muerte se ha escapado (1956)</title>
     <desc lang="es">En 1943, un soldado de la Resistencia francesa es arrestado y encerrado en el Fuerte Montliuc. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91CfviYQcvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260220134200 +0100" stop="20260220151800 +0100" channel="acontra+ CINE">
+    <title lang="es">¡Va por nosotras! (2020)</title>
+    <desc lang="es">Para salvar a un club a punto de desaparecer, el entrenador decide formarlo solo por mujeres. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81duRIuPVhL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260220151800 +0100" stop="20260220170000 +0100" channel="acontra+ CINE">
+    <title lang="es">Tierra de sangre (2006)</title>
+    <desc lang="es">Un idealista soldado llamado Joe entabla una prohibida amistad con un prisionero político. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81haPO5U-ZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260220170000 +0100" stop="20260220183300 +0100" channel="acontra+ CINE">
+    <title lang="es">Y el mundo marcha (1928)</title>
+    <desc lang="es">Tras casarse, un joven se siente atrapado y la tragedia lo obliga a replantear su vida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81TrdQgVOWL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
