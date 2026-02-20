@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260220185900 +0100" stop="20260220205900 +0100" channel="acontra+ CINE">
-    <title lang="es">Quemado por el sol (1994)</title>
-    <desc lang="es">La aparición de un hombre perturba la existencia de un héroe de la Revolución Soviética. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71qHPt+eWxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260220205900 +0100" stop="20260220225500 +0100" channel="acontra+ CINE">
-    <title lang="es">La tierra de los hijos</title>
-    <desc lang="es">El final de la civilización ha llegado. Un padre y su hijo se encuentran entre los supervivientes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81UTrjFMl3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260220225500 +0100" stop="20260221002100 +0100" channel="acontra+ CINE">
+  <programme start="20260220222100 +0100" stop="20260221002100 +0100" channel="acontra+ CINE">
     <title lang="es">Blanco perfecto (Downrange) (2018)</title>
     <desc lang="es">Seis amigos se quedan tirados en la carretera y se convierten en el objetivo de un francotirador. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81nEFH7nABL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">La sombra del faraón (1999)</title>
     <desc lang="es">La nieta de un arqueólogo desaparecido en Egipto en 1948 investiga la desaparición de su abuelo. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91OZFOCFz0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260221052200 +0100" stop="20260221065800 +0100" channel="acontra+ CINE">
+    <title lang="es">Un Plan Para Enamorarse (2011)</title>
+    <desc lang="es">Una consejera matrimonial recién casada descubre que sus padres se van a divorciar. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71gP16ib9fL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260221065800 +0100" stop="20260221083300 +0100" channel="acontra+ CINE">
+    <title lang="es">Último día en Marte (2013)</title>
+    <desc lang="es">Bacteria alienígena transforma a los que infecta en zombis. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81WhrEFAFuL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
