@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260219222000 +0100" stop="20260220002000 +0100" channel="acontra+ CINE">
-    <title lang="es">El señor de las moscas (1990)</title>
-    <desc lang="es">Los supervivientes a un accidente de avión militar tendrán que sobrevivir en una isla. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81a1hgGIvjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260220002000 +0100" stop="20260220020500 +0100" channel="acontra+ CINE">
-    <title lang="es">Eugénie Grandet (2021)</title>
-    <desc lang="es">Un padre no ve con buenos ojos a las partes que se apresuran a pedir la mano de su hija. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91hAc2jMZUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260220020500 +0100" stop="20260220035100 +0100" channel="acontra+ CINE">
-    <title lang="es">Enigma (1982)</title>
-    <desc lang="es">Alex Holbeck debe evitar que varios disidentes políticos sean asesinados por el KGB. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81fgSzI8EzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260220035100 +0100" stop="20260220054300 +0100" channel="acontra+ CINE">
+  <programme start="20260220034300 +0100" stop="20260220054300 +0100" channel="acontra+ CINE">
     <title lang="es">Hombres contra mujeres (2010)</title>
     <desc lang="es">Cuatro historias de pareja, amor y desamor en las que se aborda el problema de la guerra de sexos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Vl5ixvOYL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Papá está en viaje de negocios (1985)</title>
     <desc lang="es">Un niño crece viendo cómo su padre tiene múltiples problemas políticos en los años 50 en Yugoslavia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/913GrwMD37L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260220094800 +0100" stop="20260220115900 +0100" channel="acontra+ CINE">
+    <title lang="es">Stonewall (2015)</title>
+    <desc lang="es">Stonewall se convirtió en el punto de partida de los derechos de los homosexuales en Nueva York. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91bmUydEiYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260220115900 +0100" stop="20260220134200 +0100" channel="acontra+ CINE">
+    <title lang="es">Un condenado a muerte se ha escapado (1956)</title>
+    <desc lang="es">En 1943, un soldado de la Resistencia francesa es arrestado y encerrado en el Fuerte Montliuc. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91CfviYQcvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
