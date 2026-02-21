@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260221032200 +0100" stop="20260221052200 +0100" channel="acontra+ CINE">
-    <title lang="es">La sombra del faraón (1999)</title>
-    <desc lang="es">La nieta de un arqueólogo desaparecido en Egipto en 1948 investiga la desaparición de su abuelo. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91OZFOCFz0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260221052200 +0100" stop="20260221065800 +0100" channel="acontra+ CINE">
-    <title lang="es">Un Plan Para Enamorarse (2011)</title>
-    <desc lang="es">Una consejera matrimonial recién casada descubre que sus padres se van a divorciar. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71gP16ib9fL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260221065800 +0100" stop="20260221083300 +0100" channel="acontra+ CINE">
-    <title lang="es">Último día en Marte (2013)</title>
-    <desc lang="es">Bacteria alienígena transforma a los que infecta en zombis. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81WhrEFAFuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260221083300 +0100" stop="20260221100900 +0100" channel="acontra+ CINE">
+  <programme start="20260221080900 +0100" stop="20260221100900 +0100" channel="acontra+ CINE">
     <title lang="es">Doble Contratiempo (2001)</title>
     <desc lang="es">Un agente de policía intenta reordenar su vida mientras ocurren extraños sucesos en su edificio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Xp5dqrn1L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Gertrud (1964)</title>
     <desc lang="es">Gertrud busca el amor absoluto, pero sus relaciones se ven siempre abocadas al fracaso. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71lbHLum9eL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260221133400 +0100" stop="20260221150100 +0100" channel="acontra+ CINE">
+    <title lang="es">Hiroshima, mon amour (1959)</title>
+    <desc lang="es">Una actriz francesa se enamora de un arquitecto japonés en la época de la posguerra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81hJzVu9vRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260221150100 +0100" stop="20260221165000 +0100" channel="acontra+ CINE">
+    <title lang="es">La delicadeza (2011)</title>
+    <desc lang="es">El amor vuelve a llamar a la puerta de Nathalie, tras perder a su amado, en un compañero de trabajo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71YqDG7BGWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260221165000 +0100" stop="20260221182800 +0100" channel="acontra+ CINE">
+    <title lang="es">My Beautiful Laundrette (1986)</title>
+    <desc lang="es">Dos jóvenes se unen para restaurar una lavandería. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71PewlESOcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
