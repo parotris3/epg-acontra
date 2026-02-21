@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260220222100 +0100" stop="20260221002100 +0100" channel="acontra+ CINE">
-    <title lang="es">Blanco perfecto (Downrange) (2018)</title>
-    <desc lang="es">Seis amigos se quedan tirados en la carretera y se convierten en el objetivo de un francotirador. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nEFH7nABL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260221002100 +0100" stop="20260221020300 +0100" channel="acontra+ CINE">
-    <title lang="es">La regla del juego (1939)</title>
-    <desc lang="es">Ilustración de clásico de Jean Renoir acerca de las reglas sociales y sexuales que separan a clases. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91ZzBu2bdRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260221020300 +0100" stop="20260221035500 +0100" channel="acontra+ CINE">
-    <title lang="es">La Noche de San Lorenzo (2008)</title>
-    <desc lang="es">Durante la Segunda Guerra Mundial, los vecinos de un pueblo toscano huyen a las montañas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71p0zWUMldL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260221035500 +0100" stop="20260221052200 +0100" channel="acontra+ CINE">
+  <programme start="20260221032200 +0100" stop="20260221052200 +0100" channel="acontra+ CINE">
     <title lang="es">La sombra del faraón (1999)</title>
     <desc lang="es">La nieta de un arqueólogo desaparecido en Egipto en 1948 investiga la desaparición de su abuelo. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91OZFOCFz0L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Último día en Marte (2013)</title>
     <desc lang="es">Bacteria alienígena transforma a los que infecta en zombis. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81WhrEFAFuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260221083300 +0100" stop="20260221100900 +0100" channel="acontra+ CINE">
+    <title lang="es">Doble Contratiempo (2001)</title>
+    <desc lang="es">Un agente de policía intenta reordenar su vida mientras ocurren extraños sucesos en su edificio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Xp5dqrn1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260221100900 +0100" stop="20260221114100 +0100" channel="acontra+ CINE">
+    <title lang="es">El guardián de la reliquia (2017)</title>
+    <desc lang="es">Irlanda, 1209. Unos monjes emprenden un peligroso viaje para trasladar a Roma una poderosa reliquia. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81MjMmSWPfL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260221114100 +0100" stop="20260221133400 +0100" channel="acontra+ CINE">
+    <title lang="es">Gertrud (1964)</title>
+    <desc lang="es">Gertrud busca el amor absoluto, pero sus relaciones se ven siempre abocadas al fracaso. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71lbHLum9eL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
