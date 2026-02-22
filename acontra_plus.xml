@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260222034900 +0100" stop="20260222054900 +0100" channel="acontra+ CINE">
-    <title lang="es">Me casé con un boludo</title>
-    <desc lang="es">Florencia se da cuenta de que se casó con un idiota. Él intentará recuperarla con un guionista. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71rVwQe6GOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260222054900 +0100" stop="20260222071600 +0100" channel="acontra+ CINE">
-    <title lang="es">S.O.S. El mundo en peligro (1966)</title>
-    <desc lang="es">Unos científicos van a una isla remota donde algunos investigadores han creado una vida letal. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Sd11UaRtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260222071600 +0100" stop="20260222093400 +0100" channel="acontra+ CINE">
-    <title lang="es">Stalingrado (1992)</title>
-    <desc lang="es">Musical que muestra los horrores de la guerra a través de las vicisitudes de unos soldados alemanes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91sIMlEM6zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260222093400 +0100" stop="20260222111300 +0100" channel="acontra+ CINE">
+  <programme start="20260222091300 +0100" stop="20260222111300 +0100" channel="acontra+ CINE">
     <title lang="es">De la vida de las marionetas (2003)</title>
     <desc lang="es">Peter Egerman viola y estrangula a una prostituta debido a la frustración por su matrimonio fallido. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91dUCyb19QL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Un hombre en el tejado (1976)</title>
     <desc lang="es">El teniente de la policía Nyman es brutalmente asesinado en un hospital de Estocolmo. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81mr4InncSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260222142600 +0100" stop="20260222164300 +0100" channel="acontra+ CINE">
+    <title lang="es">Historia del último crisantemo (1939)</title>
+    <desc lang="es">El hijo adoptivo de un prestigioso actor del teatro kabuki carece de las virtudes del padre. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91+fqQC0YWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260222164300 +0100" stop="20260222180800 +0100" channel="acontra+ CINE">
+    <title lang="es">Los ojos sin rostro (1960)</title>
+    <desc lang="es">Un brillante cirujano rapta chicas para utilizar su piel y así reconstruir la belleza de su hija. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8194+Gl+upL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
