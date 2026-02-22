@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260222144300 +0100" stop="20260222164300 +0100" channel="acontra+ CINE">
-    <title lang="es">Historia del último crisantemo (1939)</title>
-    <desc lang="es">El hijo adoptivo de un prestigioso actor del teatro kabuki carece de las virtudes del padre. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91+fqQC0YWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260222164300 +0100" stop="20260222180800 +0100" channel="acontra+ CINE">
-    <title lang="es">Los ojos sin rostro (1960)</title>
-    <desc lang="es">Un brillante cirujano rapta chicas para utilizar su piel y así reconstruir la belleza de su hija. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8194+Gl+upL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260222180800 +0100" stop="20260222200600 +0100" channel="acontra+ CINE">
+  <programme start="20260222180600 +0100" stop="20260222200600 +0100" channel="acontra+ CINE">
     <title lang="es">Salvar o morir (2020)</title>
     <desc lang="es">Un bombero parisino sacrifica su propia seguridad para salvar a sus compañeros durante un incendio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81aMCbkTScL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,25 @@
     <title lang="es">Vivarium (2019)</title>
     <desc lang="es">Una joven pareja visita una inmobiliaria para comprar una casa donde se quedarán atrapados. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/914D3Ssc3AL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260222232700 +0100" stop="20260223003800 +0100" channel="acontra+ CINE">
+    <title lang="es">El pan nuestro de cada día (1934)</title>
+    <desc lang="es">Durante la crisis de 1929, una joven pareja abandona la ciudad y explota una granja abandonada. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81CZCGswxtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260223003800 +0100" stop="20260223021100 +0100" channel="acontra+ CINE">
+    <title lang="es">Welcome Home (2018)</title>
+    <desc lang="es">Un hombre manipula a una pareja vecina porque ve que su relación está deteriorada. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81wKMUYaEvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260223021100 +0100" stop="20260223034600 +0100" channel="acontra+ CINE">
+    <title lang="es">Aprendiendo a conducir (2014)</title>
+    <desc lang="es">Una escritora y un taxista indio se alejan de sus problemas durante las clases de conducción. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tu3xFypWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260223034600 +0100" stop="20260223051300 +0100" channel="acontra+ CINE">
+    <title lang="es">Punto de no retorno (2008)</title>
+    <desc lang="es">Un científico sube a un avión con la tecnología de un experimento sobre viajes en el tiempo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A14MvFznsVL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
