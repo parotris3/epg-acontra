@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260223081100 +0100" stop="20260223101100 +0100" channel="acontra+ CINE">
-    <title lang="es">Buenos días (1959)</title>
-    <desc lang="es">Dos niños de los años 50 juran guardar silencio hasta que sus padres les compren un televisor. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71GiINqPEtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260223101100 +0100" stop="20260223120000 +0100" channel="acontra+ CINE">
-    <title lang="es">Insignificance (1985)</title>
-    <desc lang="es">Albert Einstein charla con Marilyn Monroe sobre la teoría de la relatividad, el sexo y la política. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/712jQUN3uVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260223120000 +0100" stop="20260223142100 +0100" channel="acontra+ CINE">
-    <title lang="es">La venganza es mía (1979)</title>
-    <desc lang="es">Enokizu es un criminal al que le encanta cometer atrocidades y despiadados crímenes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81+f+z7V-RL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260223142100 +0100" stop="20260223161400 +0100" channel="acontra+ CINE">
+  <programme start="20260223141400 +0100" stop="20260223161400 +0100" channel="acontra+ CINE">
     <title lang="es">Macbeth (2015)</title>
     <desc lang="es">Un hombre de la nobleza sube al trono escocés. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71jK0pNXjjL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Nueve vidas (2005)</title>
     <desc lang="es">Nueve mujeres diferentes entre sí explican de manera cautivadora sus experiencias individuales. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91XIBSY-3pL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260223180600 +0100" stop="20260223195200 +0100" channel="acontra+ CINE">
+    <title lang="es">Miedo súbito (1952)</title>
+    <desc lang="es">La vida de Myra de desmorona cuando escucha cómo su marido Lester planea matarla. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A17tuF3-SsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260223195200 +0100" stop="20260223214600 +0100" channel="acontra+ CINE">
+    <title lang="es">Byzantium (2012)</title>
+    <desc lang="es">Dos vampiresas que huyen de otros vampiros se refugian en una comunidad británica junto al mar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91pz7+eAfkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260223214600 +0100" stop="20260223233900 +0100" channel="acontra+ CINE">
+    <title lang="es">Caché (2005)</title>
+    <desc lang="es">Un crítico literario de televisión comienza a recibir inquietantes paquetes con vídeos suyos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71l9y149-cL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
