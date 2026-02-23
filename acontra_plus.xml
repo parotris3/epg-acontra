@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260222223800 +0100" stop="20260223003800 +0100" channel="acontra+ CINE">
-    <title lang="es">El pan nuestro de cada día (1934)</title>
-    <desc lang="es">Durante la crisis de 1929, una joven pareja abandona la ciudad y explota una granja abandonada. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81CZCGswxtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260223003800 +0100" stop="20260223021100 +0100" channel="acontra+ CINE">
-    <title lang="es">Welcome Home (2018)</title>
-    <desc lang="es">Un hombre manipula a una pareja vecina porque ve que su relación está deteriorada. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81wKMUYaEvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260223021100 +0100" stop="20260223034600 +0100" channel="acontra+ CINE">
-    <title lang="es">Aprendiendo a conducir (2014)</title>
-    <desc lang="es">Una escritora y un taxista indio se alejan de sus problemas durante las clases de conducción. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tu3xFypWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260223034600 +0100" stop="20260223051300 +0100" channel="acontra+ CINE">
+  <programme start="20260223031300 +0100" stop="20260223051300 +0100" channel="acontra+ CINE">
     <title lang="es">Punto de no retorno (2008)</title>
     <desc lang="es">Un científico sube a un avión con la tecnología de un experimento sobre viajes en el tiempo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A14MvFznsVL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Feliz Navidad, Mr. Lawrence (1983)</title>
     <desc lang="es">Un intenso duelo de voluntades se establece entre comandantes japoneses y prisioneros británicos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1Ece-qw1kL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260223084100 +0100" stop="20260223101100 +0100" channel="acontra+ CINE">
+    <title lang="es">Buenos días (1959)</title>
+    <desc lang="es">Dos niños de los años 50 juran guardar silencio hasta que sus padres les compren un televisor. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71GiINqPEtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260223101100 +0100" stop="20260223120000 +0100" channel="acontra+ CINE">
+    <title lang="es">Insignificance (1985)</title>
+    <desc lang="es">Albert Einstein charla con Marilyn Monroe sobre la teoría de la relatividad, el sexo y la política. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/712jQUN3uVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260223120000 +0100" stop="20260223142100 +0100" channel="acontra+ CINE">
+    <title lang="es">La venganza es mía (1979)</title>
+    <desc lang="es">Enokizu es un criminal al que le encanta cometer atrocidades y despiadados crímenes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81+f+z7V-RL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
