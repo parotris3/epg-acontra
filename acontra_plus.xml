@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260223031300 +0100" stop="20260223051300 +0100" channel="acontra+ CINE">
-    <title lang="es">Punto de no retorno (2008)</title>
-    <desc lang="es">Un científico sube a un avión con la tecnología de un experimento sobre viajes en el tiempo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A14MvFznsVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260223051300 +0100" stop="20260223063800 +0100" channel="acontra+ CINE">
-    <title lang="es">Kamikaze (1989)</title>
-    <desc lang="es">Un científico huraño inventa un arma que le permite asesinar a la gente a través de las cámaras. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8144aOLDqTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260223063800 +0100" stop="20260223084100 +0100" channel="acontra+ CINE">
-    <title lang="es">Feliz Navidad, Mr. Lawrence (1983)</title>
-    <desc lang="es">Un intenso duelo de voluntades se establece entre comandantes japoneses y prisioneros británicos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Ece-qw1kL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260223084100 +0100" stop="20260223101100 +0100" channel="acontra+ CINE">
+  <programme start="20260223081100 +0100" stop="20260223101100 +0100" channel="acontra+ CINE">
     <title lang="es">Buenos días (1959)</title>
     <desc lang="es">Dos niños de los años 50 juran guardar silencio hasta que sus padres les compren un televisor. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71GiINqPEtL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">La venganza es mía (1979)</title>
     <desc lang="es">Enokizu es un criminal al que le encanta cometer atrocidades y despiadados crímenes. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81+f+z7V-RL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260223142100 +0100" stop="20260223161400 +0100" channel="acontra+ CINE">
+    <title lang="es">Macbeth (2015)</title>
+    <desc lang="es">Un hombre de la nobleza sube al trono escocés. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71jK0pNXjjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260223161400 +0100" stop="20260223180600 +0100" channel="acontra+ CINE">
+    <title lang="es">Nueve vidas (2005)</title>
+    <desc lang="es">Nueve mujeres diferentes entre sí explican de manera cautivadora sus experiencias individuales. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91XIBSY-3pL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
