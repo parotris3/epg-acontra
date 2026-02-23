@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260223141400 +0100" stop="20260223161400 +0100" channel="acontra+ CINE">
-    <title lang="es">Macbeth (2015)</title>
-    <desc lang="es">Un hombre de la nobleza sube al trono escocés. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71jK0pNXjjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260223161400 +0100" stop="20260223180600 +0100" channel="acontra+ CINE">
-    <title lang="es">Nueve vidas (2005)</title>
-    <desc lang="es">Nueve mujeres diferentes entre sí explican de manera cautivadora sus experiencias individuales. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91XIBSY-3pL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260223180600 +0100" stop="20260223195200 +0100" channel="acontra+ CINE">
-    <title lang="es">Miedo súbito (1952)</title>
-    <desc lang="es">La vida de Myra de desmorona cuando escucha cómo su marido Lester planea matarla. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A17tuF3-SsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260223195200 +0100" stop="20260223214600 +0100" channel="acontra+ CINE">
+  <programme start="20260223194600 +0100" stop="20260223214600 +0100" channel="acontra+ CINE">
     <title lang="es">Byzantium (2012)</title>
     <desc lang="es">Dos vampiresas que huyen de otros vampiros se refugian en una comunidad británica junto al mar. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91pz7+eAfkL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,15 @@
     <title lang="es">Caché (2005)</title>
     <desc lang="es">Un crítico literario de televisión comienza a recibir inquietantes paquetes con vídeos suyos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71l9y149-cL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260223233900 +0100" stop="20260224022200 +0100" channel="acontra+ CINE">
+    <title lang="es">Scenes From a Marriage (2021)</title>
+    <desc lang="es">Una adaptación de la miniserie sueca de 1973 de Ingar Bergmann sobre un matrimonio que se desmorona. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1a0AxxalkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260224022200 +0100" stop="20260224040900 +0100" channel="acontra+ CINE">
+    <title lang="es">Sangre sabia (1979)</title>
+    <desc lang="es">Un joven sureño ambicioso pero sin educación, decide convertirse en predicador. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81cnW2JYytL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
