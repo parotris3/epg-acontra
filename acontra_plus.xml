@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260224182400 +0100" stop="20260224202400 +0100" channel="acontra+ CINE">
-    <title lang="es">Mi vida como un perro (1987)</title>
-    <desc lang="es">Agridulce viaje de la infancia a la adolescencia que tiene que recorrer un niño sueco de 12 años. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91EciWOY9KL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260224202400 +0100" stop="20260224215700 +0100" channel="acontra+ CINE">
-    <title lang="es">Buenas noches, y buena suerte (2005)</title>
-    <desc lang="es">El periodista Edward R. Murrow cuestiona la ética del senador Joseph McCarthy. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8104a5vWAaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260224215700 +0100" stop="20260224233400 +0100" channel="acontra+ CINE">
-    <title lang="es">Suspiria (1977)</title>
-    <desc lang="es">Una bailarina de Nueva York se inscribe en una academia de danza embrujada. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1hAy5lxJRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260224233400 +0100" stop="20260225021800 +0100" channel="acontra+ CINE">
+  <programme start="20260225001800 +0100" stop="20260225021800 +0100" channel="acontra+ CINE">
     <title lang="es">Tess (1979)</title>
     <desc lang="es">La hija de un humilde granjero es víctima de las aspiraciones de su familia y de su propia belleza. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91RxeM8Up8L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">The Collector (2009)</title>
     <desc lang="es">Un ladrón de poca monta se ve envuelto en una peligrosa situación cuando trata de robar en una casa. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81f6ZuBGIaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260225051500 +0100" stop="20260225072300 +0100" channel="acontra+ CINE">
+    <title lang="es">Nostalgia (1983)</title>
+    <desc lang="es">Un escritor ruso viaja a Italia para investigar la vida de un compositor ruso que estudió allí. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/912DRKglhmL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260225072300 +0100" stop="20260225085900 +0100" channel="acontra+ CINE">
+    <title lang="es">El regreso de Jack el destripador (1988)</title>
+    <desc lang="es">Un asesino de Los Ángeles intenta replicar los asesinatos de Jack el destripador. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91bbvDVxctL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
