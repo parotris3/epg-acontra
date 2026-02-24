@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260224094000 +0100" stop="20260224114000 +0100" channel="acontra+ CINE">
-    <title lang="es">Más allá del arcoíris (1990)</title>
-    <desc lang="es">Martha Travis es una médium que ofrece espectáculos de espiritismo junto a su padre alcohólico. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/810DlN4GkSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260224114000 +0100" stop="20260224133400 +0100" channel="acontra+ CINE">
-    <title lang="es">Pawn Sacrifice (2014)</title>
-    <desc lang="es">El ajedrecista Bobby Fischer compite contra un soviético. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/816y1HZz1AL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260224133400 +0100" stop="20260224153300 +0100" channel="acontra+ CINE">
+  <programme start="20260224133300 +0100" stop="20260224153300 +0100" channel="acontra+ CINE">
     <title lang="es">The Brave (1998)</title>
     <desc lang="es">Un misterioso personaje le hace una siniestra oferta a un humilde padre de familia. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Pj3qqPZJL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Sin vuelta atrás (1998)</title>
     <desc lang="es">Tras salir de la cárcel, Joey se va a vivir con su hermano Tommy y su mujer a Staten Island. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/B1rt9pK1GHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260224184600 +0100" stop="20260224202400 +0100" channel="acontra+ CINE">
+    <title lang="es">Mi vida como un perro (1987)</title>
+    <desc lang="es">Agridulce viaje de la infancia a la adolescencia que tiene que recorrer un niño sueco de 12 años. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91EciWOY9KL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260224202400 +0100" stop="20260224215700 +0100" channel="acontra+ CINE">
+    <title lang="es">Buenas noches, y buena suerte (2005)</title>
+    <desc lang="es">El periodista Edward R. Murrow cuestiona la ética del senador Joseph McCarthy. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8104a5vWAaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260224215700 +0100" stop="20260224233400 +0100" channel="acontra+ CINE">
+    <title lang="es">Suspiria (1977)</title>
+    <desc lang="es">Una bailarina de Nueva York se inscribe en una academia de danza embrujada. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1hAy5lxJRL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
