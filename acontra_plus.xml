@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260224002200 +0100" stop="20260224022200 +0100" channel="acontra+ CINE">
-    <title lang="es">Scenes From a Marriage (2021)</title>
-    <desc lang="es">Una adaptación de la miniserie sueca de 1973 de Ingar Bergmann sobre un matrimonio que se desmorona. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1a0AxxalkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260224022200 +0100" stop="20260224040900 +0100" channel="acontra+ CINE">
-    <title lang="es">Sangre sabia (1979)</title>
-    <desc lang="es">Un joven sureño ambicioso pero sin educación, decide convertirse en predicador. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81cnW2JYytL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260224040900 +0100" stop="20260224062500 +0100" channel="acontra+ CINE">
+  <programme start="20260224042500 +0100" stop="20260224062500 +0100" channel="acontra+ CINE">
     <title lang="es">Regreso a Howards End (1992)</title>
     <desc lang="es">Dos hermanas cultas e independientes hacen amistad con la próspera y convencional familia Wilcox. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81021vjbDVL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Detective Dee y el misterio de la llama fantasma (2010)</title>
     <desc lang="es">Wu, la primera emperatriz de la China, reclama la ayuda de Di Renjie para resolver un misterio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81QvE9VDVqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260224095600 +0100" stop="20260224114000 +0100" channel="acontra+ CINE">
+    <title lang="es">Más allá del arcoíris (1990)</title>
+    <desc lang="es">Martha Travis es una médium que ofrece espectáculos de espiritismo junto a su padre alcohólico. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/810DlN4GkSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260224114000 +0100" stop="20260224133400 +0100" channel="acontra+ CINE">
+    <title lang="es">Pawn Sacrifice (2014)</title>
+    <desc lang="es">El ajedrecista Bobby Fischer compite contra un soviético. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/816y1HZz1AL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
