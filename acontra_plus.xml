@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260224133300 +0100" stop="20260224153300 +0100" channel="acontra+ CINE">
-    <title lang="es">The Brave (1998)</title>
-    <desc lang="es">Un misterioso personaje le hace una siniestra oferta a un humilde padre de familia. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Pj3qqPZJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260224153300 +0100" stop="20260224170500 +0100" channel="acontra+ CINE">
-    <title lang="es">Palabras suaves (1985)</title>
-    <desc lang="es">Connie Wyatt es una chica de quince años de espíritu libre que vuelve locos a los chicos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1CMMnYpAcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260224170500 +0100" stop="20260224184600 +0100" channel="acontra+ CINE">
-    <title lang="es">Sin vuelta atrás (1998)</title>
-    <desc lang="es">Tras salir de la cárcel, Joey se va a vivir con su hermano Tommy y su mujer a Staten Island. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1rt9pK1GHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260224184600 +0100" stop="20260224202400 +0100" channel="acontra+ CINE">
+  <programme start="20260224182400 +0100" stop="20260224202400 +0100" channel="acontra+ CINE">
     <title lang="es">Mi vida como un perro (1987)</title>
     <desc lang="es">Agridulce viaje de la infancia a la adolescencia que tiene que recorrer un niño sueco de 12 años. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91EciWOY9KL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Suspiria (1977)</title>
     <desc lang="es">Una bailarina de Nueva York se inscribe en una academia de danza embrujada. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/B1hAy5lxJRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260224233400 +0100" stop="20260225021800 +0100" channel="acontra+ CINE">
+    <title lang="es">Tess (1979)</title>
+    <desc lang="es">La hija de un humilde granjero es víctima de las aspiraciones de su familia y de su propia belleza. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91RxeM8Up8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260225021800 +0100" stop="20260225034400 +0100" channel="acontra+ CINE">
+    <title lang="es">Toni (2014)</title>
+    <desc lang="es">Toni, un inmigrante italiano que trabaja en el sur de Francia, se enamora de una mujer local. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-0Dtqa25L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260225034400 +0100" stop="20260225051500 +0100" channel="acontra+ CINE">
+    <title lang="es">The Collector (2009)</title>
+    <desc lang="es">Un ladrón de poca monta se ve envuelto en una peligrosa situación cuando trata de robar en una casa. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81f6ZuBGIaL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
