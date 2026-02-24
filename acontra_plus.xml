@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260224042500 +0100" stop="20260224062500 +0100" channel="acontra+ CINE">
-    <title lang="es">Regreso a Howards End (1992)</title>
-    <desc lang="es">Dos hermanas cultas e independientes hacen amistad con la próspera y convencional familia Wilcox. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81021vjbDVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260224062500 +0100" stop="20260224075800 +0100" channel="acontra+ CINE">
-    <title lang="es">El último pasajero (2013)</title>
-    <desc lang="es">Los frenos de un tren han sido saboteados por un sociópata. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81dfjgkDIdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260224075800 +0100" stop="20260224095600 +0100" channel="acontra+ CINE">
-    <title lang="es">Detective Dee y el misterio de la llama fantasma (2010)</title>
-    <desc lang="es">Wu, la primera emperatriz de la China, reclama la ayuda de Di Renjie para resolver un misterio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81QvE9VDVqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260224095600 +0100" stop="20260224114000 +0100" channel="acontra+ CINE">
+  <programme start="20260224094000 +0100" stop="20260224114000 +0100" channel="acontra+ CINE">
     <title lang="es">Más allá del arcoíris (1990)</title>
     <desc lang="es">Martha Travis es una médium que ofrece espectáculos de espiritismo junto a su padre alcohólico. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/810DlN4GkSL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Pawn Sacrifice (2014)</title>
     <desc lang="es">El ajedrecista Bobby Fischer compite contra un soviético. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/816y1HZz1AL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260224133400 +0100" stop="20260224153300 +0100" channel="acontra+ CINE">
+    <title lang="es">The Brave (1998)</title>
+    <desc lang="es">Un misterioso personaje le hace una siniestra oferta a un humilde padre de familia. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Pj3qqPZJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260224153300 +0100" stop="20260224170500 +0100" channel="acontra+ CINE">
+    <title lang="es">Palabras suaves (1985)</title>
+    <desc lang="es">Connie Wyatt es una chica de quince años de espíritu libre que vuelve locos a los chicos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1CMMnYpAcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260224170500 +0100" stop="20260224184600 +0100" channel="acontra+ CINE">
+    <title lang="es">Sin vuelta atrás (1998)</title>
+    <desc lang="es">Tras salir de la cárcel, Joey se va a vivir con su hermano Tommy y su mujer a Staten Island. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1rt9pK1GHL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
