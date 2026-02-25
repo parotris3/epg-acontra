@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260225001800 +0100" stop="20260225021800 +0100" channel="acontra+ CINE">
-    <title lang="es">Tess (1979)</title>
-    <desc lang="es">La hija de un humilde granjero es víctima de las aspiraciones de su familia y de su propia belleza. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91RxeM8Up8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260225021800 +0100" stop="20260225034400 +0100" channel="acontra+ CINE">
-    <title lang="es">Toni (2014)</title>
-    <desc lang="es">Toni, un inmigrante italiano que trabaja en el sur de Francia, se enamora de una mujer local. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-0Dtqa25L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260225034400 +0100" stop="20260225051500 +0100" channel="acontra+ CINE">
+  <programme start="20260225031500 +0100" stop="20260225051500 +0100" channel="acontra+ CINE">
     <title lang="es">The Collector (2009)</title>
     <desc lang="es">Un ladrón de poca monta se ve envuelto en una peligrosa situación cuando trata de robar en una casa. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81f6ZuBGIaL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">El regreso de Jack el destripador (1988)</title>
     <desc lang="es">Un asesino de Los Ángeles intenta replicar los asesinatos de Jack el destripador. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91bbvDVxctL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260225085900 +0100" stop="20260225103900 +0100" channel="acontra+ CINE">
+    <title lang="es">Mujeres contra hombres (2011)</title>
+    <desc lang="es">Historia de varias parejas sobre la guerra de sexos y la búsqueda desesperada de la persona ideal. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71GwVcxsZxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260225103900 +0100" stop="20260225123500 +0100" channel="acontra+ CINE">
+    <title lang="es">Cuento de Invierno (2015)</title>
+    <desc lang="es">El recuerdo del hombre que amó invade a una joven madre y le impide enamorarse. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-IFBUjqlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260225123500 +0100" stop="20260225141000 +0100" channel="acontra+ CINE">
+    <title lang="es">600 kilos de oro puro (2010)</title>
+    <desc lang="es">Aventureros roban una mina de oro en la Guyana, pero deben aterrizar de emergencia en plena jungla. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81EGNcaSulL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
