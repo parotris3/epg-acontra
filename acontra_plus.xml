@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260225031500 +0100" stop="20260225051500 +0100" channel="acontra+ CINE">
-    <title lang="es">The Collector (2009)</title>
-    <desc lang="es">Un ladrón de poca monta se ve envuelto en una peligrosa situación cuando trata de robar en una casa. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81f6ZuBGIaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260225051500 +0100" stop="20260225072300 +0100" channel="acontra+ CINE">
-    <title lang="es">Nostalgia (1983)</title>
-    <desc lang="es">Un escritor ruso viaja a Italia para investigar la vida de un compositor ruso que estudió allí. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/912DRKglhmL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260225072300 +0100" stop="20260225085900 +0100" channel="acontra+ CINE">
-    <title lang="es">El regreso de Jack el destripador (1988)</title>
-    <desc lang="es">Un asesino de Los Ángeles intenta replicar los asesinatos de Jack el destripador. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91bbvDVxctL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260225085900 +0100" stop="20260225103900 +0100" channel="acontra+ CINE">
+  <programme start="20260225083900 +0100" stop="20260225103900 +0100" channel="acontra+ CINE">
     <title lang="es">Mujeres contra hombres (2011)</title>
     <desc lang="es">Historia de varias parejas sobre la guerra de sexos y la búsqueda desesperada de la persona ideal. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71GwVcxsZxL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">600 kilos de oro puro (2010)</title>
     <desc lang="es">Aventureros roban una mina de oro en la Guyana, pero deben aterrizar de emergencia en plena jungla. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81EGNcaSulL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260225141000 +0100" stop="20260225155500 +0100" channel="acontra+ CINE">
+    <title lang="es">Adiós, muchachos (1987)</title>
+    <desc lang="es">Una escuela católica protege a un niño judío, escondiendo su verdadera identidad. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71LC8Btr4AL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260225155500 +0100" stop="20260225170600 +0100" channel="acontra+ CINE">
+    <title lang="es">La reina de Nueva York (1937)</title>
+    <desc lang="es">La suerte de un periodista cambia cuando le vende a su editor la trágica historia de una chica. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81pHo3G158L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260225170600 +0100" stop="20260225195300 +0100" channel="acontra+ CINE">
+    <title lang="es">El idiota (1951)</title>
+    <desc lang="es">Un soldado condenado a muerte por crímenes de guerra, se salva de ser fusilado en el último momento. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Z8IZ9HTdL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
