@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260225135500 +0100" stop="20260225155500 +0100" channel="acontra+ CINE">
-    <title lang="es">Adiós, muchachos (1987)</title>
-    <desc lang="es">Una escuela católica protege a un niño judío, escondiendo su verdadera identidad. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71LC8Btr4AL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260225155500 +0100" stop="20260225170600 +0100" channel="acontra+ CINE">
-    <title lang="es">La reina de Nueva York (1937)</title>
-    <desc lang="es">La suerte de un periodista cambia cuando le vende a su editor la trágica historia de una chica. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81pHo3G158L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260225170600 +0100" stop="20260225195300 +0100" channel="acontra+ CINE">
-    <title lang="es">El idiota (1951)</title>
-    <desc lang="es">Un soldado condenado a muerte por crímenes de guerra, se salva de ser fusilado en el último momento. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Z8IZ9HTdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260225195300 +0100" stop="20260225212400 +0100" channel="acontra+ CINE">
+  <programme start="20260225192400 +0100" stop="20260225212400 +0100" channel="acontra+ CINE">
     <title lang="es">El Fantasma de la Ópera (1925)</title>
     <desc lang="es">Un hombre con voz de ángel y rostro desfigurado busca el amor de una joven cantante de ópera. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81GnuPs81-L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Estación zombie (2016)</title>
     <desc lang="es">Los pasajeros de un tren luchan por sobrevivir a un virus. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1VO3KLrRNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260225232200 +0100" stop="20260226012200 +0100" channel="acontra+ CINE">
+    <title lang="es">S.A.S. Los invencibles (2002)</title>
+    <desc lang="es">Un grupo antinuclear toma la embajada de EE.UU. en Londres y amenaza con matar a los rehenes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71r6c13l-UL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260226012200 +0100" stop="20260226035400 +0100" channel="acontra+ CINE">
+    <title lang="es">Romanzo criminale (2005)</title>
+    <desc lang="es">Una banda de delincuentes asesina a un hombre poderoso y se involucra en el tráfico de drogas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8193TrysWXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260226035400 +0100" stop="20260226054500 +0100" channel="acontra+ CINE">
+    <title lang="es">Orfeo negro (1959)</title>
+    <desc lang="es">La trágica historia de amor entre la joven Eurídice y el conductor y músico Orfeo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91DZLPATqGL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
