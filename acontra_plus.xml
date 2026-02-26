@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260226034500 +0100" stop="20260226054500 +0100" channel="acontra+ CINE">
-    <title lang="es">Orfeo negro (1959)</title>
-    <desc lang="es">La trágica historia de amor entre la joven Eurídice y el conductor y músico Orfeo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91DZLPATqGL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260226054500 +0100" stop="20260226072700 +0100" channel="acontra+ CINE">
-    <title lang="es">Perversidad (1945)</title>
-    <desc lang="es">Un hombre con talento para la pintura es explotado por una mujer y su novio sin escrúpulos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81sCHck-WNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260226072700 +0100" stop="20260226090100 +0100" channel="acontra+ CINE">
-    <title lang="es">Un verano con Mónica (1955)</title>
-    <desc lang="es">Dos adolescentes se enamoran y dejan todo para emprender un viaje juntos en barco. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81X33-oJfLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260226090100 +0100" stop="20260226103400 +0100" channel="acontra+ CINE">
+  <programme start="20260226083400 +0100" stop="20260226103400 +0100" channel="acontra+ CINE">
     <title lang="es">Otelo (1952)</title>
     <desc lang="es">El admirado general Otelo es víctima de las intrigas de unos de sus envidiosos oficiales. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81DQBnGA6NL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Dog Soldiers (2002)</title>
     <desc lang="es">Unos soldados ingleses lucharán por sus vidas al enfrentarse a unas agresivas y extrañas bestias. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/918fYN7V4wL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260226140100 +0100" stop="20260226154100 +0100" channel="acontra+ CINE">
+    <title lang="es">Mejor otro día (2014)</title>
+    <desc lang="es">En Londres, durante la noche de fin de año, cuatro desconocidos coinciden para lanzarse al vacío. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81BOSXet0mL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260226154100 +0100" stop="20260226171100 +0100" channel="acontra+ CINE">
+    <title lang="es">El último vuelo (2014)</title>
+    <desc lang="es">Marie Vallières de Beaumont, una intrépida aviadora, se propone encontrar a su novio desaparecido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71jGocrVMZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260226171100 +0100" stop="20260226185400 +0100" channel="acontra+ CINE">
+    <title lang="es">La escapada (1963)</title>
+    <desc lang="es">Un estudiante y un hombre de mediana edad que no se conocían inician un viaje en un descapotable. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81wbCxGOmcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
