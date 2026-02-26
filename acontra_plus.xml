@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260225232200 +0100" stop="20260226012200 +0100" channel="acontra+ CINE">
-    <title lang="es">S.A.S. Los invencibles (2002)</title>
-    <desc lang="es">Un grupo antinuclear toma la embajada de EE.UU. en Londres y amenaza con matar a los rehenes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71r6c13l-UL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260226012200 +0100" stop="20260226035400 +0100" channel="acontra+ CINE">
-    <title lang="es">Romanzo criminale (2005)</title>
-    <desc lang="es">Una banda de delincuentes asesina a un hombre poderoso y se involucra en el tráfico de drogas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8193TrysWXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260226035400 +0100" stop="20260226054500 +0100" channel="acontra+ CINE">
+  <programme start="20260226034500 +0100" stop="20260226054500 +0100" channel="acontra+ CINE">
     <title lang="es">Orfeo negro (1959)</title>
     <desc lang="es">La trágica historia de amor entre la joven Eurídice y el conductor y músico Orfeo. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91DZLPATqGL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Un verano con Mónica (1955)</title>
     <desc lang="es">Dos adolescentes se enamoran y dejan todo para emprender un viaje juntos en barco. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81X33-oJfLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260226090100 +0100" stop="20260226103400 +0100" channel="acontra+ CINE">
+    <title lang="es">Otelo (1952)</title>
+    <desc lang="es">El admirado general Otelo es víctima de las intrigas de unos de sus envidiosos oficiales. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81DQBnGA6NL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260226103400 +0100" stop="20260226122000 +0100" channel="acontra+ CINE">
+    <title lang="es">La rodilla de Clara (1971)</title>
+    <desc lang="es">Un diplomático a punto de casarse se obsesiona con una parte particular de la anatomía de una mujer. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ZMw3uHxdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260226122000 +0100" stop="20260226140100 +0100" channel="acontra+ CINE">
+    <title lang="es">Dog Soldiers (2002)</title>
+    <desc lang="es">Unos soldados ingleses lucharán por sus vidas al enfrentarse a unas agresivas y extrañas bestias. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/918fYN7V4wL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
