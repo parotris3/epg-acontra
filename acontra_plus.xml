@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260226134100 +0100" stop="20260226154100 +0100" channel="acontra+ CINE">
-    <title lang="es">Mejor otro día (2014)</title>
-    <desc lang="es">En Londres, durante la noche de fin de año, cuatro desconocidos coinciden para lanzarse al vacío. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BOSXet0mL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260226154100 +0100" stop="20260226171100 +0100" channel="acontra+ CINE">
-    <title lang="es">El último vuelo (2014)</title>
-    <desc lang="es">Marie Vallières de Beaumont, una intrépida aviadora, se propone encontrar a su novio desaparecido. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71jGocrVMZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260226171100 +0100" stop="20260226185400 +0100" channel="acontra+ CINE">
-    <title lang="es">La escapada (1963)</title>
-    <desc lang="es">Un estudiante y un hombre de mediana edad que no se conocían inician un viaje en un descapotable. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81wbCxGOmcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260226185400 +0100" stop="20260226202500 +0100" channel="acontra+ CINE">
+  <programme start="20260226182500 +0100" stop="20260226202500 +0100" channel="acontra+ CINE">
     <title lang="es">Despertando a Ned (1998)</title>
     <desc lang="es">Un pueblo oculta la muerte de Ned, ganador de la lotería, para repartirse el dinero entre ellos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81lSKouKbuL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,25 @@
     <title lang="es">Nada (2022)</title>
     <desc lang="es">Cuando Pierre Anthon comienza el octavo grado, no le ve sentido a la vida y se muda a un árbol. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Vrpm8h3cL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260226232700 +0100" stop="20260227005800 +0100" channel="acontra+ CINE">
+    <title lang="es">Semilla de crisantemo (1990)</title>
+    <desc lang="es">En la China rural, un hombre mayor compra a Ju Dou, una joven campesina. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81SKH9+LbUL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260227005800 +0100" stop="20260227022800 +0100" channel="acontra+ CINE">
+    <title lang="es">Este coche es una ruina (1988)</title>
+    <desc lang="es">Gerald se compra un Jaguar nuevo, y al instante se convierte en su nuevo amor. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91tcvCHxZtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260227022800 +0100" stop="20260227034900 +0100" channel="acontra+ CINE">
+    <title lang="es">Ms. 45 (1981)</title>
+    <desc lang="es">Una joven sordomuda que ha sido violada recorre las calles de Nueva York en busca de venganza. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1wWBblTgjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260227034900 +0100" stop="20260227053200 +0100" channel="acontra+ CINE">
+    <title lang="es">Primavera tardía (1949)</title>
+    <desc lang="es">Noriko vive con su padre viudo y cuida de él, pero ya va siendo muy mayor para permanecer soltera. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/817LyByUZ6L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
