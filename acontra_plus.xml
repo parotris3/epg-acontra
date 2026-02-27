@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260227033200 +0100" stop="20260227053200 +0100" channel="acontra+ CINE">
-    <title lang="es">Primavera tardía (1949)</title>
-    <desc lang="es">Noriko vive con su padre viudo y cuida de él, pero ya va siendo muy mayor para permanecer soltera. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/817LyByUZ6L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260227053200 +0100" stop="20260227070000 +0100" channel="acontra+ CINE">
-    <title lang="es">Gritos y susurros (1972)</title>
-    <desc lang="es">Tres hermanas se reúnen para pasar juntas los últimos días de vida de una de ellas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71l-O1xlqZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260227070000 +0100" stop="20260227084700 +0100" channel="acontra+ CINE">
-    <title lang="es">Housebound (2014)</title>
-    <desc lang="es">Una aspirante a ladrona es remitida a la custodia de su madre distanciada. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81HHDEtoTXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260227084700 +0100" stop="20260227095600 +0100" channel="acontra+ CINE">
-    <title lang="es">El caserón de las sombras (1932)</title>
-    <desc lang="es">Debido a una tormenta, unos viajeros se ven obligados a refugiarse en un viejo caserón. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71KVPyfH4OL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260227095600 +0100" stop="20260227115700 +0100" channel="acontra+ CINE">
+  <programme start="20260227095700 +0100" stop="20260227115700 +0100" channel="acontra+ CINE">
     <title lang="es">El piano (1993)</title>
     <desc lang="es">Ada se queda viuda y viaja con su hija a Nueva Zelanda para un matrimonio concertado. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71hTexxx1xL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +12,20 @@
     <title lang="es">Ejecutivo ejecutor (1990)</title>
     <desc lang="es">Un ejecutivo que perdió a un subalterno, planea asesinatos a fin de ascender en la compañía. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81AJsq90WGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260227132500 +0100" stop="20260227145600 +0100" channel="acontra+ CINE">
+    <title lang="es">Cleo de 5 a 7 (1963)</title>
+    <desc lang="es">Cléo deambula, angustiada, mientras aguarda los resultados de un análisis médico. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81K289K2nQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260227145600 +0100" stop="20260227163500 +0100" channel="acontra+ CINE">
+    <title lang="es">Adorable seductor (1989)</title>
+    <desc lang="es">El nuevo miembro de una compañía de teatro se enfrenta a un director bullicioso. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81eXQTzyLjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260227163500 +0100" stop="20260227184700 +0100" channel="acontra+ CINE">
+    <title lang="es">La flauta mágica (1975)</title>
+    <desc lang="es">El príncipe Tamino busca rescatar a la princesa Pamina, secuestrada por un hechicero. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91rFoIZIBaL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
