@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260227143500 +0100" stop="20260227163500 +0100" channel="acontra+ CINE">
-    <title lang="es">Adorable seductor (1989)</title>
-    <desc lang="es">El nuevo miembro de una compañía de teatro se enfrenta a un director bullicioso. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81eXQTzyLjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260227163500 +0100" stop="20260227184700 +0100" channel="acontra+ CINE">
-    <title lang="es">La flauta mágica (1975)</title>
-    <desc lang="es">El príncipe Tamino busca rescatar a la princesa Pamina, secuestrada por un hechicero. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/91rFoIZIBaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260227184700 +0100" stop="20260227201900 +0100" channel="acontra+ CINE">
+  <programme start="20260227181900 +0100" stop="20260227201900 +0100" channel="acontra+ CINE">
     <title lang="es">Life Partners (2014)</title>
     <desc lang="es">La relación entre dos amigas cambia dramáticamente. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81KbqWM--DL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Todos los animales pequeños (1998)</title>
     <desc lang="es">Bobby, un joven discapacitado psíquico, decide huir de su padrastro a través de la campiña inglesa. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91nvNVgFCVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260228000600 +0100" stop="20260228013800 +0100" channel="acontra+ CINE">
+    <title lang="es">Sueños eléctricos (1984)</title>
+    <desc lang="es">Un arquitecto y su ordenador, que ha cobrado vida propia, pelearán por el amor de su vecina. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/818fKOqBghL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260228013800 +0100" stop="20260228035500 +0100" channel="acontra+ CINE">
+    <title lang="es">Los verdugos también mueren (1943)</title>
+    <desc lang="es">En mayo de 1942 murió víctima de un atentado Reinhard Heydrich, jefe del gobierno nazi de Praga. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81uWRbWALrL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260228035500 +0100" stop="20260228060500 +0100" channel="acontra+ CINE">
+    <title lang="es">La gran comilona (1974)</title>
+    <desc lang="es">Cuatro amigos se reúnen en una mansión con la idea de suicidarse comiendo sin tregua. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1EVv2su3fL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
