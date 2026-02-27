@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260227181900 +0100" stop="20260227201900 +0100" channel="acontra+ CINE">
-    <title lang="es">Life Partners (2014)</title>
-    <desc lang="es">La relación entre dos amigas cambia dramáticamente. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81KbqWM--DL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260227201900 +0100" stop="20260227221400 +0100" channel="acontra+ CINE">
-    <title lang="es">Soñadores (2000)</title>
-    <desc lang="es">Isabelle, Theo y Matthew tratan de conocerse mutuamente explorando emociones y erotismo. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81gj-r-5MuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260227221400 +0100" stop="20260228000600 +0100" channel="acontra+ CINE">
+  <programme start="20260227220600 +0100" stop="20260228000600 +0100" channel="acontra+ CINE">
     <title lang="es">Todos los animales pequeños (1998)</title>
     <desc lang="es">Bobby, un joven discapacitado psíquico, decide huir de su padrastro a través de la campiña inglesa. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91nvNVgFCVL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">La gran comilona (1974)</title>
     <desc lang="es">Cuatro amigos se reúnen en una mansión con la idea de suicidarse comiendo sin tregua. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1EVv2su3fL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260228060500 +0100" stop="20260228074500 +0100" channel="acontra+ CINE">
+    <title lang="es">Seis gendarmes en fuga (2015)</title>
+    <desc lang="es">Chucrot decide ayudar a uno de sus hombres internado con un problema de amnesia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81CHebdNXCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260228074500 +0100" stop="20260228091100 +0100" channel="acontra+ CINE">
+    <title lang="es">Adiós a las armas (1932)</title>
+    <desc lang="es">El chofer de una ambulancia y una enfermera se enamoran en Italia durante la Primera Guerra Mundial. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81A20FiWj2L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
