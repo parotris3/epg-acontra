@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260228040500 +0100" stop="20260228060500 +0100" channel="acontra+ CINE">
-    <title lang="es">La gran comilona (1974)</title>
-    <desc lang="es">Cuatro amigos se reúnen en una mansión con la idea de suicidarse comiendo sin tregua. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1EVv2su3fL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260228060500 +0100" stop="20260228074500 +0100" channel="acontra+ CINE">
-    <title lang="es">Seis gendarmes en fuga (2015)</title>
-    <desc lang="es">Chucrot decide ayudar a uno de sus hombres internado con un problema de amnesia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81CHebdNXCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260228074500 +0100" stop="20260228091100 +0100" channel="acontra+ CINE">
-    <title lang="es">Adiós a las armas (1932)</title>
-    <desc lang="es">El chofer de una ambulancia y una enfermera se enamoran en Italia durante la Primera Guerra Mundial. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81A20FiWj2L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260228091100 +0100" stop="20260228104300 +0100" channel="acontra+ CINE">
+  <programme start="20260228084300 +0100" stop="20260228104300 +0100" channel="acontra+ CINE">
     <title lang="es">Asesino a sueldo (2012)</title>
     <desc lang="es">Un asesino traicionado por los suyos huye a Londres, donde se une a una familia de gánsters. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/819aK0w0LrL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El legado (1979)</title>
     <desc lang="es">Seis personas llegan a una casa en el campo pero su tranquilo fin de semana se complicará. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81thiMnpaZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260228141200 +0100" stop="20260228155100 +0100" channel="acontra+ CINE">
+    <title lang="es">El gato y el canario (1979)</title>
+    <desc lang="es">La gran herencia de una mujer la convierte en el objetivo de un misterioso asesino. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91WU8UPlK6L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260228155100 +0100" stop="20260228174400 +0100" channel="acontra+ CINE">
+    <title lang="es">El dulce porvenir (1997)</title>
+    <desc lang="es">Un abogado va a un pequeño pueblo que sufre las secuelas del accidente de un autobús escolar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71-Vxuw0sKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260228174400 +0100" stop="20260228193100 +0100" channel="acontra+ CINE">
+    <title lang="es">Bajo el volcán (1984)</title>
+    <desc lang="es">Geoffrey Firmin, un diplomático inglés deprimido que se retira al alcohol para consolarse. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91MGFHg1p3L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
