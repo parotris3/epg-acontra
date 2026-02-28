@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260228084300 +0100" stop="20260228104300 +0100" channel="acontra+ CINE">
-    <title lang="es">Asesino a sueldo (2012)</title>
-    <desc lang="es">Un asesino traicionado por los suyos huye a Londres, donde se une a una familia de gánsters. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/819aK0w0LrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260228104300 +0100" stop="20260228123300 +0100" channel="acontra+ CINE">
-    <title lang="es">La Madre Teresa (2003)</title>
-    <desc lang="es">Una monja dedica su vida a ayudar a los pobres. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/71jK-GYTo7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260228123300 +0100" stop="20260228141200 +0100" channel="acontra+ CINE">
-    <title lang="es">El legado (1979)</title>
-    <desc lang="es">Seis personas llegan a una casa en el campo pero su tranquilo fin de semana se complicará. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81thiMnpaZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260228141200 +0100" stop="20260228155100 +0100" channel="acontra+ CINE">
+  <programme start="20260228135100 +0100" stop="20260228155100 +0100" channel="acontra+ CINE">
     <title lang="es">El gato y el canario (1979)</title>
     <desc lang="es">La gran herencia de una mujer la convierte en el objetivo de un misterioso asesino. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91WU8UPlK6L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Bajo el volcán (1984)</title>
     <desc lang="es">Geoffrey Firmin, un diplomático inglés deprimido que se retira al alcohol para consolarse. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91MGFHg1p3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260228193100 +0100" stop="20260228212700 +0100" channel="acontra+ CINE">
+    <title lang="es">Sophie Scholl: los últimos días (2005)</title>
+    <desc lang="es">Sophie Scholl es una estudiante en Múnich en 1943 encarcelada por la Gestapo durante una misión. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1v8rdAhFYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260228212700 +0100" stop="20260228230200 +0100" channel="acontra+ CINE">
+    <title lang="es">Banda aparte (2003)</title>
+    <desc lang="es">Arthur y Franz adoran el cine negro americano y su sueño es llegar a ser como los gánsteres. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91np+eX01bL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
