@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260228135100 +0100" stop="20260228155100 +0100" channel="acontra+ CINE">
-    <title lang="es">El gato y el canario (1979)</title>
-    <desc lang="es">La gran herencia de una mujer la convierte en el objetivo de un misterioso asesino. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WU8UPlK6L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260228155100 +0100" stop="20260228174400 +0100" channel="acontra+ CINE">
-    <title lang="es">El dulce porvenir (1997)</title>
-    <desc lang="es">Un abogado va a un pequeño pueblo que sufre las secuelas del accidente de un autobús escolar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71-Vxuw0sKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260228174400 +0100" stop="20260228193100 +0100" channel="acontra+ CINE">
-    <title lang="es">Bajo el volcán (1984)</title>
-    <desc lang="es">Geoffrey Firmin, un diplomático inglés deprimido que se retira al alcohol para consolarse. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91MGFHg1p3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260228193100 +0100" stop="20260228212700 +0100" channel="acontra+ CINE">
+  <programme start="20260228192700 +0100" stop="20260228212700 +0100" channel="acontra+ CINE">
     <title lang="es">Sophie Scholl: los últimos días (2005)</title>
     <desc lang="es">Sophie Scholl es una estudiante en Múnich en 1943 encarcelada por la Gestapo durante una misión. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1v8rdAhFYL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">Banda aparte (2003)</title>
     <desc lang="es">Arthur y Franz adoran el cine negro americano y su sueño es llegar a ser como los gánsteres. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91np+eX01bL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260228230200 +0100" stop="20260301002300 +0100" channel="acontra+ CINE">
+    <title lang="es">Slumber: El demonio del sueño (2017)</title>
+    <desc lang="es">Una doctora lucha contra un demonio que ataca a las personas mientras duermen. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91GqSQHjZkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260301002300 +0100" stop="20260301014700 +0100" channel="acontra+ CINE">
+    <title lang="es">The Jack in the Box (2019)</title>
+    <desc lang="es">Los amigos de Casey empiezan a morir cuando llega una antigua caja con un muñeco dentro. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91yN378qD9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260301014700 +0100" stop="20260301032900 +0100" channel="acontra+ CINE">
+    <title lang="es">Yo compré una moto vampiro (1991)</title>
+    <desc lang="es">Tras un ritual en el que un ocultista es asesinado, una moto es poseída por un espíritu vampírico. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1ZJSyE4GTL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260301032900 +0100" stop="20260301050500 +0100" channel="acontra+ CINE">
+    <title lang="es">6 días (2017)</title>
+    <desc lang="es">Un grupo armado toma la embajada iraní en 1980 y empieza un enfrentamiento de seis días. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91F6+BnLZtL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
