@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260301192900 +0100" stop="20260301212900 +0100" channel="acontra+ CINE">
-    <title lang="es">Fresas salvajes (2016)</title>
-    <desc lang="es">El profesor Borg reflexiona sobre los placeres y fracasos de su propia vida en un viaje. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/912DmnSVQ3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260301212900 +0100" stop="20260301224200 +0100" channel="acontra+ CINE">
-    <title lang="es">La reina de Nueva York (1937)</title>
-    <desc lang="es">La suerte de un periodista cambia cuando le vende a su editor la trágica historia de una chica. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81pHo3G158L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260301224200 +0100" stop="20260302001300 +0100" channel="acontra+ CINE">
+  <programme start="20260301221300 +0100" stop="20260302001300 +0100" channel="acontra+ CINE">
     <title lang="es">El proyecto supermente (2017)</title>
     <desc lang="es">Algo sucede en Los Ángeles; la tierra ha comenzado a temblar y los edificios se vienen abajo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91WroaoxMzL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">The Point Men: En el punto de mira (2001)</title>
     <desc lang="es">Un agente secreto del Mossad israelí debe atrapar a un peligroso terrorista. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71dpu8snIHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260302052800 +0100" stop="20260302072500 +0100" channel="acontra+ CINE">
+    <title lang="es">Saint Jack (1979)</title>
+    <desc lang="es">Jack se enfrentará a un nuevo inspector cuando este quiere revisar las cuentas de su burdel. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81zoGQKfTzL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260302072500 +0100" stop="20260302090400 +0100" channel="acontra+ CINE">
+    <title lang="es">The Last Five Years (2014)</title>
+    <desc lang="es">Basada en la obra musical de Jason Robert Brown. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81dfDfoXLCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
