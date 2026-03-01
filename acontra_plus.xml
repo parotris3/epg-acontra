@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260301080200 +0100" stop="20260301100200 +0100" channel="acontra+ CINE">
-    <title lang="es">Padre patrón (1977)</title>
-    <desc lang="es">La historia real de Gavino Ledda, que fue obligado por su autoritario padre a dejar la escuela. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/61+CRe2Rb7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260301100200 +0100" stop="20260301113400 +0100" channel="acontra+ CINE">
-    <title lang="es">Sonata de otoño (1978)</title>
-    <desc lang="es">Bergman retrata el enfrentamiento entre madre e hija, y temas como la incomunicación y la muerte. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uqx1pmRqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260301113400 +0100" stop="20260301131700 +0100" channel="acontra+ CINE">
-    <title lang="es">Doctor Terror (1965)</title>
-    <desc lang="es">Cinco viajeros de un tren se entretienen con relatos de vampiros, lobos y cosas extrañas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81+12c+bvlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260301131700 +0100" stop="20260301145300 +0100" channel="acontra+ CINE">
-    <title lang="es">El guardián de la reliquia (2017)</title>
-    <desc lang="es">Irlanda, 1209. Unos monjes emprenden un peligroso viaje para trasladar a Roma una poderosa reliquia. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81MjMmSWPfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260301145300 +0100" stop="20260301164200 +0100" channel="acontra+ CINE">
+  <programme start="20260301144200 +0100" stop="20260301164200 +0100" channel="acontra+ CINE">
     <title lang="es">Yatterman (2009)</title>
     <desc lang="es">Gan, Ai y su fiel perro robot gigante tratarán de evitar que Doronjo se haga con una piedra mágica. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81pol7ZTJZL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +12,25 @@
     <title lang="es">Un hombre de altura (2016)</title>
     <desc lang="es">Una abogada conoce por teléfono a un hombre divertido, pero su encuentro no es el esperado. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Gb9BBU+8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260301182300 +0100" stop="20260301195800 +0100" channel="acontra+ CINE">
+    <title lang="es">El último pasajero (2013)</title>
+    <desc lang="es">Los frenos de un tren han sido saboteados por un sociópata. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81dfjgkDIdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260301195800 +0100" stop="20260301212900 +0100" channel="acontra+ CINE">
+    <title lang="es">Fresas salvajes (2016)</title>
+    <desc lang="es">El profesor Borg reflexiona sobre los placeres y fracasos de su propia vida en un viaje. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/912DmnSVQ3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260301212900 +0100" stop="20260301224200 +0100" channel="acontra+ CINE">
+    <title lang="es">La reina de Nueva York (1937)</title>
+    <desc lang="es">La suerte de un periodista cambia cuando le vende a su editor la trágica historia de una chica. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81pHo3G158L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260301224200 +0100" stop="20260302001300 +0100" channel="acontra+ CINE">
+    <title lang="es">El proyecto supermente (2017)</title>
+    <desc lang="es">Algo sucede en Los Ángeles; la tierra ha comenzado a temblar y los edificios se vienen abajo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91WroaoxMzL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
