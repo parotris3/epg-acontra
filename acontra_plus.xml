@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260301144200 +0100" stop="20260301164200 +0100" channel="acontra+ CINE">
-    <title lang="es">Yatterman (2009)</title>
-    <desc lang="es">Gan, Ai y su fiel perro robot gigante tratarán de evitar que Doronjo se haga con una piedra mágica. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81pol7ZTJZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260301164200 +0100" stop="20260301182300 +0100" channel="acontra+ CINE">
-    <title lang="es">Un hombre de altura (2016)</title>
-    <desc lang="es">Una abogada conoce por teléfono a un hombre divertido, pero su encuentro no es el esperado. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Gb9BBU+8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260301182300 +0100" stop="20260301195800 +0100" channel="acontra+ CINE">
-    <title lang="es">El último pasajero (2013)</title>
-    <desc lang="es">Los frenos de un tren han sido saboteados por un sociópata. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81dfjgkDIdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260301195800 +0100" stop="20260301212900 +0100" channel="acontra+ CINE">
+  <programme start="20260301192900 +0100" stop="20260301212900 +0100" channel="acontra+ CINE">
     <title lang="es">Fresas salvajes (2016)</title>
     <desc lang="es">El profesor Borg reflexiona sobre los placeres y fracasos de su propia vida en un viaje. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/912DmnSVQ3L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El proyecto supermente (2017)</title>
     <desc lang="es">Algo sucede en Los Ángeles; la tierra ha comenzado a temblar y los edificios se vienen abajo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91WroaoxMzL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260302001300 +0100" stop="20260302022100 +0100" channel="acontra+ CINE">
+    <title lang="es">No se lo digas a nadie (2006)</title>
+    <desc lang="es">La mujer de Alex Beck fue asesinada hace ocho años, ahora él es sospechoso de dos asesinatos. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91LHfqAz5OL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260302022100 +0100" stop="20260302035300 +0100" channel="acontra+ CINE">
+    <title lang="es">La bestia bajo el asfalto (1980)</title>
+    <desc lang="es">En Chicago aparece un cocodrilo de un tamaño gigante que sale de sus cloacas. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/816cOdDJ9CL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260302035300 +0100" stop="20260302052800 +0100" channel="acontra+ CINE">
+    <title lang="es">The Point Men: En el punto de mira (2001)</title>
+    <desc lang="es">Un agente secreto del Mossad israelí debe atrapar a un peligroso terrorista. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71dpu8snIHL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
