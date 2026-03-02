@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260302091000 +0100" stop="20260302111000 +0100" channel="acontra+ CINE">
-    <title lang="es">Las bostonianas (1984)</title>
-    <desc lang="es">La sufragista Olive decide convertir a la joven Verena en portavoz del incipiente movimiento. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91JXk-A4hcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260302111000 +0100" stop="20260302124500 +0100" channel="acontra+ CINE">
-    <title lang="es">Habitación verde (2015)</title>
-    <desc lang="es">Unos neonazis quieren matar a unos músicos. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/9163gYcEEDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260302124500 +0100" stop="20260302144200 +0100" channel="acontra+ CINE">
-    <title lang="es">El manantial (2001)</title>
-    <desc lang="es">La rivalidad entre dos familias encuentra su cauce. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81YmyIr+LdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260302144200 +0100" stop="20260302161900 +0100" channel="acontra+ CINE">
+  <programme start="20260302141900 +0100" stop="20260302161900 +0100" channel="acontra+ CINE">
     <title lang="es">El escapista (2008)</title>
     <desc lang="es">El preso condenado a cadena perpetua Frank Perry recibe un mensaje sobre la salud de su hija. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1sbBOhNhjL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Cleo de 5 a 7 (1963)</title>
     <desc lang="es">Cléo deambula, angustiada, mientras aguarda los resultados de un análisis médico. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81K289K2nQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260302192500 +0100" stop="20260302212300 +0100" channel="acontra+ CINE">
+    <title lang="es">Angel (2007)</title>
+    <desc lang="es">Inglaterra, 1910. Angel Deverell, una joven de origen humilde, trata de escalar socialmente. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81shyQSUPuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260302212300 +0100" stop="20260302231500 +0100" channel="acontra+ CINE">
+    <title lang="es">Nueve vidas (2005)</title>
+    <desc lang="es">Nueve mujeres diferentes entre sí explican de manera cautivadora sus experiencias individuales. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91XIBSY-3pL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
