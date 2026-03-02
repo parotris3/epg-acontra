@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260302141900 +0100" stop="20260302161900 +0100" channel="acontra+ CINE">
-    <title lang="es">El escapista (2008)</title>
-    <desc lang="es">El preso condenado a cadena perpetua Frank Perry recibe un mensaje sobre la salud de su hija. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1sbBOhNhjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260302161900 +0100" stop="20260302175400 +0100" channel="acontra+ CINE">
-    <title lang="es">Dos vidas en un instante (1998)</title>
-    <desc lang="es">En medio de las crisis, la vida de Helen da un giro y experimenta una realidad alternativa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71gf9K9ZaPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260302175400 +0100" stop="20260302192500 +0100" channel="acontra+ CINE">
-    <title lang="es">Cleo de 5 a 7 (1963)</title>
-    <desc lang="es">Cléo deambula, angustiada, mientras aguarda los resultados de un análisis médico. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81K289K2nQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260302192500 +0100" stop="20260302212300 +0100" channel="acontra+ CINE">
+  <programme start="20260302192300 +0100" stop="20260302212300 +0100" channel="acontra+ CINE">
     <title lang="es">Angel (2007)</title>
     <desc lang="es">Inglaterra, 1910. Angel Deverell, una joven de origen humilde, trata de escalar socialmente. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81shyQSUPuL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Nueve vidas (2005)</title>
     <desc lang="es">Nueve mujeres diferentes entre sí explican de manera cautivadora sus experiencias individuales. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91XIBSY-3pL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260302231500 +0100" stop="20260303013800 +0100" channel="acontra+ CINE">
+    <title lang="es">Becket (1964)</title>
+    <desc lang="es">Enrique II Plantagenet, rey de Inglaterra, y Thomas Becket se enfrentan violentamente. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91DlKcfPiZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260303013800 +0100" stop="20260303035500 +0100" channel="acontra+ CINE">
+    <title lang="es">¡Vivir! (1994)</title>
+    <desc lang="es">Una pareja se enfrenta a la turbulenta historia política de China a lo largo de 30 años. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71bSqDq2fPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260303035500 +0100" stop="20260303053700 +0100" channel="acontra+ CINE">
+    <title lang="es">Cal (1989)</title>
+    <desc lang="es">En Irlanda del Norte, un joven católico es sospechoso en el asesinato de un policía protestante. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81T3UBe8n8L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
