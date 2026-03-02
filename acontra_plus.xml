@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260301221300 +0100" stop="20260302001300 +0100" channel="acontra+ CINE">
-    <title lang="es">El proyecto supermente (2017)</title>
-    <desc lang="es">Algo sucede en Los Ángeles; la tierra ha comenzado a temblar y los edificios se vienen abajo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WroaoxMzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260302001300 +0100" stop="20260302022100 +0100" channel="acontra+ CINE">
-    <title lang="es">No se lo digas a nadie (2006)</title>
-    <desc lang="es">La mujer de Alex Beck fue asesinada hace ocho años, ahora él es sospechoso de dos asesinatos. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91LHfqAz5OL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260302022100 +0100" stop="20260302035300 +0100" channel="acontra+ CINE">
-    <title lang="es">La bestia bajo el asfalto (1980)</title>
-    <desc lang="es">En Chicago aparece un cocodrilo de un tamaño gigante que sale de sus cloacas. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/816cOdDJ9CL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260302035300 +0100" stop="20260302052800 +0100" channel="acontra+ CINE">
+  <programme start="20260302032800 +0100" stop="20260302052800 +0100" channel="acontra+ CINE">
     <title lang="es">The Point Men: En el punto de mira (2001)</title>
     <desc lang="es">Un agente secreto del Mossad israelí debe atrapar a un peligroso terrorista. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71dpu8snIHL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">The Last Five Years (2014)</title>
     <desc lang="es">Basada en la obra musical de Jason Robert Brown. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81dfDfoXLCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260302090400 +0100" stop="20260302111000 +0100" channel="acontra+ CINE">
+    <title lang="es">Las bostonianas (1984)</title>
+    <desc lang="es">La sufragista Olive decide convertir a la joven Verena en portavoz del incipiente movimiento. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91JXk-A4hcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260302111000 +0100" stop="20260302124500 +0100" channel="acontra+ CINE">
+    <title lang="es">Habitación verde (2015)</title>
+    <desc lang="es">Unos neonazis quieren matar a unos músicos. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/9163gYcEEDL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260302124500 +0100" stop="20260302144200 +0100" channel="acontra+ CINE">
+    <title lang="es">El manantial (2001)</title>
+    <desc lang="es">La rivalidad entre dos familias encuentra su cauce. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81YmyIr+LdL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
