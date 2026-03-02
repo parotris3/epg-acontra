@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260302032800 +0100" stop="20260302052800 +0100" channel="acontra+ CINE">
-    <title lang="es">The Point Men: En el punto de mira (2001)</title>
-    <desc lang="es">Un agente secreto del Mossad israelí debe atrapar a un peligroso terrorista. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71dpu8snIHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260302052800 +0100" stop="20260302072500 +0100" channel="acontra+ CINE">
-    <title lang="es">Saint Jack (1979)</title>
-    <desc lang="es">Jack se enfrentará a un nuevo inspector cuando este quiere revisar las cuentas de su burdel. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81zoGQKfTzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260302072500 +0100" stop="20260302090400 +0100" channel="acontra+ CINE">
-    <title lang="es">The Last Five Years (2014)</title>
-    <desc lang="es">Basada en la obra musical de Jason Robert Brown. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81dfDfoXLCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260302090400 +0100" stop="20260302111000 +0100" channel="acontra+ CINE">
+  <programme start="20260302091000 +0100" stop="20260302111000 +0100" channel="acontra+ CINE">
     <title lang="es">Las bostonianas (1984)</title>
     <desc lang="es">La sufragista Olive decide convertir a la joven Verena en portavoz del incipiente movimiento. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91JXk-A4hcL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El manantial (2001)</title>
     <desc lang="es">La rivalidad entre dos familias encuentra su cauce. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81YmyIr+LdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260302144200 +0100" stop="20260302161900 +0100" channel="acontra+ CINE">
+    <title lang="es">El escapista (2008)</title>
+    <desc lang="es">El preso condenado a cadena perpetua Frank Perry recibe un mensaje sobre la salud de su hija. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1sbBOhNhjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260302161900 +0100" stop="20260302175400 +0100" channel="acontra+ CINE">
+    <title lang="es">Dos vidas en un instante (1998)</title>
+    <desc lang="es">En medio de las crisis, la vida de Helen da un giro y experimenta una realidad alternativa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71gf9K9ZaPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260302175400 +0100" stop="20260302192500 +0100" channel="acontra+ CINE">
+    <title lang="es">Cleo de 5 a 7 (1963)</title>
+    <desc lang="es">Cléo deambula, angustiada, mientras aguarda los resultados de un análisis médico. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81K289K2nQL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
