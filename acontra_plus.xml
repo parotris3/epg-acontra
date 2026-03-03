@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260303083600 +0100" stop="20260303103600 +0100" channel="acontra+ CINE">
-    <title lang="es">Desayuno en Plutón (2005)</title>
-    <desc lang="es">Patrick, un joven trans, sobrevive en un ambiente hostil gracias a su ingenio y su perseverancia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/810J0xbCEWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260303103600 +0100" stop="20260303120800 +0100" channel="acontra+ CINE">
-    <title lang="es">Cromosoma 3 (1979)</title>
-    <desc lang="es">El psiquiatra Hal Raglen inventa una terapia especial para tratar psicópatas, la somatización. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71AmspXCoFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260303120800 +0100" stop="20260303132900 +0100" channel="acontra+ CINE">
-    <title lang="es">La mano del diablo (2015)</title>
-    <desc lang="es">Roland, un pintor fracasado, empieza a contar su historia sobre el talismán que cambió su vida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1LUUu78PsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260303132900 +0100" stop="20260303151200 +0100" channel="acontra+ CINE">
+  <programme start="20260303131200 +0100" stop="20260303151200 +0100" channel="acontra+ CINE">
     <title lang="es">El coro (2014)</title>
     <desc lang="es">Las estrictas e inspiradoras lecciones de un maestro despertarán en un joven el amor por la música. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Uiayj-0kL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Este coche es una ruina (1988)</title>
     <desc lang="es">Gerald se compra un Jaguar nuevo, y al instante se convierte en su nuevo amor. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91tcvCHxZtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260303182400 +0100" stop="20260303201200 +0100" channel="acontra+ CINE">
+    <title lang="es">La Noche de San Lorenzo (2008)</title>
+    <desc lang="es">Durante la Segunda Guerra Mundial, los vecinos de un pueblo toscano huyen a las montañas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71p0zWUMldL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260303201200 +0100" stop="20260303215600 +0100" channel="acontra+ CINE">
+    <title lang="es">Llévame a la luna (2012)</title>
+    <desc lang="es">Una mujer se propone eliminar la maldición familiar en la que cada primer matrimonio se divorcia. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/813uBwbCaXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260303215600 +0100" stop="20260303233400 +0100" channel="acontra+ CINE">
+    <title lang="es">La horda (2009)</title>
+    <desc lang="es">Un grupo de policías corruptos y criminales despiadados aúnan fuerzas en contra de unos monstruos. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81opcegUrLL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
