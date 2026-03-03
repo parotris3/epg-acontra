@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260302233800 +0100" stop="20260303013800 +0100" channel="acontra+ CINE">
-    <title lang="es">Becket (1964)</title>
-    <desc lang="es">Enrique II Plantagenet, rey de Inglaterra, y Thomas Becket se enfrentan violentamente. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91DlKcfPiZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260303013800 +0100" stop="20260303035500 +0100" channel="acontra+ CINE">
-    <title lang="es">¡Vivir! (1994)</title>
-    <desc lang="es">Una pareja se enfrenta a la turbulenta historia política de China a lo largo de 30 años. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71bSqDq2fPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260303035500 +0100" stop="20260303053700 +0100" channel="acontra+ CINE">
+  <programme start="20260303033700 +0100" stop="20260303053700 +0100" channel="acontra+ CINE">
     <title lang="es">Cal (1989)</title>
     <desc lang="es">En Irlanda del Norte, un joven católico es sospechoso en el asesinato de un policía protestante. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81T3UBe8n8L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">El hombre orquesta (1970)</title>
     <desc lang="es">Un director de un ballet femenino hace lo posible para que sus bailarinas encuentren marido. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71XmK2jrJ-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260303083300 +0100" stop="20260303103600 +0100" channel="acontra+ CINE">
+    <title lang="es">Desayuno en Plutón (2005)</title>
+    <desc lang="es">Patrick, un joven trans, sobrevive en un ambiente hostil gracias a su ingenio y su perseverancia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/810J0xbCEWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260303103600 +0100" stop="20260303120800 +0100" channel="acontra+ CINE">
+    <title lang="es">Cromosoma 3 (1979)</title>
+    <desc lang="es">El psiquiatra Hal Raglen inventa una terapia especial para tratar psicópatas, la somatización. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71AmspXCoFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260303120800 +0100" stop="20260303132900 +0100" channel="acontra+ CINE">
+    <title lang="es">La mano del diablo (2015)</title>
+    <desc lang="es">Roland, un pintor fracasado, empieza a contar su historia sobre el talismán que cambió su vida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1LUUu78PsL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
