@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260303181200 +0100" stop="20260303201200 +0100" channel="acontra+ CINE">
-    <title lang="es">La Noche de San Lorenzo (2008)</title>
-    <desc lang="es">Durante la Segunda Guerra Mundial, los vecinos de un pueblo toscano huyen a las montañas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71p0zWUMldL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260303201200 +0100" stop="20260303215600 +0100" channel="acontra+ CINE">
-    <title lang="es">Llévame a la luna (2012)</title>
-    <desc lang="es">Una mujer se propone eliminar la maldición familiar en la que cada primer matrimonio se divorcia. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/813uBwbCaXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260303215600 +0100" stop="20260303233400 +0100" channel="acontra+ CINE">
-    <title lang="es">La horda (2009)</title>
-    <desc lang="es">Un grupo de policías corruptos y criminales despiadados aúnan fuerzas en contra de unos monstruos. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81opcegUrLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260303233400 +0100" stop="20260304014400 +0100" channel="acontra+ CINE">
+  <programme start="20260303234400 +0100" stop="20260304014400 +0100" channel="acontra+ CINE">
     <title lang="es">La gran comilona (1974)</title>
     <desc lang="es">Cuatro amigos se reúnen en una mansión con la idea de suicidarse comiendo sin tregua. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1EVv2su3fL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,15 @@
     <title lang="es">La venganza es mía (1979)</title>
     <desc lang="es">Enokizu es un criminal al que le encanta cometer atrocidades y despiadados crímenes. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81+f+z7V-RL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260304040700 +0100" stop="20260304054600 +0100" channel="acontra+ CINE">
+    <title lang="es">La lectora (1989)</title>
+    <desc lang="es">Constance es una apasionada lectora que decide dedicarse a leer a domicilio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/41vj4NFX3TL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260304054600 +0100" stop="20260304081000 +0100" channel="acontra+ CINE">
+    <title lang="es">Los Buddenbrook (2008)</title>
+    <desc lang="es">Los Buddenbrooks es la adaptación cinematográfica de la novela de Thomas Mann. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ZbMAcazML._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
