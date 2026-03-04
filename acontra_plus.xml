@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260304142900 +0100" stop="20260304162900 +0100" channel="acontra+ CINE">
-    <title lang="es">Pasiones en Kenia (1988)</title>
-    <desc lang="es">Una colonia británica en Kenia se escandaliza por una relación adúltera que conduce a un homicidio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81FV1QRGKuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260304162900 +0100" stop="20260304175400 +0100" channel="acontra+ CINE">
-    <title lang="es">Sexy Beast (2000)</title>
-    <desc lang="es">Gal Dove se planteará regresar al mundo criminal cuando su antiguo socio, Don Logan, se lo propone. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81dP7k-3QgL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260304175400 +0100" stop="20260304191700 +0100" channel="acontra+ CINE">
-    <title lang="es">The Addiction (1995)</title>
-    <desc lang="es">Una joven intenta comprender su nueva vida tras ser convertida en vampiro en un ataque. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71hyHt1yFiL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260304191700 +0100" stop="20260304210300 +0100" channel="acontra+ CINE">
+  <programme start="20260304190300 +0100" stop="20260304210300 +0100" channel="acontra+ CINE">
     <title lang="es">Todo por Grace (2018)</title>
     <desc lang="es">Un joven trasciende los límites de raza y clase para perseguir un amor imposible. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1-Zchj8WXL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">Un pueblo y su rey (2019)</title>
     <desc lang="es">París, 1789. La Bastilla ha sido asaltada y un soplo de libertad invade las calles. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71AIj2LVkZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260304230500 +0100" stop="20260305005600 +0100" channel="acontra+ CINE">
+    <title lang="es">Uno tras otro (2014)</title>
+    <desc lang="es">Cuando su hijo muere de sobredosis, Nils, convencido de que ha sido asesinado, quiere venganza. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81K2F-fI2sL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260305005600 +0100" stop="20260305021600 +0100" channel="acontra+ CINE">
+    <title lang="es">Willow Creek (2014)</title>
+    <desc lang="es">Una pareja se adentra en el bosque en busca de una foto que demuestre la existencia del bigfoot. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71QKxQmk0OL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260305021600 +0100" stop="20260305040000 +0100" channel="acontra+ CINE">
+    <title lang="es">Sin techo ni ley (1991)</title>
+    <desc lang="es">Mona era una nómada, autoestopista y pasó sus últimos días caminando por las carreteras. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91igR0qpfHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260305040000 +0100" stop="20260305053400 +0100" channel="acontra+ CINE">
+    <title lang="es">Orlando (1993)</title>
+    <desc lang="es">El noble Orlando es condenado por la reina Isabel I a permanecer eternamente joven. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/816iNv+M1YL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
