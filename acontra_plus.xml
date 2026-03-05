@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260305191400 +0100" stop="20260305211400 +0100" channel="acontra+ CINE">
-    <title lang="es">Cuento de Invierno (2015)</title>
-    <desc lang="es">El recuerdo del hombre que amó invade a una joven madre y le impide enamorarse. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-IFBUjqlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260305211400 +0100" stop="20260305224600 +0100" channel="acontra+ CINE">
-    <title lang="es">Un Plan Para Enamorarse (2011)</title>
-    <desc lang="es">Una consejera matrimonial recién casada descubre que sus padres se van a divorciar. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71gP16ib9fL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260305224600 +0100" stop="20260306004200 +0100" channel="acontra+ CINE">
+  <programme start="20260305224200 +0100" stop="20260306004200 +0100" channel="acontra+ CINE">
     <title lang="es">Disparando a perros (2005)</title>
     <desc lang="es">Un profesor ofrece protección a miles de ruandeses que escapan del genocidio en la Ruanda de 1994. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71bv7tLr2dL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">Asalto a la comisaría del distrito 13 (1976)</title>
     <desc lang="es">Un policía de Los Ángeles recibe su primer destino en una comisaría que está siendo trasladada. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81oSJqNa7iL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260306053100 +0100" stop="20260306070700 +0100" channel="acontra+ CINE">
+    <title lang="es">600 kilos de oro puro (2010)</title>
+    <desc lang="es">Aventureros roban una mina de oro en la Guyana, pero deben aterrizar de emergencia en plena jungla. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81EGNcaSulL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260306070700 +0100" stop="20260306091700 +0100" channel="acontra+ CINE">
+    <title lang="es">Cuentos de Tokio (1953)</title>
+    <desc lang="es">Una pareja de ancianos pasa la noche en casa de su nuera, la cual muestra más interés que sus hijos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81sgTI5N65L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
