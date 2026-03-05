@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260305140300 +0100" stop="20260305160300 +0100" channel="acontra+ CINE">
-    <title lang="es">El novio de mi madre (2007)</title>
-    <desc lang="es">La agitada vida de una mujer madura cambia cuando se enamora de un hombre mucho más joven que ella. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qWfjAZw8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260305160300 +0100" stop="20260305175900 +0100" channel="acontra+ CINE">
-    <title lang="es">Destrucción (2018)</title>
-    <desc lang="es">Una policía revive el drama que marcó su vida. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Kaac9AZlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260305175900 +0100" stop="20260305192000 +0100" channel="acontra+ CINE">
-    <title lang="es">Dame 10 razones (2006)</title>
-    <desc lang="es">Un actor se adentra en un supermercado de un barrio obrero para investigar sobre su personaje. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81m7-duJJZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260305192000 +0100" stop="20260305211400 +0100" channel="acontra+ CINE">
+  <programme start="20260305191400 +0100" stop="20260305211400 +0100" channel="acontra+ CINE">
     <title lang="es">Cuento de Invierno (2015)</title>
     <desc lang="es">El recuerdo del hombre que amó invade a una joven madre y le impide enamorarse. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81-IFBUjqlL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Disparando a perros (2005)</title>
     <desc lang="es">Un profesor ofrece protección a miles de ruandeses que escapan del genocidio en la Ruanda de 1994. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71bv7tLr2dL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260306004200 +0100" stop="20260306020400 +0100" channel="acontra+ CINE">
+    <title lang="es">Deal (2008)</title>
+    <desc lang="es">Un ex-jugador de póker transmite toda su sabiduría a un estudiante universitario. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91zLQrEfMQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260306020400 +0100" stop="20260306040000 +0100" channel="acontra+ CINE">
+    <title lang="es">Byzantium (2012)</title>
+    <desc lang="es">Dos vampiresas que huyen de otros vampiros se refugian en una comunidad británica junto al mar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91pz7+eAfkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260306040000 +0100" stop="20260306053100 +0100" channel="acontra+ CINE">
+    <title lang="es">Asalto a la comisaría del distrito 13 (1976)</title>
+    <desc lang="es">Un policía de Los Ángeles recibe su primer destino en una comisaría que está siendo trasladada. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81oSJqNa7iL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
