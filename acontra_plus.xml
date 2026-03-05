@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260305033400 +0100" stop="20260305053400 +0100" channel="acontra+ CINE">
-    <title lang="es">Orlando (1993)</title>
-    <desc lang="es">El noble Orlando es condenado por la reina Isabel I a permanecer eternamente joven. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/816iNv+M1YL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260305053400 +0100" stop="20260305073400 +0100" channel="acontra+ CINE">
-    <title lang="es">Mi cena con Andre (1981)</title>
-    <desc lang="es">Durante una cena, dos actores y dramaturgos abordan los grandes temas de la existencia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1+nEcy5x7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260305073400 +0100" stop="20260305091200 +0100" channel="acontra+ CINE">
-    <title lang="es">Los amigos del novio (2006)</title>
-    <desc lang="es">A una semana de casarse con su novia embarazada, Paulie está preocupado por los cambios en su vida. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81GHWbBLbmL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260305091200 +0100" stop="20260305110300 +0100" channel="acontra+ CINE">
+  <programme start="20260305090300 +0100" stop="20260305110300 +0100" channel="acontra+ CINE">
     <title lang="es">La sala de baile (1984)</title>
     <desc lang="es">Ettore Scola narra la historia de Europa de los últimos 50 años comprimiéndola en un salón de baile. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/813CAMpLW9L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">The Chosen (1981)</title>
     <desc lang="es">Un judío y el hijo de un rabí hasídico se hacen amigos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/818x1QaWSFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260305142600 +0100" stop="20260305160300 +0100" channel="acontra+ CINE">
+    <title lang="es">El novio de mi madre (2007)</title>
+    <desc lang="es">La agitada vida de una mujer madura cambia cuando se enamora de un hombre mucho más joven que ella. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qWfjAZw8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260305160300 +0100" stop="20260305175900 +0100" channel="acontra+ CINE">
+    <title lang="es">Destrucción (2018)</title>
+    <desc lang="es">Una policía revive el drama que marcó su vida. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Kaac9AZlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260305175900 +0100" stop="20260305192000 +0100" channel="acontra+ CINE">
+    <title lang="es">Dame 10 razones (2006)</title>
+    <desc lang="es">Un actor se adentra en un supermercado de un barrio obrero para investigar sobre su personaje. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81m7-duJJZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
