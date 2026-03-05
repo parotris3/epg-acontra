@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260305090300 +0100" stop="20260305110300 +0100" channel="acontra+ CINE">
-    <title lang="es">La sala de baile (1984)</title>
-    <desc lang="es">Ettore Scola narra la historia de Europa de los últimos 50 años comprimiéndola en un salón de baile. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/813CAMpLW9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260305110300 +0100" stop="20260305123900 +0100" channel="acontra+ CINE">
-    <title lang="es">Hit &#38; Run (2012)</title>
-    <desc lang="es">Un piloto se arriesga para llevar a una mujer a Los Ángeles. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1SfhywIqsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260305123900 +0100" stop="20260305142600 +0100" channel="acontra+ CINE">
-    <title lang="es">The Chosen (1981)</title>
-    <desc lang="es">Un judío y el hijo de un rabí hasídico se hacen amigos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/818x1QaWSFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260305142600 +0100" stop="20260305160300 +0100" channel="acontra+ CINE">
+  <programme start="20260305140300 +0100" stop="20260305160300 +0100" channel="acontra+ CINE">
     <title lang="es">El novio de mi madre (2007)</title>
     <desc lang="es">La agitada vida de una mujer madura cambia cuando se enamora de un hombre mucho más joven que ella. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81qWfjAZw8L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Dame 10 razones (2006)</title>
     <desc lang="es">Un actor se adentra en un supermercado de un barrio obrero para investigar sobre su personaje. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81m7-duJJZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260305192000 +0100" stop="20260305211400 +0100" channel="acontra+ CINE">
+    <title lang="es">Cuento de Invierno (2015)</title>
+    <desc lang="es">El recuerdo del hombre que amó invade a una joven madre y le impide enamorarse. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-IFBUjqlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260305211400 +0100" stop="20260305224600 +0100" channel="acontra+ CINE">
+    <title lang="es">Un Plan Para Enamorarse (2011)</title>
+    <desc lang="es">Una consejera matrimonial recién casada descubre que sus padres se van a divorciar. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71gP16ib9fL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260305224600 +0100" stop="20260306004200 +0100" channel="acontra+ CINE">
+    <title lang="es">Disparando a perros (2005)</title>
+    <desc lang="es">Un profesor ofrece protección a miles de ruandeses que escapan del genocidio en la Ruanda de 1994. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71bv7tLr2dL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
