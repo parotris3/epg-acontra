@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260304225600 +0100" stop="20260305005600 +0100" channel="acontra+ CINE">
-    <title lang="es">Uno tras otro (2014)</title>
-    <desc lang="es">Cuando su hijo muere de sobredosis, Nils, convencido de que ha sido asesinado, quiere venganza. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81K2F-fI2sL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260305005600 +0100" stop="20260305021600 +0100" channel="acontra+ CINE">
-    <title lang="es">Willow Creek (2014)</title>
-    <desc lang="es">Una pareja se adentra en el bosque en busca de una foto que demuestre la existencia del bigfoot. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71QKxQmk0OL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260305021600 +0100" stop="20260305040000 +0100" channel="acontra+ CINE">
-    <title lang="es">Sin techo ni ley (1991)</title>
-    <desc lang="es">Mona era una nómada, autoestopista y pasó sus últimos días caminando por las carreteras. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91igR0qpfHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260305040000 +0100" stop="20260305053400 +0100" channel="acontra+ CINE">
+  <programme start="20260305033400 +0100" stop="20260305053400 +0100" channel="acontra+ CINE">
     <title lang="es">Orlando (1993)</title>
     <desc lang="es">El noble Orlando es condenado por la reina Isabel I a permanecer eternamente joven. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/816iNv+M1YL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Los amigos del novio (2006)</title>
     <desc lang="es">A una semana de casarse con su novia embarazada, Paulie está preocupado por los cambios en su vida. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81GHWbBLbmL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260305091200 +0100" stop="20260305110300 +0100" channel="acontra+ CINE">
+    <title lang="es">La sala de baile (1984)</title>
+    <desc lang="es">Ettore Scola narra la historia de Europa de los últimos 50 años comprimiéndola en un salón de baile. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/813CAMpLW9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260305110300 +0100" stop="20260305123900 +0100" channel="acontra+ CINE">
+    <title lang="es">Hit &#38; Run (2012)</title>
+    <desc lang="es">Un piloto se arriesga para llevar a una mujer a Los Ángeles. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1SfhywIqsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260305123900 +0100" stop="20260305142600 +0100" channel="acontra+ CINE">
+    <title lang="es">The Chosen (1981)</title>
+    <desc lang="es">Un judío y el hijo de un rabí hasídico se hacen amigos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/818x1QaWSFL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
