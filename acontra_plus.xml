@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260306181500 +0100" stop="20260306201500 +0100" channel="acontra+ CINE">
-    <title lang="es">Algo celosa (2020)</title>
-    <desc lang="es">Una mujer divorciada y profesora de francés comienza a sentir celos de su hija de 18 años. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A17d+USpfJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260306201500 +0100" stop="20260306215400 +0100" channel="acontra+ CINE">
-    <title lang="es">Invitado de honor (2019)</title>
-    <desc lang="es">Verónica quiere permanecer en la cárcel por una agresión sexual que no ha cometido. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Qt36N5w0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260306215400 +0100" stop="20260306234100 +0100" channel="acontra+ CINE">
-    <title lang="es">Yojimbo (1961)</title>
-    <desc lang="es">Un samurái llega a un poblado en el que dos bandas de mercenarios luchan entre sí. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71+35AZeQ7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260306234100 +0100" stop="20260307011400 +0100" channel="acontra+ CINE">
+  <programme start="20260306231400 +0100" stop="20260307011400 +0100" channel="acontra+ CINE">
     <title lang="es">Un verano con Mónica (1955)</title>
     <desc lang="es">Dos adolescentes se enamoran y dejan todo para emprender un viaje juntos en barco. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81X33-oJfLL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">El sabor del sake (1962)</title>
     <desc lang="es">Shubei Hirayama es viudo y vive con su hija, pero ve injusto que ella se dedique solo a cuidarlo. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/91GC-TwVyML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260307042000 +0100" stop="20260307062900 +0100" channel="acontra+ CINE">
+    <title lang="es">Stonewall (2015)</title>
+    <desc lang="es">Stonewall se convirtió en el punto de partida de los derechos de los homosexuales en Nueva York. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91bmUydEiYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260307062900 +0100" stop="20260307080600 +0100" channel="acontra+ CINE">
+    <title lang="es">El día de los muertos (1985)</title>
+    <desc lang="es">Los zombies se han apoderado del planeta. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1ZIzNHVVuL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
