@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260306091600 +0100" stop="20260306111600 +0100" channel="acontra+ CINE">
-    <title lang="es">Dinero fácil (2010)</title>
-    <desc lang="es">Tres criminales se unen para conseguir un objetivo común: vengarse del gran capo Radovan. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1hkAaQa6JL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260306111600 +0100" stop="20260306130700 +0100" channel="acontra+ CINE">
-    <title lang="es">The Sea of Trees (2015)</title>
-    <desc lang="es">Un estadounidense y un japonés se conocen en un bosque. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BFJfGFeZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260306130700 +0100" stop="20260306144400 +0100" channel="acontra+ CINE">
-    <title lang="es">El amor está en el aire (2013)</title>
-    <desc lang="es">Julie, a punto de casarse, se encuentra a Antoine, un exnovio del que estuvo muy enamorada. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81s1C3uqZCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260306144400 +0100" stop="20260306163300 +0100" channel="acontra+ CINE">
+  <programme start="20260306143300 +0100" stop="20260306163300 +0100" channel="acontra+ CINE">
     <title lang="es">De Gaulle (2020)</title>
     <desc lang="es">Mayo, 1940. El general Charles de Gaulle deja a su familia para trabajar para el gobierno de París. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A12AJwc-kqL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Bright Star (2009)</title>
     <desc lang="es">El romance de tres años entre el poeta John Keats y Fanny Brawne cerca del final de su vida. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1zxyQnUk9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260306182800 +0100" stop="20260306201500 +0100" channel="acontra+ CINE">
+    <title lang="es">Algo celosa (2020)</title>
+    <desc lang="es">Una mujer divorciada y profesora de francés comienza a sentir celos de su hija de 18 años. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A17d+USpfJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260306201500 +0100" stop="20260306215400 +0100" channel="acontra+ CINE">
+    <title lang="es">Invitado de honor (2019)</title>
+    <desc lang="es">Verónica quiere permanecer en la cárcel por una agresión sexual que no ha cometido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1Qt36N5w0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260306215400 +0100" stop="20260306234100 +0100" channel="acontra+ CINE">
+    <title lang="es">Yojimbo (1961)</title>
+    <desc lang="es">Un samurái llega a un poblado en el que dos bandas de mercenarios luchan entre sí. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71+35AZeQ7L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
