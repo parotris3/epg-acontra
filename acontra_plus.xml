@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260306143300 +0100" stop="20260306163300 +0100" channel="acontra+ CINE">
-    <title lang="es">De Gaulle (2020)</title>
-    <desc lang="es">Mayo, 1940. El general Charles de Gaulle deja a su familia para trabajar para el gobierno de París. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A12AJwc-kqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260306163300 +0100" stop="20260306182800 +0100" channel="acontra+ CINE">
-    <title lang="es">Bright Star (2009)</title>
-    <desc lang="es">El romance de tres años entre el poeta John Keats y Fanny Brawne cerca del final de su vida. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1zxyQnUk9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260306182800 +0100" stop="20260306201500 +0100" channel="acontra+ CINE">
+  <programme start="20260306181500 +0100" stop="20260306201500 +0100" channel="acontra+ CINE">
     <title lang="es">Algo celosa (2020)</title>
     <desc lang="es">Una mujer divorciada y profesora de francés comienza a sentir celos de su hija de 18 años. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A17d+USpfJL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Yojimbo (1961)</title>
     <desc lang="es">Un samurái llega a un poblado en el que dos bandas de mercenarios luchan entre sí. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71+35AZeQ7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260306234100 +0100" stop="20260307011400 +0100" channel="acontra+ CINE">
+    <title lang="es">Un verano con Mónica (1955)</title>
+    <desc lang="es">Dos adolescentes se enamoran y dejan todo para emprender un viaje juntos en barco. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81X33-oJfLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260307011400 +0100" stop="20260307022900 +0100" channel="acontra+ CINE">
+    <title lang="es">Ultraje (1950)</title>
+    <desc lang="es">Tras ser abusada sexualmente, Ann Walton huye de casa e intenta rehacer su vida en otra ciudad. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91zFZFnaX0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260307022900 +0100" stop="20260307042000 +0100" channel="acontra+ CINE">
+    <title lang="es">El sabor del sake (1962)</title>
+    <desc lang="es">Shubei Hirayama es viudo y vive con su hija, pero ve injusto que ella se dedique solo a cuidarlo. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91GC-TwVyML._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
