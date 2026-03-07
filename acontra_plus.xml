@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260307042900 +0100" stop="20260307062900 +0100" channel="acontra+ CINE">
-    <title lang="es">Stonewall (2015)</title>
-    <desc lang="es">Stonewall se convirtió en el punto de partida de los derechos de los homosexuales en Nueva York. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91bmUydEiYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260307062900 +0100" stop="20260307080600 +0100" channel="acontra+ CINE">
-    <title lang="es">El día de los muertos (1985)</title>
-    <desc lang="es">Los zombies se han apoderado del planeta. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1ZIzNHVVuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260307080600 +0100" stop="20260307094400 +0100" channel="acontra+ CINE">
-    <title lang="es">Perversidad (1945)</title>
-    <desc lang="es">Un hombre con talento para la pintura es explotado por una mujer y su novio sin escrúpulos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81sCHck-WNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260307094400 +0100" stop="20260307111700 +0100" channel="acontra+ CINE">
+  <programme start="20260307091700 +0100" stop="20260307111700 +0100" channel="acontra+ CINE">
     <title lang="es">Otelo (1952)</title>
     <desc lang="es">El admirado general Otelo es víctima de las intrigas de unos de sus envidiosos oficiales. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81DQBnGA6NL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Machete Kills (2013)</title>
     <desc lang="es">Machete va tras un traficante de armas. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/B1zKwzF56cL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260307142500 +0100" stop="20260307170900 +0100" channel="acontra+ CINE">
+    <title lang="es">Tess (1979)</title>
+    <desc lang="es">La hija de un humilde granjero es víctima de las aspiraciones de su familia y de su propia belleza. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91RxeM8Up8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260307170900 +0100" stop="20260307195200 +0100" channel="acontra+ CINE">
+    <title lang="es">Lo que el día debe a la noche (2012)</title>
+    <desc lang="es">Un niño ve cómo se pone a prueba su amistad con sus amigos cuando una joven llega al pueblo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/910jaGl7Z3L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
