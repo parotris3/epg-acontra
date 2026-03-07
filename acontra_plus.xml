@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260307150900 +0100" stop="20260307170900 +0100" channel="acontra+ CINE">
-    <title lang="es">Tess (1979)</title>
-    <desc lang="es">La hija de un humilde granjero es víctima de las aspiraciones de su familia y de su propia belleza. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91RxeM8Up8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260307170900 +0100" stop="20260307195200 +0100" channel="acontra+ CINE">
-    <title lang="es">Lo que el día debe a la noche (2012)</title>
-    <desc lang="es">Un niño ve cómo se pone a prueba su amistad con sus amigos cuando una joven llega al pueblo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/910jaGl7Z3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260307195200 +0100" stop="20260307214000 +0100" channel="acontra+ CINE">
+  <programme start="20260307194000 +0100" stop="20260307214000 +0100" channel="acontra+ CINE">
     <title lang="es">Hombres contra mujeres (2010)</title>
     <desc lang="es">Cuatro historias de pareja, amor y desamor en las que se aborda el problema de la guerra de sexos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Vl5ixvOYL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">La hija perfecta (2007)</title>
     <desc lang="es">Sarah conoce a Paul y parece que ha encontrado a su alma gemela, pero pronto la situación empeora. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1PTfSTA2NL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260308001200 +0100" stop="20260308015800 +0100" channel="acontra+ CINE">
+    <title lang="es">Zulu (2013)</title>
+    <desc lang="es">Dos policías investigan en Ciudad del Cabo el asesinato de una joven en relación con las drogas. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1y9uAmXsjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260308015800 +0100" stop="20260308041900 +0100" channel="acontra+ CINE">
+    <title lang="es">Stalingrado (1992)</title>
+    <desc lang="es">Musical que muestra los horrores de la guerra a través de las vicisitudes de unos soldados alemanes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91sIMlEM6zL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
