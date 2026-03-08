@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260308040400 +0100" stop="20260308060400 +0100" channel="acontra+ CINE">
-    <title lang="es">Pie de página (2011)</title>
-    <desc lang="es">Comedia irónica sobre la competitividad, la lealtad, el amor y las relaciones entre padre e hijo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BbzEwRiVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260308060400 +0100" stop="20260308081000 +0100" channel="acontra+ CINE">
-    <title lang="es">Nostalgia (1983)</title>
-    <desc lang="es">Un escritor ruso viaja a Italia para investigar la vida de un compositor ruso que estudió allí. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/912DRKglhmL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260308081000 +0100" stop="20260308095400 +0100" channel="acontra+ CINE">
-    <title lang="es">Los asesinos de la luna de miel (1970)</title>
-    <desc lang="es">Martha Beck y su novio Ray Fernández se dedican a estafar y asesinar a mujeres ricas y solitarias. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ucXlfED7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260308095400 +0100" stop="20260308113500 +0100" channel="acontra+ CINE">
+  <programme start="20260308093500 +0100" stop="20260308113500 +0100" channel="acontra+ CINE">
     <title lang="es">La mansión de los crímenes (1971)</title>
     <desc lang="es">Cuatro cuentos de terror que giran entono a una vieja y fantasmal mansión. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/9121sq+78aL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">La delicadeza (2011)</title>
     <desc lang="es">El amor vuelve a llamar a la puerta de Nathalie, tras perder a su amado, en un compañero de trabajo. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71YqDG7BGWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260308132400 +0100" stop="20260308153700 +0100" channel="acontra+ CINE">
+    <title lang="es">Harakiri (1962)</title>
+    <desc lang="es">En el Japón de 1630, abundan los samuráis que han perdido su sentido de propósito. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91YkEs3n9sL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260308153700 +0100" stop="20260308173700 +0100" channel="acontra+ CINE">
+    <title lang="es">Esperemos que sea mujer (1988)</title>
+    <desc lang="es">Elena vive en una granja en la Toscana, separada de su marido y con sus parientes femeninas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1RB8VWD04L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260308173700 +0100" stop="20260308194200 +0100" channel="acontra+ CINE">
+    <title lang="es">El secreto de Vera Drake (2004)</title>
+    <desc lang="es">Londres, 1950. Una humilde limpiadora ayuda a mujeres a practicar abortos, una actividad ilegal. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71x06n-ou4L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
