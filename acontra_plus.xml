@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260308133700 +0100" stop="20260308153700 +0100" channel="acontra+ CINE">
-    <title lang="es">Harakiri (1962)</title>
-    <desc lang="es">En el Japón de 1630, abundan los samuráis que han perdido su sentido de propósito. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91YkEs3n9sL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260308153700 +0100" stop="20260308173700 +0100" channel="acontra+ CINE">
-    <title lang="es">Esperemos que sea mujer (1988)</title>
-    <desc lang="es">Elena vive en una granja en la Toscana, separada de su marido y con sus parientes femeninas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1RB8VWD04L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260308173700 +0100" stop="20260308194200 +0100" channel="acontra+ CINE">
-    <title lang="es">El secreto de Vera Drake (2004)</title>
-    <desc lang="es">Londres, 1950. Una humilde limpiadora ayuda a mujeres a practicar abortos, una actividad ilegal. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71x06n-ou4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260308194200 +0100" stop="20260308211700 +0100" channel="acontra+ CINE">
+  <programme start="20260308191700 +0100" stop="20260308211700 +0100" channel="acontra+ CINE">
     <title lang="es">El que recibe el bofetón (1924)</title>
     <desc lang="es">Tras una gran humillación, Paul Beaumont, científico y humanista, se refugia en un circo. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/817lzmY7+rL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">El valor de una madre</title>
     <desc lang="es">Aline, que perdió a su hijo de 17 años en una reyerta, se encuentra a su agresor. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81nW9J6LlQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260309001900 +0100" stop="20260309022300 +0100" channel="acontra+ CINE">
+    <title lang="es">American Night (2021)</title>
+    <desc lang="es">Un cuadro de Andy Warhol desaparecido reaparece y desencadena una peligrosa reacción en cadena. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1RSx3WyEaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260309022300 +0100" stop="20260309043000 +0100" channel="acontra+ CINE">
+    <title lang="es">Tom &#38; Viv (1994)</title>
+    <desc lang="es">Historia del matrimonio fallido entre T.S. Eliot y su esposa enferma. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81UTnu5cYvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
