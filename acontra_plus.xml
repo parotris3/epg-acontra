@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260308221900 +0100" stop="20260309001900 +0100" channel="acontra+ CINE">
-    <title lang="es">El valor de una madre</title>
-    <desc lang="es">Aline, que perdió a su hijo de 17 años en una reyerta, se encuentra a su agresor. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nW9J6LlQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260309001900 +0100" stop="20260309022300 +0100" channel="acontra+ CINE">
-    <title lang="es">American Night (2021)</title>
-    <desc lang="es">Un cuadro de Andy Warhol desaparecido reaparece y desencadena una peligrosa reacción en cadena. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1RSx3WyEaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260309022300 +0100" stop="20260309043000 +0100" channel="acontra+ CINE">
-    <title lang="es">Tom &#38; Viv (1994)</title>
-    <desc lang="es">Historia del matrimonio fallido entre T.S. Eliot y su esposa enferma. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81UTnu5cYvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260309043000 +0100" stop="20260309060300 +0100" channel="acontra+ CINE">
+  <programme start="20260309040300 +0100" stop="20260309060300 +0100" channel="acontra+ CINE">
     <title lang="es">Sweet Virginia (2017)</title>
     <desc lang="es">Un antiguo campeón de rodeo cae en una espiral de secretos y violencia. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1kZccXxddL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Noche de paz, noche de muerte (1984)</title>
     <desc lang="es">A los cinco años, Billy presencia cómo un hombre disfrazado de Santa Claus asesina a sus padres. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/812k3nK++pL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260309090300 +0100" stop="20260309105500 +0100" channel="acontra+ CINE">
+    <title lang="es">Más allá del deber (2001)</title>
+    <desc lang="es">Un regimiento escocés, durante la Segunda Guerra, debió construir la vía ferroviaria de la muerte. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81P1jHaw-RL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260309105500 +0100" stop="20260309124000 +0100" channel="acontra+ CINE">
+    <title lang="es">Los días impuros del extranjero (1976)</title>
+    <desc lang="es">En un pueblo costero, la viuda Anne Osborne conoce al segundo oficial Jim Cameron. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/912HkrAwIwL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260309124000 +0100" stop="20260309140800 +0100" channel="acontra+ CINE">
+    <title lang="es">La mirada del amor (2013)</title>
+    <desc lang="es">Una mujer se enamora de un hombre que se parece a su esposo fallecido. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91LGJdPU8CL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
