@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260309140500 +0100" stop="20260309160500 +0100" channel="acontra+ CINE">
-    <title lang="es">La tierra de los hijos</title>
-    <desc lang="es">El final de la civilización ha llegado. Un padre y su hijo se encuentran entre los supervivientes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81UTrjFMl3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260309160500 +0100" stop="20260309175300 +0100" channel="acontra+ CINE">
-    <title lang="es">Insignificance (1985)</title>
-    <desc lang="es">Albert Einstein charla con Marilyn Monroe sobre la teoría de la relatividad, el sexo y la política. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/712jQUN3uVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260309175300 +0100" stop="20260309204000 +0100" channel="acontra+ CINE">
+  <programme start="20260309184000 +0100" stop="20260309204000 +0100" channel="acontra+ CINE">
     <title lang="es">El idiota (1951)</title>
     <desc lang="es">Un soldado condenado a muerte por crímenes de guerra, se salva de ser fusilado en el último momento. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Z8IZ9HTdL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">El rayo verde (1986)</title>
     <desc lang="es">Delphine es una joven parisina que trata de recuperarse de una ruptura reciente. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81fcd9fiYlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260309235900 +0100" stop="20260310014100 +0100" channel="acontra+ CINE">
+    <title lang="es">El gendarme en Nueva York (2023)</title>
+    <desc lang="es">Un gendarme francés viaja a Nueva York y se sorprende al encontrar que su hija ha viajado también. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/711aOCeoaCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260310014100 +0100" stop="20260310035500 +0100" channel="acontra+ CINE">
+    <title lang="es">El cielo protector (1990)</title>
+    <desc lang="es">Una pareja neoyorquina hace un viaje al norte de África en un intento de reparar su matrimonio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91biKRsKAwL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260310035500 +0100" stop="20260310054500 +0100" channel="acontra+ CINE">
+    <title lang="es">Dominio inminente (1991)</title>
+    <desc lang="es">El camarada polaco Jozef Burski, acostumbrado a los lujos, ve cómo sus privilegios se acaban. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91lwMk2yZGL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
