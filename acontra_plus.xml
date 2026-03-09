@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260309184000 +0100" stop="20260309204000 +0100" channel="acontra+ CINE">
-    <title lang="es">El idiota (1951)</title>
-    <desc lang="es">Un soldado condenado a muerte por crímenes de guerra, se salva de ser fusilado en el último momento. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Z8IZ9HTdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260309204000 +0100" stop="20260309222000 +0100" channel="acontra+ CINE">
-    <title lang="es">En busca del fuego (1981)</title>
-    <desc lang="es">Cuando el fuego de una tribu prehistórica se apaga, tres guerreros emprenden un viaje en su busca. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91qAiEV8XWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260309222000 +0100" stop="20260309235900 +0100" channel="acontra+ CINE">
-    <title lang="es">El rayo verde (1986)</title>
-    <desc lang="es">Delphine es una joven parisina que trata de recuperarse de una ruptura reciente. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81fcd9fiYlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260309235900 +0100" stop="20260310014100 +0100" channel="acontra+ CINE">
+  <programme start="20260309234100 +0100" stop="20260310014100 +0100" channel="acontra+ CINE">
     <title lang="es">El gendarme en Nueva York (2023)</title>
     <desc lang="es">Un gendarme francés viaja a Nueva York y se sorprende al encontrar que su hija ha viajado también. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/711aOCeoaCL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Dominio inminente (1991)</title>
     <desc lang="es">El camarada polaco Jozef Burski, acostumbrado a los lujos, ve cómo sus privilegios se acaban. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91lwMk2yZGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260310054500 +0100" stop="20260310073600 +0100" channel="acontra+ CINE">
+    <title lang="es">Bajo el volcán (1984)</title>
+    <desc lang="es">Geoffrey Firmin, un diplomático inglés deprimido que se retira al alcohol para consolarse. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91MGFHg1p3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260310073600 +0100" stop="20260310092900 +0100" channel="acontra+ CINE">
+    <title lang="es">Antes de la Revolución (1964)</title>
+    <desc lang="es">Fabrizio intenta conciliar su origen burgués con su pertenencia al Partido Comunista Italiano. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91few9fDydL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
