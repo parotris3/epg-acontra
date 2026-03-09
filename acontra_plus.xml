@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260309040300 +0100" stop="20260309060300 +0100" channel="acontra+ CINE">
-    <title lang="es">Sweet Virginia (2017)</title>
-    <desc lang="es">Un antiguo campeón de rodeo cae en una espiral de secretos y violencia. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1kZccXxddL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260309060300 +0100" stop="20260309073800 +0100" channel="acontra+ CINE">
-    <title lang="es">Pauline en la playa (1983)</title>
-    <desc lang="es">Pauline es una adolescente que pasa un verano con su prima Marion en busca de romance. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91HGjNRrcDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260309073800 +0100" stop="20260309090300 +0100" channel="acontra+ CINE">
-    <title lang="es">Noche de paz, noche de muerte (1984)</title>
-    <desc lang="es">A los cinco años, Billy presencia cómo un hombre disfrazado de Santa Claus asesina a sus padres. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/812k3nK++pL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260309090300 +0100" stop="20260309105500 +0100" channel="acontra+ CINE">
+  <programme start="20260309085500 +0100" stop="20260309105500 +0100" channel="acontra+ CINE">
     <title lang="es">Más allá del deber (2001)</title>
     <desc lang="es">Un regimiento escocés, durante la Segunda Guerra, debió construir la vía ferroviaria de la muerte. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81P1jHaw-RL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La mirada del amor (2013)</title>
     <desc lang="es">Una mujer se enamora de un hombre que se parece a su esposo fallecido. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91LGJdPU8CL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260309140800 +0100" stop="20260309160500 +0100" channel="acontra+ CINE">
+    <title lang="es">La tierra de los hijos</title>
+    <desc lang="es">El final de la civilización ha llegado. Un padre y su hijo se encuentran entre los supervivientes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81UTrjFMl3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260309160500 +0100" stop="20260309175300 +0100" channel="acontra+ CINE">
+    <title lang="es">Insignificance (1985)</title>
+    <desc lang="es">Albert Einstein charla con Marilyn Monroe sobre la teoría de la relatividad, el sexo y la política. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/712jQUN3uVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260309175300 +0100" stop="20260309204000 +0100" channel="acontra+ CINE">
+    <title lang="es">El idiota (1951)</title>
+    <desc lang="es">Un soldado condenado a muerte por crímenes de guerra, se salva de ser fusilado en el último momento. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Z8IZ9HTdL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
