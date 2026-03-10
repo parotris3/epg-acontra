@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260310130100 +0100" stop="20260310150100 +0100" channel="acontra+ CINE">
-    <title lang="es">Detective Dee y el misterio de la llama fantasma (2010)</title>
-    <desc lang="es">Wu, la primera emperatriz de la China, reclama la ayuda de Di Renjie para resolver un misterio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81QvE9VDVqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260310150100 +0100" stop="20260310163300 +0100" channel="acontra+ CINE">
-    <title lang="es">Sueños eléctricos (1984)</title>
-    <desc lang="es">Un arquitecto y su ordenador, que ha cobrado vida propia, pelearán por el amor de su vecina. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/818fKOqBghL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260310163300 +0100" stop="20260310180600 +0100" channel="acontra+ CINE">
-    <title lang="es">Zazie en el metro (1960)</title>
-    <desc lang="es">Zazie, una niña de doce años, llega a París con una cosa en mente: viajar en metro. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91XvQNXaO9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260310180600 +0100" stop="20260310193500 +0100" channel="acontra+ CINE">
-    <title lang="es">Viva la Muerte (2013)</title>
-    <desc lang="es">Al final de la Guerra Civil española, un niño intenta encontrarle sentido a la guerra. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Tea-RtG7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260310193500 +0100" stop="20260310211400 +0100" channel="acontra+ CINE">
+  <programme start="20260310191400 +0100" stop="20260310211400 +0100" channel="acontra+ CINE">
     <title lang="es">El descenso (2005)</title>
     <desc lang="es">Seis exploradoras descubren a unos depredadores hambrientos. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/C11NtGAMC7L._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +17,20 @@
     <title lang="es">Staten Island (2009)</title>
     <desc lang="es">Drama | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91egPGOTljL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260311001100 +0100" stop="20260311021000 +0100" channel="acontra+ CINE">
+    <title lang="es">The Brave (1998)</title>
+    <desc lang="es">Un misterioso personaje le hace una siniestra oferta a un humilde padre de familia. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Pj3qqPZJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260311021000 +0100" stop="20260311035500 +0100" channel="acontra+ CINE">
+    <title lang="es">Sácame de dudas (2020)</title>
+    <desc lang="es">Erwan descubre que no es hijo del hombre al que consideraba su padre tras hacerse un análisis. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91w2r94asNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260311035500 +0100" stop="20260311053200 +0100" channel="acontra+ CINE">
+    <title lang="es">Semilla de crisantemo (1990)</title>
+    <desc lang="es">En la China rural, un hombre mayor compra a Ju Dou, una joven campesina. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81SKH9+LbUL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
