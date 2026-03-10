@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260310191400 +0100" stop="20260310211400 +0100" channel="acontra+ CINE">
-    <title lang="es">El descenso (2005)</title>
-    <desc lang="es">Seis exploradoras descubren a unos depredadores hambrientos. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/C11NtGAMC7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260310211400 +0100" stop="20260310223900 +0100" channel="acontra+ CINE">
-    <title lang="es">Sucedió mañana (1944)</title>
-    <desc lang="es">En sus bodas de oro, Larry y Sylvia narran a su familia un suceso muy extraño del pasado. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81GpqLoyBML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260310223900 +0100" stop="20260311001100 +0100" channel="acontra+ CINE">
+  <programme start="20260310221100 +0100" stop="20260311001100 +0100" channel="acontra+ CINE">
     <title lang="es">Staten Island (2009)</title>
     <desc lang="es">Drama | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91egPGOTljL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">Semilla de crisantemo (1990)</title>
     <desc lang="es">En la China rural, un hombre mayor compra a Ju Dou, una joven campesina. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81SKH9+LbUL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260311053200 +0100" stop="20260311071600 +0100" channel="acontra+ CINE">
+    <title lang="es">Tasmania (2009)</title>
+    <desc lang="es">Ocho convictos escapan de la brutal cárcel de Macquarie Harbour en busca de la libertad. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Gwz6EXmbL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260311071600 +0100" stop="20260311092400 +0100" channel="acontra+ CINE">
+    <title lang="es">Otoño Tardío (1960)</title>
+    <desc lang="es">Una mujer viuda trata de casar a su hija con la ayuda de tres amigos de su difunto marido. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91IXcF-IzCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
