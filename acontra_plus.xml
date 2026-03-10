@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260310093500 +0100" stop="20260310113500 +0100" channel="acontra+ CINE">
-    <title lang="es">13 asesinos (2010)</title>
-    <desc lang="es">Un oficial llega a un acuerdo con un samurái para que le ayude a acabar con un tirano. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71QqYrnKBwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260310113500 +0100" stop="20260310130300 +0100" channel="acontra+ CINE">
-    <title lang="es">Bichos raros (2007)</title>
-    <desc lang="es">Dos inadaptados se conocen en una fiesta de disfraces y descubren que tienen mucho en común. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91jYTr8aPEL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260310130300 +0100" stop="20260310150100 +0100" channel="acontra+ CINE">
+  <programme start="20260310130100 +0100" stop="20260310150100 +0100" channel="acontra+ CINE">
     <title lang="es">Detective Dee y el misterio de la llama fantasma (2010)</title>
     <desc lang="es">Wu, la primera emperatriz de la China, reclama la ayuda de Di Renjie para resolver un misterio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81QvE9VDVqL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,25 @@
     <title lang="es">Zazie en el metro (1960)</title>
     <desc lang="es">Zazie, una niña de doce años, llega a París con una cosa en mente: viajar en metro. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91XvQNXaO9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260310180600 +0100" stop="20260310193500 +0100" channel="acontra+ CINE">
+    <title lang="es">Viva la Muerte (2013)</title>
+    <desc lang="es">Al final de la Guerra Civil española, un niño intenta encontrarle sentido a la guerra. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Tea-RtG7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260310193500 +0100" stop="20260310211400 +0100" channel="acontra+ CINE">
+    <title lang="es">El descenso (2005)</title>
+    <desc lang="es">Seis exploradoras descubren a unos depredadores hambrientos. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/C11NtGAMC7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260310211400 +0100" stop="20260310223900 +0100" channel="acontra+ CINE">
+    <title lang="es">Sucedió mañana (1944)</title>
+    <desc lang="es">En sus bodas de oro, Larry y Sylvia narran a su familia un suceso muy extraño del pasado. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81GpqLoyBML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260310223900 +0100" stop="20260311001100 +0100" channel="acontra+ CINE">
+    <title lang="es">Staten Island (2009)</title>
+    <desc lang="es">Drama | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91egPGOTljL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
