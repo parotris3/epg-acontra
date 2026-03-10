@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260309234100 +0100" stop="20260310014100 +0100" channel="acontra+ CINE">
-    <title lang="es">El gendarme en Nueva York (2023)</title>
-    <desc lang="es">Un gendarme francés viaja a Nueva York y se sorprende al encontrar que su hija ha viajado también. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/711aOCeoaCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260310014100 +0100" stop="20260310035500 +0100" channel="acontra+ CINE">
-    <title lang="es">El cielo protector (1990)</title>
-    <desc lang="es">Una pareja neoyorquina hace un viaje al norte de África en un intento de reparar su matrimonio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91biKRsKAwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260310035500 +0100" stop="20260310054500 +0100" channel="acontra+ CINE">
+  <programme start="20260310034500 +0100" stop="20260310054500 +0100" channel="acontra+ CINE">
     <title lang="es">Dominio inminente (1991)</title>
     <desc lang="es">El camarada polaco Jozef Burski, acostumbrado a los lujos, ve cómo sus privilegios se acaban. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91lwMk2yZGL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Antes de la Revolución (1964)</title>
     <desc lang="es">Fabrizio intenta conciliar su origen burgués con su pertenencia al Partido Comunista Italiano. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91few9fDydL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260310092900 +0100" stop="20260310113500 +0100" channel="acontra+ CINE">
+    <title lang="es">13 asesinos (2010)</title>
+    <desc lang="es">Un oficial llega a un acuerdo con un samurái para que le ayude a acabar con un tirano. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71QqYrnKBwL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260310113500 +0100" stop="20260310130300 +0100" channel="acontra+ CINE">
+    <title lang="es">Bichos raros (2007)</title>
+    <desc lang="es">Dos inadaptados se conocen en una fiesta de disfraces y descubren que tienen mucho en común. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91jYTr8aPEL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
