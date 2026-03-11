@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260311090300 +0100" stop="20260311110300 +0100" channel="acontra+ CINE">
-    <title lang="es">Mientras Nueva York duerme</title>
-    <desc lang="es">En los pasillos del Sentinel, los periodistas intrigan para hacerse con la dirección del diario. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ZbDqARslL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260311110300 +0100" stop="20260311123400 +0100" channel="acontra+ CINE">
-    <title lang="es">La senda de la esperanza</title>
-    <desc lang="es">Tres mujeres, que se encuentran alojadas en una pensión de Roma, comparten un mismo sueño. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1r2kgbrXwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260311123400 +0100" stop="20260311141300 +0100" channel="acontra+ CINE">
-    <title lang="es">House at the End of the Street (2012)</title>
-    <desc lang="es">Madre e hija se mudan junto a la escena de un homicidio. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/818BZtzxqZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260311141300 +0100" stop="20260311160600 +0100" channel="acontra+ CINE">
+  <programme start="20260311140600 +0100" stop="20260311160600 +0100" channel="acontra+ CINE">
     <title lang="es">La fiesta (1982)</title>
     <desc lang="es">Vic, a sus 14 años, atraviesa la etapa de sus primeros flirteos y fiestas entre amigas. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81M2qfD7kNL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El pecado del padre Mouret</title>
     <desc lang="es">Serge Mouret, un devoto párroco, sufre una pérdida de memoria. Una joven enfermera lo cuida. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71VCRO62IML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260311191400 +0100" stop="20260311210400 +0100" channel="acontra+ CINE">
+    <title lang="es">Bellísima (1981)</title>
+    <desc lang="es">Madalena Cecconi hace todo lo posible para que su hija María se convierta en una estrella de cine. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-sgxXyzTL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260311210400 +0100" stop="20260311223600 +0100" channel="acontra+ CINE">
+    <title lang="es">Asesino a sueldo (2012)</title>
+    <desc lang="es">Un asesino traicionado por los suyos huye a Londres, donde se une a una familia de gánsters. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/819aK0w0LrL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260311223600 +0100" stop="20260312001500 +0100" channel="acontra+ CINE">
+    <title lang="es">El festín de Babette (1987)</title>
+    <desc lang="es">Una criada francesa gana la lotería y usa el dinero para preparar un banquete. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71OVFlkg-RL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
