@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260311190400 +0100" stop="20260311210400 +0100" channel="acontra+ CINE">
-    <title lang="es">Bellísima (1981)</title>
-    <desc lang="es">Madalena Cecconi hace todo lo posible para que su hija María se convierta en una estrella de cine. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-sgxXyzTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260311210400 +0100" stop="20260311223600 +0100" channel="acontra+ CINE">
-    <title lang="es">Asesino a sueldo (2012)</title>
-    <desc lang="es">Un asesino traicionado por los suyos huye a Londres, donde se une a una familia de gánsters. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/819aK0w0LrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260311223600 +0100" stop="20260312001500 +0100" channel="acontra+ CINE">
+  <programme start="20260311221500 +0100" stop="20260312001500 +0100" channel="acontra+ CINE">
     <title lang="es">El festín de Babette (1987)</title>
     <desc lang="es">Una criada francesa gana la lotería y usa el dinero para preparar un banquete. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71OVFlkg-RL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">El regreso de la cosa del pantano (1989)</title>
     <desc lang="es">Una criatura del pantano se enamora de la hija adoptiva del malvado científico que lo creó. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81l8RI7mskL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260312040100 +0100" stop="20260312055900 +0100" channel="acontra+ CINE">
+    <title lang="es">Gertrud (1964)</title>
+    <desc lang="es">Gertrud busca el amor absoluto, pero sus relaciones se ven siempre abocadas al fracaso. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71lbHLum9eL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260312055900 +0100" stop="20260312074100 +0100" channel="acontra+ CINE">
+    <title lang="es">JCVD (2008)</title>
+    <desc lang="es">Van Damme no pasa por un gran momento: sin trabajo y a punto de perder la custodia de su hija. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1pNYm7xglL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260312074100 +0100" stop="20260312092600 +0100" channel="acontra+ CINE">
+    <title lang="es">La desaparición de Alice Creed (2010)</title>
+    <desc lang="es">Rapto acaba en un juego de codicia, amor, sexo y violencia. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81LBfvDBf-L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
