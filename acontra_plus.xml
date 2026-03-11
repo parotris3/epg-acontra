@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260311033200 +0100" stop="20260311053200 +0100" channel="acontra+ CINE">
-    <title lang="es">Semilla de crisantemo (1990)</title>
-    <desc lang="es">En la China rural, un hombre mayor compra a Ju Dou, una joven campesina. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81SKH9+LbUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260311053200 +0100" stop="20260311071600 +0100" channel="acontra+ CINE">
-    <title lang="es">Tasmania (2009)</title>
-    <desc lang="es">Ocho convictos escapan de la brutal cárcel de Macquarie Harbour en busca de la libertad. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Gwz6EXmbL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260311071600 +0100" stop="20260311092400 +0100" channel="acontra+ CINE">
-    <title lang="es">Otoño Tardío (1960)</title>
-    <desc lang="es">Una mujer viuda trata de casar a su hija con la ayuda de tres amigos de su difunto marido. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91IXcF-IzCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260311092400 +0100" stop="20260311110300 +0100" channel="acontra+ CINE">
+  <programme start="20260311090300 +0100" stop="20260311110300 +0100" channel="acontra+ CINE">
     <title lang="es">Mientras Nueva York duerme</title>
     <desc lang="es">En los pasillos del Sentinel, los periodistas intrigan para hacerse con la dirección del diario. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71ZbDqARslL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">House at the End of the Street (2012)</title>
     <desc lang="es">Madre e hija se mudan junto a la escena de un homicidio. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/818BZtzxqZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260311141300 +0100" stop="20260311160600 +0100" channel="acontra+ CINE">
+    <title lang="es">La fiesta (1982)</title>
+    <desc lang="es">Vic, a sus 14 años, atraviesa la etapa de sus primeros flirteos y fiestas entre amigas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81M2qfD7kNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260311160600 +0100" stop="20260311174000 +0100" channel="acontra+ CINE">
+    <title lang="es">Escoria (1979)</title>
+    <desc lang="es">Carlin, un adolescente violento, llega a un reformatorio e intenta sobrevivir en un entorno hostil. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/919gIkKJ2WL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260311174000 +0100" stop="20260311191400 +0100" channel="acontra+ CINE">
+    <title lang="es">El pecado del padre Mouret</title>
+    <desc lang="es">Serge Mouret, un devoto párroco, sufre una pérdida de memoria. Una joven enfermera lo cuida. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71VCRO62IML._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
