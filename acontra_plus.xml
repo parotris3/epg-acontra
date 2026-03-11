@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260311140600 +0100" stop="20260311160600 +0100" channel="acontra+ CINE">
-    <title lang="es">La fiesta (1982)</title>
-    <desc lang="es">Vic, a sus 14 años, atraviesa la etapa de sus primeros flirteos y fiestas entre amigas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81M2qfD7kNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260311160600 +0100" stop="20260311174000 +0100" channel="acontra+ CINE">
-    <title lang="es">Escoria (1979)</title>
-    <desc lang="es">Carlin, un adolescente violento, llega a un reformatorio e intenta sobrevivir en un entorno hostil. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/919gIkKJ2WL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260311174000 +0100" stop="20260311191400 +0100" channel="acontra+ CINE">
-    <title lang="es">El pecado del padre Mouret</title>
-    <desc lang="es">Serge Mouret, un devoto párroco, sufre una pérdida de memoria. Una joven enfermera lo cuida. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71VCRO62IML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260311191400 +0100" stop="20260311210400 +0100" channel="acontra+ CINE">
+  <programme start="20260311190400 +0100" stop="20260311210400 +0100" channel="acontra+ CINE">
     <title lang="es">Bellísima (1981)</title>
     <desc lang="es">Madalena Cecconi hace todo lo posible para que su hija María se convierta en una estrella de cine. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81-sgxXyzTL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">El festín de Babette (1987)</title>
     <desc lang="es">Una criada francesa gana la lotería y usa el dinero para preparar un banquete. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71OVFlkg-RL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260312001500 +0100" stop="20260312023300 +0100" channel="acontra+ CINE">
+    <title lang="es">El infierno del odio (1963)</title>
+    <desc lang="es">El ejecutivo de una compañía de zapatos de éxito se convierte en víctima de extorsión. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81NFwmVYj5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260312023300 +0100" stop="20260312040100 +0100" channel="acontra+ CINE">
+    <title lang="es">El regreso de la cosa del pantano (1989)</title>
+    <desc lang="es">Una criatura del pantano se enamora de la hija adoptiva del malvado científico que lo creó. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81l8RI7mskL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
