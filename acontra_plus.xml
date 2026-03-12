@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260312140200 +0100" stop="20260312160200 +0100" channel="acontra+ CINE">
-    <title lang="es">Mea Culpa (2014)</title>
-    <desc lang="es">Un policía lo pierde todo en su vida después de un accidente que causó dos víctimas mortales. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/918qMZP-K9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260312160200 +0100" stop="20260312172600 +0100" channel="acontra+ CINE">
-    <title lang="es">Persona (1966)</title>
-    <desc lang="es">La simbiosis de las dos personalidades de una misma mujer. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91YJjt7ASEL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260312172600 +0100" stop="20260312190900 +0100" channel="acontra+ CINE">
-    <title lang="es">No soy un asesino (1967)</title>
-    <desc lang="es">Acusado de asesinato, un sheriff deberá demostrar su inocencia. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nf1aYhQnL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260312190900 +0100" stop="20260312205200 +0100" channel="acontra+ CINE">
+  <programme start="20260312185200 +0100" stop="20260312205200 +0100" channel="acontra+ CINE">
     <title lang="es">Yo compré una moto vampiro (1991)</title>
     <desc lang="es">Tras un ritual en el que un ocultista es asesinado, una moto es poseída por un espíritu vampírico. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1ZJSyE4GTL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Un hombre en el tejado (1976)</title>
     <desc lang="es">El teniente de la policía Nyman es brutalmente asesinado en un hospital de Estocolmo. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81mr4InncSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260313001900 +0100" stop="20260313021500 +0100" channel="acontra+ CINE">
+    <title lang="es">Sophie Scholl: los últimos días (2005)</title>
+    <desc lang="es">Sophie Scholl es una estudiante en Múnich en 1943 encarcelada por la Gestapo durante una misión. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1v8rdAhFYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260313021500 +0100" stop="20260313035100 +0100" channel="acontra+ CINE">
+    <title lang="es">Rabia (1977)</title>
+    <desc lang="es">Una joven desarrolla un gusto especial por la sangre humana tras someterse a una operación. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71vjXi0bcBL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260313035100 +0100" stop="20260313053200 +0100" channel="acontra+ CINE">
+    <title lang="es">Repulsión (1965)</title>
+    <desc lang="es">Una mujer muy reprimida sexualmente empieza a tener alucinaciones sobre violaciones. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/812OaS9v0aL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
