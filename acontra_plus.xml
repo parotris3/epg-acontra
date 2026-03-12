@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260311221500 +0100" stop="20260312001500 +0100" channel="acontra+ CINE">
-    <title lang="es">El festín de Babette (1987)</title>
-    <desc lang="es">Una criada francesa gana la lotería y usa el dinero para preparar un banquete. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71OVFlkg-RL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260312001500 +0100" stop="20260312023300 +0100" channel="acontra+ CINE">
-    <title lang="es">El infierno del odio (1963)</title>
-    <desc lang="es">El ejecutivo de una compañía de zapatos de éxito se convierte en víctima de extorsión. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81NFwmVYj5L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260312023300 +0100" stop="20260312040100 +0100" channel="acontra+ CINE">
-    <title lang="es">El regreso de la cosa del pantano (1989)</title>
-    <desc lang="es">Una criatura del pantano se enamora de la hija adoptiva del malvado científico que lo creó. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81l8RI7mskL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260312040100 +0100" stop="20260312055900 +0100" channel="acontra+ CINE">
+  <programme start="20260312035900 +0100" stop="20260312055900 +0100" channel="acontra+ CINE">
     <title lang="es">Gertrud (1964)</title>
     <desc lang="es">Gertrud busca el amor absoluto, pero sus relaciones se ven siempre abocadas al fracaso. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71lbHLum9eL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La desaparición de Alice Creed (2010)</title>
     <desc lang="es">Rapto acaba en un juego de codicia, amor, sexo y violencia. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81LBfvDBf-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260312092600 +0100" stop="20260312110400 +0100" channel="acontra+ CINE">
+    <title lang="es">La historia de Marie Heurtin (2014)</title>
+    <desc lang="es">Marie Heurtin, de 14 años, es sorda y ciega de nacimiento, y es incapaz de comunicarse. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/915p9Qcc9XL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260312110400 +0100" stop="20260312123800 +0100" channel="acontra+ CINE">
+    <title lang="es">Las Marismas (2008)</title>
+    <desc lang="es">Erlendur debe investigar la muerte violenta de un hombre mayor, junto al que encuentra una foto. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/817vcZf2-XL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260312123800 +0100" stop="20260312142900 +0100" channel="acontra+ CINE">
+    <title lang="es">Los cien pasos (2000)</title>
+    <desc lang="es">Un activista político cuya familia está vinculada a la mafia denuncia el crimen organizado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71fIjNsS4-L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
