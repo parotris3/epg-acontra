@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260312185200 +0100" stop="20260312205200 +0100" channel="acontra+ CINE">
-    <title lang="es">Yo compré una moto vampiro (1991)</title>
-    <desc lang="es">Tras un ritual en el que un ocultista es asesinado, una moto es poseída por un espíritu vampírico. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1ZJSyE4GTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260312205200 +0100" stop="20260312223100 +0100" channel="acontra+ CINE">
-    <title lang="es">La madre del mal (2007)</title>
-    <desc lang="es">Sarah se convierte en la última esperanza para salvar al mundo de una bruja maligna. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71xbAA4o58L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260312223100 +0100" stop="20260313001900 +0100" channel="acontra+ CINE">
+  <programme start="20260312221900 +0100" stop="20260313001900 +0100" channel="acontra+ CINE">
     <title lang="es">Un hombre en el tejado (1976)</title>
     <desc lang="es">El teniente de la policía Nyman es brutalmente asesinado en un hospital de Estocolmo. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81mr4InncSL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,10 @@
     <title lang="es">Repulsión (1965)</title>
     <desc lang="es">Una mujer muy reprimida sexualmente empieza a tener alucinaciones sobre violaciones. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/812OaS9v0aL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260313053200 +0100" stop="20260313080600 +0100" channel="acontra+ CINE">
+    <title lang="es">Pequeñas mentiras sin importancia (2010)</title>
+    <desc lang="es">Un matrimonio invita a un grupo de amigos a su casa de la playa, pero un amigo no puede asistir. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Ci1eiig8L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
