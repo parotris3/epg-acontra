@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260312090400 +0100" stop="20260312110400 +0100" channel="acontra+ CINE">
-    <title lang="es">La historia de Marie Heurtin (2014)</title>
-    <desc lang="es">Marie Heurtin, de 14 años, es sorda y ciega de nacimiento, y es incapaz de comunicarse. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/915p9Qcc9XL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260312110400 +0100" stop="20260312123800 +0100" channel="acontra+ CINE">
-    <title lang="es">Las Marismas (2008)</title>
-    <desc lang="es">Erlendur debe investigar la muerte violenta de un hombre mayor, junto al que encuentra una foto. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/817vcZf2-XL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260312123800 +0100" stop="20260312142900 +0100" channel="acontra+ CINE">
-    <title lang="es">Los cien pasos (2000)</title>
-    <desc lang="es">Un activista político cuya familia está vinculada a la mafia denuncia el crimen organizado. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71fIjNsS4-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260312142900 +0100" stop="20260312160200 +0100" channel="acontra+ CINE">
+  <programme start="20260312140200 +0100" stop="20260312160200 +0100" channel="acontra+ CINE">
     <title lang="es">Mea Culpa (2014)</title>
     <desc lang="es">Un policía lo pierde todo en su vida después de un accidente que causó dos víctimas mortales. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/918qMZP-K9L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">No soy un asesino (1967)</title>
     <desc lang="es">Acusado de asesinato, un sheriff deberá demostrar su inocencia. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81nf1aYhQnL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260312190900 +0100" stop="20260312205200 +0100" channel="acontra+ CINE">
+    <title lang="es">Yo compré una moto vampiro (1991)</title>
+    <desc lang="es">Tras un ritual en el que un ocultista es asesinado, una moto es poseída por un espíritu vampírico. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1ZJSyE4GTL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260312205200 +0100" stop="20260312223100 +0100" channel="acontra+ CINE">
+    <title lang="es">La madre del mal (2007)</title>
+    <desc lang="es">Sarah se convierte en la última esperanza para salvar al mundo de una bruja maligna. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71xbAA4o58L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260312223100 +0100" stop="20260313001900 +0100" channel="acontra+ CINE">
+    <title lang="es">Un hombre en el tejado (1976)</title>
+    <desc lang="es">El teniente de la policía Nyman es brutalmente asesinado en un hospital de Estocolmo. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81mr4InncSL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
