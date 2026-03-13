@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260312221900 +0100" stop="20260313001900 +0100" channel="acontra+ CINE">
-    <title lang="es">Un hombre en el tejado (1976)</title>
-    <desc lang="es">El teniente de la policía Nyman es brutalmente asesinado en un hospital de Estocolmo. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81mr4InncSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260313001900 +0100" stop="20260313021500 +0100" channel="acontra+ CINE">
-    <title lang="es">Sophie Scholl: los últimos días (2005)</title>
-    <desc lang="es">Sophie Scholl es una estudiante en Múnich en 1943 encarcelada por la Gestapo durante una misión. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1v8rdAhFYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260313021500 +0100" stop="20260313035100 +0100" channel="acontra+ CINE">
-    <title lang="es">Rabia (1977)</title>
-    <desc lang="es">Una joven desarrolla un gusto especial por la sangre humana tras someterse a una operación. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71vjXi0bcBL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260313035100 +0100" stop="20260313053200 +0100" channel="acontra+ CINE">
+  <programme start="20260313033200 +0100" stop="20260313053200 +0100" channel="acontra+ CINE">
     <title lang="es">Repulsión (1965)</title>
     <desc lang="es">Una mujer muy reprimida sexualmente empieza a tener alucinaciones sobre violaciones. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/812OaS9v0aL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Pequeñas mentiras sin importancia (2010)</title>
     <desc lang="es">Un matrimonio invita a un grupo de amigos a su casa de la playa, pero un amigo no puede asistir. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Ci1eiig8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260313080600 +0100" stop="20260313100300 +0100" channel="acontra+ CINE">
+    <title lang="es">Ojos Negros (1987)</title>
+    <desc lang="es">Romano, un hombre italiano, rememora un apasionado romance con una chica rusa llamada Anna. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91xMn34dyHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260313100300 +0100" stop="20260313114400 +0100" channel="acontra+ CINE">
+    <title lang="es">Miss Julie (1999)</title>
+    <desc lang="es">Durante la noche de San Juan, Julie se siente atraída por Jean, un sirviente de carácter fuerte. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81el+nQmgXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260313114400 +0100" stop="20260313134500 +0100" channel="acontra+ CINE">
+    <title lang="es">El piano (1993)</title>
+    <desc lang="es">Ada se queda viuda y viaja con su hija a Nueva Zelanda para un matrimonio concertado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71hTexxx1xL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
