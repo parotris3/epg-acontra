@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260313135400 +0100" stop="20260313155400 +0100" channel="acontra+ CINE">
-    <title lang="es">Madame Marguerite (2015)</title>
-    <desc lang="es">Una mujer se propone cantar ópera delante de un gran público a pesar de desafinar terriblemente. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nyw5jz0uL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260313155400 +0100" stop="20260313172100 +0100" channel="acontra+ CINE">
-    <title lang="es">Las colinas tienen ojos 2 (1985)</title>
-    <desc lang="es">Un grupo de motoristas se topa con el Pluto y su familia caníbal en el desierto. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/61VX79Z8GyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260313172100 +0100" stop="20260313191800 +0100" channel="acontra+ CINE">
-    <title lang="es">La novena configuración (1980)</title>
-    <desc lang="es">El Coronel Hudson Kane llega para hacerse cargo de una institución psiquiátrica militar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/614osUZ0gPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260313191800 +0100" stop="20260313211200 +0100" channel="acontra+ CINE">
+  <programme start="20260313191200 +0100" stop="20260313211200 +0100" channel="acontra+ CINE">
     <title lang="es">Kon-Tiki (2012)</title>
     <desc lang="es">Thor prepara un asombroso viaje de 8.000 kilómetros. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91CeeREtJ0L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Experimento Filadelfia (2012)</title>
     <desc lang="es">Dos oficiales que participan en un experimento militar de alto secreto son trasladados a 1984. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A12HWWNktUL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260314001300 +0100" stop="20260314021900 +0100" channel="acontra+ CINE">
+    <title lang="es">Aline (2020)</title>
+    <desc lang="es">Aline tiene una voz prodigiosa que no pasa desapercibida para un productor ambicioso. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ra+l9mqHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260314021900 +0100" stop="20260314041700 +0100" channel="acontra+ CINE">
+    <title lang="es">Barrabás (2025)</title>
+    <desc lang="es">Una visión de la muerte y resurrección de Cristo, a través de los ojos de Barrabás. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71AkjH+oCXL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
