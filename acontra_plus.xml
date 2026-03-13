@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260313033200 +0100" stop="20260313053200 +0100" channel="acontra+ CINE">
-    <title lang="es">Repulsión (1965)</title>
-    <desc lang="es">Una mujer muy reprimida sexualmente empieza a tener alucinaciones sobre violaciones. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/812OaS9v0aL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260313053200 +0100" stop="20260313080600 +0100" channel="acontra+ CINE">
-    <title lang="es">Pequeñas mentiras sin importancia (2010)</title>
-    <desc lang="es">Un matrimonio invita a un grupo de amigos a su casa de la playa, pero un amigo no puede asistir. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Ci1eiig8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260313080600 +0100" stop="20260313100300 +0100" channel="acontra+ CINE">
+  <programme start="20260313080300 +0100" stop="20260313100300 +0100" channel="acontra+ CINE">
     <title lang="es">Ojos Negros (1987)</title>
     <desc lang="es">Romano, un hombre italiano, rememora un apasionado romance con una chica rusa llamada Anna. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/91xMn34dyHL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">El piano (1993)</title>
     <desc lang="es">Ada se queda viuda y viaja con su hija a Nueva Zelanda para un matrimonio concertado. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71hTexxx1xL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260313134500 +0100" stop="20260313155400 +0100" channel="acontra+ CINE">
+    <title lang="es">Madame Marguerite (2015)</title>
+    <desc lang="es">Una mujer se propone cantar ópera delante de un gran público a pesar de desafinar terriblemente. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81nyw5jz0uL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260313155400 +0100" stop="20260313172100 +0100" channel="acontra+ CINE">
+    <title lang="es">Las colinas tienen ojos 2 (1985)</title>
+    <desc lang="es">Un grupo de motoristas se topa con el Pluto y su familia caníbal en el desierto. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/61VX79Z8GyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260313172100 +0100" stop="20260313191800 +0100" channel="acontra+ CINE">
+    <title lang="es">La novena configuración (1980)</title>
+    <desc lang="es">El Coronel Hudson Kane llega para hacerse cargo de una institución psiquiátrica militar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/614osUZ0gPL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
