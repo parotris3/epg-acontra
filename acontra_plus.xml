@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260313191200 +0100" stop="20260313211200 +0100" channel="acontra+ CINE">
-    <title lang="es">Kon-Tiki (2012)</title>
-    <desc lang="es">Thor prepara un asombroso viaje de 8.000 kilómetros. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91CeeREtJ0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260313211200 +0100" stop="20260313224800 +0100" channel="acontra+ CINE">
-    <title lang="es">Esperando la hora (1998)</title>
-    <desc lang="es">Cuatro mujeres jóvenes tienen en común la precariedad laboral y la esperanza de un contrato fijo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71aMWv9eWlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260313224800 +0100" stop="20260314001300 +0100" channel="acontra+ CINE">
+  <programme start="20260313221300 +0100" stop="20260314001300 +0100" channel="acontra+ CINE">
     <title lang="es">Experimento Filadelfia (2012)</title>
     <desc lang="es">Dos oficiales que participan en un experimento militar de alto secreto son trasladados a 1984. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A12HWWNktUL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Barrabás (2025)</title>
     <desc lang="es">Una visión de la muerte y resurrección de Cristo, a través de los ojos de Barrabás. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71AkjH+oCXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260314041700 +0100" stop="20260314061600 +0100" channel="acontra+ CINE">
+    <title lang="es">Vania en la calle 42 (1994)</title>
+    <desc lang="es">En los noventa, Andre Gregory montó unas representaciones privadas de la obra "Tío Vania" de Chéjov. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81d8v6E967L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260314061600 +0100" stop="20260314080000 +0100" channel="acontra+ CINE">
+    <title lang="es">Un condenado a muerte se ha escapado (1956)</title>
+    <desc lang="es">En 1943, un soldado de la Resistencia francesa es arrestado y encerrado en el Fuerte Montliuc. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91CfviYQcvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260314080000 +0100" stop="20260314093100 +0100" channel="acontra+ CINE">
+    <title lang="es">Mediterráneo (1991)</title>
+    <desc lang="es">Un grupo de exhaustos soldados italianos naufraga en una isla griega durante la IIGM. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91OlRVT3IZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
