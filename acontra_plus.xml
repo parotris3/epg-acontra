@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260314192900 +0100" stop="20260314212900 +0100" channel="acontra+ CINE">
-    <title lang="es">Las pandillas del Bronx (1979)</title>
-    <desc lang="es">Esta la historia de las pandillas del Bronx en Nueva York en 1963. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71L08sGvR0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260314212900 +0100" stop="20260314230200 +0100" channel="acontra+ CINE">
-    <title lang="es">Otelo (1952)</title>
-    <desc lang="es">El admirado general Otelo es víctima de las intrigas de unos de sus envidiosos oficiales. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81DQBnGA6NL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260314230200 +0100" stop="20260315013900 +0100" channel="acontra+ CINE">
+  <programme start="20260314233900 +0100" stop="20260315013900 +0100" channel="acontra+ CINE">
     <title lang="es">El león del desierto (1980)</title>
     <desc lang="es">Un líder libio rebelde se enfrenta a las tropas italianas de Mussolini. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1CzYjsJAUL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,10 @@
     <title lang="es">Una familia de Tokio (2013)</title>
     <desc lang="es">Una pareja de ancianos que vive en una pequeña isla viaja a Tokio para visitar a sus tres hijos. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81koP10hlfL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260315062500 +0100" stop="20260315080900 +0100" channel="acontra+ CINE">
+    <title lang="es">Tierra de sangre (2006)</title>
+    <desc lang="es">Un idealista soldado llamado Joe entabla una prohibida amistad con un prisionero político. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81haPO5U-ZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
