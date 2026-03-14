@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260314041600 +0100" stop="20260314061600 +0100" channel="acontra+ CINE">
-    <title lang="es">Vania en la calle 42 (1994)</title>
-    <desc lang="es">En los noventa, Andre Gregory montó unas representaciones privadas de la obra &#34;Tío Vania&#34; de Chéjov. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81d8v6E967L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260314061600 +0100" stop="20260314080000 +0100" channel="acontra+ CINE">
-    <title lang="es">Un condenado a muerte se ha escapado (1956)</title>
-    <desc lang="es">En 1943, un soldado de la Resistencia francesa es arrestado y encerrado en el Fuerte Montliuc. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91CfviYQcvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260314080000 +0100" stop="20260314093100 +0100" channel="acontra+ CINE">
-    <title lang="es">Mediterráneo (1991)</title>
-    <desc lang="es">Un grupo de exhaustos soldados italianos naufraga en una isla griega durante la IIGM. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91OlRVT3IZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260314093100 +0100" stop="20260314110500 +0100" channel="acontra+ CINE">
+  <programme start="20260314090500 +0100" stop="20260314110500 +0100" channel="acontra+ CINE">
     <title lang="es">Hunger (2009)</title>
     <desc lang="es">Cuando expones tu cuerpo a las más extremas condiciones, las consecuencias son imprevisibles. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71gByKTRNSL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Diálogo de carmelitas (2011)</title>
     <desc lang="es">En plena Revolución Francesa, la joven Blanche de la Force decide ingresar en un convento. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91fSPpdNqdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260314142000 +0100" stop="20260314155300 +0100" channel="acontra+ CINE">
+    <title lang="es">El hombre de la máscara de acero (2002)</title>
+    <desc lang="es">Tras sufrir un accidente de tráfico, un científico americano es capturado por los rusos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91iVMO8jAyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260314155300 +0100" stop="20260314172300 +0100" channel="acontra+ CINE">
+    <title lang="es">La pequeña princesa (1939)</title>
+    <desc lang="es">La hija de un oficial del ejército desaparecido tiene que trabajar como sirvienta para sobrevivir. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91xia6F8eQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260314172300 +0100" stop="20260314193700 +0100" channel="acontra+ CINE">
+    <title lang="es">Crónica de una mentira (2009)</title>
+    <desc lang="es">Un estafador se hace pasar por un jefe de obra engañando a todo un pueblo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71eZ8Qi7n+L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
