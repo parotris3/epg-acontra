@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260314233900 +0100" stop="20260315013900 +0100" channel="acontra+ CINE">
-    <title lang="es">El león del desierto (1980)</title>
-    <desc lang="es">Un líder libio rebelde se enfrenta a las tropas italianas de Mussolini. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1CzYjsJAUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260315013900 +0100" stop="20260315035700 +0100" channel="acontra+ CINE">
-    <title lang="es">Verano asesino (1985)</title>
-    <desc lang="es">Elle, una joven de 19 años, regresa a su pueblo natal con un oscuro plan de venganza. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91iSUe6b7oL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260315035700 +0100" stop="20260315062500 +0100" channel="acontra+ CINE">
+  <programme start="20260315042500 +0100" stop="20260315062500 +0100" channel="acontra+ CINE">
     <title lang="es">Una familia de Tokio (2013)</title>
     <desc lang="es">Una pareja de ancianos que vive en una pequeña isla viaja a Tokio para visitar a sus tres hijos. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81koP10hlfL._UR1920,1080_FMpng_.jpg"/>
@@ -22,5 +12,20 @@
     <title lang="es">Tierra de sangre (2006)</title>
     <desc lang="es">Un idealista soldado llamado Joe entabla una prohibida amistad con un prisionero político. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81haPO5U-ZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260315080900 +0100" stop="20260315103500 +0100" channel="acontra+ CINE">
+    <title lang="es">Quemado por el sol (1994)</title>
+    <desc lang="es">La aparición de un hombre perturba la existencia de un héroe de la Revolución Soviética. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71qHPt+eWxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260315103500 +0100" stop="20260315122400 +0100" channel="acontra+ CINE">
+    <title lang="es">Los amantes de Montparnasse (1958)</title>
+    <desc lang="es">Relato del último año de vida del pintor italiano Modigliani en el barrio francés de Montparnasse. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ph+W4zttL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260315122400 +0100" stop="20260315143400 +0100" channel="acontra+ CINE">
+    <title lang="es">Muerte de un viajante (1985)</title>
+    <desc lang="es">Willy Loman un vendedor toma conciencia de l vacío de su vida e intenta ponerle remetido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81zTdAWcJuL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
