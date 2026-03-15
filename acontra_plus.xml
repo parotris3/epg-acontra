@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260315042500 +0100" stop="20260315062500 +0100" channel="acontra+ CINE">
-    <title lang="es">Una familia de Tokio (2013)</title>
-    <desc lang="es">Una pareja de ancianos que vive en una pequeña isla viaja a Tokio para visitar a sus tres hijos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81koP10hlfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260315062500 +0100" stop="20260315080900 +0100" channel="acontra+ CINE">
-    <title lang="es">Tierra de sangre (2006)</title>
-    <desc lang="es">Un idealista soldado llamado Joe entabla una prohibida amistad con un prisionero político. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81haPO5U-ZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260315080900 +0100" stop="20260315103500 +0100" channel="acontra+ CINE">
+  <programme start="20260315083500 +0100" stop="20260315103500 +0100" channel="acontra+ CINE">
     <title lang="es">Quemado por el sol (1994)</title>
     <desc lang="es">La aparición de un hombre perturba la existencia de un héroe de la Revolución Soviética. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71qHPt+eWxL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Muerte de un viajante (1985)</title>
     <desc lang="es">Willy Loman un vendedor toma conciencia de l vacío de su vida e intenta ponerle remetido. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81zTdAWcJuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260315143400 +0100" stop="20260315160700 +0100" channel="acontra+ CINE">
+    <title lang="es">La historia de Zatoichi (1962)</title>
+    <desc lang="es">Zatoichi es un masajista ciego extremadamente hábil luchando con la espada. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71-lsxz8ckL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260315160700 +0100" stop="20260315174600 +0100" channel="acontra+ CINE">
+    <title lang="es">I Am Not a Serial Killer (2016)</title>
+    <desc lang="es">Un adolescente tiene que enfrentar su lado oscuro para poder detener a un asesino en serie. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ua2dH0DiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260315174600 +0100" stop="20260315190500 +0100" channel="acontra+ CINE">
+    <title lang="es">El maquinista de La General (1926)</title>
+    <desc lang="es">Johnny Gray tiene dos únicos amores: una chica y una locomotora llamada &#34;La General&#34;. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/51PhYJveYwL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
