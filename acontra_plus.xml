@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260315083500 +0100" stop="20260315103500 +0100" channel="acontra+ CINE">
-    <title lang="es">Quemado por el sol (1994)</title>
-    <desc lang="es">La aparición de un hombre perturba la existencia de un héroe de la Revolución Soviética. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71qHPt+eWxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260315103500 +0100" stop="20260315122400 +0100" channel="acontra+ CINE">
-    <title lang="es">Los amantes de Montparnasse (1958)</title>
-    <desc lang="es">Relato del último año de vida del pintor italiano Modigliani en el barrio francés de Montparnasse. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ph+W4zttL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260315122400 +0100" stop="20260315143400 +0100" channel="acontra+ CINE">
-    <title lang="es">Muerte de un viajante (1985)</title>
-    <desc lang="es">Willy Loman un vendedor toma conciencia de l vacío de su vida e intenta ponerle remetido. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81zTdAWcJuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260315143400 +0100" stop="20260315160700 +0100" channel="acontra+ CINE">
+  <programme start="20260315140700 +0100" stop="20260315160700 +0100" channel="acontra+ CINE">
     <title lang="es">La historia de Zatoichi (1962)</title>
     <desc lang="es">Zatoichi es un masajista ciego extremadamente hábil luchando con la espada. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71-lsxz8ckL._UR1920,1080_FMpng_.jpg"/>
@@ -30,7 +15,22 @@
   </programme>
   <programme start="20260315174600 +0100" stop="20260315190500 +0100" channel="acontra+ CINE">
     <title lang="es">El maquinista de La General (1926)</title>
-    <desc lang="es">Johnny Gray tiene dos únicos amores: una chica y una locomotora llamada &#34;La General&#34;. | Edad: 16+</desc>
+    <desc lang="es">Johnny Gray tiene dos únicos amores: una chica y una locomotora llamada "La General". | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/51PhYJveYwL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260315190500 +0100" stop="20260315202900 +0100" channel="acontra+ CINE">
+    <title lang="es">Cuenta atrás (2010)</title>
+    <desc lang="es">Una mujer es secuestrada bajo la mirada impotente de su marido. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ScUhFWl4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260315202900 +0100" stop="20260315222800 +0100" channel="acontra+ CINE">
+    <title lang="es">Oro (1974)</title>
+    <desc lang="es">El gerente de unas minas de Sudáfrica trama un plan para subir el precio del oro en el mercado. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81PzgJJMnvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260315222800 +0100" stop="20260315235100 +0100" channel="acontra+ CINE">
+    <title lang="es">11:14 Destino fatal (2003)</title>
+    <desc lang="es">A las 11:14 de la mañana de un mismo día suceden simultáneamente dos accidentes automovilísticos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91b87S6oVxL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
