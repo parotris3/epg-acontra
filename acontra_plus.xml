@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260316144200 +0100" stop="20260316164200 +0100" channel="acontra+ CINE">
-    <title lang="es">El caso Wells (2007)</title>
-    <desc lang="es">Un agente y su protegida investigan la desaparición de una joven por temas de delincuencia sexual. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81dmJ8admJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260316164200 +0100" stop="20260316182200 +0100" channel="acontra+ CINE">
-    <title lang="es">El legado (1979)</title>
-    <desc lang="es">Seis personas llegan a una casa en el campo pero su tranquilo fin de semana se complicará. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81thiMnpaZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260316182200 +0100" stop="20260316201000 +0100" channel="acontra+ CINE">
+  <programme start="20260316181000 +0100" stop="20260316201000 +0100" channel="acontra+ CINE">
     <title lang="es">Los girasoles (1970)</title>
     <desc lang="es">Giovanna se casa con Antonio antes de la guerra, pero él no quiere ir al frente y simula estar loco. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1OT-cPmxeL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Mi noche con Maud (1969)</title>
     <desc lang="es">Un ingeniero católico trata de resistir las seducciones de una oscura mujer divorciada. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71fF8HWAegL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260317000900 +0100" stop="20260317020700 +0100" channel="acontra+ CINE">
+    <title lang="es">La anguila (1997)</title>
+    <desc lang="es">Takuro Yamashita sale en libertad condicional tras haber matado a su esposa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81zRh+SlX7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260317020700 +0100" stop="20260317035800 +0100" channel="acontra+ CINE">
+    <title lang="es">Herida (1992)</title>
+    <desc lang="es">Peligrosa aventura de amor y sexo entre un político casado y la prometida de su hijo. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71oQ1wnlNSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260317035800 +0100" stop="20260317052400 +0100" channel="acontra+ CINE">
+    <title lang="es">Bajo las estrellas de París (2021)</title>
+    <desc lang="es">Christine, una sintecho que viven en París, se encuentra a Suli, de 8 años, durante el invierno. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ZMUirTdsL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
