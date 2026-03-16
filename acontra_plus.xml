@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260315234400 +0100" stop="20260316014400 +0100" channel="acontra+ CINE">
-    <title lang="es">El señor de las bestias (1983)</title>
-    <desc lang="es">Dar, el príncipe guerrero, necesita salvar al amor de su vida, Kiri, ahora prisionera de un rey. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WflJhW96L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260316014400 +0100" stop="20260316040000 +0100" channel="acontra+ CINE">
-    <title lang="es">Papá está en viaje de negocios (1985)</title>
-    <desc lang="es">Un niño crece viendo cómo su padre tiene múltiples problemas políticos en los años 50 en Yugoslavia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/913GrwMD37L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260316040000 +0100" stop="20260316052400 +0100" channel="acontra+ CINE">
+  <programme start="20260316032400 +0100" stop="20260316052400 +0100" channel="acontra+ CINE">
     <title lang="es">Reykjavik-Rotterdam (2008)</title>
     <desc lang="es">Un excontrabandista de alcohol arruinado vuelve a sus negocios ilegales para probar suerte. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1jLACGmzyL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Love Bite (2012)</title>
     <desc lang="es">Jamie descubre que la única forma de estar a salvo de un hombre lobo es teniendo sexo. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81B5h7R964L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260316083700 +0100" stop="20260316101400 +0100" channel="acontra+ CINE">
+    <title lang="es">The Great Gilly Hopkins (2015)</title>
+    <desc lang="es">Basado en la novela de Katherine Paterson. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Uf-bXo0xL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260316101400 +0100" stop="20260316120100 +0100" channel="acontra+ CINE">
+    <title lang="es">Housebound (2014)</title>
+    <desc lang="es">Una aspirante a ladrona es remitida a la custodia de su madre distanciada. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81HHDEtoTXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260316120100 +0100" stop="20260316132500 +0100" channel="acontra+ CINE">
+    <title lang="es">Diplomacia (2014)</title>
+    <desc lang="es">Raoul Nordling intenta convencer a Dietrich von Choltitz para que deje intactos los monumentos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81x-O7eaqzL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
