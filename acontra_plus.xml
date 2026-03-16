@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260316081400 +0100" stop="20260316101400 +0100" channel="acontra+ CINE">
-    <title lang="es">The Great Gilly Hopkins (2015)</title>
-    <desc lang="es">Basado en la novela de Katherine Paterson. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Uf-bXo0xL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260316101400 +0100" stop="20260316120100 +0100" channel="acontra+ CINE">
-    <title lang="es">Housebound (2014)</title>
-    <desc lang="es">Una aspirante a ladrona es remitida a la custodia de su madre distanciada. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81HHDEtoTXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260316120100 +0100" stop="20260316132500 +0100" channel="acontra+ CINE">
-    <title lang="es">Diplomacia (2014)</title>
-    <desc lang="es">Raoul Nordling intenta convencer a Dietrich von Choltitz para que deje intactos los monumentos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81x-O7eaqzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260316132500 +0100" stop="20260316145700 +0100" channel="acontra+ CINE">
-    <title lang="es">20 años no importan (2013)</title>
-    <desc lang="es">La vida de Alice, una mujer ambiciosa y egocéntrica, cambia cuando conoce al joven Balthazar. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91sfPGXr9ML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260316145700 +0100" stop="20260316164200 +0100" channel="acontra+ CINE">
+  <programme start="20260316144200 +0100" stop="20260316164200 +0100" channel="acontra+ CINE">
     <title lang="es">El caso Wells (2007)</title>
     <desc lang="es">Un agente y su protegida investigan la desaparición de una joven por temas de delincuencia sexual. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81dmJ8admJL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +12,20 @@
     <title lang="es">El legado (1979)</title>
     <desc lang="es">Seis personas llegan a una casa en el campo pero su tranquilo fin de semana se complicará. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81thiMnpaZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260316182200 +0100" stop="20260316201000 +0100" channel="acontra+ CINE">
+    <title lang="es">Los girasoles (1970)</title>
+    <desc lang="es">Giovanna se casa con Antonio antes de la guerra, pero él no quiere ir al frente y simula estar loco. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1OT-cPmxeL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260316201000 +0100" stop="20260316221900 +0100" channel="acontra+ CINE">
+    <title lang="es">La ciudad de la alegría (1992)</title>
+    <desc lang="es">En la ciudad de Calcuta, dos personas muy diferentes encuentran comprensión la una en la otra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81vWESbKG4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260316221900 +0100" stop="20260317000900 +0100" channel="acontra+ CINE">
+    <title lang="es">Mi noche con Maud (1969)</title>
+    <desc lang="es">Un ingeniero católico trata de resistir las seducciones de una oscura mujer divorciada. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71fF8HWAegL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
