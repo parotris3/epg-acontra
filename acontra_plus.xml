@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260316032400 +0100" stop="20260316052400 +0100" channel="acontra+ CINE">
-    <title lang="es">Reykjavik-Rotterdam (2008)</title>
-    <desc lang="es">Un excontrabandista de alcohol arruinado vuelve a sus negocios ilegales para probar suerte. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1jLACGmzyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260316052400 +0100" stop="20260316070600 +0100" channel="acontra+ CINE">
-    <title lang="es">Seis gendarmes en fuga (2015)</title>
-    <desc lang="es">Chucrot decide ayudar a uno de sus hombres internado con un problema de amnesia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81CHebdNXCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260316070600 +0100" stop="20260316083700 +0100" channel="acontra+ CINE">
-    <title lang="es">Love Bite (2012)</title>
-    <desc lang="es">Jamie descubre que la única forma de estar a salvo de un hombre lobo es teniendo sexo. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81B5h7R964L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260316083700 +0100" stop="20260316101400 +0100" channel="acontra+ CINE">
+  <programme start="20260316081400 +0100" stop="20260316101400 +0100" channel="acontra+ CINE">
     <title lang="es">The Great Gilly Hopkins (2015)</title>
     <desc lang="es">Basado en la novela de Katherine Paterson. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Uf-bXo0xL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Diplomacia (2014)</title>
     <desc lang="es">Raoul Nordling intenta convencer a Dietrich von Choltitz para que deje intactos los monumentos. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81x-O7eaqzL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260316132500 +0100" stop="20260316145700 +0100" channel="acontra+ CINE">
+    <title lang="es">20 años no importan (2013)</title>
+    <desc lang="es">La vida de Alice, una mujer ambiciosa y egocéntrica, cambia cuando conoce al joven Balthazar. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91sfPGXr9ML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260316145700 +0100" stop="20260316164200 +0100" channel="acontra+ CINE">
+    <title lang="es">El caso Wells (2007)</title>
+    <desc lang="es">Un agente y su protegida investigan la desaparición de una joven por temas de delincuencia sexual. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81dmJ8admJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260316164200 +0100" stop="20260316182200 +0100" channel="acontra+ CINE">
+    <title lang="es">El legado (1979)</title>
+    <desc lang="es">Seis personas llegan a una casa en el campo pero su tranquilo fin de semana se complicará. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81thiMnpaZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
