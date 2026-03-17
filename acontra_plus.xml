@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260317032400 +0100" stop="20260317052400 +0100" channel="acontra+ CINE">
-    <title lang="es">Bajo las estrellas de París (2021)</title>
-    <desc lang="es">Christine, una sintecho que viven en París, se encuentra a Suli, de 8 años, durante el invierno. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ZMUirTdsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260317052400 +0100" stop="20260317070300 +0100" channel="acontra+ CINE">
-    <title lang="es">El último gran día (2009)</title>
-    <desc lang="es">Un temible solitario prepara su propio funeral y piensa asistir a él para revelárselo a todos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/819tcaxBNnL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260317070300 +0100" stop="20260317092500 +0100" channel="acontra+ CINE">
-    <title lang="es">El tambor de hojalata (1988)</title>
-    <desc lang="es">En su tercer cumpleaños, Oskar recibe su primer tambor de hojalata. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91oMcNQd4CL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260317092500 +0100" stop="20260317110300 +0100" channel="acontra+ CINE">
+  <programme start="20260317090300 +0100" stop="20260317110300 +0100" channel="acontra+ CINE">
     <title lang="es">My Beautiful Laundrette (1986)</title>
     <desc lang="es">Dos jóvenes se unen para restaurar una lavandería. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71PewlESOcL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Sorgo rojo (1989)</title>
     <desc lang="es">En la China de la década de 1930, una joven es enviada por su padre a casarse con un hombre enfermo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71vjhf6CsDL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260317141100 +0100" stop="20260317165000 +0100" channel="acontra+ CINE">
+    <title lang="es">Van Gogh (1992)</title>
+    <desc lang="es">La película de los últimos meses de la vida y el arte del pintor Vincent Van Gogh en París. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91bPQ3prf8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260317165000 +0100" stop="20260317183600 +0100" channel="acontra+ CINE">
+    <title lang="es">El extraordinario viaje de T.S. Spivet (2013)</title>
+    <desc lang="es">T.S. Spivet es un genio de diez años, con un gran talento para los inventos, que vive en un rancho. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81j3C0+TMYL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
