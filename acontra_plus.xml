@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260316220900 +0100" stop="20260317000900 +0100" channel="acontra+ CINE">
-    <title lang="es">Mi noche con Maud (1969)</title>
-    <desc lang="es">Un ingeniero católico trata de resistir las seducciones de una oscura mujer divorciada. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71fF8HWAegL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260317000900 +0100" stop="20260317020700 +0100" channel="acontra+ CINE">
-    <title lang="es">La anguila (1997)</title>
-    <desc lang="es">Takuro Yamashita sale en libertad condicional tras haber matado a su esposa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81zRh+SlX7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260317020700 +0100" stop="20260317035800 +0100" channel="acontra+ CINE">
-    <title lang="es">Herida (1992)</title>
-    <desc lang="es">Peligrosa aventura de amor y sexo entre un político casado y la prometida de su hijo. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71oQ1wnlNSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260317035800 +0100" stop="20260317052400 +0100" channel="acontra+ CINE">
+  <programme start="20260317032400 +0100" stop="20260317052400 +0100" channel="acontra+ CINE">
     <title lang="es">Bajo las estrellas de París (2021)</title>
     <desc lang="es">Christine, una sintecho que viven en París, se encuentra a Suli, de 8 años, durante el invierno. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ZMUirTdsL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El tambor de hojalata (1988)</title>
     <desc lang="es">En su tercer cumpleaños, Oskar recibe su primer tambor de hojalata. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91oMcNQd4CL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260317092500 +0100" stop="20260317110300 +0100" channel="acontra+ CINE">
+    <title lang="es">My Beautiful Laundrette (1986)</title>
+    <desc lang="es">Dos jóvenes se unen para restaurar una lavandería. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71PewlESOcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260317110300 +0100" stop="20260317124300 +0100" channel="acontra+ CINE">
+    <title lang="es">Mejor otro día (2014)</title>
+    <desc lang="es">En Londres, durante la noche de fin de año, cuatro desconocidos coinciden para lanzarse al vacío. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81BOSXet0mL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260317124300 +0100" stop="20260317141100 +0100" channel="acontra+ CINE">
+    <title lang="es">Sorgo rojo (1989)</title>
+    <desc lang="es">En la China de la década de 1930, una joven es enviada por su padre a casarse con un hombre enfermo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71vjhf6CsDL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
