@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260317181800 +0100" stop="20260317201800 +0100" channel="acontra+ CINE">
-    <title lang="es">Ídolos, mentiras y rock &#38; roll (1997)</title>
-    <desc lang="es">Un joven inmigrante húngaro intenta adaptarse a la escuela y a la cultura americana de los años 60. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/71URI2-SMXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260317201800 +0100" stop="20260317215300 +0100" channel="acontra+ CINE">
-    <title lang="es">Banda aparte (2003)</title>
-    <desc lang="es">Arthur y Franz adoran el cine negro americano y su sueño es llegar a ser como los gánsteres. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91np+eX01bL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260317215300 +0100" stop="20260317233500 +0100" channel="acontra+ CINE">
-    <title lang="es">Los limoneros (2008)</title>
-    <desc lang="es">Salma, una viuda palestina, defiende sus limoneros frente a las fuerzas de seguridad israelíes. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/818VZluvhoL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260317233500 +0100" stop="20260318014800 +0100" channel="acontra+ CINE">
+  <programme start="20260317234800 +0100" stop="20260318014800 +0100" channel="acontra+ CINE">
     <title lang="es">Open Range (2003)</title>
     <desc lang="es">Un grupo de hombres intenta escapar de su pasado guiando ganado. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Pc2cUR1nL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Regreso a Howards End (1992)</title>
     <desc lang="es">Dos hermanas cultas e independientes hacen amistad con la próspera y convencional familia Wilcox. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81021vjbDVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260318040700 +0100" stop="20260318060900 +0100" channel="acontra+ CINE">
+    <title lang="es">Juntos (2003)</title>
+    <desc lang="es">Drama | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91UcJguueIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260318060900 +0100" stop="20260318075500 +0100" channel="acontra+ CINE">
+    <title lang="es">Wolf Creek 2 (2013)</title>
+    <desc lang="es">Tres mochileros que visitan el cráter de Wolf Creek deben huir de un psicópata asesino. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81fxRxDBwBL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260318075500 +0100" stop="20260318092300 +0100" channel="acontra+ CINE">
+    <title lang="es">Bajo Cero (2006)</title>
+    <desc lang="es">Un grupo de alpinistas debe evitar que unos mercenarios utilicen una destructiva arma. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1F0SjuOWRL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
