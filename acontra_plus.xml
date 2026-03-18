@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260318084900 +0100" stop="20260318104900 +0100" channel="acontra+ CINE">
-    <title lang="es">Josie (2017)</title>
-    <desc lang="es">Un hombre solitario se hace amigo de una estudiante, lo que genera suspicacias entre sus vecinos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81SUld6UADL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260318104900 +0100" stop="20260318122200 +0100" channel="acontra+ CINE">
-    <title lang="es">Le week-end (2013)</title>
-    <desc lang="es">Nick y Meg, a sus 60 años, viajan a París para pasar un fin de semana romántico que reavive su vida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81A0oV0QixL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260318122200 +0100" stop="20260318142000 +0100" channel="acontra+ CINE">
-    <title lang="es">Nueva vida en Nueva York (2013)</title>
-    <desc lang="es">Xavier es un escritor de 40 años que no ha sentado la cabeza y va a Nueva York a encontrar su lugar. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qkrxjYFTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260318142000 +0100" stop="20260318154400 +0100" channel="acontra+ CINE">
+  <programme start="20260318134400 +0100" stop="20260318154400 +0100" channel="acontra+ CINE">
     <title lang="es">Rashomon (1950)</title>
     <desc lang="es">Siglo XII, Melancólica radiografía de la naturaleza humana. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71wyXb0sZML._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Tortura (1944)</title>
     <desc lang="es">Calígula, un profesor sádico, está obsesionado con Bertha, la encargada de un estanco. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71eELV6GEPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260318185600 +0100" stop="20260318203000 +0100" channel="acontra+ CINE">
+    <title lang="es">Las ocho campanadas (2003)</title>
+    <desc lang="es">Philip Calvert es un agente del servicio secreto naval cuya misión es la de desentrañar un robo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qMCGYTo5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260318203000 +0100" stop="20260318221100 +0100" channel="acontra+ CINE">
+    <title lang="es">Éxito a cualquier precio (1992)</title>
+    <desc lang="es">Un grupo de maliciosos vendedores de inmuebles lucha por sobrevivir en una economía en crisis. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Q-9MYBdRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260318221100 +0100" stop="20260318235400 +0100" channel="acontra+ CINE">
+    <title lang="es">El espejo (1975)</title>
+    <desc lang="es">Alekséi habla con su esposa sobre su situación actual y los motivos por los que se han distanciado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/918hJRIVn7L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
