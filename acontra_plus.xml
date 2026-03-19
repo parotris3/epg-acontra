@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260319143600 +0100" stop="20260319163600 +0100" channel="acontra+ CINE">
-    <title lang="es">Lucky Luke (2009)</title>
-    <desc lang="es">El vaquero Lucky Luke regresa a su pueblo natal, Daisy Town, para instaurar de nuevo la paz. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uqKlxpNsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260319163600 +0100" stop="20260319182100 +0100" channel="acontra+ CINE">
-    <title lang="es">Exótica (1994)</title>
-    <desc lang="es">Un solitario inspector de Hacienda acude cada noche al club de baile erótico Exótica. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B166go0R7zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260319182100 +0100" stop="20260319195300 +0100" channel="acontra+ CINE">
-    <title lang="es">Ático sin ascensor (2014)</title>
-    <desc lang="es">Una pareja mayor intenta vender su apartamento de Brooklyn donde han vivido más de cuarenta años. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81M6kDL8+yL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260319195300 +0100" stop="20260319213100 +0100" channel="acontra+ CINE">
+  <programme start="20260319193100 +0100" stop="20260319213100 +0100" channel="acontra+ CINE">
     <title lang="es">Cash (2008)</title>
     <desc lang="es">Cash decide vengar el asesinato de su hermano a su manera: sin armas ni violencia, con estilo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91nYcTFWEvL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,15 @@
     <title lang="es">Buenas noches, y buena suerte (2005)</title>
     <desc lang="es">El periodista Edward R. Murrow cuestiona la ética del senador Joseph McCarthy. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/8104a5vWAaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260319230400 +0100" stop="20260320013900 +0100" channel="acontra+ CINE">
+    <title lang="es">El último emperador (1987)</title>
+    <desc lang="es">Pu Yi se convierte en emperador de China a los tres años. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91B6wwr2j1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260320013900 +0100" stop="20260320040200 +0100" channel="acontra+ CINE">
+    <title lang="es">Historia del último crisantemo (1939)</title>
+    <desc lang="es">El hijo adoptivo de un prestigioso actor del teatro kabuki carece de las virtudes del padre. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91+fqQC0YWL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
