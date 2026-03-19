@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260319032800 +0100" stop="20260319052800 +0100" channel="acontra+ CINE">
-    <title lang="es">El manantial de la doncella (2016)</title>
-    <desc lang="es">Tres campesinos medievales violan y asesinan a una joven en el bosque y su padre busca venganza. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81HPQIn7ktL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260319052800 +0100" stop="20260319064600 +0100" channel="acontra+ CINE">
-    <title lang="es">De Repente (1954)</title>
-    <desc lang="es">Tres criminales secuestran a una familia en su casa para matar al presidente de Estados Unidos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-cn0GVi9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260319064600 +0100" stop="20260319083200 +0100" channel="acontra+ CINE">
-    <title lang="es">Enigma (1982)</title>
-    <desc lang="es">Alex Holbeck debe evitar que varios disidentes políticos sean asesinados por el KGB. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81fgSzI8EzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260319083200 +0100" stop="20260319101000 +0100" channel="acontra+ CINE">
+  <programme start="20260319081000 +0100" stop="20260319101000 +0100" channel="acontra+ CINE">
     <title lang="es">Juntos, nada más (2007)</title>
     <desc lang="es">Un cocinero, una dibujante y un aristócrata solitario deberán aprender a convivir. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81IK+avmNdL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Vivarium (2019)</title>
     <desc lang="es">Una joven pareja visita una inmobiliaria para comprar una casa donde se quedarán atrapados. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/914D3Ssc3AL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260319132100 +0100" stop="20260319145000 +0100" channel="acontra+ CINE">
+    <title lang="es">Blanco perfecto (Downrange) (2018)</title>
+    <desc lang="es">Seis amigos se quedan tirados en la carretera y se convierten en el objetivo de un francotirador. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81nEFH7nABL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260319145000 +0100" stop="20260319163600 +0100" channel="acontra+ CINE">
+    <title lang="es">Lucky Luke (2009)</title>
+    <desc lang="es">El vaquero Lucky Luke regresa a su pueblo natal, Daisy Town, para instaurar de nuevo la paz. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81uqKlxpNsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260319163600 +0100" stop="20260319182100 +0100" channel="acontra+ CINE">
+    <title lang="es">Exótica (1994)</title>
+    <desc lang="es">Un solitario inspector de Hacienda acude cada noche al club de baile erótico Exótica. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B166go0R7zL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
