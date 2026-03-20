@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260320033900 +0100" stop="20260320053900 +0100" channel="acontra+ CINE">
-    <title lang="es">Funerarias S.A. (2002)</title>
-    <desc lang="es">La esposa de un político y el dueño de una funeraria deciden fingir la muerte de ella y huir juntos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/813PviWr4dL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260320053900 +0100" stop="20260320073500 +0100" channel="acontra+ CINE">
-    <title lang="es">Las Diabólicas (1955)</title>
-    <desc lang="es">La mujer y el amante del director de un colegio ponen fin a la tiranía del hombre que comparten. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1i3cYW6luL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260320073500 +0100" stop="20260320091800 +0100" channel="acontra+ CINE">
-    <title lang="es">El loco, loco mundo del gendarme (2022)</title>
-    <desc lang="es">Cuatro jóvenes y hermosas mujeres policías trastornan la vida de una comisaría francesa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81u8LwKvTLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260320091800 +0100" stop="20260320110000 +0100" channel="acontra+ CINE">
+  <programme start="20260320090000 +0100" stop="20260320110000 +0100" channel="acontra+ CINE">
     <title lang="es">Aurora boreal (2007)</title>
     <desc lang="es">Rebeca regresará a su ciudad natal dispuesta a encontrar al asesino del hermano de su amiga. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91r+VRPqJxL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Envidia sana (2020)</title>
     <desc lang="es">La armonía entre dos parejas se rompe cuando Lea les dice que está escribiendo una novela. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81uDdrfBuKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260320135300 +0100" stop="20260320154800 +0100" channel="acontra+ CINE">
+    <title lang="es">La mujer zurda (1980)</title>
+    <desc lang="es">Una mujer recién separada pone rumbo a París con su hijo, donde comienzan una nueva vida. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ebmwYoeRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260320154800 +0100" stop="20260320165400 +0100" channel="acontra+ CINE">
+    <title lang="es">Locos del aire (1939)</title>
+    <desc lang="es">Ollie y su amigo deciden alistarse en el ejército para olvidar un desamor. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81D5fmE6xzL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260320165400 +0100" stop="20260320182700 +0100" channel="acontra+ CINE">
+    <title lang="es">Rock &#39;n&#39; Roll High School (1979)</title>
+    <desc lang="es">El instituto Vince Lombardi es un desmadre, con todos sus estudiantes adictos al rock &#39;n&#39; roll. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1vmFm8jzWL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
