@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260320134800 +0100" stop="20260320154800 +0100" channel="acontra+ CINE">
-    <title lang="es">La mujer zurda (1980)</title>
-    <desc lang="es">Una mujer recién separada pone rumbo a París con su hijo, donde comienzan una nueva vida. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ebmwYoeRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260320154800 +0100" stop="20260320165400 +0100" channel="acontra+ CINE">
-    <title lang="es">Locos del aire (1939)</title>
-    <desc lang="es">Ollie y su amigo deciden alistarse en el ejército para olvidar un desamor. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81D5fmE6xzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260320165400 +0100" stop="20260320182700 +0100" channel="acontra+ CINE">
-    <title lang="es">Rock &#39;n&#39; Roll High School (1979)</title>
-    <desc lang="es">El instituto Vince Lombardi es un desmadre, con todos sus estudiantes adictos al rock &#39;n&#39; roll. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1vmFm8jzWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260320182700 +0100" stop="20260320195300 +0100" channel="acontra+ CINE">
-    <title lang="es">Los ojos sin rostro (1960)</title>
-    <desc lang="es">Un brillante cirujano rapta chicas para utilizar su piel y así reconstruir la belleza de su hija. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8194+Gl+upL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260320195300 +0100" stop="20260320214700 +0100" channel="acontra+ CINE">
+  <programme start="20260320194700 +0100" stop="20260320214700 +0100" channel="acontra+ CINE">
     <title lang="es">Soñadores (2000)</title>
     <desc lang="es">Isabelle, Theo y Matthew tratan de conocerse mutuamente explorando emociones y erotismo. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81gj-r-5MuL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +12,20 @@
     <title lang="es">El guardián (2002)</title>
     <desc lang="es">Un inspector de policía investiga una ola de violencia provocada por un espíritu maligno. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/813v6NxUfHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260320231700 +0100" stop="20260321011700 +0100" channel="acontra+ CINE">
+    <title lang="es">S.A.S. Los invencibles (2002)</title>
+    <desc lang="es">Un grupo antinuclear toma la embajada de EE.UU. en Londres y amenaza con matar a los rehenes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71r6c13l-UL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260321011700 +0100" stop="20260321035300 +0100" channel="acontra+ CINE">
+    <title lang="es">Un ángel en mi mesa (1991)</title>
+    <desc lang="es">Cinta biográfica sobre la escritora Janet Frame, quien casi fue víctima de una lobotomía. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1FHg-vfEtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260321035300 +0100" stop="20260321055500 +0100" channel="acontra+ CINE">
+    <title lang="es">Salvar o morir (2020)</title>
+    <desc lang="es">Un bombero parisino sacrifica su propia seguridad para salvar a sus compañeros durante un incendio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81aMCbkTScL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
