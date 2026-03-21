@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260321141800 +0100" stop="20260321161800 +0100" channel="acontra+ CINE">
-    <title lang="es">Dos mujeres (2017)</title>
-    <desc lang="es">Claire, una apasionada y estricta matrona, conoce a la amante de su difunto padre. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91RakOdlovL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260321161800 +0100" stop="20260321173800 +0100" channel="acontra+ CINE">
-    <title lang="es">El marido de la peluquera (1990)</title>
-    <desc lang="es">Fascinado por los estilistas desde que era un niño, Antoine promete casarse con una peluquera. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/918xYPpp98L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260321173800 +0100" stop="20260321193100 +0100" channel="acontra+ CINE">
-    <title lang="es">El Skylab (2011)</title>
-    <desc lang="es">Julio de 1979. Albertine, de diez años, y sus familiares se reúnen en una casa de Bretaña. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ccAm5Q3PL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260321193100 +0100" stop="20260321204100 +0100" channel="acontra+ CINE">
+  <programme start="20260321184100 +0100" stop="20260321204100 +0100" channel="acontra+ CINE">
     <title lang="es">El trío fantástico (1925)</title>
     <desc lang="es">Tres artistas de circo deciden dejar sus miserables vidas y formar El trío fantástico. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81QWxaFKI7L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Angel (2007)</title>
     <desc lang="es">Inglaterra, 1910. Angel Deverell, una joven de origen humilde, trata de escalar socialmente. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81shyQSUPuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260322001100 +0100" stop="20260322020900 +0100" channel="acontra+ CINE">
+    <title lang="es">Senso (1954)</title>
+    <desc lang="es">Venecia, 1866. Livia, una bella aristócrata italiana, vive un romance con el teniente Franz Mahler. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91RRRFhbw0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260322020900 +0100" stop="20260322040200 +0100" channel="acontra+ CINE">
+    <title lang="es">Una chica perfecta (2011)</title>
+    <desc lang="es">Dos padres buscan de manera desesperada a su hija desaparecida. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81kXG7WEJvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
