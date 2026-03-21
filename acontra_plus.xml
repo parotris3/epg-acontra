@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260320231700 +0100" stop="20260321011700 +0100" channel="acontra+ CINE">
-    <title lang="es">S.A.S. Los invencibles (2002)</title>
-    <desc lang="es">Un grupo antinuclear toma la embajada de EE.UU. en Londres y amenaza con matar a los rehenes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71r6c13l-UL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260321011700 +0100" stop="20260321035300 +0100" channel="acontra+ CINE">
-    <title lang="es">Un ángel en mi mesa (1991)</title>
-    <desc lang="es">Cinta biográfica sobre la escritora Janet Frame, quien casi fue víctima de una lobotomía. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1FHg-vfEtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260321035300 +0100" stop="20260321055500 +0100" channel="acontra+ CINE">
+  <programme start="20260321035500 +0100" stop="20260321055500 +0100" channel="acontra+ CINE">
     <title lang="es">Salvar o morir (2020)</title>
     <desc lang="es">Un bombero parisino sacrifica su propia seguridad para salvar a sus compañeros durante un incendio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81aMCbkTScL._UR1920,1080_FMpng_.jpg"/>
@@ -22,5 +12,20 @@
     <title lang="es">Barbarroja (1965)</title>
     <desc lang="es">En el Japón del siglo XIX, un médico de pueblo, rudo pero caritativo, entrena a un joven interno. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81jrwGsLkQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260321085700 +0100" stop="20260321105400 +0100" channel="acontra+ CINE">
+    <title lang="es">Callejón sin salida (1966)</title>
+    <desc lang="es">Dos fugitivos se esconden en un castillo medieval habitado por una pareja muy excéntrica. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71uV+LXDfLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260321105400 +0100" stop="20260321122300 +0100" channel="acontra+ CINE">
+    <title lang="es">Escóndete y tiembla (1988)</title>
+    <desc lang="es">Viajeros son objetivos de una familia de psicópatas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91hlpnJKfWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260321122300 +0100" stop="20260321141900 +0100" channel="acontra+ CINE">
+    <title lang="es">El abuelo que saltó por la ventana y se largó (2014)</title>
+    <desc lang="es">El día en que va a cumplir 100 años, un anciano se fuga de la residencia en la que vive. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1kKccTNK5L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
