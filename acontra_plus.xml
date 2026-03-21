@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260321085400 +0100" stop="20260321105400 +0100" channel="acontra+ CINE">
-    <title lang="es">Callejón sin salida (1966)</title>
-    <desc lang="es">Dos fugitivos se esconden en un castillo medieval habitado por una pareja muy excéntrica. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71uV+LXDfLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260321105400 +0100" stop="20260321122300 +0100" channel="acontra+ CINE">
-    <title lang="es">Escóndete y tiembla (1988)</title>
-    <desc lang="es">Viajeros son objetivos de una familia de psicópatas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91hlpnJKfWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260321122300 +0100" stop="20260321141900 +0100" channel="acontra+ CINE">
-    <title lang="es">El abuelo que saltó por la ventana y se largó (2014)</title>
-    <desc lang="es">El día en que va a cumplir 100 años, un anciano se fuga de la residencia en la que vive. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1kKccTNK5L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260321141900 +0100" stop="20260321161800 +0100" channel="acontra+ CINE">
+  <programme start="20260321141800 +0100" stop="20260321161800 +0100" channel="acontra+ CINE">
     <title lang="es">Dos mujeres (2017)</title>
     <desc lang="es">Claire, una apasionada y estricta matrona, conoce a la amante de su difunto padre. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91RakOdlovL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El Skylab (2011)</title>
     <desc lang="es">Julio de 1979. Albertine, de diez años, y sus familiares se reúnen en una casa de Bretaña. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ccAm5Q3PL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260321193100 +0100" stop="20260321204100 +0100" channel="acontra+ CINE">
+    <title lang="es">El trío fantástico (1925)</title>
+    <desc lang="es">Tres artistas de circo deciden dejar sus miserables vidas y formar El trío fantástico. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81QWxaFKI7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260321204100 +0100" stop="20260321221200 +0100" channel="acontra+ CINE">
+    <title lang="es">Nuestro último verano en Escocia (2014)</title>
+    <desc lang="es">Una pareja recién separada con hijos viaja a Escocia para el cumpleaños del abuelo enfermo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ZdTEM4w9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260321221200 +0100" stop="20260322001100 +0100" channel="acontra+ CINE">
+    <title lang="es">Angel (2007)</title>
+    <desc lang="es">Inglaterra, 1910. Angel Deverell, una joven de origen humilde, trata de escalar socialmente. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81shyQSUPuL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
