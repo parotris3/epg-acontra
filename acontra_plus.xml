@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260321221100 +0100" stop="20260322001100 +0100" channel="acontra+ CINE">
-    <title lang="es">Angel (2007)</title>
-    <desc lang="es">Inglaterra, 1910. Angel Deverell, una joven de origen humilde, trata de escalar socialmente. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81shyQSUPuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260322001100 +0100" stop="20260322020900 +0100" channel="acontra+ CINE">
-    <title lang="es">Senso (1954)</title>
-    <desc lang="es">Venecia, 1866. Livia, una bella aristócrata italiana, vive un romance con el teniente Franz Mahler. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91RRRFhbw0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260322020900 +0100" stop="20260322040200 +0100" channel="acontra+ CINE">
-    <title lang="es">Una chica perfecta (2011)</title>
-    <desc lang="es">Dos padres buscan de manera desesperada a su hija desaparecida. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81kXG7WEJvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260322040200 +0100" stop="20260322055300 +0100" channel="acontra+ CINE">
+  <programme start="20260322035300 +0100" stop="20260322055300 +0100" channel="acontra+ CINE">
     <title lang="es">Tamara Drewe (2010)</title>
     <desc lang="es">Tamara Drewe, una joven periodista, regresa a su pueblo natal de la campiña inglesa. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81YZ6DxdZ1L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Me casé con un boludo</title>
     <desc lang="es">Florencia se da cuenta de que se casó con un idiota. Él intentará recuperarla con un guionista. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71rVwQe6GOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260322092800 +0100" stop="20260322110800 +0100" channel="acontra+ CINE">
+    <title lang="es">Los panzers de la muerte (1988)</title>
+    <desc lang="es">En 1942, Adolf Hitler da a sus tropas la orden de no retroceder y oponer una resistencia fanática. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81uPYLrwyUL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260322110800 +0100" stop="20260322125400 +0100" channel="acontra+ CINE">
+    <title lang="es">Emperador (2012)</title>
+    <desc lang="es">El general MacArthur debe tomar la decisión de someter al emperador Hirohito o perdonarle la vida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81XRazD7rdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260322125400 +0100" stop="20260322143100 +0100" channel="acontra+ CINE">
+    <title lang="es">El placer (1953)</title>
+    <desc lang="es">Un hombre que oculta su edad, un viaje al campo y un pintor ilustran tres historias sobre el placer. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81OVO5JCtKL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
