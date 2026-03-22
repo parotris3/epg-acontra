@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260322090800 +0100" stop="20260322110800 +0100" channel="acontra+ CINE">
-    <title lang="es">Los panzers de la muerte (1988)</title>
-    <desc lang="es">En 1942, Adolf Hitler da a sus tropas la orden de no retroceder y oponer una resistencia fanática. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uPYLrwyUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260322110800 +0100" stop="20260322125400 +0100" channel="acontra+ CINE">
-    <title lang="es">Emperador (2012)</title>
-    <desc lang="es">El general MacArthur debe tomar la decisión de someter al emperador Hirohito o perdonarle la vida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81XRazD7rdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260322125400 +0100" stop="20260322143100 +0100" channel="acontra+ CINE">
-    <title lang="es">El placer (1953)</title>
-    <desc lang="es">Un hombre que oculta su edad, un viaje al campo y un pintor ilustran tres historias sobre el placer. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81OVO5JCtKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260322143100 +0100" stop="20260322162100 +0100" channel="acontra+ CINE">
+  <programme start="20260322142100 +0100" stop="20260322162100 +0100" channel="acontra+ CINE">
     <title lang="es">El fotógrafo de Minamata (2020)</title>
     <desc lang="es">W. Eugne Smith, fotógrafo de guerra, regresa a Japón para documentar el envenenamiento por mercurio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Y8Sd-EGgL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">El arpa birmana (1956)</title>
     <desc lang="es">Año 1945. Un soldado nipón que toca el arpa queda horrorizado por la destrucción que le rodea. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Rnk3BU0CL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260322181300 +0100" stop="20260322200500 +0100" channel="acontra+ CINE">
+    <title lang="es">Cartas a Roxane (2018)</title>
+    <desc lang="es">Edmond Rostand conoce a Constant Coquellin que acepta interpretar Cyrano de Bergerac. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/814tsVpTvyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260322200500 +0100" stop="20260322212600 +0100" channel="acontra+ CINE">
+    <title lang="es">Avispas asesinas (2012)</title>
+    <desc lang="es">Durante una misión de rescate, dos mujeres deben enfrentarse a unas avispas que disparan fuego. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81gQmc3rurL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260322212600 +0100" stop="20260322230500 +0100" channel="acontra+ CINE">
+    <title lang="es">71 fragmentos de una cronología del azar</title>
+    <desc lang="es">Fragmentos separados por cortes de pantalla en negro describen las vidas de varias personas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/916aQRjTMpL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
