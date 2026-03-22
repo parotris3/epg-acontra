@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260322180500 +0100" stop="20260322200500 +0100" channel="acontra+ CINE">
-    <title lang="es">Cartas a Roxane (2018)</title>
-    <desc lang="es">Edmond Rostand conoce a Constant Coquellin que acepta interpretar Cyrano de Bergerac. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/814tsVpTvyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260322200500 +0100" stop="20260322212600 +0100" channel="acontra+ CINE">
-    <title lang="es">Avispas asesinas (2012)</title>
-    <desc lang="es">Durante una misión de rescate, dos mujeres deben enfrentarse a unas avispas que disparan fuego. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81gQmc3rurL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260322212600 +0100" stop="20260322230500 +0100" channel="acontra+ CINE">
-    <title lang="es">71 fragmentos de una cronología del azar</title>
-    <desc lang="es">Fragmentos separados por cortes de pantalla en negro describen las vidas de varias personas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/916aQRjTMpL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260322230500 +0100" stop="20260323005400 +0100" channel="acontra+ CINE">
+  <programme start="20260322225400 +0100" stop="20260323005400 +0100" channel="acontra+ CINE">
     <title lang="es">Manual de la buena esposa (2020)</title>
     <desc lang="es">Una escuela de hogar se encarga de capacitar a sus estudiantes para que sean esposas modelo. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81GtGBEHRyL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +22,10 @@
     <title lang="es">Las mejores intenciones (1993)</title>
     <desc lang="es">La historia de amor de Los Bergman, quienes lucharon contra el rígido sistema de clases dominante. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71r6TqHsM0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260323065300 +0100" stop="20260323082400 +0100" channel="acontra+ CINE">
+    <title lang="es">Los bicivoladores (1985)</title>
+    <desc lang="es">Tres adolescentes dan con los 'walkie-talkies' que una banda de ladrones iba a usar en un atraco. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Xt+Ig0t1L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
