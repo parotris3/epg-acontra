@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260323132200 +0100" stop="20260323152200 +0100" channel="acontra+ CINE">
-    <title lang="es">La duda de Darwin (2009)</title>
-    <desc lang="es">Darwin se encontrará con una sociedad reacia al cambio cuando publique su teoría de la evolución. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91lZCeCPcAL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260323152200 +0100" stop="20260323170700 +0100" channel="acontra+ CINE">
-    <title lang="es">Sangre sabia (1979)</title>
-    <desc lang="es">Un joven sureño, ambicioso pero sin educación, decide convertirse en predicador. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81cnW2JYytL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260323170700 +0100" stop="20260323185300 +0100" channel="acontra+ CINE">
-    <title lang="es">El caso Wells (2007)</title>
-    <desc lang="es">Un agente y su protegida investigan la desaparición de una joven por temas de delincuencia sexual. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81dmJ8admJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260323185300 +0100" stop="20260323204400 +0100" channel="acontra+ CINE">
+  <programme start="20260323184400 +0100" stop="20260323204400 +0100" channel="acontra+ CINE">
     <title lang="es">Paraíso (2013)</title>
     <desc lang="es">Annika Bengtzon trata de reconstruir su vida tras la violenta muerte de su prometido. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81UESgMWduL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Todos los animales pequeños (1998)</title>
     <desc lang="es">Bobby, un joven discapacitado psíquico, decide huir de su padrastro a través de la campiña inglesa. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91nvNVgFCVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260324004000 +0100" stop="20260324022200 +0100" channel="acontra+ CINE">
+    <title lang="es">Rufufú da el golpe (1959)</title>
+    <desc lang="es">Un milanés convence a Pepe y a sus amigos para ir a Milán para robar el furgón de las qunielas. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/71uBR3dN43L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260324022200 +0100" stop="20260324040600 +0100" channel="acontra+ CINE">
+    <title lang="es">Primavera tardía (1949)</title>
+    <desc lang="es">Noriko vive con su padre viudo y cuida de él, pero ya va siendo muy mayor para permanecer soltera. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/817LyByUZ6L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
