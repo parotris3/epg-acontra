@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260323080400 +0100" stop="20260323100400 +0100" channel="acontra+ CINE">
-    <title lang="es">El gángster (2012)</title>
-    <desc lang="es">Un ex veterano de guerra decide robar bancos para poder mantener a su familia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81EuhLXgwOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260323100400 +0100" stop="20260323115800 +0100" channel="acontra+ CINE">
-    <title lang="es">13 minutos para matar a Hitler (2015)</title>
-    <desc lang="es">Georg Elser pudo haber cambiado el rumbo de la historia de haber contado con trece minutos más. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Nrgxbf4VL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260323115800 +0100" stop="20260323133300 +0100" channel="acontra+ CINE">
-    <title lang="es">Absolución (1987)</title>
-    <desc lang="es">Un cura debe decidir si quebrantar el secreto de confesión. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/618HEhcNOqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260323133300 +0100" stop="20260323152200 +0100" channel="acontra+ CINE">
+  <programme start="20260323132200 +0100" stop="20260323152200 +0100" channel="acontra+ CINE">
     <title lang="es">La duda de Darwin (2009)</title>
     <desc lang="es">Darwin se encontrará con una sociedad reacia al cambio cuando publique su teoría de la evolución. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91lZCeCPcAL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El caso Wells (2007)</title>
     <desc lang="es">Un agente y su protegida investigan la desaparición de una joven por temas de delincuencia sexual. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81dmJ8admJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260323185300 +0100" stop="20260323204400 +0100" channel="acontra+ CINE">
+    <title lang="es">Paraíso (2013)</title>
+    <desc lang="es">Annika Bengtzon trata de reconstruir su vida tras la violenta muerte de su prometido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81UESgMWduL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260323204400 +0100" stop="20260323224700 +0100" channel="acontra+ CINE">
+    <title lang="es">Pandora y el holandés errante (1951)</title>
+    <desc lang="es">Un capitán holandés agobiado por maldiciones eternas encuentra su salvación en una mujer americana. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A121cQI7dQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260323224700 +0100" stop="20260324004000 +0100" channel="acontra+ CINE">
+    <title lang="es">Todos los animales pequeños (1998)</title>
+    <desc lang="es">Bobby, un joven discapacitado psíquico, decide huir de su padrastro a través de la campiña inglesa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91nvNVgFCVL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
