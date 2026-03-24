@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260323224000 +0100" stop="20260324004000 +0100" channel="acontra+ CINE">
-    <title lang="es">Todos los animales pequeños (1998)</title>
-    <desc lang="es">Bobby, un joven discapacitado psíquico, decide huir de su padrastro a través de la campiña inglesa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91nvNVgFCVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260324004000 +0100" stop="20260324022200 +0100" channel="acontra+ CINE">
-    <title lang="es">Rufufú da el golpe (1959)</title>
-    <desc lang="es">Un milanés convence a Pepe y a sus amigos para ir a Milán para robar el furgón de las qunielas. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/71uBR3dN43L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260324022200 +0100" stop="20260324040600 +0100" channel="acontra+ CINE">
-    <title lang="es">Primavera tardía (1949)</title>
-    <desc lang="es">Noriko vive con su padre viudo y cuida de él, pero ya va siendo muy mayor para permanecer soltera. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/817LyByUZ6L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260324040600 +0100" stop="20260324054100 +0100" channel="acontra+ CINE">
+  <programme start="20260324034100 +0100" stop="20260324054100 +0100" channel="acontra+ CINE">
     <title lang="es">La mujer casada (1965)</title>
     <desc lang="es">Un ensayo psicológico y una crítica de la posición de la mujer en la sociedad moderna. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Gd8kl6v1L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Encuentro en la noche (1952)</title>
     <desc lang="es">Tras diez años de ausencia, Mae Doyle vuelve a su pueblo natal, una pequeña población pesquera. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81zo2eSNOcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260324093900 +0100" stop="20260324113200 +0100" channel="acontra+ CINE">
+    <title lang="es">Good Morning Babilonia (1987)</title>
+    <desc lang="es">Dos hermanos italianos buscan éxito como diseñadores de escenario en Estados Unidos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81+9mNV048L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260324113200 +0100" stop="20260324131600 +0100" channel="acontra+ CINE">
+    <title lang="es">The Gift (2015)</title>
+    <desc lang="es">Un viejo conocido amenaza la felicidad de un matrimonio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/717a8vrAlSL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
