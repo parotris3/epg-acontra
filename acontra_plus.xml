@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260324034100 +0100" stop="20260324054100 +0100" channel="acontra+ CINE">
-    <title lang="es">La mujer casada (1965)</title>
-    <desc lang="es">Un ensayo psicológico y una crítica de la posición de la mujer en la sociedad moderna. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Gd8kl6v1L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260324054100 +0100" stop="20260324075400 +0100" channel="acontra+ CINE">
-    <title lang="es">Kabei. Nuestra madre (2008)</title>
-    <desc lang="es">Una mujer lucha por mantener a su familia unida cuando su marido es encarcelado por sus opiniones. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81e0U+3YW4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260324075400 +0100" stop="20260324093900 +0100" channel="acontra+ CINE">
-    <title lang="es">Encuentro en la noche (1952)</title>
-    <desc lang="es">Tras diez años de ausencia, Mae Doyle vuelve a su pueblo natal, una pequeña población pesquera. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81zo2eSNOcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260324093900 +0100" stop="20260324113200 +0100" channel="acontra+ CINE">
+  <programme start="20260324093200 +0100" stop="20260324113200 +0100" channel="acontra+ CINE">
     <title lang="es">Good Morning Babilonia (1987)</title>
     <desc lang="es">Dos hermanos italianos buscan éxito como diseñadores de escenario en Estados Unidos. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81+9mNV048L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">The Gift (2015)</title>
     <desc lang="es">Un viejo conocido amenaza la felicidad de un matrimonio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/717a8vrAlSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260324131600 +0100" stop="20260324152400 +0100" channel="acontra+ CINE">
+    <title lang="es">Bullhead (2011)</title>
+    <desc lang="es">Jacky Vanmarsenille es abordado por un veterinario sin escrúpulos para hacer negocios sucios. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/712XNuWfUCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260324152400 +0100" stop="20260324165400 +0100" channel="acontra+ CINE">
+    <title lang="es">Atraco en Belfast (2013)</title>
+    <desc lang="es">Jimbo, para proteger a su familia y pagar sus deudas de juego, atraca un mercado de pescado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71XlvyxZniL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260324165400 +0100" stop="20260324184300 +0100" channel="acontra+ CINE">
+    <title lang="es">Fuerzas especiales (2011)</title>
+    <desc lang="es">Afganistán, una periodista es capturada por los Talibanes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81wD-+H9LpL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
