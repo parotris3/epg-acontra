@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260324222200 +0100" stop="20260325002200 +0100" channel="acontra+ CINE">
-    <title lang="es">Life Partners (2014)</title>
-    <desc lang="es">La relación entre dos amigas cambia dramáticamente. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81KbqWM--DL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260325002200 +0100" stop="20260325021300 +0100" channel="acontra+ CINE">
-    <title lang="es">Cuento de Otoño (1998)</title>
-    <desc lang="es">Los amigos de una viuda, propietaria de una bodega, la ayudan a encontrar el amor. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91YD1xA+foL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260325021300 +0100" stop="20260325040300 +0100" channel="acontra+ CINE">
-    <title lang="es">Charada (1963)</title>
-    <desc lang="es">Comedia de intriga donde una mujer investiga la muerte de su marido. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81G+eBujYYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260325040300 +0100" stop="20260325053400 +0100" channel="acontra+ CINE">
+  <programme start="20260325033400 +0100" stop="20260325053400 +0100" channel="acontra+ CINE">
     <title lang="es">Ascensor para el Cadalso (1958)</title>
     <desc lang="es">Julien es el amante de la mujer de su jefe. Ambos deciden planear el asesinato del marido. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81BqT+c2ZvL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La flauta mágica (1975)</title>
     <desc lang="es">El príncipe Tamino busca rescatar a la princesa Pamina, secuestrada por un hechicero. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/91rFoIZIBaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260325092500 +0100" stop="20260325110400 +0100" channel="acontra+ CINE">
+    <title lang="es">Medidas extremas (2017)</title>
+    <desc lang="es">Un hombre está dispuesto a todo con tal de sacar a su hija del mundo de las drogas y los hurtos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/915YbrZlfKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260325110400 +0100" stop="20260325123600 +0100" channel="acontra+ CINE">
+    <title lang="es">Kim Novak nunca estuvo aquí (2012)</title>
+    <desc lang="es">Henry comienza unas idílicas vacaciones en el campo hasta que ocurre un terrible incidente. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Rx9R4K4hL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260325123600 +0100" stop="20260325143100 +0100" channel="acontra+ CINE">
+    <title lang="es">Pawn Sacrifice (2014)</title>
+    <desc lang="es">El ajedrecista Bobby Fischer compite contra un soviético. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/816y1HZz1AL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
