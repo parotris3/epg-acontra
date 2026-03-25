@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260325033400 +0100" stop="20260325053400 +0100" channel="acontra+ CINE">
-    <title lang="es">Ascensor para el Cadalso (1958)</title>
-    <desc lang="es">Julien es el amante de la mujer de su jefe. Ambos deciden planear el asesinato del marido. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BqT+c2ZvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260325053400 +0100" stop="20260325071300 +0100" channel="acontra+ CINE">
-    <title lang="es">Adorable seductor (1989)</title>
-    <desc lang="es">El nuevo miembro de una compañía de teatro se enfrenta a un director bullicioso. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81eXQTzyLjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260325071300 +0100" stop="20260325092500 +0100" channel="acontra+ CINE">
-    <title lang="es">La flauta mágica (1975)</title>
-    <desc lang="es">El príncipe Tamino busca rescatar a la princesa Pamina, secuestrada por un hechicero. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/91rFoIZIBaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260325092500 +0100" stop="20260325110400 +0100" channel="acontra+ CINE">
+  <programme start="20260325090400 +0100" stop="20260325110400 +0100" channel="acontra+ CINE">
     <title lang="es">Medidas extremas (2017)</title>
     <desc lang="es">Un hombre está dispuesto a todo con tal de sacar a su hija del mundo de las drogas y los hurtos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/915YbrZlfKL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Pawn Sacrifice (2014)</title>
     <desc lang="es">El ajedrecista Bobby Fischer compite contra un soviético. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/816y1HZz1AL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260325143100 +0100" stop="20260325161100 +0100" channel="acontra+ CINE">
+    <title lang="es">Cromwell, el rey de los bárbaros (1982)</title>
+    <desc lang="es">Unos inadaptados intentan derrotar a un tirano malvado que controla reino medieval mediante magia. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91ZCvuPXU8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260325161100 +0100" stop="20260325174600 +0100" channel="acontra+ CINE">
+    <title lang="es">Al azar, Baltasar (1966)</title>
+    <desc lang="es">Baltasar es un burro que vive feliz en un pueblo francés, hasta que es comprado por la joven Marie. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91kXDMFyBkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260325174600 +0100" stop="20260325192400 +0100" channel="acontra+ CINE">
+    <title lang="es">El gato y el canario (1979)</title>
+    <desc lang="es">La gran herencia de una mujer la convierte en el objetivo de un misterioso asesino. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91WU8UPlK6L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
