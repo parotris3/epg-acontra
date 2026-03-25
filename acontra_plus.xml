@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260325090400 +0100" stop="20260325110400 +0100" channel="acontra+ CINE">
-    <title lang="es">Medidas extremas (2017)</title>
-    <desc lang="es">Un hombre está dispuesto a todo con tal de sacar a su hija del mundo de las drogas y los hurtos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/915YbrZlfKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260325110400 +0100" stop="20260325123600 +0100" channel="acontra+ CINE">
-    <title lang="es">Kim Novak nunca estuvo aquí (2012)</title>
-    <desc lang="es">Henry comienza unas idílicas vacaciones en el campo hasta que ocurre un terrible incidente. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Rx9R4K4hL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260325123600 +0100" stop="20260325143100 +0100" channel="acontra+ CINE">
-    <title lang="es">Pawn Sacrifice (2014)</title>
-    <desc lang="es">El ajedrecista Bobby Fischer compite contra un soviético. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/816y1HZz1AL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260325143100 +0100" stop="20260325161100 +0100" channel="acontra+ CINE">
+  <programme start="20260325141100 +0100" stop="20260325161100 +0100" channel="acontra+ CINE">
     <title lang="es">Cromwell, el rey de los bárbaros (1982)</title>
     <desc lang="es">Unos inadaptados intentan derrotar a un tirano malvado que controla reino medieval mediante magia. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91ZCvuPXU8L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El gato y el canario (1979)</title>
     <desc lang="es">La gran herencia de una mujer la convierte en el objetivo de un misterioso asesino. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91WU8UPlK6L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260325192400 +0100" stop="20260325210300 +0100" channel="acontra+ CINE">
+    <title lang="es">El Rey de Nueva York (1990)</title>
+    <desc lang="es">Un capo de la droga psicótico decide al dejar la prisión compartir sus ganancias con los pobres. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81e8X4Con+L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260325210300 +0100" stop="20260325223400 +0100" channel="acontra+ CINE">
+    <title lang="es">El secreto de la mansión (2010)</title>
+    <desc lang="es">Una familia se muda a una casa de campo que esconde un secreto terrible. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71rtu-pqPVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260325223400 +0100" stop="20260326000800 +0100" channel="acontra+ CINE">
+    <title lang="es">El séptimo sello (1956)</title>
+    <desc lang="es">Una alegoría del intento del ser humano por entender su destino y los misterios de la muerte. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/716CWrZG5-L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
