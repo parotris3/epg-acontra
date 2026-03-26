@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260325220800 +0100" stop="20260326000800 +0100" channel="acontra+ CINE">
-    <title lang="es">El séptimo sello (1956)</title>
-    <desc lang="es">Una alegoría del intento del ser humano por entender su destino y los misterios de la muerte. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/716CWrZG5-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260326000800 +0100" stop="20260326022300 +0100" channel="acontra+ CINE">
-    <title lang="es">En un lugar de África (2003)</title>
-    <desc lang="es">Temiendo la persecución nazi, un abogado judío arregla la huida de su mujer y su hija a Kenya. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71QI7a0twgL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260326022300 +0100" stop="20260326040800 +0100" channel="acontra+ CINE">
-    <title lang="es">Asher (2018)</title>
-    <desc lang="es">La irrupción de una mujer en la vida de un sicario provoca que el asesino intente cambiar de vida. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A19nCE6n+jL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260326040800 +0100" stop="20260326055200 +0100" channel="acontra+ CINE">
+  <programme start="20260326035200 +0100" stop="20260326055200 +0100" channel="acontra+ CINE">
     <title lang="es">Alto el fuego (2019)</title>
     <desc lang="es">Un excombatiente de la Primera Guerra Mundial regresa a casa cuatro años de vida nómada. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81mlTs7fv9L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El collar rojo (2019)</title>
     <desc lang="es">En una aldea francesa azotada por el calor del verano de 1919, un perro no para de ladrar. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81gjqsqToNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260326085800 +0100" stop="20260326110100 +0100" channel="acontra+ CINE">
+    <title lang="es">Great Expectations (2012)</title>
+    <desc lang="es">Basada en la novela de Charles Dickens. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1CCHqpqbeL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260326110100 +0100" stop="20260326124100 +0100" channel="acontra+ CINE">
+    <title lang="es">Perdidos en el Pacífico (2015)</title>
+    <desc lang="es">Sin comida, agua, ni esperanza de rescate, unos soldados navegan sin rumbo tras un accidente. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91elM7CEYmL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260326124100 +0100" stop="20260326142700 +0100" channel="acontra+ CINE">
+    <title lang="es">Tren de noche a Lisboa (2013)</title>
+    <desc lang="es">El profesor suizo Raimund Gregorius abandona su vida para embarcarse en una emocionante aventura. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/816EhyC7XiL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
