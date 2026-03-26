@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260326142400 +0100" stop="20260326162400 +0100" channel="acontra+ CINE">
-    <title lang="es">La voz de la luna (1990)</title>
-    <desc lang="es">Un conspiranoico y su amigo poeta viven una aventura onírica en la llanura del Po. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91ml1q898YL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260326162400 +0100" stop="20260326181300 +0100" channel="acontra+ CINE">
-    <title lang="es">Fedora (1980)</title>
-    <desc lang="es">A base de flasbacks, recorremos la vida de Fedora, una famosa actriz que muere atropellada. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81h-3V4uDLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260326181300 +0100" stop="20260326194400 +0100" channel="acontra+ CINE">
-    <title lang="es">Despertando a Ned (1998)</title>
-    <desc lang="es">Un pueblo oculta la muerte de Ned, ganador de la lotería, para repartirse el dinero entre ellos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81lSKouKbuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260326194400 +0100" stop="20260326210600 +0100" channel="acontra+ CINE">
+  <programme start="20260326190600 +0100" stop="20260326210600 +0100" channel="acontra+ CINE">
     <title lang="es">El infierno bajo tierra (2009)</title>
     <desc lang="es">Un equipo científico ocupa una estación de perforación abandonada en el desierto del Sahara. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71mk-wkBfPL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La Chinoise (1969)</title>
     <desc lang="es">París, 1967. Un grupo de estudiantes franceses empieza a pensar en la forma de cambiar el mundo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91xFWfprssL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260327000000 +0100" stop="20260327021400 +0100" channel="acontra+ CINE">
+    <title lang="es">Fanny (1961)</title>
+    <desc lang="es">Marius abandona a Fanny deseoso de conocer mundo, aunque ignora que está embarazada. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81WrIjDy2YL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260327021400 +0100" stop="20260327034400 +0100" channel="acontra+ CINE">
+    <title lang="es">Cuerpos ardientes (1991)</title>
+    <desc lang="es">La historia de tres mujeres.en la exuberante y pantanosa ciudad de Bayou La Teche, Louisiana. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1SIPR7Xw7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260327034400 +0100" stop="20260327060200 +0100" channel="acontra+ CINE">
+    <title lang="es">Francesco (1989)</title>
+    <desc lang="es">Tras la muerte de San Francisco de Asís, sus amigos más cercanos hablan de la vida del santo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81oU1qjZcsL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
