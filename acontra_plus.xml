@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260327001400 +0100" stop="20260327021400 +0100" channel="acontra+ CINE">
-    <title lang="es">Fanny (1961)</title>
-    <desc lang="es">Marius abandona a Fanny deseoso de conocer mundo, aunque ignora que está embarazada. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81WrIjDy2YL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260327021400 +0100" stop="20260327034400 +0100" channel="acontra+ CINE">
-    <title lang="es">Cuerpos ardientes (1991)</title>
-    <desc lang="es">La historia de tres mujeres.en la exuberante y pantanosa ciudad de Bayou La Teche, Louisiana. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1SIPR7Xw7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260327034400 +0100" stop="20260327060200 +0100" channel="acontra+ CINE">
+  <programme start="20260327040200 +0100" stop="20260327060200 +0100" channel="acontra+ CINE">
     <title lang="es">Francesco (1989)</title>
     <desc lang="es">Tras la muerte de San Francisco de Asís, sus amigos más cercanos hablan de la vida del santo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81oU1qjZcsL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Las aventuras de Picasso (2013)</title>
     <desc lang="es">En Madrid, Pablo Picasso se convirtió en pintor, pero se fue a París, donde vivió en la pobreza. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81qm55QU0oL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260327094300 +0100" stop="20260327112600 +0100" channel="acontra+ CINE">
+    <title lang="es">Miss América (1989)</title>
+    <desc lang="es">Una joven del Sur se apunta en el concurso anual de belleza para resaltar la imagen de su pueblo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81yLQTeQGiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260327112600 +0100" stop="20260327130800 +0100" channel="acontra+ CINE">
+    <title lang="es">Oxford Blues (1984)</title>
+    <desc lang="es">Un americano que anda tras la chica de sus sueños amenaza la tradición de la Universidad de Oxford. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91t7glRFKjL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
