@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260327130100 +0100" stop="20260327150100 +0100" channel="acontra+ CINE">
-    <title lang="es">Europa, Europa (1991)</title>
-    <desc lang="es">Salomon Perel Sally es un joven judío polaco que se hace pasar por un huérfano alemán. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uThRPab5L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260327150100 +0100" stop="20260327170300 +0100" channel="acontra+ CINE">
-    <title lang="es">El secuestro de Alfred Heineken (2011)</title>
-    <desc lang="es">Heineken propietario de la multinacional cervecera fue secuestrado cuando salía de una sede. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Fhej4KTOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260327170300 +0100" stop="20260327184900 +0100" channel="acontra+ CINE">
-    <title lang="es">Dog Soldiers (2002)</title>
-    <desc lang="es">Unos soldados ingleses lucharán por sus vidas al enfrentarse a unas agresivas y extrañas bestias. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/918fYN7V4wL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260327184900 +0100" stop="20260327203700 +0100" channel="acontra+ CINE">
+  <programme start="20260327183700 +0100" stop="20260327203700 +0100" channel="acontra+ CINE">
     <title lang="es">El hombre perfecto (2015)</title>
     <desc lang="es">Un joven escritor encuentra un manuscrito de un anciano y lo publica a su nombre. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Tx-evqXLL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Gigolo (2024)</title>
     <desc lang="es">Tras la Primera Guerra Mundial, un hombre regresa a Berlín y decide convertirse en "gigolo". | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71hraIcbBVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260328000500 +0100" stop="20260328022300 +0100" channel="acontra+ CINE">
+    <title lang="es">Ocho y medio (1963)</title>
+    <desc lang="es">Un director de cine atraviesa una crisis de creatividad. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81arxyacWlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260328022300 +0100" stop="20260328035500 +0100" channel="acontra+ CINE">
+    <title lang="es">Guillaume y los chicos, ¡a la mesa! (2013)</title>
+    <desc lang="es">Un chico parisino de clase alta, que admira a su exaltada madre, es tratado como una chica. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/815xK8XmLcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260328035500 +0100" stop="20260328052200 +0100" channel="acontra+ CINE">
+    <title lang="es">Elvira Madigan (1967)</title>
+    <desc lang="es">Una joven equilibrista y un oficial casado se enamoran perdidamente y deciden abandonarlo todo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/712uVLv2tWL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
