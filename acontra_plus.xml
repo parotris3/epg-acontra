@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260328133400 +0100" stop="20260328153400 +0100" channel="acontra+ CINE">
-    <title lang="es">Fortunata (2024)</title>
-    <desc lang="es">Fortunata intenta abrir su propio salón de belleza para poder separarse de su marido alcohólico. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81delV5A5oL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260328153400 +0100" stop="20260328170600 +0100" channel="acontra+ CINE">
-    <title lang="es">La garra de Satán (1971)</title>
-    <desc lang="es">El descubrimiento del cuerpo de un hombre bestia atemoriza a unos niños campesinos en Inglaterra. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nuSA-K9tL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260328170600 +0100" stop="20260328183500 +0100" channel="acontra+ CINE">
-    <title lang="es">La rifa</title>
-    <desc lang="es">Una joven viuda con una niña y muchas deudas decide hacer un sorteo en el que ella es el premio. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/81r84AwH+FL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260328183500 +0100" stop="20260328195600 +0100" channel="acontra+ CINE">
-    <title lang="es">Riders (2003)</title>
-    <desc lang="es">Una banda de atracadores con habilidad para los deportes de riesgo planea sus últimos golpes. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81GNmXSk-NL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260328195600 +0100" stop="20260328212600 +0100" channel="acontra+ CINE">
+  <programme start="20260328192600 +0100" stop="20260328212600 +0100" channel="acontra+ CINE">
     <title lang="es">Otro país (1985)</title>
     <desc lang="es">En los años 30, dos jóvenes entablan amistad en un colegio británico de clase alta. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/9182KTodawL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +17,15 @@
     <title lang="es">Lacombe, Lucien (1974)</title>
     <desc lang="es">Lacombe, de un pueblo de Francia, colabora con el régimen nazi y se enamora de una niña judía. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81jQpU8pLWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260329011300 +0100" stop="20260329042100 +0200" channel="acontra+ CINE">
+    <title lang="es">Modigliani (2005)</title>
+    <desc lang="es">La historia jamás contada de la ácida rivalidad entre Picasso y Modigliani. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81r817NqNIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260329042100 +0200" stop="20260329055700 +0200" channel="acontra+ CINE">
+    <title lang="es">El guardia (2011)</title>
+    <desc lang="es">Dos agentes de policía descubren que sus exsuperiores están involucrados en un caso de corrupción. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81QiXuZLC8L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
