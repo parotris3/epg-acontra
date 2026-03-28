@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260328192600 +0100" stop="20260328212600 +0100" channel="acontra+ CINE">
-    <title lang="es">Otro país (1985)</title>
-    <desc lang="es">En los años 30, dos jóvenes entablan amistad en un colegio británico de clase alta. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/9182KTodawL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260328212600 +0100" stop="20260328225500 +0100" channel="acontra+ CINE">
-    <title lang="es">Lola (1961)</title>
-    <desc lang="es">Un vagabundo tiene un romance con una anfitriona de cabaret. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71fbykpLoVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260328225500 +0100" stop="20260329011300 +0100" channel="acontra+ CINE">
+  <programme start="20260328231300 +0100" stop="20260329011300 +0100" channel="acontra+ CINE">
     <title lang="es">Lacombe, Lucien (1974)</title>
     <desc lang="es">Lacombe, de un pueblo de Francia, colabora con el régimen nazi y se enamora de una niña judía. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81jQpU8pLWL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">El guardia (2011)</title>
     <desc lang="es">Dos agentes de policía descubren que sus exsuperiores están involucrados en un caso de corrupción. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81QiXuZLC8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260329055700 +0200" stop="20260329074500 +0200" channel="acontra+ CINE">
+    <title lang="es">The Lawnmower Man (1992)</title>
+    <desc lang="es">Un jardinero se vuelve un terror de tecnología avanzada. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81xF4UqUoGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260329074500 +0200" stop="20260329091400 +0200" channel="acontra+ CINE">
+    <title lang="es">Objetivo: París (2015)</title>
+    <desc lang="es">Un periodista aprovecha sus raíces musulmanas para infiltrarse en entornos integristas. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71NZ1NhbjlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
