@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260328032200 +0100" stop="20260328052200 +0100" channel="acontra+ CINE">
-    <title lang="es">Elvira Madigan (1967)</title>
-    <desc lang="es">Una joven equilibrista y un oficial casado se enamoran perdidamente y deciden abandonarlo todo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/712uVLv2tWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260328052200 +0100" stop="20260328070900 +0100" channel="acontra+ CINE">
-    <title lang="es">Cuento de primavera (1990)</title>
-    <desc lang="es">Una estudiante de música desea que su padre conozca a su nueva amiga, una maestra de filosofía. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tp9wOoGTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260328070900 +0100" stop="20260328084100 +0100" channel="acontra+ CINE">
-    <title lang="es">Biggles: el viajero del tiempo (2018)</title>
-    <desc lang="es">Jim y el piloto de combate británico Biggles son hermanos gemelos, pero viven en distintas épocas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1vrbXh6oHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260328084100 +0100" stop="20260328102600 +0100" channel="acontra+ CINE">
+  <programme start="20260328082600 +0100" stop="20260328102600 +0100" channel="acontra+ CINE">
     <title lang="es">Adiós, muchachos (1987)</title>
     <desc lang="es">Una escuela católica protege a un niño judío, escondiendo su verdadera identidad. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71LC8Btr4AL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Eugénie Grandet (2021)</title>
     <desc lang="es">Un padre no ve con buenos ojos a las partes que se apresuran a pedir la mano de su hija. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91hAc2jMZUL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260328135500 +0100" stop="20260328153400 +0100" channel="acontra+ CINE">
+    <title lang="es">Fortunata (2024)</title>
+    <desc lang="es">Fortunata intenta abrir su propio salón de belleza para poder separarse de su marido alcohólico. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81delV5A5oL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260328153400 +0100" stop="20260328170600 +0100" channel="acontra+ CINE">
+    <title lang="es">La garra de Satán (1971)</title>
+    <desc lang="es">El descubrimiento del cuerpo de un hombre bestia atemoriza a unos niños campesinos en Inglaterra. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81nuSA-K9tL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260328170600 +0100" stop="20260328183500 +0100" channel="acontra+ CINE">
+    <title lang="es">La rifa</title>
+    <desc lang="es">Una joven viuda con una niña y muchas deudas decide hacer un sorteo en el que ella es el premio. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/81r84AwH+FL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
