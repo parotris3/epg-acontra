@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260329184400 +0200" stop="20260329204400 +0200" channel="acontra+ CINE">
-    <title lang="es">El extranjero (2014)</title>
-    <desc lang="es">Un militar comienza una investigación para encontrar a su hija, a quien han dado por muerta. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/819rBMqDTFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260329204400 +0200" stop="20260329223700 +0200" channel="acontra+ CINE">
-    <title lang="es">El dulce porvenir (1997)</title>
-    <desc lang="es">Un abogado va a un pequeño pueblo que sufre las secuelas del accidente de un autobús escolar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71-Vxuw0sKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260329223700 +0200" stop="20260330003200 +0200" channel="acontra+ CINE">
+  <programme start="20260329223200 +0200" stop="20260330003200 +0200" channel="acontra+ CINE">
     <title lang="es">Oldboy (2003)</title>
     <desc lang="es">Tras ser liberado, un hombre de negocios intenta averiguar la causa de su secuestro hace 15 años. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91piJMJIOkL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Regreso a Bountiful (1986)</title>
     <desc lang="es">Una mujer grande intenta realizar un último viaje a su pueblo natal, Bountiful. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/91vuEIn4OYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260330041800 +0200" stop="20260330061300 +0200" channel="acontra+ CINE">
+    <title lang="es">Tropa de élite 2 (2010)</title>
+    <desc lang="es">Un hombre se enfrenta a las milicias en Río de Janeiro y acaba metiéndose en problemas. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81lnxFNigkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260330061300 +0200" stop="20260330081100 +0200" channel="acontra+ CINE">
+    <title lang="es">Los visitantes regresan por el túnel del tiempo (1999)</title>
+    <desc lang="es">Godefroy debe recuperar las joyas sagradas de la familia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71QFu2H5CnL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
