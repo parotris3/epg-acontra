@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260329135900 +0200" stop="20260329155900 +0200" channel="acontra+ CINE">
-    <title lang="es">La pasión de Juana de Arco (1928)</title>
-    <desc lang="es">Una joven campesina francesa se opone con firmeza a la ocupación de las fuerzas británicas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71wRifVMUDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260329155900 +0200" stop="20260329173800 +0200" channel="acontra+ CINE">
-    <title lang="es">El bello Sergio (1959)</title>
-    <desc lang="es">Un hombre vuelve a su ciudad natal y descubre que su mejor amigo se ha convertido en alcohólico. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71al89vV8gL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260329173800 +0200" stop="20260329190400 +0200" channel="acontra+ CINE">
-    <title lang="es">Adiós a las armas (1932)</title>
-    <desc lang="es">El chofer de una ambulancia y una enfermera se enamoran en Italia durante la Primera Guerra Mundial. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81A20FiWj2L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260329190400 +0200" stop="20260329204400 +0200" channel="acontra+ CINE">
+  <programme start="20260329184400 +0200" stop="20260329204400 +0200" channel="acontra+ CINE">
     <title lang="es">El extranjero (2014)</title>
     <desc lang="es">Un militar comienza una investigación para encontrar a su hija, a quien han dado por muerta. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/819rBMqDTFL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Oldboy (2003)</title>
     <desc lang="es">Tras ser liberado, un hombre de negocios intenta averiguar la causa de su secuestro hace 15 años. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91piJMJIOkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260330003200 +0200" stop="20260330023000 +0200" channel="acontra+ CINE">
+    <title lang="es">Norman, el hombre que lo conseguía todo (2016)</title>
+    <desc lang="es">Norman conoce a un joven político que cambiará su vida tres años después para bien y para mal. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81rnT24IdkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260330023000 +0200" stop="20260330041800 +0200" channel="acontra+ CINE">
+    <title lang="es">Regreso a Bountiful (1986)</title>
+    <desc lang="es">Una mujer grande intenta realizar un último viaje a su pueblo natal, Bountiful. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91vuEIn4OYL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
