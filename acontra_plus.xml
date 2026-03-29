@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260329085300 +0200" stop="20260329105300 +0200" channel="acontra+ CINE">
-    <title lang="es">14 días, 12 noches (2021)</title>
-    <desc lang="es">Isabelle vuelve a Vietnam un año después de la trágica muerte de su hija Clara. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/918nQDfInWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260329105300 +0200" stop="20260329124300 +0200" channel="acontra+ CINE">
-    <title lang="es">Naked Lunch (1991)</title>
-    <desc lang="es">Un exterminador alucina y mata a su mujer. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81+5fi71yYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260329124300 +0200" stop="20260329142200 +0200" channel="acontra+ CINE">
-    <title lang="es">Vatel (2000)</title>
-    <desc lang="es">La vida de palacio de un mayordomo en la corte de Luis XIV. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/814OqpwnpFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260329142200 +0200" stop="20260329155900 +0200" channel="acontra+ CINE">
+  <programme start="20260329135900 +0200" stop="20260329155900 +0200" channel="acontra+ CINE">
     <title lang="es">La pasión de Juana de Arco (1928)</title>
     <desc lang="es">Una joven campesina francesa se opone con firmeza a la ocupación de las fuerzas británicas. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71wRifVMUDL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Adiós a las armas (1932)</title>
     <desc lang="es">El chofer de una ambulancia y una enfermera se enamoran en Italia durante la Primera Guerra Mundial. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81A20FiWj2L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260329190400 +0200" stop="20260329204400 +0200" channel="acontra+ CINE">
+    <title lang="es">El extranjero (2014)</title>
+    <desc lang="es">Un militar comienza una investigación para encontrar a su hija, a quien han dado por muerta. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/819rBMqDTFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260329204400 +0200" stop="20260329223700 +0200" channel="acontra+ CINE">
+    <title lang="es">El dulce porvenir (1997)</title>
+    <desc lang="es">Un abogado va a un pequeño pueblo que sufre las secuelas del accidente de un autobús escolar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71-Vxuw0sKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260329223700 +0200" stop="20260330003200 +0200" channel="acontra+ CINE">
+    <title lang="es">Oldboy (2003)</title>
+    <desc lang="es">Tras ser liberado, un hombre de negocios intenta averiguar la causa de su secuestro hace 15 años. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91piJMJIOkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
