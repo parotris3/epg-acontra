@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260330132500 +0200" stop="20260330152500 +0200" channel="acontra+ CINE">
-    <title lang="es">El tiempo del lobo</title>
-    <desc lang="es">Anna y su familia descubren que su casa de campo ha sido ocupada por otra familia. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91AG38UD0fL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260330152500 +0200" stop="20260330171900 +0200" channel="acontra+ CINE">
-    <title lang="es">La hierba errante (1959)</title>
-    <desc lang="es">El director de una compañía de teatro llega al pueblo donde vive su hijo no reconocido. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tYPNPnoNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260330171900 +0200" stop="20260330191200 +0200" channel="acontra+ CINE">
-    <title lang="es">Macbeth (2015)</title>
-    <desc lang="es">Un hombre de la nobleza sube al trono escocés. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71jK0pNXjjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260330191200 +0200" stop="20260330210700 +0200" channel="acontra+ CINE">
+  <programme start="20260330190700 +0200" stop="20260330210700 +0200" channel="acontra+ CINE">
     <title lang="es">Niños robados (1993)</title>
     <desc lang="es">Un policía italiano es responsable de llevar a dos niños de Milán a un orfanato de Sicilia. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1zAEt6vtOL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">The Collector (2009)</title>
     <desc lang="es">Un ladrón de poca monta se ve envuelto en una peligrosa situación cuando trata de robar en una casa. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81f6ZuBGIaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260331001700 +0200" stop="20260331021000 +0200" channel="acontra+ CINE">
+    <title lang="es">Una bolsa de canicas (2017)</title>
+    <desc lang="es">Dos hermanos judíos huyen a través de Francia durante la ocupación alemana. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81n0p3c73LL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260331021000 +0200" stop="20260331035000 +0200" channel="acontra+ CINE">
+    <title lang="es">Mi hermano es hijo único (2008)</title>
+    <desc lang="es">En plena revolución social en Italia, dos hermanos dejan de hablarse por ideales políticos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81kCetHAdTL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260331035000 +0200" stop="20260331052500 +0200" channel="acontra+ CINE">
+    <title lang="es">La mujer casada (1965)</title>
+    <desc lang="es">Un ensayo psicológico y una crítica de la posición de la mujer en la sociedad moderna. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Gd8kl6v1L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
