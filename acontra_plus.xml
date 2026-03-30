@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260330041300 +0200" stop="20260330061300 +0200" channel="acontra+ CINE">
-    <title lang="es">Tropa de élite 2 (2010)</title>
-    <desc lang="es">Un hombre se enfrenta a las milicias en Río de Janeiro y acaba metiéndose en problemas. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81lnxFNigkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260330061300 +0200" stop="20260330081100 +0200" channel="acontra+ CINE">
-    <title lang="es">Los visitantes regresan por el túnel del tiempo (1999)</title>
-    <desc lang="es">Godefroy debe recuperar las joyas sagradas de la familia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71QFu2H5CnL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260330081100 +0200" stop="20260330094300 +0200" channel="acontra+ CINE">
-    <title lang="es">El diablo, probablemente (1978)</title>
-    <desc lang="es">Un hombre intenta en vano con política, religión y psicoanálisis entender a la sociedad. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tlgl9XK8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260330094300 +0200" stop="20260330113600 +0200" channel="acontra+ CINE">
+  <programme start="20260330093600 +0200" stop="20260330113600 +0200" channel="acontra+ CINE">
     <title lang="es">Sin dejar huellas (2018)</title>
     <desc lang="es">Un oficial de policía alcohólico investiga el caso de un adolescente desaparecido. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91lQHzQSrpL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Mi amigo Mr. Morgan (2013)</title>
     <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260330133200 +0200" stop="20260330152500 +0200" channel="acontra+ CINE">
+    <title lang="es">El tiempo del lobo</title>
+    <desc lang="es">Anna y su familia descubren que su casa de campo ha sido ocupada por otra familia. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91AG38UD0fL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260330152500 +0200" stop="20260330171900 +0200" channel="acontra+ CINE">
+    <title lang="es">La hierba errante (1959)</title>
+    <desc lang="es">El director de una compañía de teatro llega al pueblo donde vive su hijo no reconocido. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tYPNPnoNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260330171900 +0200" stop="20260330191200 +0200" channel="acontra+ CINE">
+    <title lang="es">Macbeth (2015)</title>
+    <desc lang="es">Un hombre de la nobleza sube al trono escocés. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71jK0pNXjjL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
