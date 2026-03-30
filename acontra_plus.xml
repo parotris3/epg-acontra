@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260330190700 +0200" stop="20260330210700 +0200" channel="acontra+ CINE">
-    <title lang="es">Niños robados (1993)</title>
-    <desc lang="es">Un policía italiano es responsable de llevar a dos niños de Milán a un orfanato de Sicilia. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1zAEt6vtOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260330210700 +0200" stop="20260330225000 +0200" channel="acontra+ CINE">
-    <title lang="es">Más allá del arcoíris (1990)</title>
-    <desc lang="es">Martha Travis es una médium que ofrece espectáculos de espiritismo junto a su padre alcohólico. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/810DlN4GkSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260330225000 +0200" stop="20260331001700 +0200" channel="acontra+ CINE">
+  <programme start="20260330221700 +0200" stop="20260331001700 +0200" channel="acontra+ CINE">
     <title lang="es">The Collector (2009)</title>
     <desc lang="es">Un ladrón de poca monta se ve envuelto en una peligrosa situación cuando trata de robar en una casa. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81f6ZuBGIaL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">La mujer casada (1965)</title>
     <desc lang="es">Un ensayo psicológico y una crítica de la posición de la mujer en la sociedad moderna. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Gd8kl6v1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260331052500 +0200" stop="20260331071800 +0200" channel="acontra+ CINE">
+    <title lang="es">La gran seducción (2013)</title>
+    <desc lang="es">Los habitantes del pueblo costero canadiense de Tickel Cove necesitan un médico. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ZWzJlAK2L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260331071800 +0200" stop="20260331090900 +0200" channel="acontra+ CINE">
+    <title lang="es">El valle oscuro (2015)</title>
+    <desc lang="es">Poco antes de que comience el duro invierno, un forastero llega a caballo hasta un aislado pueblo. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/912lwrLUgoL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
