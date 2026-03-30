@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260330093600 +0200" stop="20260330113600 +0200" channel="acontra+ CINE">
-    <title lang="es">Sin dejar huellas (2018)</title>
-    <desc lang="es">Un oficial de policía alcohólico investiga el caso de un adolescente desaparecido. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91lQHzQSrpL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260330113600 +0200" stop="20260330133200 +0200" channel="acontra+ CINE">
-    <title lang="es">Mi amigo Mr. Morgan (2013)</title>
-    <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260330133200 +0200" stop="20260330152500 +0200" channel="acontra+ CINE">
+  <programme start="20260330132500 +0200" stop="20260330152500 +0200" channel="acontra+ CINE">
     <title lang="es">El tiempo del lobo</title>
     <desc lang="es">Anna y su familia descubren que su casa de campo ha sido ocupada por otra familia. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91AG38UD0fL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Macbeth (2015)</title>
     <desc lang="es">Un hombre de la nobleza sube al trono escocés. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71jK0pNXjjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260330191200 +0200" stop="20260330210700 +0200" channel="acontra+ CINE">
+    <title lang="es">Niños robados (1993)</title>
+    <desc lang="es">Un policía italiano es responsable de llevar a dos niños de Milán a un orfanato de Sicilia. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1zAEt6vtOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260330210700 +0200" stop="20260330225000 +0200" channel="acontra+ CINE">
+    <title lang="es">Más allá del arcoíris (1990)</title>
+    <desc lang="es">Martha Travis es una médium que ofrece espectáculos de espiritismo junto a su padre alcohólico. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/810DlN4GkSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260330225000 +0200" stop="20260331001700 +0200" channel="acontra+ CINE">
+    <title lang="es">The Collector (2009)</title>
+    <desc lang="es">Un ladrón de poca monta se ve envuelto en una peligrosa situación cuando trata de robar en una casa. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81f6ZuBGIaL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
