@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260329223200 +0200" stop="20260330003200 +0200" channel="acontra+ CINE">
-    <title lang="es">Oldboy (2003)</title>
-    <desc lang="es">Tras ser liberado, un hombre de negocios intenta averiguar la causa de su secuestro hace 15 años. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91piJMJIOkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260330003200 +0200" stop="20260330023000 +0200" channel="acontra+ CINE">
-    <title lang="es">Norman, el hombre que lo conseguía todo (2016)</title>
-    <desc lang="es">Norman conoce a un joven político que cambiará su vida tres años después para bien y para mal. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81rnT24IdkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260330023000 +0200" stop="20260330041800 +0200" channel="acontra+ CINE">
-    <title lang="es">Regreso a Bountiful (1986)</title>
-    <desc lang="es">Una mujer grande intenta realizar un último viaje a su pueblo natal, Bountiful. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/91vuEIn4OYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260330041800 +0200" stop="20260330061300 +0200" channel="acontra+ CINE">
+  <programme start="20260330041300 +0200" stop="20260330061300 +0200" channel="acontra+ CINE">
     <title lang="es">Tropa de élite 2 (2010)</title>
     <desc lang="es">Un hombre se enfrenta a las milicias en Río de Janeiro y acaba metiéndose en problemas. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81lnxFNigkL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Los visitantes regresan por el túnel del tiempo (1999)</title>
     <desc lang="es">Godefroy debe recuperar las joyas sagradas de la familia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71QFu2H5CnL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260330081100 +0200" stop="20260330094300 +0200" channel="acontra+ CINE">
+    <title lang="es">El diablo, probablemente (1978)</title>
+    <desc lang="es">Un hombre intenta en vano con política, religión y psicoanálisis entender a la sociedad. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tlgl9XK8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260330094300 +0200" stop="20260330113600 +0200" channel="acontra+ CINE">
+    <title lang="es">Sin dejar huellas (2018)</title>
+    <desc lang="es">Un oficial de policía alcohólico investiga el caso de un adolescente desaparecido. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91lQHzQSrpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260330113600 +0200" stop="20260330133200 +0200" channel="acontra+ CINE">
+    <title lang="es">Mi amigo Mr. Morgan (2013)</title>
+    <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
