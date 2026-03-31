@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260331132300 +0200" stop="20260331152300 +0200" channel="acontra+ CINE">
-    <title lang="es">Scenes From a Marriage (2021)</title>
-    <desc lang="es">Una adaptación de la miniserie sueca de 1973 de Ingar Bergmann sobre un matrimonio que se desmorona. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1a0AxxalkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260331152300 +0200" stop="20260331172100 +0200" channel="acontra+ CINE">
-    <title lang="es">Estación zombie (2016)</title>
-    <desc lang="es">Los pasajeros de un tren luchan por sobrevivir a un virus. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1VO3KLrRNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260331172100 +0200" stop="20260331190500 +0200" channel="acontra+ CINE">
-    <title lang="es">Week-end (2005)</title>
-    <desc lang="es">El matrimonio Durand se queda atrapado en un atasco y por ello viven experiencias desconcertantes. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71sTqayjxdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260331190500 +0200" stop="20260331204700 +0200" channel="acontra+ CINE">
+  <programme start="20260331184700 +0200" stop="20260331204700 +0200" channel="acontra+ CINE">
     <title lang="es">Scanners (1981)</title>
     <desc lang="es">Solo 237 personas en el mundo son seres humanos con poderes. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81stBqphNAL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El señor de las moscas (1990)</title>
     <desc lang="es">Los supervivientes a un accidente de avión militar tendrán que sobrevivir en una isla. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81a1hgGIvjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260331235500 +0200" stop="20260401021700 +0200" channel="acontra+ CINE">
+    <title lang="es">Madame Bovary (1991)</title>
+    <desc lang="es">Emma, cansada de su matrimonio con Charles Bovary, buscará consuelo en relaciones extra conyugales. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ARpmyQPkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260401021700 +0200" stop="20260401034700 +0200" channel="acontra+ CINE">
+    <title lang="es">Please Stand By (2017)</title>
+    <desc lang="es">Una mujer autista huye para participar en una competencia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1ekEBGeSWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260401034700 +0200" stop="20260401045900 +0200" channel="acontra+ CINE">
+    <title lang="es">Adrenalina</title>
+    <desc lang="es">Durante unas vacaciones en Europa del Este, la hija de una agente del FBI es secuestrada. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qNKG3BZZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
