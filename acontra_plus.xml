@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260331084900 +0200" stop="20260331104900 +0200" channel="acontra+ CINE">
-    <title lang="es">Un rostro de mujer (1941)</title>
-    <desc lang="es">Una mujer en juicio por un asesinato revela su pasado antes de haberse sometido a una cirugía. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91OdDsCcpVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260331104900 +0200" stop="20260331124000 +0200" channel="acontra+ CINE">
-    <title lang="es">La próxima vez apuntaré al corazón (2014)</title>
-    <desc lang="es">Los habitantes de una tranquila comarca vivieron aterrorizados a causa de un asesino en serie. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81AoIaGSW8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260331124000 +0200" stop="20260331152300 +0200" channel="acontra+ CINE">
+  <programme start="20260331132300 +0200" stop="20260331152300 +0200" channel="acontra+ CINE">
     <title lang="es">Scenes From a Marriage (2021)</title>
     <desc lang="es">Una adaptación de la miniserie sueca de 1973 de Ingar Bergmann sobre un matrimonio que se desmorona. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1a0AxxalkL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Week-end (2005)</title>
     <desc lang="es">El matrimonio Durand se queda atrapado en un atasco y por ello viven experiencias desconcertantes. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71sTqayjxdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260331190500 +0200" stop="20260331204700 +0200" channel="acontra+ CINE">
+    <title lang="es">Scanners (1981)</title>
+    <desc lang="es">Solo 237 personas en el mundo son seres humanos con poderes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81stBqphNAL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260331204700 +0200" stop="20260331222400 +0200" channel="acontra+ CINE">
+    <title lang="es">El rostro (1975)</title>
+    <desc lang="es">El hipnotizador y mago Vogler y su mujer están siendo desafiados por los escépticos locales. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Lo+2uo-4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260331222400 +0200" stop="20260331235500 +0200" channel="acontra+ CINE">
+    <title lang="es">El señor de las moscas (1990)</title>
+    <desc lang="es">Los supervivientes a un accidente de avión militar tendrán que sobrevivir en una isla. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81a1hgGIvjL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
