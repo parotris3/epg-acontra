@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260330221700 +0200" stop="20260331001700 +0200" channel="acontra+ CINE">
-    <title lang="es">The Collector (2009)</title>
-    <desc lang="es">Un ladrón de poca monta se ve envuelto en una peligrosa situación cuando trata de robar en una casa. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81f6ZuBGIaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260331001700 +0200" stop="20260331021000 +0200" channel="acontra+ CINE">
-    <title lang="es">Una bolsa de canicas (2017)</title>
-    <desc lang="es">Dos hermanos judíos huyen a través de Francia durante la ocupación alemana. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81n0p3c73LL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260331021000 +0200" stop="20260331035000 +0200" channel="acontra+ CINE">
-    <title lang="es">Mi hermano es hijo único (2008)</title>
-    <desc lang="es">En plena revolución social en Italia, dos hermanos dejan de hablarse por ideales políticos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81kCetHAdTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260331035000 +0200" stop="20260331052500 +0200" channel="acontra+ CINE">
+  <programme start="20260331032500 +0200" stop="20260331052500 +0200" channel="acontra+ CINE">
     <title lang="es">La mujer casada (1965)</title>
     <desc lang="es">Un ensayo psicológico y una crítica de la posición de la mujer en la sociedad moderna. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Gd8kl6v1L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El valle oscuro (2015)</title>
     <desc lang="es">Poco antes de que comience el duro invierno, un forastero llega a caballo hasta un aislado pueblo. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/912lwrLUgoL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260331090900 +0200" stop="20260331104900 +0200" channel="acontra+ CINE">
+    <title lang="es">Un rostro de mujer (1941)</title>
+    <desc lang="es">Una mujer en juicio por un asesinato revela su pasado antes de haberse sometido a una cirugía. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91OdDsCcpVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260331104900 +0200" stop="20260331124000 +0200" channel="acontra+ CINE">
+    <title lang="es">La próxima vez apuntaré al corazón (2014)</title>
+    <desc lang="es">Los habitantes de una tranquila comarca vivieron aterrorizados a causa de un asesino en serie. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81AoIaGSW8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260331124000 +0200" stop="20260331152300 +0200" channel="acontra+ CINE">
+    <title lang="es">Scenes From a Marriage (2021)</title>
+    <desc lang="es">Una adaptación de la miniserie sueca de 1973 de Ingar Bergmann sobre un matrimonio que se desmorona. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1a0AxxalkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
