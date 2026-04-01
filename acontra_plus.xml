@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260401185600 +0200" stop="20260401205600 +0200" channel="acontra+ CINE">
-    <title lang="es">Nuevo orden (2020)</title>
-    <desc lang="es">Los miembros de una familia se reúnen para una boda. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Hncfr-0hL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260401205600 +0200" stop="20260401224800 +0200" channel="acontra+ CINE">
-    <title lang="es">Todos los animales pequeños (1998)</title>
-    <desc lang="es">Bobby, un joven discapacitado psíquico, decide huir de su padrastro a través de la campiña inglesa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91nvNVgFCVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260401224800 +0200" stop="20260402005000 +0200" channel="acontra+ CINE">
+  <programme start="20260401225000 +0200" stop="20260402005000 +0200" channel="acontra+ CINE">
     <title lang="es">Un pueblo y su rey (2019)</title>
     <desc lang="es">París, 1789. La Bastilla ha sido asaltada y un soplo de libertad invade las calles. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71AIj2LVkZL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">No soy un asesino (1967)</title>
     <desc lang="es">Acusado de asesinato, un sheriff deberá demostrar su inocencia. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81nf1aYhQnL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260402051600 +0200" stop="20260402065600 +0200" channel="acontra+ CINE">
+    <title lang="es">Secretos de estado (2017)</title>
+    <desc lang="es">Una espía y un terrorista utilizan manipulan personas para intentar alcanzar sus propios objetivos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tB3Pd59XL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260402065600 +0200" stop="20260402083500 +0200" channel="acontra+ CINE">
+    <title lang="es">Ondine (2009)</title>
+    <desc lang="es">Un pescador irlandés descubre a una mujer en sus redes. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81+IxXZ2pvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
