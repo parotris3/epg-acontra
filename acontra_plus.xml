@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260401130900 +0200" stop="20260401150900 +0200" channel="acontra+ CINE">
-    <title lang="es">Juntos, nada más (2007)</title>
-    <desc lang="es">Un cocinero, una dibujante y un aristócrata solitario deberán aprender a convivir. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81IK+avmNdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260401150900 +0200" stop="20260401162500 +0200" channel="acontra+ CINE">
-    <title lang="es">Milagro en la Calle Mayor</title>
-    <desc lang="es">Una noche, huyendo de la policía, María entra en una iglesia y encuentra allí un bebé abandonado. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/acontra_CINE_16x9._UR1920,1080_FMpng_.png"/>
-  </programme>
-  <programme start="20260401162500 +0200" stop="20260401180400 +0200" channel="acontra+ CINE">
-    <title lang="es">The Osiris Child (2016)</title>
-    <desc lang="es">Un grupo de extraños debe salvar a la humanidad. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tqTV+FPzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260401180400 +0200" stop="20260401193000 +0200" channel="acontra+ CINE">
-    <title lang="es">Taxi Express (1998)</title>
-    <desc lang="es">Un taxista y un policia deberán detener a unos criminales. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81amQ9VvKIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260401193000 +0200" stop="20260401205600 +0200" channel="acontra+ CINE">
+  <programme start="20260401185600 +0200" stop="20260401205600 +0200" channel="acontra+ CINE">
     <title lang="es">Nuevo orden (2020)</title>
     <desc lang="es">Los miembros de una familia se reúnen para una boda. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1Hncfr-0hL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +17,15 @@
     <title lang="es">Un pueblo y su rey (2019)</title>
     <desc lang="es">París, 1789. La Bastilla ha sido asaltada y un soplo de libertad invade las calles. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71AIj2LVkZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260402005000 +0200" stop="20260402033500 +0200" channel="acontra+ CINE">
+    <title lang="es">Tess (1979)</title>
+    <desc lang="es">La hija de un humilde granjero es víctima de las aspiraciones de su familia y de su propia belleza. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91RxeM8Up8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260402033500 +0200" stop="20260402051600 +0200" channel="acontra+ CINE">
+    <title lang="es">No soy un asesino (1967)</title>
+    <desc lang="es">Acusado de asesinato, un sheriff deberá demostrar su inocencia. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81nf1aYhQnL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
