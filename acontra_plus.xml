@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260401042800 +0200" stop="20260401062800 +0200" channel="acontra+ CINE">
-    <title lang="es">Bailey: una fortuna muy perruna (2004)</title>
-    <desc lang="es">Bailey es un golden retriever que acaba de heredar una codiciada fortuna de su excéntrico dueño. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ZioEvzg-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260401062800 +0200" stop="20260401080700 +0200" channel="acontra+ CINE">
-    <title lang="es">Doctor Terror (1965)</title>
-    <desc lang="es">Cinco viajeros de un tren se entretienen con relatos de vampiros, lobos y cosas extrañas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81+12c+bvlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260401080700 +0200" stop="20260401093600 +0200" channel="acontra+ CINE">
-    <title lang="es">El gendarme se casa (2015)</title>
-    <desc lang="es">En Saint-Tropez, un gendarme se enamora locamente de la hermosa viuda de un coronel. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Pf0Pd6IJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260401093600 +0200" stop="20260401112300 +0200" channel="acontra+ CINE">
+  <programme start="20260401092300 +0200" stop="20260401112300 +0200" channel="acontra+ CINE">
     <title lang="es">The Chosen (1981)</title>
     <desc lang="es">Un judío y el hijo de un rabí hasídico se hacen amigos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/818x1QaWSFL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Harakiri (1962)</title>
     <desc lang="es">En el Japón de 1630, abundan los samuráis que han perdido su sentido de propósito. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91YkEs3n9sL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260401133600 +0200" stop="20260401150900 +0200" channel="acontra+ CINE">
+    <title lang="es">Juntos, nada más (2007)</title>
+    <desc lang="es">Un cocinero, una dibujante y un aristócrata solitario deberán aprender a convivir. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81IK+avmNdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260401150900 +0200" stop="20260401162500 +0200" channel="acontra+ CINE">
+    <title lang="es">Milagro en la Calle Mayor</title>
+    <desc lang="es">Una noche, huyendo de la policía, María entra en una iglesia y encuentra allí un bebé abandonado. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/acontra_CINE_16x9._UR1920,1080_FMpng_.png"/>
+  </programme>
+  <programme start="20260401162500 +0200" stop="20260401180400 +0200" channel="acontra+ CINE">
+    <title lang="es">The Osiris Child (2016)</title>
+    <desc lang="es">Un grupo de extraños debe salvar a la humanidad. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tqTV+FPzL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
