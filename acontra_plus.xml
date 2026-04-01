@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260401092300 +0200" stop="20260401112300 +0200" channel="acontra+ CINE">
-    <title lang="es">The Chosen (1981)</title>
-    <desc lang="es">Un judío y el hijo de un rabí hasídico se hacen amigos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/818x1QaWSFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260401112300 +0200" stop="20260401133600 +0200" channel="acontra+ CINE">
-    <title lang="es">Harakiri (1962)</title>
-    <desc lang="es">En el Japón de 1630, abundan los samuráis que han perdido su sentido de propósito. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91YkEs3n9sL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260401133600 +0200" stop="20260401150900 +0200" channel="acontra+ CINE">
+  <programme start="20260401130900 +0200" stop="20260401150900 +0200" channel="acontra+ CINE">
     <title lang="es">Juntos, nada más (2007)</title>
     <desc lang="es">Un cocinero, una dibujante y un aristócrata solitario deberán aprender a convivir. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81IK+avmNdL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,25 @@
     <title lang="es">The Osiris Child (2016)</title>
     <desc lang="es">Un grupo de extraños debe salvar a la humanidad. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81tqTV+FPzL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260401180400 +0200" stop="20260401193000 +0200" channel="acontra+ CINE">
+    <title lang="es">Taxi Express (1998)</title>
+    <desc lang="es">Un taxista y un policia deberán detener a unos criminales. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81amQ9VvKIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260401193000 +0200" stop="20260401205600 +0200" channel="acontra+ CINE">
+    <title lang="es">Nuevo orden (2020)</title>
+    <desc lang="es">Los miembros de una familia se reúnen para una boda. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1Hncfr-0hL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260401205600 +0200" stop="20260401224800 +0200" channel="acontra+ CINE">
+    <title lang="es">Todos los animales pequeños (1998)</title>
+    <desc lang="es">Bobby, un joven discapacitado psíquico, decide huir de su padrastro a través de la campiña inglesa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91nvNVgFCVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260401224800 +0200" stop="20260402005000 +0200" channel="acontra+ CINE">
+    <title lang="es">Un pueblo y su rey (2019)</title>
+    <desc lang="es">París, 1789. La Bastilla ha sido asaltada y un soplo de libertad invade las calles. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71AIj2LVkZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
