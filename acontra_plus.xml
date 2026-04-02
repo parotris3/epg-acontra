@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260402093600 +0200" stop="20260402113600 +0200" channel="acontra+ CINE">
-    <title lang="es">Los panzers de la muerte (1988)</title>
-    <desc lang="es">En 1942, Adolf Hitler da a sus tropas la orden de no retroceder y oponer una resistencia fanática. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uPYLrwyUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260402113600 +0200" stop="20260402131600 +0200" channel="acontra+ CINE">
-    <title lang="es">En busca del fuego (1981)</title>
-    <desc lang="es">Cuando el fuego de una tribu prehistórica se apaga, tres guerreros emprenden un viaje en su busca. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91qAiEV8XWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260402131600 +0200" stop="20260402145600 +0200" channel="acontra+ CINE">
-    <title lang="es">El extranjero (2014)</title>
-    <desc lang="es">Un militar comienza una investigación para encontrar a su hija, a quien han dado por muerta. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/819rBMqDTFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260402145600 +0200" stop="20260402165300 +0200" channel="acontra+ CINE">
+  <programme start="20260402145300 +0200" stop="20260402165300 +0200" channel="acontra+ CINE">
     <title lang="es">La anguila (1997)</title>
     <desc lang="es">Takuro Yamashita sale en libertad condicional tras haber matado a su esposa. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81zRh+SlX7L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Aprendiendo a conducir (2014)</title>
     <desc lang="es">Una escritora y un taxista indio se alejan de sus problemas durante las clases de conducción. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81tu3xFypWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260402182300 +0200" stop="20260402195800 +0200" channel="acontra+ CINE">
+    <title lang="es">Profesor Lazhar (2011)</title>
+    <desc lang="es">Bachir Lazhar, un inmigrante argelino, se ofrece como sustituto de un maestro. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/815c9swPh1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260402195800 +0200" stop="20260402214300 +0200" channel="acontra+ CINE">
+    <title lang="es">Sonrisas de una noche de verano (1955)</title>
+    <desc lang="es">Varias parejas con líos amorosos coinciden en una casa de campo durante un fin de semana. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81HE78Vn9jL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260402214300 +0200" stop="20260403002000 +0200" channel="acontra+ CINE">
+    <title lang="es">El león del desierto (1980)</title>
+    <desc lang="es">Un líder libio rebelde se enfrenta a las tropas italianas de Mussolini. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1CzYjsJAUL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
