@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260402031600 +0200" stop="20260402051600 +0200" channel="acontra+ CINE">
-    <title lang="es">No soy un asesino (1967)</title>
-    <desc lang="es">Acusado de asesinato, un sheriff deberá demostrar su inocencia. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nf1aYhQnL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260402051600 +0200" stop="20260402065600 +0200" channel="acontra+ CINE">
-    <title lang="es">Secretos de estado (2017)</title>
-    <desc lang="es">Una espía y un terrorista utilizan manipulan personas para intentar alcanzar sus propios objetivos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tB3Pd59XL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260402065600 +0200" stop="20260402083500 +0200" channel="acontra+ CINE">
-    <title lang="es">Ondine (2009)</title>
-    <desc lang="es">Un pescador irlandés descubre a una mujer en sus redes. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81+IxXZ2pvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260402083500 +0200" stop="20260402095500 +0200" channel="acontra+ CINE">
-    <title lang="es">Willow Creek (2014)</title>
-    <desc lang="es">Una pareja se adentra en el bosque en busca de una foto que demuestre la existencia del bigfoot. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71QKxQmk0OL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260402095500 +0200" stop="20260402113600 +0200" channel="acontra+ CINE">
+  <programme start="20260402093600 +0200" stop="20260402113600 +0200" channel="acontra+ CINE">
     <title lang="es">Los panzers de la muerte (1988)</title>
     <desc lang="es">En 1942, Adolf Hitler da a sus tropas la orden de no retroceder y oponer una resistencia fanática. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81uPYLrwyUL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +12,20 @@
     <title lang="es">En busca del fuego (1981)</title>
     <desc lang="es">Cuando el fuego de una tribu prehistórica se apaga, tres guerreros emprenden un viaje en su busca. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91qAiEV8XWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260402131600 +0200" stop="20260402145600 +0200" channel="acontra+ CINE">
+    <title lang="es">El extranjero (2014)</title>
+    <desc lang="es">Un militar comienza una investigación para encontrar a su hija, a quien han dado por muerta. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/819rBMqDTFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260402145600 +0200" stop="20260402165300 +0200" channel="acontra+ CINE">
+    <title lang="es">La anguila (1997)</title>
+    <desc lang="es">Takuro Yamashita sale en libertad condicional tras haber matado a su esposa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81zRh+SlX7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260402165300 +0200" stop="20260402182300 +0200" channel="acontra+ CINE">
+    <title lang="es">Aprendiendo a conducir (2014)</title>
+    <desc lang="es">Una escritora y un taxista indio se alejan de sus problemas durante las clases de conducción. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tu3xFypWL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
