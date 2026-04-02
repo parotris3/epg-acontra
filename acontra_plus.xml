@@ -3,12 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260402194300 +0200" stop="20260402214300 +0200" channel="acontra+ CINE">
-    <title lang="es">Sonrisas de una noche de verano (1955)</title>
-    <desc lang="es">Varias parejas con líos amorosos coinciden en una casa de campo durante un fin de semana. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81HE78Vn9jL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260402214300 +0200" stop="20260403002000 +0200" channel="acontra+ CINE">
+  <programme start="20260402222000 +0200" stop="20260403002000 +0200" channel="acontra+ CINE">
     <title lang="es">El león del desierto (1980)</title>
     <desc lang="es">Un líder libio rebelde se enfrenta a las tropas italianas de Mussolini. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1CzYjsJAUL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +22,20 @@
     <title lang="es">Barbacoa de amigos (2014)</title>
     <desc lang="es">En su 50 cumpleaños, Antoine tiene una ataque al corazón y decide cambiar su estilo de vida. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ZftxIvRIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260403050400 +0200" stop="20260403053600 +0200" channel="acontra+ CINE">
+    <title lang="es">Noche y niebla (2016)</title>
+    <desc lang="es">Documental sobre el Holocausto, los campos de exterminio y cómo se llevaron a cabo los arrestos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81UTUiYXKPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260403053600 +0200" stop="20260403073200 +0200" channel="acontra+ CINE">
+    <title lang="es">Destrucción (2018)</title>
+    <desc lang="es">Una policía revive el drama que marcó su vida. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Kaac9AZlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260403073200 +0200" stop="20260403090500 +0200" channel="acontra+ CINE">
+    <title lang="es">El regreso de Jack el destripador (1988)</title>
+    <desc lang="es">Un asesino de Los Ángeles intenta replicar los asesinatos de Jack el destripador. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91bbvDVxctL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
