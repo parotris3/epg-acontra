@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260401225000 +0200" stop="20260402005000 +0200" channel="acontra+ CINE">
-    <title lang="es">Un pueblo y su rey (2019)</title>
-    <desc lang="es">París, 1789. La Bastilla ha sido asaltada y un soplo de libertad invade las calles. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71AIj2LVkZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260402005000 +0200" stop="20260402033500 +0200" channel="acontra+ CINE">
-    <title lang="es">Tess (1979)</title>
-    <desc lang="es">La hija de un humilde granjero es víctima de las aspiraciones de su familia y de su propia belleza. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91RxeM8Up8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260402033500 +0200" stop="20260402051600 +0200" channel="acontra+ CINE">
+  <programme start="20260402031600 +0200" stop="20260402051600 +0200" channel="acontra+ CINE">
     <title lang="es">No soy un asesino (1967)</title>
     <desc lang="es">Acusado de asesinato, un sheriff deberá demostrar su inocencia. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81nf1aYhQnL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Ondine (2009)</title>
     <desc lang="es">Un pescador irlandés descubre a una mujer en sus redes. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81+IxXZ2pvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260402083500 +0200" stop="20260402095500 +0200" channel="acontra+ CINE">
+    <title lang="es">Willow Creek (2014)</title>
+    <desc lang="es">Una pareja se adentra en el bosque en busca de una foto que demuestre la existencia del bigfoot. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71QKxQmk0OL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260402095500 +0200" stop="20260402113600 +0200" channel="acontra+ CINE">
+    <title lang="es">Los panzers de la muerte (1988)</title>
+    <desc lang="es">En 1942, Adolf Hitler da a sus tropas la orden de no retroceder y oponer una resistencia fanática. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81uPYLrwyUL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260402113600 +0200" stop="20260402131600 +0200" channel="acontra+ CINE">
+    <title lang="es">En busca del fuego (1981)</title>
+    <desc lang="es">Cuando el fuego de una tribu prehistórica se apaga, tres guerreros emprenden un viaje en su busca. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91qAiEV8XWL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
