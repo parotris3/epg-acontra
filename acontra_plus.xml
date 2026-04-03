@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260403092600 +0200" stop="20260403112600 +0200" channel="acontra+ CINE">
-    <title lang="es">El tambor de hojalata (1988)</title>
-    <desc lang="es">En su tercer cumpleaños, Oskar recibe su primer tambor de hojalata. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91oMcNQd4CL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260403112600 +0200" stop="20260403130500 +0200" channel="acontra+ CINE">
-    <title lang="es">I Am Not a Serial Killer (2016)</title>
-    <desc lang="es">Un adolescente tiene que enfrentar su lado oscuro para poder detener a un asesino en serie. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ua2dH0DiL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260403130500 +0200" stop="20260403144700 +0200" channel="acontra+ CINE">
-    <title lang="es">La mansión de los crímenes (1971)</title>
-    <desc lang="es">Cuatro cuentos de terror que giran entono a una vieja y fantasmal mansión. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/9121sq+78aL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260403144700 +0200" stop="20260403161100 +0200" channel="acontra+ CINE">
+  <programme start="20260403141100 +0200" stop="20260403161100 +0200" channel="acontra+ CINE">
     <title lang="es">Un regalo para ella (2024)</title>
     <desc lang="es">Tras regalarle un perro a su novia, Jean-Pierre descubre lo difícil que es convivir con una mascota. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/81CNII6X0sL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">The Brave (1998)</title>
     <desc lang="es">Un misterioso personaje le hace una siniestra oferta a un humilde padre de familia. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Pj3qqPZJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260403193500 +0200" stop="20260403214100 +0200" channel="acontra+ CINE">
+    <title lang="es">Aline (2020)</title>
+    <desc lang="es">Aline tiene una voz prodigiosa que no pasa desapercibida para un productor ambicioso. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ra+l9mqHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260403214100 +0200" stop="20260403234600 +0200" channel="acontra+ CINE">
+    <title lang="es">Tom & Viv (1994)</title>
+    <desc lang="es">Historia del matrimonio fallido entre T.S. Eliot y su esposa enferma. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81UTnu5cYvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
