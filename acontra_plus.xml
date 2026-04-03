@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260402222000 +0200" stop="20260403002000 +0200" channel="acontra+ CINE">
-    <title lang="es">El león del desierto (1980)</title>
-    <desc lang="es">Un líder libio rebelde se enfrenta a las tropas italianas de Mussolini. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1CzYjsJAUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260403002000 +0200" stop="20260403015200 +0200" channel="acontra+ CINE">
-    <title lang="es">Sueños eléctricos (1984)</title>
-    <desc lang="es">Un arquitecto y su ordenador, que ha cobrado vida propia, pelearán por el amor de su vecina. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/818fKOqBghL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260403015200 +0200" stop="20260403032700 +0200" channel="acontra+ CINE">
-    <title lang="es">Ártico (2018)</title>
-    <desc lang="es">Un hombre aprende a sobrevivir en medio del Ártico después de que su avión se estrelle. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91TPEQy3KRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260403032700 +0200" stop="20260403050400 +0200" channel="acontra+ CINE">
+  <programme start="20260403030400 +0200" stop="20260403050400 +0200" channel="acontra+ CINE">
     <title lang="es">Barbacoa de amigos (2014)</title>
     <desc lang="es">En su 50 cumpleaños, Antoine tiene una ataque al corazón y decide cambiar su estilo de vida. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ZftxIvRIL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +22,15 @@
     <title lang="es">El regreso de Jack el destripador (1988)</title>
     <desc lang="es">Un asesino de Los Ángeles intenta replicar los asesinatos de Jack el destripador. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91bbvDVxctL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260403090500 +0200" stop="20260403112600 +0200" channel="acontra+ CINE">
+    <title lang="es">El tambor de hojalata (1988)</title>
+    <desc lang="es">En su tercer cumpleaños, Oskar recibe su primer tambor de hojalata. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91oMcNQd4CL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260403112600 +0200" stop="20260403130500 +0200" channel="acontra+ CINE">
+    <title lang="es">I Am Not a Serial Killer (2016)</title>
+    <desc lang="es">Un adolescente tiene que enfrentar su lado oscuro para poder detener a un asesino en serie. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ua2dH0DiL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
