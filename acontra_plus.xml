@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260403194100 +0200" stop="20260403214100 +0200" channel="acontra+ CINE">
-    <title lang="es">Aline (2020)</title>
-    <desc lang="es">Aline tiene una voz prodigiosa que no pasa desapercibida para un productor ambicioso. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ra+l9mqHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260403214100 +0200" stop="20260403234600 +0200" channel="acontra+ CINE">
-    <title lang="es">Tom & Viv (1994)</title>
-    <desc lang="es">Historia del matrimonio fallido entre T.S. Eliot y su esposa enferma. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81UTnu5cYvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260403234600 +0200" stop="20260404014100 +0200" channel="acontra+ CINE">
+  <programme start="20260403234100 +0200" stop="20260404014100 +0200" channel="acontra+ CINE">
     <title lang="es">Sección especial</title>
     <desc lang="es">En la Francia ocupada, un oficial alemán es asesinado por un grupo de jóvenes insurgentes. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71yJ2Ob6BfL._UR1920,1080_FMpng_.jpg"/>
@@ -22,5 +12,20 @@
     <title lang="es">Quemado por el sol (1994)</title>
     <desc lang="es">La aparición de un hombre perturba la existencia de un héroe de la Revolución Soviética. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71qHPt+eWxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260404040800 +0200" stop="20260404054300 +0200" channel="acontra+ CINE">
+    <title lang="es">Orfeo (1950)</title>
+    <desc lang="es">Orfeo, conocido poeta del barrio parisino de Saint-Germain-des-Prés, está obsesionado con la Muerte. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91gieFP4c2L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260404054300 +0200" stop="20260404071400 +0200" channel="acontra+ CINE">
+    <title lang="es">Los bicivoladores (1985)</title>
+    <desc lang="es">Tres adolescentes dan con los 'walkie-talkies' que una banda de ladrones iba a usar en un atraco. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Xt+Ig0t1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260404071400 +0200" stop="20260404085400 +0200" channel="acontra+ CINE">
+    <title lang="es">La desaparición de Alice Creed (2010)</title>
+    <desc lang="es">Rapto acaba en un juego de codicia, amor, sexo y violencia. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81LBfvDBf-L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
