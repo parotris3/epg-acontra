@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260403030400 +0200" stop="20260403050400 +0200" channel="acontra+ CINE">
-    <title lang="es">Barbacoa de amigos (2014)</title>
-    <desc lang="es">En su 50 cumpleaños, Antoine tiene una ataque al corazón y decide cambiar su estilo de vida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ZftxIvRIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260403050400 +0200" stop="20260403053600 +0200" channel="acontra+ CINE">
-    <title lang="es">Noche y niebla (2016)</title>
-    <desc lang="es">Documental sobre el Holocausto, los campos de exterminio y cómo se llevaron a cabo los arrestos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81UTUiYXKPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260403053600 +0200" stop="20260403073200 +0200" channel="acontra+ CINE">
-    <title lang="es">Destrucción (2018)</title>
-    <desc lang="es">Una policía revive el drama que marcó su vida. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Kaac9AZlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260403073200 +0200" stop="20260403090500 +0200" channel="acontra+ CINE">
-    <title lang="es">El regreso de Jack el destripador (1988)</title>
-    <desc lang="es">Un asesino de Los Ángeles intenta replicar los asesinatos de Jack el destripador. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91bbvDVxctL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260403090500 +0200" stop="20260403112600 +0200" channel="acontra+ CINE">
+  <programme start="20260403092600 +0200" stop="20260403112600 +0200" channel="acontra+ CINE">
     <title lang="es">El tambor de hojalata (1988)</title>
     <desc lang="es">En su tercer cumpleaños, Oskar recibe su primer tambor de hojalata. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91oMcNQd4CL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +12,25 @@
     <title lang="es">I Am Not a Serial Killer (2016)</title>
     <desc lang="es">Un adolescente tiene que enfrentar su lado oscuro para poder detener a un asesino en serie. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71ua2dH0DiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260403130500 +0200" stop="20260403144700 +0200" channel="acontra+ CINE">
+    <title lang="es">La mansión de los crímenes (1971)</title>
+    <desc lang="es">Cuatro cuentos de terror que giran entono a una vieja y fantasmal mansión. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/9121sq+78aL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260403144700 +0200" stop="20260403161100 +0200" channel="acontra+ CINE">
+    <title lang="es">Un regalo para ella (2024)</title>
+    <desc lang="es">Tras regalarle un perro a su novia, Jean-Pierre descubre lo difícil que es convivir con una mascota. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/81CNII6X0sL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260403161100 +0200" stop="20260403173700 +0200" channel="acontra+ CINE">
+    <title lang="es">Nueva moda en el crimen (1974)</title>
+    <desc lang="es">Un agente secreto trata de blindar su pasado antes de ser nombrado consejero del gobierno. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81VeQkrvcpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260403173700 +0200" stop="20260403193500 +0200" channel="acontra+ CINE">
+    <title lang="es">The Brave (1998)</title>
+    <desc lang="es">Un misterioso personaje le hace una siniestra oferta a un humilde padre de familia. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Pj3qqPZJL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
