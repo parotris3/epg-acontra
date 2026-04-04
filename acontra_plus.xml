@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260403234100 +0200" stop="20260404014100 +0200" channel="acontra+ CINE">
-    <title lang="es">Sección especial</title>
-    <desc lang="es">En la Francia ocupada, un oficial alemán es asesinado por un grupo de jóvenes insurgentes. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71yJ2Ob6BfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260404014100 +0200" stop="20260404040800 +0200" channel="acontra+ CINE">
-    <title lang="es">Quemado por el sol (1994)</title>
-    <desc lang="es">La aparición de un hombre perturba la existencia de un héroe de la Revolución Soviética. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71qHPt+eWxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260404040800 +0200" stop="20260404054300 +0200" channel="acontra+ CINE">
+  <programme start="20260404034300 +0200" stop="20260404054300 +0200" channel="acontra+ CINE">
     <title lang="es">Orfeo (1950)</title>
     <desc lang="es">Orfeo, conocido poeta del barrio parisino de Saint-Germain-des-Prés, está obsesionado con la Muerte. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91gieFP4c2L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">La desaparición de Alice Creed (2010)</title>
     <desc lang="es">Rapto acaba en un juego de codicia, amor, sexo y violencia. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81LBfvDBf-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260404085400 +0200" stop="20260404102900 +0200" channel="acontra+ CINE">
+    <title lang="es">Habitación verde (2015)</title>
+    <desc lang="es">Unos neonazis quieren matar a unos músicos. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/9163gYcEEDL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260404102900 +0200" stop="20260404115600 +0200" channel="acontra+ CINE">
+    <title lang="es">El manantial de la doncella (1960)</title>
+    <desc lang="es">Tres campesinos medievales violan y asesinan a una joven en el bosque y su padre busca venganza. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81HPQIn7ktL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260404115600 +0200" stop="20260404134900 +0200" channel="acontra+ CINE">
+    <title lang="es">Byzantium (2012)</title>
+    <desc lang="es">Dos vampiresas que huyen de otros vampiros se refugian en una comunidad británica junto al mar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91pz7+eAfkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
