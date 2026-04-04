@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260404082900 +0200" stop="20260404102900 +0200" channel="acontra+ CINE">
-    <title lang="es">Habitación verde (2015)</title>
-    <desc lang="es">Unos neonazis quieren matar a unos músicos. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/9163gYcEEDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260404102900 +0200" stop="20260404115600 +0200" channel="acontra+ CINE">
-    <title lang="es">El manantial de la doncella (1960)</title>
-    <desc lang="es">Tres campesinos medievales violan y asesinan a una joven en el bosque y su padre busca venganza. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81HPQIn7ktL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260404115600 +0200" stop="20260404134900 +0200" channel="acontra+ CINE">
-    <title lang="es">Byzantium (2012)</title>
-    <desc lang="es">Dos vampiresas que huyen de otros vampiros se refugian en una comunidad británica junto al mar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91pz7+eAfkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260404134900 +0200" stop="20260404150600 +0200" channel="acontra+ CINE">
+  <programme start="20260404130600 +0200" stop="20260404150600 +0200" channel="acontra+ CINE">
     <title lang="es">Ms. 45 (1981)</title>
     <desc lang="es">Una joven sordomuda que ha sido violada recorre las calles de Nueva York en busca de venganza. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1wWBblTgjL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Culpable sin rostro (conducta indecorosa) (2018)</title>
     <desc lang="es">Un soldado británico trasladado a la India contra su voluntad comienza a rebelarse. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91kPrF3vm8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260404184200 +0200" stop="20260404202100 +0200" channel="acontra+ CINE">
+    <title lang="es">El último gran día (2009)</title>
+    <desc lang="es">Un temible solitario prepara su propio funeral y piensa asistir a él para revelárselo a todos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/acontra_CINE_16x9._UR1920,1080_FMpng_.png"/>
+  </programme>
+  <programme start="20260404202100 +0200" stop="20260404221800 +0200" channel="acontra+ CINE">
+    <title lang="es">La tierra de los hijos</title>
+    <desc lang="es">El final de la civilización ha llegado. Un padre y su hijo se encuentran entre los supervivientes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81UTrjFMl3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260404221800 +0200" stop="20260405000000 +0200" channel="acontra+ CINE">
+    <title lang="es">Los limoneros (2008)</title>
+    <desc lang="es">Salma, una viuda palestina, defiende sus limoneros frente a las fuerzas de seguridad israelíes. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/818VZluvhoL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
