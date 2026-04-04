@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260404182100 +0200" stop="20260404202100 +0200" channel="acontra+ CINE">
-    <title lang="es">El último gran día (2009)</title>
-    <desc lang="es">Un temible solitario prepara su propio funeral y piensa asistir a él para revelárselo a todos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/acontra_CINE_16x9._UR1920,1080_FMpng_.png"/>
-  </programme>
-  <programme start="20260404202100 +0200" stop="20260404221800 +0200" channel="acontra+ CINE">
-    <title lang="es">La tierra de los hijos</title>
-    <desc lang="es">El final de la civilización ha llegado. Un padre y su hijo se encuentran entre los supervivientes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81UTrjFMl3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260404221800 +0200" stop="20260405000000 +0200" channel="acontra+ CINE">
-    <title lang="es">Los limoneros (2008)</title>
-    <desc lang="es">Salma, una viuda palestina, defiende sus limoneros frente a las fuerzas de seguridad israelíes. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/818VZluvhoL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260405000000 +0200" stop="20260405020800 +0200" channel="acontra+ CINE">
+  <programme start="20260405000800 +0200" stop="20260405020800 +0200" channel="acontra+ CINE">
     <title lang="es">Madame Marguerite (2015)</title>
     <desc lang="es">Una mujer se propone cantar ópera delante de un gran público a pesar de desafinar terriblemente. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81nyw5jz0uL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Generación robada (2002)</title>
     <desc lang="es">Año 1931, Australia. Tres niñas aborígenes emprenden un peligroso viaje de vuelta a su casa. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91hbtE3pHFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260405052900 +0200" stop="20260405070000 +0200" channel="acontra+ CINE">
+    <title lang="es">Las Marismas (2008)</title>
+    <desc lang="es">Erlendur debe investigar la muerte violenta de un hombre mayor, junto al que encuentra una foto. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/817vcZf2-XL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260405070000 +0200" stop="20260405083100 +0200" channel="acontra+ CINE">
+    <title lang="es">The Point Men: En el punto de mira (2001)</title>
+    <desc lang="es">Un agente secreto del Mossad israelí debe atrapar a un peligroso terrorista. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71dpu8snIHL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
