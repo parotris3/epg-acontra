@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260405133800 +0200" stop="20260405153800 +0200" channel="acontra+ CINE">
-    <title lang="es">Miedo y deseo (1953)</title>
-    <desc lang="es">Cuatro soldados norteamericanos quedan atrapados y perdidos detrás de las líneas enemigas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81x01UnP1TL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260405153800 +0200" stop="20260405170200 +0200" channel="acontra+ CINE">
-    <title lang="es">S.O.S. El mundo en peligro (1966)</title>
-    <desc lang="es">Unos científicos van a una isla remota donde algunos investigadores han creado una vida letal. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Sd11UaRtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260405170200 +0200" stop="20260405183000 +0200" channel="acontra+ CINE">
-    <title lang="es">El proyecto supermente (2017)</title>
-    <desc lang="es">Algo sucede en Los Ángeles; la tierra ha comenzado a temblar y los edificios se vienen abajo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WroaoxMzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260405183000 +0200" stop="20260405204300 +0200" channel="acontra+ CINE">
+  <programme start="20260405184300 +0200" stop="20260405204300 +0200" channel="acontra+ CINE">
     <title lang="es">Verano asesino (1985)</title>
     <desc lang="es">Elle, una joven de 19 años, regresa a su pueblo natal con un oscuro plan de venganza. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91iSUe6b7oL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Goon (2011)</title>
     <desc lang="es">Doug Glatt consigue un lugar en un equipo de hockey canadiense de las ligas menores. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81S5SD0d9gL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260405233600 +0200" stop="20260406012100 +0200" channel="acontra+ CINE">
+    <title lang="es">Trono de sangre (1957)</title>
+    <desc lang="es">Un guerrero samurái tiene un encuentro espiritual y descubre que está destinado a la gloria. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81MOpG+TfFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260406012100 +0200" stop="20260406035400 +0200" channel="acontra+ CINE">
+    <title lang="es">Un ángel en mi mesa (1991)</title>
+    <desc lang="es">Cinta biográfica sobre la escritora Janet Frame, quien casi fue víctima de una lobotomía. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1FHg-vfEtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260406035400 +0200" stop="20260406054800 +0200" channel="acontra+ CINE">
+    <title lang="es">Uno tras otro (2014)</title>
+    <desc lang="es">Cuando su hijo muere de sobredosis, Nils, convencido de que ha sido asesinado, quiere venganza. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81K2F-fI2sL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
