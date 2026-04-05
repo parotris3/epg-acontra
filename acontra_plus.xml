@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260405081500 +0200" stop="20260405101500 +0200" channel="acontra+ CINE">
-    <title lang="es">El cartero (y Pablo Neruda) (1994)</title>
-    <desc lang="es">Historia de amistad donde el poeta Neruda enseña a un cartero como conquistar a una mujer. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81xsV1Ds8lL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260405101500 +0200" stop="20260405115000 +0200" channel="acontra+ CINE">
-    <title lang="es">600 kilos de oro puro (2010)</title>
-    <desc lang="es">Aventureros roban una mina de oro en la Guyana, pero deben aterrizar de emergencia en plena jungla. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81EGNcaSulL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260405115000 +0200" stop="20260405131600 +0200" channel="acontra+ CINE">
-    <title lang="es">Adiós a las armas (1932)</title>
-    <desc lang="es">El chofer de una ambulancia y una enfermera se enamoran en Italia durante la Primera Guerra Mundial. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81A20FiWj2L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260405131600 +0200" stop="20260405143900 +0200" channel="acontra+ CINE">
-    <title lang="es">Diplomacia (2014)</title>
-    <desc lang="es">Raoul Nordling intenta convencer a Dietrich von Choltitz para que deje intactos los monumentos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81x-O7eaqzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260405143900 +0200" stop="20260405153800 +0200" channel="acontra+ CINE">
+  <programme start="20260405133800 +0200" stop="20260405153800 +0200" channel="acontra+ CINE">
     <title lang="es">Miedo y deseo (1953)</title>
     <desc lang="es">Cuatro soldados norteamericanos quedan atrapados y perdidos detrás de las líneas enemigas. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81x01UnP1TL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +17,20 @@
     <title lang="es">El proyecto supermente (2017)</title>
     <desc lang="es">Algo sucede en Los Ángeles; la tierra ha comenzado a temblar y los edificios se vienen abajo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91WroaoxMzL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260405183000 +0200" stop="20260405204300 +0200" channel="acontra+ CINE">
+    <title lang="es">Verano asesino (1985)</title>
+    <desc lang="es">Elle, una joven de 19 años, regresa a su pueblo natal con un oscuro plan de venganza. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91iSUe6b7oL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260405204300 +0200" stop="20260405220800 +0200" channel="acontra+ CINE">
+    <title lang="es">Una noche en Casablanca (1946)</title>
+    <desc lang="es">Tres disparatados amigos, que están en un hotel marroquí, deben enfrentarse a un asesino nazi. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71T8gByfeuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260405220800 +0200" stop="20260405233600 +0200" channel="acontra+ CINE">
+    <title lang="es">Goon (2011)</title>
+    <desc lang="es">Doug Glatt consigue un lugar en un equipo de hockey canadiense de las ligas menores. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81S5SD0d9gL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
