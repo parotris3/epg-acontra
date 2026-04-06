@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260406190200 +0200" stop="20260406210200 +0200" channel="acontra+ CINE">
-    <title lang="es">Staten Island (2009)</title>
-    <desc lang="es">Bajo la sombra de Manhattan, las vidas de tres desconocidos se cruzan en Staten Island. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91egPGOTljL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260406210200 +0200" stop="20260406224200 +0200" channel="acontra+ CINE">
-    <title lang="es">El grito de la lechuza (2010)</title>
-    <desc lang="es">Un joven arquitecto, deprimido y en proceso de divorcio, se muda a una pequeña comunidad. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71eILbXT65L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260406224200 +0200" stop="20260407000600 +0200" channel="acontra+ CINE">
+  <programme start="20260406220600 +0200" stop="20260407000600 +0200" channel="acontra+ CINE">
     <title lang="es">American Summer (2011)</title>
     <desc lang="es">Un limpiapiscinas y un jardinero convierten una lujosa mansión en un hogar para prostitutas. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81GT8PgfZBL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Danton (2020)</title>
     <desc lang="es">Cuando Robespierre establece el régimen de terror, Georges Danton regresa para confrontarlo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81LJzCJ85+L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260407040800 +0200" stop="20260407055800 +0200" channel="acontra+ CINE">
+    <title lang="es">The Lawnmower Man (1992)</title>
+    <desc lang="es">Un jardinero se vuelve un terror de tecnología avanzada. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81xF4UqUoGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260407055800 +0200" stop="20260407073300 +0200" channel="acontra+ CINE">
+    <title lang="es">Lawnmower Man 2: Jobe's War (1996)</title>
+    <desc lang="es">Un villano de la realidad virtual planea controlar al mundo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8105XNJ3boL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260407073300 +0200" stop="20260407091300 +0200" channel="acontra+ CINE">
+    <title lang="es">El gato y el canario (1979)</title>
+    <desc lang="es">La gran herencia de una mujer la convierte en el objetivo de un misterioso asesino. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91WU8UPlK6L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
