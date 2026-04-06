@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260405232100 +0200" stop="20260406012100 +0200" channel="acontra+ CINE">
-    <title lang="es">Trono de sangre (1957)</title>
-    <desc lang="es">Un guerrero samurái tiene un encuentro espiritual y descubre que está destinado a la gloria. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81MOpG+TfFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260406012100 +0200" stop="20260406035400 +0200" channel="acontra+ CINE">
-    <title lang="es">Un ángel en mi mesa (1991)</title>
-    <desc lang="es">Cinta biográfica sobre la escritora Janet Frame, quien casi fue víctima de una lobotomía. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1FHg-vfEtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260406035400 +0200" stop="20260406054800 +0200" channel="acontra+ CINE">
+  <programme start="20260406034800 +0200" stop="20260406054800 +0200" channel="acontra+ CINE">
     <title lang="es">Uno tras otro (2014)</title>
     <desc lang="es">Cuando su hijo muere de sobredosis, Nils, convencido de que ha sido asesinado, quiere venganza. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81K2F-fI2sL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Los cien pasos (2000)</title>
     <desc lang="es">Un activista político cuya familia está vinculada a la mafia denuncia el crimen organizado. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71fIjNsS4-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260406091800 +0200" stop="20260406094900 +0200" channel="acontra+ CINE">
+    <title lang="es">Noche y niebla (2016)</title>
+    <desc lang="es">Documental sobre el Holocausto, los campos de exterminio y cómo se llevaron a cabo los arrestos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81UTUiYXKPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260406094900 +0200" stop="20260406114000 +0200" channel="acontra+ CINE">
+    <title lang="es">El fotógrafo de Minamata (2020)</title>
+    <desc lang="es">W. Eugne Smith, fotógrafo de guerra, regresa a Japón para documentar el envenenamiento por mercurio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Y8Sd-EGgL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260406114000 +0200" stop="20260406135200 +0200" channel="acontra+ CINE">
+    <title lang="es">Ocho y medio (1963)</title>
+    <desc lang="es">Un director de cine atraviesa una crisis de creatividad. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81arxyacWlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
