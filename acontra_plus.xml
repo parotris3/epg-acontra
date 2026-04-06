@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260406034800 +0200" stop="20260406054800 +0200" channel="acontra+ CINE">
-    <title lang="es">Uno tras otro (2014)</title>
-    <desc lang="es">Cuando su hijo muere de sobredosis, Nils, convencido de que ha sido asesinado, quiere venganza. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81K2F-fI2sL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260406054800 +0200" stop="20260406073000 +0200" channel="acontra+ CINE">
-    <title lang="es">Seis gendarmes en fuga (2015)</title>
-    <desc lang="es">Chucrot decide ayudar a uno de sus hombres internado con un problema de amnesia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81CHebdNXCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260406073000 +0200" stop="20260406091800 +0200" channel="acontra+ CINE">
-    <title lang="es">Los cien pasos (2000)</title>
-    <desc lang="es">Un activista político cuya familia está vinculada a la mafia denuncia el crimen organizado. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71fIjNsS4-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260406091800 +0200" stop="20260406094900 +0200" channel="acontra+ CINE">
-    <title lang="es">Noche y niebla (2016)</title>
-    <desc lang="es">Documental sobre el Holocausto, los campos de exterminio y cómo se llevaron a cabo los arrestos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81UTUiYXKPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260406094900 +0200" stop="20260406114000 +0200" channel="acontra+ CINE">
+  <programme start="20260406094000 +0200" stop="20260406114000 +0200" channel="acontra+ CINE">
     <title lang="es">El fotógrafo de Minamata (2020)</title>
     <desc lang="es">W. Eugne Smith, fotógrafo de guerra, regresa a Japón para documentar el envenenamiento por mercurio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Y8Sd-EGgL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +12,20 @@
     <title lang="es">Ocho y medio (1963)</title>
     <desc lang="es">Un director de cine atraviesa una crisis de creatividad. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81arxyacWlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260406135200 +0200" stop="20260406152900 +0200" channel="acontra+ CINE">
+    <title lang="es">House at the End of the Street (2012)</title>
+    <desc lang="es">Madre e hija se mudan junto a la escena de un homicidio. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/818BZtzxqZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260406152900 +0200" stop="20260406171700 +0200" channel="acontra+ CINE">
+    <title lang="es">Hombres contra mujeres (2010)</title>
+    <desc lang="es">Cuatro historias de pareja, amor y desamor en las que se aborda el problema de la guerra de sexos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Vl5ixvOYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260406171700 +0200" stop="20260406193000 +0200" channel="acontra+ CINE">
+    <title lang="es">Open Range (2003)</title>
+    <desc lang="es">Un grupo de hombres intenta escapar de su pasado guiando ganado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Pc2cUR1nL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
