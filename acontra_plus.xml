@@ -3,24 +3,9 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260406132900 +0200" stop="20260406152900 +0200" channel="acontra+ CINE">
-    <title lang="es">House at the End of the Street (2012)</title>
-    <desc lang="es">Madre e hija se mudan junto a la escena de un homicidio. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/818BZtzxqZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260406152900 +0200" stop="20260406171700 +0200" channel="acontra+ CINE">
-    <title lang="es">Hombres contra mujeres (2010)</title>
-    <desc lang="es">Cuatro historias de pareja, amor y desamor en las que se aborda el problema de la guerra de sexos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Vl5ixvOYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260406171700 +0200" stop="20260406193000 +0200" channel="acontra+ CINE">
-    <title lang="es">Open Range (2003)</title>
-    <desc lang="es">Un grupo de hombres intenta escapar de su pasado guiando ganado. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Pc2cUR1nL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260406193000 +0200" stop="20260406210200 +0200" channel="acontra+ CINE">
+  <programme start="20260406190200 +0200" stop="20260406210200 +0200" channel="acontra+ CINE">
     <title lang="es">Staten Island (2009)</title>
-    <desc lang="es">Drama | Edad: 16+</desc>
+    <desc lang="es">Bajo la sombra de Manhattan, las vidas de tres desconocidos se cruzan en Staten Island. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91egPGOTljL._UR1920,1080_FMpng_.jpg"/>
   </programme>
   <programme start="20260406210200 +0200" stop="20260406224200 +0200" channel="acontra+ CINE">
@@ -32,5 +17,15 @@
     <title lang="es">American Summer (2011)</title>
     <desc lang="es">Un limpiapiscinas y un jardinero convierten una lujosa mansión en un hogar para prostitutas. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81GT8PgfZBL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260407000600 +0200" stop="20260407014900 +0200" channel="acontra+ CINE">
+    <title lang="es">El hombre perfecto (2015)</title>
+    <desc lang="es">Un joven escritor encuentra un manuscrito de un anciano y lo publica a su nombre. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Tx-evqXLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260407014900 +0200" stop="20260407040800 +0200" channel="acontra+ CINE">
+    <title lang="es">Danton (2020)</title>
+    <desc lang="es">Cuando Robespierre establece el régimen de terror, Georges Danton regresa para confrontarlo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81LJzCJ85+L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
