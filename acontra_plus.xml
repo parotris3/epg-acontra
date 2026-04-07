@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260407084500 +0200" stop="20260407104500 +0200" channel="acontra+ CINE">
-    <title lang="es">El diablo, probablemente (1978)</title>
-    <desc lang="es">Un hombre intenta en vano con política, religión y psicoanálisis entender a la sociedad. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tlgl9XK8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260407104500 +0200" stop="20260407121700 +0200" channel="acontra+ CINE">
-    <title lang="es">El silencio (2002)</title>
-    <desc lang="es">Dos hermanas, Ester y Anna, y el hijo de una de ellas viajan en tren a un país en guerra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/812c7vMBQQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260407121700 +0200" stop="20260407142600 +0200" channel="acontra+ CINE">
-    <title lang="es">La ciudad de la alegría (1992)</title>
-    <desc lang="es">En la ciudad de Calcuta, dos personas muy diferentes encuentran comprensión la una en la otra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81vWESbKG4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260407142600 +0200" stop="20260407161100 +0200" channel="acontra+ CINE">
+  <programme start="20260407141100 +0200" stop="20260407161100 +0200" channel="acontra+ CINE">
     <title lang="es">Los seductores (2010)</title>
     <desc lang="es">Álex y su hermana se dedican a separar parejas pero empezarán a encontrarse problemas. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ln4OpX+FL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">De latir mi corazón se ha parado (2005)</title>
     <desc lang="es">Tom debe elegir entre seguir el sórdido negocio de su padre o convertirse en pianista como su madre. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81SLJ3sPFuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260407194200 +0200" stop="20260407211700 +0200" channel="acontra+ CINE">
+    <title lang="es">Hydra (2009)</title>
+    <desc lang="es">Una compañía organiza cacerías humanas para los hombres más ricos del mundo. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91HlXRYC4PL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260407211700 +0200" stop="20260407225200 +0200" channel="acontra+ CINE">
+    <title lang="es">Dos vidas en un instante (1998)</title>
+    <desc lang="es">En medio de las crisis, la vida de Helen da un giro y experimenta una realidad alternativa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71gf9K9ZaPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260407225200 +0200" stop="20260408002500 +0200" channel="acontra+ CINE">
+    <title lang="es">Buenas noches, y buena suerte (2005)</title>
+    <desc lang="es">El periodista Edward R. Murrow cuestiona la ética del senador Joseph McCarthy. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8104a5vWAaL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
