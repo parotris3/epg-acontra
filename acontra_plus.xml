@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260407191700 +0200" stop="20260407211700 +0200" channel="acontra+ CINE">
-    <title lang="es">Hydra (2009)</title>
-    <desc lang="es">Una compañía organiza cacerías humanas para los hombres más ricos del mundo. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91HlXRYC4PL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260407211700 +0200" stop="20260407225200 +0200" channel="acontra+ CINE">
-    <title lang="es">Dos vidas en un instante (1998)</title>
-    <desc lang="es">En medio de las crisis, la vida de Helen da un giro y experimenta una realidad alternativa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71gf9K9ZaPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260407225200 +0200" stop="20260408002500 +0200" channel="acontra+ CINE">
+  <programme start="20260407222500 +0200" stop="20260408002500 +0200" channel="acontra+ CINE">
     <title lang="es">Buenas noches, y buena suerte (2005)</title>
     <desc lang="es">El periodista Edward R. Murrow cuestiona la ética del senador Joseph McCarthy. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/8104a5vWAaL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">La bestia bajo el asfalto (1980)</title>
     <desc lang="es">En Chicago aparece un cocodrilo de un tamaño gigante que sale de sus cloacas. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/816cOdDJ9CL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260408041100 +0200" stop="20260408052200 +0200" channel="acontra+ CINE">
+    <title lang="es">La reina de Nueva York (1937)</title>
+    <desc lang="es">La suerte de un periodista cambia cuando le vende a su editor la trágica historia de una chica. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81pHo3G158L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260408052200 +0200" stop="20260408071000 +0200" channel="acontra+ CINE">
+    <title lang="es">Los amantes de Montparnasse (1958)</title>
+    <desc lang="es">Relato del último año de vida del pintor italiano Modigliani en el barrio francés de Montparnasse. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ph+W4zttL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260408071000 +0200" stop="20260408090500 +0200" channel="acontra+ CINE">
+    <title lang="es">Niños robados (1993)</title>
+    <desc lang="es">Un policía italiano es responsable de llevar a dos niños de Milán a un orfanato de Sicilia. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1zAEt6vtOL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
