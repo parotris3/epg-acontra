@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260407141100 +0200" stop="20260407161100 +0200" channel="acontra+ CINE">
-    <title lang="es">Los seductores (2010)</title>
-    <desc lang="es">Álex y su hermana se dedican a separar parejas pero empezarán a encontrarse problemas. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ln4OpX+FL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260407161100 +0200" stop="20260407175600 +0200" channel="acontra+ CINE">
-    <title lang="es">Adiós, muchachos (1987)</title>
-    <desc lang="es">Una escuela católica protege a un niño judío, escondiendo su verdadera identidad. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71LC8Btr4AL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260407175600 +0200" stop="20260407194200 +0200" channel="acontra+ CINE">
-    <title lang="es">De latir mi corazón se ha parado (2005)</title>
-    <desc lang="es">Tom debe elegir entre seguir el sórdido negocio de su padre o convertirse en pianista como su madre. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81SLJ3sPFuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260407194200 +0200" stop="20260407211700 +0200" channel="acontra+ CINE">
+  <programme start="20260407191700 +0200" stop="20260407211700 +0200" channel="acontra+ CINE">
     <title lang="es">Hydra (2009)</title>
     <desc lang="es">Una compañía organiza cacerías humanas para los hombres más ricos del mundo. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91HlXRYC4PL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Buenas noches, y buena suerte (2005)</title>
     <desc lang="es">El periodista Edward R. Murrow cuestiona la ética del senador Joseph McCarthy. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/8104a5vWAaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260408002500 +0200" stop="20260408024100 +0200" channel="acontra+ CINE">
+    <title lang="es">En un lugar de África (2003)</title>
+    <desc lang="es">Temiendo la persecución nazi, un abogado judío arregla la huida de su mujer y su hija a Kenya. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71QI7a0twgL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260408024100 +0200" stop="20260408041100 +0200" channel="acontra+ CINE">
+    <title lang="es">La bestia bajo el asfalto (1980)</title>
+    <desc lang="es">En Chicago aparece un cocodrilo de un tamaño gigante que sale de sus cloacas. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/816cOdDJ9CL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
