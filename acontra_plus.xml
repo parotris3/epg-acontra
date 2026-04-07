@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260407035800 +0200" stop="20260407055800 +0200" channel="acontra+ CINE">
-    <title lang="es">The Lawnmower Man (1992)</title>
-    <desc lang="es">Un jardinero se vuelve un terror de tecnología avanzada. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81xF4UqUoGL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260407055800 +0200" stop="20260407073300 +0200" channel="acontra+ CINE">
-    <title lang="es">Lawnmower Man 2: Jobe's War (1996)</title>
-    <desc lang="es">Un villano de la realidad virtual planea controlar al mundo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8105XNJ3boL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260407073300 +0200" stop="20260407091300 +0200" channel="acontra+ CINE">
-    <title lang="es">El gato y el canario (1979)</title>
-    <desc lang="es">La gran herencia de una mujer la convierte en el objetivo de un misterioso asesino. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WU8UPlK6L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260407091300 +0200" stop="20260407104500 +0200" channel="acontra+ CINE">
+  <programme start="20260407084500 +0200" stop="20260407104500 +0200" channel="acontra+ CINE">
     <title lang="es">El diablo, probablemente (1978)</title>
     <desc lang="es">Un hombre intenta en vano con política, religión y psicoanálisis entender a la sociedad. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81tlgl9XK8L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La ciudad de la alegría (1992)</title>
     <desc lang="es">En la ciudad de Calcuta, dos personas muy diferentes encuentran comprensión la una en la otra. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81vWESbKG4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260407142600 +0200" stop="20260407161100 +0200" channel="acontra+ CINE">
+    <title lang="es">Los seductores (2010)</title>
+    <desc lang="es">Álex y su hermana se dedican a separar parejas pero empezarán a encontrarse problemas. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ln4OpX+FL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260407161100 +0200" stop="20260407175600 +0200" channel="acontra+ CINE">
+    <title lang="es">Adiós, muchachos (1987)</title>
+    <desc lang="es">Una escuela católica protege a un niño judío, escondiendo su verdadera identidad. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71LC8Btr4AL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260407175600 +0200" stop="20260407194200 +0200" channel="acontra+ CINE">
+    <title lang="es">De latir mi corazón se ha parado (2005)</title>
+    <desc lang="es">Tom debe elegir entre seguir el sórdido negocio de su padre o convertirse en pianista como su madre. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81SLJ3sPFuL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
