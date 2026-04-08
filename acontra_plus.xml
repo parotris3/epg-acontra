@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260408182900 +0200" stop="20260408202900 +0200" channel="acontra+ CINE">
-    <title lang="es">Un golpe de suerte (2005)</title>
-    <desc lang="es">Paul Barnell encuentra un cadáver y decide usarlo para cobrar una póliza del seguro de vida. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81sbsHvJpCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260408202900 +0200" stop="20260408215700 +0200" channel="acontra+ CINE">
-    <title lang="es">Sorgo rojo (1989)</title>
-    <desc lang="es">En la China de la década de 1930, una joven es enviada por su padre a casarse con un hombre enfermo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71vjhf6CsDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260408215700 +0200" stop="20260408234500 +0200" channel="acontra+ CINE">
-    <title lang="es">Principiantes (1986)</title>
-    <desc lang="es">Un fotógrafo se enamora locamente de una chica que quiere ser diseñadora de moda. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81USLUz2mlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260408234500 +0200" stop="20260409014000 +0200" channel="acontra+ CINE">
+  <programme start="20260408234000 +0200" stop="20260409014000 +0200" channel="acontra+ CINE">
     <title lang="es">Muriel (El tiempo de un retorno) (1963)</title>
     <desc lang="es">Helène se reencuentra con su amor de juventud y descubre que ya no tienen nada en común. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91pf6WLH5zL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Los Buddenbrook (2008)</title>
     <desc lang="es">Los Buddenbrooks es la adaptación cinematográfica de la novela de Thomas Mann. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ZbMAcazML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260409040700 +0200" stop="20260409060300 +0200" channel="acontra+ CINE">
+    <title lang="es">La voz de la luna (1990)</title>
+    <desc lang="es">Un conspiranoico y su amigo poeta viven una aventura onírica en la llanura del Po. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91ml1q898YL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260409060300 +0200" stop="20260409075100 +0200" channel="acontra+ CINE">
+    <title lang="es">Los girasoles (1970)</title>
+    <desc lang="es">Giovanna se casa con Antonio antes de la guerra, pero él no quiere ir al frente y simula estar loco. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1OT-cPmxeL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260409075100 +0200" stop="20260409092800 +0200" channel="acontra+ CINE">
+    <title lang="es">The Great Gilly Hopkins (2015)</title>
+    <desc lang="es">Basado en la novela de Katherine Paterson. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Uf-bXo0xL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
