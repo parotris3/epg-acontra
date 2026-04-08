@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260408084500 +0200" stop="20260408104500 +0200" channel="acontra+ CINE">
-    <title lang="es">Mejor otro día (2014)</title>
-    <desc lang="es">En Londres, durante la noche de fin de año, cuatro desconocidos coinciden para lanzarse al vacío. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BOSXet0mL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260408104500 +0200" stop="20260408123800 +0200" channel="acontra+ CINE">
-    <title lang="es">Sin dejar huellas (2018)</title>
-    <desc lang="es">Un oficial de policía alcohólico investiga el caso de un adolescente desaparecido. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91lQHzQSrpL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260408123800 +0200" stop="20260408135500 +0200" channel="acontra+ CINE">
-    <title lang="es">Más allá de la duda (1956)</title>
-    <desc lang="es">Un escritor intenta demostrar la deficiencia de las leyes y la ineficacia de la policía. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Oc-S15fdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260408135500 +0200" stop="20260408155400 +0200" channel="acontra+ CINE">
+  <programme start="20260408135400 +0200" stop="20260408155400 +0200" channel="acontra+ CINE">
     <title lang="es">Oro (1974)</title>
     <desc lang="es">El gerente de unas minas de Sudáfrica trama un plan para subir el precio del oro en el mercado. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81PzgJJMnvL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Blanco perfecto (Downrange) (2018)</title>
     <desc lang="es">Seis amigos se quedan tirados en la carretera y se convierten en el objetivo de un francotirador. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81nEFH7nABL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260408184400 +0200" stop="20260408202900 +0200" channel="acontra+ CINE">
+    <title lang="es">Un golpe de suerte (2005)</title>
+    <desc lang="es">Paul Barnell encuentra un cadáver y decide usarlo para cobrar una póliza del seguro de vida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81sbsHvJpCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260408202900 +0200" stop="20260408215700 +0200" channel="acontra+ CINE">
+    <title lang="es">Sorgo rojo (1989)</title>
+    <desc lang="es">En la China de la década de 1930, una joven es enviada por su padre a casarse con un hombre enfermo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71vjhf6CsDL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260408215700 +0200" stop="20260408234500 +0200" channel="acontra+ CINE">
+    <title lang="es">Principiantes (1986)</title>
+    <desc lang="es">Un fotógrafo se enamora locamente de una chica que quiere ser diseñadora de moda. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81USLUz2mlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
