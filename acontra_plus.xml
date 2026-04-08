@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260407222500 +0200" stop="20260408002500 +0200" channel="acontra+ CINE">
-    <title lang="es">Buenas noches, y buena suerte (2005)</title>
-    <desc lang="es">El periodista Edward R. Murrow cuestiona la ética del senador Joseph McCarthy. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8104a5vWAaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260408002500 +0200" stop="20260408024100 +0200" channel="acontra+ CINE">
-    <title lang="es">En un lugar de África (2003)</title>
-    <desc lang="es">Temiendo la persecución nazi, un abogado judío arregla la huida de su mujer y su hija a Kenya. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71QI7a0twgL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260408024100 +0200" stop="20260408041100 +0200" channel="acontra+ CINE">
-    <title lang="es">La bestia bajo el asfalto (1980)</title>
-    <desc lang="es">En Chicago aparece un cocodrilo de un tamaño gigante que sale de sus cloacas. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/816cOdDJ9CL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260408041100 +0200" stop="20260408052200 +0200" channel="acontra+ CINE">
+  <programme start="20260408032200 +0200" stop="20260408052200 +0200" channel="acontra+ CINE">
     <title lang="es">La reina de Nueva York (1937)</title>
     <desc lang="es">La suerte de un periodista cambia cuando le vende a su editor la trágica historia de una chica. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81pHo3G158L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Niños robados (1993)</title>
     <desc lang="es">Un policía italiano es responsable de llevar a dos niños de Milán a un orfanato de Sicilia. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1zAEt6vtOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260408090500 +0200" stop="20260408104500 +0200" channel="acontra+ CINE">
+    <title lang="es">Mejor otro día (2014)</title>
+    <desc lang="es">En Londres, durante la noche de fin de año, cuatro desconocidos coinciden para lanzarse al vacío. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81BOSXet0mL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260408104500 +0200" stop="20260408123800 +0200" channel="acontra+ CINE">
+    <title lang="es">Sin dejar huellas (2018)</title>
+    <desc lang="es">Un oficial de policía alcohólico investiga el caso de un adolescente desaparecido. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91lQHzQSrpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260408123800 +0200" stop="20260408135500 +0200" channel="acontra+ CINE">
+    <title lang="es">Más allá de la duda (1956)</title>
+    <desc lang="es">Un escritor intenta demostrar la deficiencia de las leyes y la ineficacia de la policía. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Oc-S15fdL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
