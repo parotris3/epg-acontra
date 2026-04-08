@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260408032200 +0200" stop="20260408052200 +0200" channel="acontra+ CINE">
-    <title lang="es">La reina de Nueva York (1937)</title>
-    <desc lang="es">La suerte de un periodista cambia cuando le vende a su editor la trágica historia de una chica. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81pHo3G158L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260408052200 +0200" stop="20260408071000 +0200" channel="acontra+ CINE">
-    <title lang="es">Los amantes de Montparnasse (1958)</title>
-    <desc lang="es">Relato del último año de vida del pintor italiano Modigliani en el barrio francés de Montparnasse. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ph+W4zttL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260408071000 +0200" stop="20260408090500 +0200" channel="acontra+ CINE">
-    <title lang="es">Niños robados (1993)</title>
-    <desc lang="es">Un policía italiano es responsable de llevar a dos niños de Milán a un orfanato de Sicilia. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1zAEt6vtOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260408090500 +0200" stop="20260408104500 +0200" channel="acontra+ CINE">
+  <programme start="20260408084500 +0200" stop="20260408104500 +0200" channel="acontra+ CINE">
     <title lang="es">Mejor otro día (2014)</title>
     <desc lang="es">En Londres, durante la noche de fin de año, cuatro desconocidos coinciden para lanzarse al vacío. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81BOSXet0mL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Más allá de la duda (1956)</title>
     <desc lang="es">Un escritor intenta demostrar la deficiencia de las leyes y la ineficacia de la policía. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Oc-S15fdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260408135500 +0200" stop="20260408155400 +0200" channel="acontra+ CINE">
+    <title lang="es">Oro (1974)</title>
+    <desc lang="es">El gerente de unas minas de Sudáfrica trama un plan para subir el precio del oro en el mercado. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81PzgJJMnvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260408155400 +0200" stop="20260408171800 +0200" channel="acontra+ CINE">
+    <title lang="es">The Jack in the Box (2019)</title>
+    <desc lang="es">Los amigos de Casey empiezan a morir cuando llega una antigua caja con un muñeco dentro. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91yN378qD9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260408171800 +0200" stop="20260408184400 +0200" channel="acontra+ CINE">
+    <title lang="es">Blanco perfecto (Downrange) (2018)</title>
+    <desc lang="es">Seis amigos se quedan tirados en la carretera y se convierten en el objetivo de un francotirador. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81nEFH7nABL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
