@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260409142100 +0200" stop="20260409162100 +0200" channel="acontra+ CINE">
-    <title lang="es">El infierno del odio (1963)</title>
-    <desc lang="es">El ejecutivo de una compañía de zapatos de éxito se convierte en víctima de extorsión. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81NFwmVYj5L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260409162100 +0200" stop="20260409175700 +0200" channel="acontra+ CINE">
-    <title lang="es">El mundo resplandeciente (2021)</title>
-    <desc lang="es">Una mujer se ve arrastrada a una dimensión alternativa en la que su hermana podría seguir viva. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81SRmqiK87L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260409175700 +0200" stop="20260409194800 +0200" channel="acontra+ CINE">
-    <title lang="es">El arpa birmana (1956)</title>
-    <desc lang="es">Año 1945. Un soldado nipón que toca el arpa queda horrorizado por la destrucción que le rodea. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Rnk3BU0CL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260409194800 +0200" stop="20260409214500 +0200" channel="acontra+ CINE">
+  <programme start="20260409194500 +0200" stop="20260409214500 +0200" channel="acontra+ CINE">
     <title lang="es">Dos mujeres (2017)</title>
     <desc lang="es">Claire, una apasionada y estricta matrona, conoce a la amante de su difunto padre. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91RakOdlovL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Desayuno en Plutón (2005)</title>
     <desc lang="es">Patrick, un joven trans, sobrevive en un ambiente hostil gracias a su ingenio y su perseverancia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/810J0xbCEWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260409234900 +0200" stop="20260410020500 +0200" channel="acontra+ CINE">
+    <title lang="es">Conexión Marsella (2014)</title>
+    <desc lang="es">Un joven magistrado es destinado a combatir la lucha contra el crimen organizado. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-LZi-Jm3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260410020500 +0200" stop="20260410035900 +0200" channel="acontra+ CINE">
+    <title lang="es">Antes de la Revolución (1964)</title>
+    <desc lang="es">Fabrizio intenta conciliar su origen burgués con su pertenencia al Partido Comunista Italiano. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91few9fDydL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260410035900 +0200" stop="20260410055300 +0200" channel="acontra+ CINE">
+    <title lang="es">Bright Star (2009)</title>
+    <desc lang="es">El romance de tres años entre el poeta John Keats y Fanny Brawne cerca del final de su vida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1zxyQnUk9L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
