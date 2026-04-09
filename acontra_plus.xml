@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260409040300 +0200" stop="20260409060300 +0200" channel="acontra+ CINE">
-    <title lang="es">La voz de la luna (1990)</title>
-    <desc lang="es">Un conspiranoico y su amigo poeta viven una aventura onírica en la llanura del Po. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91ml1q898YL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260409060300 +0200" stop="20260409075100 +0200" channel="acontra+ CINE">
-    <title lang="es">Los girasoles (1970)</title>
-    <desc lang="es">Giovanna se casa con Antonio antes de la guerra, pero él no quiere ir al frente y simula estar loco. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1OT-cPmxeL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260409075100 +0200" stop="20260409092800 +0200" channel="acontra+ CINE">
-    <title lang="es">The Great Gilly Hopkins (2015)</title>
-    <desc lang="es">Basado en la novela de Katherine Paterson. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Uf-bXo0xL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260409092800 +0200" stop="20260409110500 +0200" channel="acontra+ CINE">
+  <programme start="20260409090500 +0200" stop="20260409110500 +0200" channel="acontra+ CINE">
     <title lang="es">JCVD (2008)</title>
     <desc lang="es">Van Damme no pasa por un gran momento: sin trabajo y a punto de perder la custodia de su hija. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1pNYm7xglL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El pecado del padre Mouret</title>
     <desc lang="es">Serge Mouret, un devoto párroco, sufre una pérdida de memoria. Una joven enfermera lo cuida. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71VCRO62IML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260409140400 +0200" stop="20260409162100 +0200" channel="acontra+ CINE">
+    <title lang="es">El infierno del odio (1963)</title>
+    <desc lang="es">El ejecutivo de una compañía de zapatos de éxito se convierte en víctima de extorsión. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81NFwmVYj5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260409162100 +0200" stop="20260409175700 +0200" channel="acontra+ CINE">
+    <title lang="es">El mundo resplandeciente (2021)</title>
+    <desc lang="es">Una mujer se ve arrastrada a una dimensión alternativa en la que su hermana podría seguir viva. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81SRmqiK87L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260409175700 +0200" stop="20260409194800 +0200" channel="acontra+ CINE">
+    <title lang="es">El arpa birmana (1956)</title>
+    <desc lang="es">Año 1945. Un soldado nipón que toca el arpa queda horrorizado por la destrucción que le rodea. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Rnk3BU0CL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
