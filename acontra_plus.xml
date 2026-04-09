@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260408234000 +0200" stop="20260409014000 +0200" channel="acontra+ CINE">
-    <title lang="es">Muriel (El tiempo de un retorno) (1963)</title>
-    <desc lang="es">Helène se reencuentra con su amor de juventud y descubre que ya no tienen nada en común. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91pf6WLH5zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260409014000 +0200" stop="20260409040700 +0200" channel="acontra+ CINE">
-    <title lang="es">Los Buddenbrook (2008)</title>
-    <desc lang="es">Los Buddenbrooks es la adaptación cinematográfica de la novela de Thomas Mann. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ZbMAcazML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260409040700 +0200" stop="20260409060300 +0200" channel="acontra+ CINE">
+  <programme start="20260409040300 +0200" stop="20260409060300 +0200" channel="acontra+ CINE">
     <title lang="es">La voz de la luna (1990)</title>
     <desc lang="es">Un conspiranoico y su amigo poeta viven una aventura onírica en la llanura del Po. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91ml1q898YL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">The Great Gilly Hopkins (2015)</title>
     <desc lang="es">Basado en la novela de Katherine Paterson. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Uf-bXo0xL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260409092800 +0200" stop="20260409110500 +0200" channel="acontra+ CINE">
+    <title lang="es">JCVD (2008)</title>
+    <desc lang="es">Van Damme no pasa por un gran momento: sin trabajo y a punto de perder la custodia de su hija. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1pNYm7xglL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260409110500 +0200" stop="20260409123000 +0200" channel="acontra+ CINE">
+    <title lang="es">Escóndete y tiembla (1988)</title>
+    <desc lang="es">Viajeros son objetivos de una familia de psicópatas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91hlpnJKfWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260409123000 +0200" stop="20260409140400 +0200" channel="acontra+ CINE">
+    <title lang="es">El pecado del padre Mouret</title>
+    <desc lang="es">Serge Mouret, un devoto párroco, sufre una pérdida de memoria. Una joven enfermera lo cuida. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71VCRO62IML._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
