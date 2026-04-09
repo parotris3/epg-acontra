@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260409194500 +0200" stop="20260409214500 +0200" channel="acontra+ CINE">
-    <title lang="es">Dos mujeres (2017)</title>
-    <desc lang="es">Claire, una apasionada y estricta matrona, conoce a la amante de su difunto padre. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91RakOdlovL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260409214500 +0200" stop="20260409234900 +0200" channel="acontra+ CINE">
-    <title lang="es">Desayuno en Plutón (2005)</title>
-    <desc lang="es">Patrick, un joven trans, sobrevive en un ambiente hostil gracias a su ingenio y su perseverancia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/810J0xbCEWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260409234900 +0200" stop="20260410020500 +0200" channel="acontra+ CINE">
+  <programme start="20260410000500 +0200" stop="20260410020500 +0200" channel="acontra+ CINE">
     <title lang="es">Conexión Marsella (2014)</title>
     <desc lang="es">Un joven magistrado es destinado a combatir la lucha contra el crimen organizado. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81-LZi-Jm3L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Bright Star (2009)</title>
     <desc lang="es">El romance de tres años entre el poeta John Keats y Fanny Brawne cerca del final de su vida. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1zxyQnUk9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260410055300 +0200" stop="20260410073700 +0200" channel="acontra+ CINE">
+    <title lang="es">Asher (2018)</title>
+    <desc lang="es">La irrupción de una mujer en la vida de un sicario provoca que el asesino intente cambiar de vida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A19nCE6n+jL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260410073700 +0200" stop="20260410091600 +0200" channel="acontra+ CINE">
+    <title lang="es">Cash (2008)</title>
+    <desc lang="es">Cash decide vengar el asesinato de su hermano a su manera: sin armas ni violencia, con estilo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91nYcTFWEvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
