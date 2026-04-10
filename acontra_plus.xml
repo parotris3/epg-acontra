@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260410180500 +0200" stop="20260410200500 +0200" channel="acontra+ CINE">
-    <title lang="es">Castores zombies (2014)</title>
-    <desc lang="es">Unos universitarios son atacados por unos castores zombis. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/819U50ILkrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260410200500 +0200" stop="20260410214400 +0200" channel="acontra+ CINE">
-    <title lang="es">El descenso (2005)</title>
-    <desc lang="es">Seis exploradoras descubren a unos depredadores hambrientos. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/C11NtGAMC7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260410214400 +0200" stop="20260410232000 +0200" channel="acontra+ CINE">
-    <title lang="es">Regreso a Hope Gap (2019)</title>
-    <desc lang="es">Una pareja se separa tras décadas de matrimonio y lucha con las consecuencias emocionales. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81HP+Cse7hL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260410232000 +0200" stop="20260411010200 +0200" channel="acontra+ CINE">
+  <programme start="20260410230200 +0200" stop="20260411010200 +0200" channel="acontra+ CINE">
     <title lang="es">Mister Johnson (1990)</title>
     <desc lang="es">En 1923, un africano educado y ambicioso ve que no encaja entre los nativos y colonizadores. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71ZwxjcMwCL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Si Dios quiere (2015)</title>
     <desc lang="es">Un cardiólogo ateo y déspota se queda estupefacto cuando su hijo anuncia que quiere ser cura. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Tta569noL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260411040400 +0200" stop="20260411052600 +0200" channel="acontra+ CINE">
+    <title lang="es">Aceleración máxima (2019)</title>
+    <desc lang="es">Un mafioso secuestra al hijo pequeño de sus asistente. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91cereOs8xL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260411052600 +0200" stop="20260411065900 +0200" channel="acontra+ CINE">
+    <title lang="es">El señor Manglehorn (2014)</title>
+    <desc lang="es">Una empleada de un banco intenta cambiar a hombre huraño que vive recluido en su casa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81BWNMU3SJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260411065900 +0200" stop="20260411092100 +0200" channel="acontra+ CINE">
+    <title lang="es">El cazador (1975)</title>
+    <desc lang="es">Vladimir, perdido en Siberia, conoce a Dersu Uzala, un cazador nómada que le ayuda a sobrevivir. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1q1nqsHVdL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
