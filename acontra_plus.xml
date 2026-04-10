@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260410000500 +0200" stop="20260410020500 +0200" channel="acontra+ CINE">
-    <title lang="es">Conexión Marsella (2014)</title>
-    <desc lang="es">Un joven magistrado es destinado a combatir la lucha contra el crimen organizado. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-LZi-Jm3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260410020500 +0200" stop="20260410035900 +0200" channel="acontra+ CINE">
-    <title lang="es">Antes de la Revolución (1964)</title>
-    <desc lang="es">Fabrizio intenta conciliar su origen burgués con su pertenencia al Partido Comunista Italiano. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91few9fDydL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260410035900 +0200" stop="20260410055300 +0200" channel="acontra+ CINE">
+  <programme start="20260410035300 +0200" stop="20260410055300 +0200" channel="acontra+ CINE">
     <title lang="es">Bright Star (2009)</title>
     <desc lang="es">El romance de tres años entre el poeta John Keats y Fanny Brawne cerca del final de su vida. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1zxyQnUk9L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Cash (2008)</title>
     <desc lang="es">Cash decide vengar el asesinato de su hermano a su manera: sin armas ni violencia, con estilo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91nYcTFWEvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260410091600 +0200" stop="20260410104100 +0200" channel="acontra+ CINE">
+    <title lang="es">Swimfan (2002)</title>
+    <desc lang="es">Un adolescente se arrepiente de su cita con una compañera. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Adam7EqjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260410104100 +0200" stop="20260410121600 +0200" channel="acontra+ CINE">
+    <title lang="es">Smart People (2008)</title>
+    <desc lang="es">Profesor se enfrenta a nuevo amor y a visitante inesperado. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/819xBSibw6L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260410121600 +0200" stop="20260410135100 +0200" channel="acontra+ CINE">
+    <title lang="es">La mujer casada (1965)</title>
+    <desc lang="es">Un ensayo psicológico y una crítica de la posición de la mujer en la sociedad moderna. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Gd8kl6v1L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
