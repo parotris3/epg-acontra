@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260410035300 +0200" stop="20260410055300 +0200" channel="acontra+ CINE">
-    <title lang="es">Bright Star (2009)</title>
-    <desc lang="es">El romance de tres años entre el poeta John Keats y Fanny Brawne cerca del final de su vida. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1zxyQnUk9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260410055300 +0200" stop="20260410073700 +0200" channel="acontra+ CINE">
-    <title lang="es">Asher (2018)</title>
-    <desc lang="es">La irrupción de una mujer en la vida de un sicario provoca que el asesino intente cambiar de vida. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A19nCE6n+jL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260410073700 +0200" stop="20260410091600 +0200" channel="acontra+ CINE">
-    <title lang="es">Cash (2008)</title>
-    <desc lang="es">Cash decide vengar el asesinato de su hermano a su manera: sin armas ni violencia, con estilo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91nYcTFWEvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260410091600 +0200" stop="20260410104100 +0200" channel="acontra+ CINE">
+  <programme start="20260410084100 +0200" stop="20260410104100 +0200" channel="acontra+ CINE">
     <title lang="es">Swimfan (2002)</title>
     <desc lang="es">Un adolescente se arrepiente de su cita con una compañera. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Adam7EqjL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La mujer casada (1965)</title>
     <desc lang="es">Un ensayo psicológico y una crítica de la posición de la mujer en la sociedad moderna. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Gd8kl6v1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260410135100 +0200" stop="20260410152400 +0200" channel="acontra+ CINE">
+    <title lang="es">Orlando (1993)</title>
+    <desc lang="es">El noble Orlando es condenado por la reina Isabel I a permanecer eternamente joven. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/816iNv+M1YL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260410152400 +0200" stop="20260410170100 +0200" channel="acontra+ CINE">
+    <title lang="es">Suspiria (1977)</title>
+    <desc lang="es">Una bailarina de Nueva York se inscribe en una academia de danza embrujada. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1hAy5lxJRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260410170100 +0200" stop="20260410185100 +0200" channel="acontra+ CINE">
+    <title lang="es">Me casé con un boludo</title>
+    <desc lang="es">Florencia se da cuenta de que se casó con un idiota. Él intentará recuperarla con un guionista. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71rVwQe6GOL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
