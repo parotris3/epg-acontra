@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260410084100 +0200" stop="20260410104100 +0200" channel="acontra+ CINE">
-    <title lang="es">Swimfan (2002)</title>
-    <desc lang="es">Un adolescente se arrepiente de su cita con una compañera. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Adam7EqjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260410104100 +0200" stop="20260410121600 +0200" channel="acontra+ CINE">
-    <title lang="es">Smart People (2008)</title>
-    <desc lang="es">Profesor se enfrenta a nuevo amor y a visitante inesperado. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/819xBSibw6L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260410121600 +0200" stop="20260410135100 +0200" channel="acontra+ CINE">
-    <title lang="es">La mujer casada (1965)</title>
-    <desc lang="es">Un ensayo psicológico y una crítica de la posición de la mujer en la sociedad moderna. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Gd8kl6v1L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260410135100 +0200" stop="20260410152400 +0200" channel="acontra+ CINE">
+  <programme start="20260410132400 +0200" stop="20260410152400 +0200" channel="acontra+ CINE">
     <title lang="es">Orlando (1993)</title>
     <desc lang="es">El noble Orlando es condenado por la reina Isabel I a permanecer eternamente joven. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/816iNv+M1YL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Me casé con un boludo</title>
     <desc lang="es">Florencia se da cuenta de que se casó con un idiota. Él intentará recuperarla con un guionista. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71rVwQe6GOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260410185100 +0200" stop="20260410200500 +0200" channel="acontra+ CINE">
+    <title lang="es">Castores zombies (2014)</title>
+    <desc lang="es">Unos universitarios son atacados por unos castores zombis. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/819U50ILkrL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260410200500 +0200" stop="20260410214400 +0200" channel="acontra+ CINE">
+    <title lang="es">El descenso (2005)</title>
+    <desc lang="es">Seis exploradoras descubren a unos depredadores hambrientos. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/C11NtGAMC7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260410214400 +0200" stop="20260410232000 +0200" channel="acontra+ CINE">
+    <title lang="es">Regreso a Hope Gap (2019)</title>
+    <desc lang="es">Una pareja se separa tras décadas de matrimonio y lucha con las consecuencias emocionales. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81HP+Cse7hL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
