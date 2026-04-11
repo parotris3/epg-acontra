@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260411084200 +0200" stop="20260411104200 +0200" channel="acontra+ CINE">
-    <title lang="es">Bloodsucking Bastards (2015)</title>
-    <desc lang="es">Evan, un empleado obediente y sobrecargado de trabajo, descubre que su compañero es un vampiro. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91B4zb3tooL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260411104200 +0200" stop="20260411122500 +0200" channel="acontra+ CINE">
-    <title lang="es">Más allá del arcoíris (1990)</title>
-    <desc lang="es">Martha Travis es una médium que ofrece espectáculos de espiritismo junto a su padre alcohólico. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/810DlN4GkSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260411122500 +0200" stop="20260411135400 +0200" channel="acontra+ CINE">
-    <title lang="es">La rifa</title>
-    <desc lang="es">Una joven viuda con una niña y muchas deudas decide hacer un sorteo en el que ella es el premio. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/81r84AwH+FL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260411135400 +0200" stop="20260411152700 +0200" channel="acontra+ CINE">
+  <programme start="20260411132700 +0200" stop="20260411152700 +0200" channel="acontra+ CINE">
     <title lang="es">La cosecha (1994)</title>
     <desc lang="es">En México, Charlie Pope, un guionista de cine en plena depresión, se ve envuelto en una pesadilla. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91d-BH1BVlL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El novio de mi madre (2007)</title>
     <desc lang="es">La agitada vida de una mujer madura cambia cuando se enamora de un hombre mucho más joven que ella. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81qWfjAZw8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260411184600 +0200" stop="20260411202500 +0200" channel="acontra+ CINE">
+    <title lang="es">El gendarme de Saint-Tropez (1967)</title>
+    <desc lang="es">La hija de un oficial de la policía francesa intenta hacerse pasar por una rica heredera. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/812caMuuNLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260411202500 +0200" stop="20260411222400 +0200" channel="acontra+ CINE">
+    <title lang="es">Angel (2007)</title>
+    <desc lang="es">Inglaterra, 1910. Angel Deverell, una joven de origen humilde, trata de escalar socialmente. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81shyQSUPuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260411222400 +0200" stop="20260412000100 +0200" channel="acontra+ CINE">
+    <title lang="es">El trabajo de mis sueños (2020)</title>
+    <desc lang="es">Una joven responde las cartas de los fans del escritor J.D. Salinger, pero lo hace a su manera. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1y-1VhlokL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
