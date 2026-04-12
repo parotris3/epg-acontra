@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260412133200 +0200" stop="20260412153200 +0200" channel="acontra+ CINE">
-    <title lang="es">Un hombre en el tejado (1976)</title>
-    <desc lang="es">El teniente de la policía Nyman es brutalmente asesinado en un hospital de Estocolmo. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81mr4InncSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260412153200 +0200" stop="20260412171900 +0200" channel="acontra+ CINE">
-    <title lang="es">Yatterman (2009)</title>
-    <desc lang="es">Gan, Ai y su fiel perro robot gigante tratarán de evitar que Doronjo se haga con una piedra mágica. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81pol7ZTJZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260412171900 +0200" stop="20260412190600 +0200" channel="acontra+ CINE">
-    <title lang="es">Orfeo negro (1959)</title>
-    <desc lang="es">La trágica historia de amor entre la joven Eurídice y el conductor y músico Orfeo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91DZLPATqGL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260412190600 +0200" stop="20260412210200 +0200" channel="acontra+ CINE">
+  <programme start="20260412190200 +0200" stop="20260412210200 +0200" channel="acontra+ CINE">
     <title lang="es">Mi amigo Mr. Morgan (2013)</title>
     <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Notre Dame (2019)</title>
     <desc lang="es">La vida de una arquitecta cambia cuando gana la oportunidad de renovar la catedral de Notre Dame. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/819wBQ4-5BL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260413000200 +0200" stop="20260413020100 +0200" channel="acontra+ CINE">
+    <title lang="es">La linterna roja (1991)</title>
+    <desc lang="es">China, años 20. Una joven accede a ser concubina de un hombre acaudalado que ya tiene tres esposas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81mKZ-18XaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260413020100 +0200" stop="20260413034500 +0200" channel="acontra+ CINE">
+    <title lang="es">La parte de los ángeles (2012)</title>
+    <desc lang="es">Robbie apenas evade la cárcel, se inspira para hallar la forma de salir de una vida sin esperanza. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ExK0oAYLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260413034500 +0200" stop="20260413051700 +0200" channel="acontra+ CINE">
+    <title lang="es">Kim Novak nunca estuvo aquí (2012)</title>
+    <desc lang="es">Henry comienza unas idílicas vacaciones en el campo hasta que ocurre un terrible incidente. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Rx9R4K4hL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
