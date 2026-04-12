@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260411220100 +0200" stop="20260412000100 +0200" channel="acontra+ CINE">
-    <title lang="es">El trabajo de mis sueños (2020)</title>
-    <desc lang="es">Una joven responde las cartas de los fans del escritor J.D. Salinger, pero lo hace a su manera. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1y-1VhlokL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260412000100 +0200" stop="20260412015000 +0200" channel="acontra+ CINE">
-    <title lang="es">Insignificance (1985)</title>
-    <desc lang="es">Albert Einstein charla con Marilyn Monroe sobre la teoría de la relatividad, el sexo y la política. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/712jQUN3uVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260412015000 +0200" stop="20260412035600 +0200" channel="acontra+ CINE">
-    <title lang="es">13 asesinos (2010)</title>
-    <desc lang="es">Un oficial llega a un acuerdo con un samurái para que le ayude a acabar con un tirano. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71QqYrnKBwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260412035600 +0200" stop="20260412054300 +0200" channel="acontra+ CINE">
+  <programme start="20260412034300 +0200" stop="20260412054300 +0200" channel="acontra+ CINE">
     <title lang="es">Algo celosa (2020)</title>
     <desc lang="es">Una mujer divorciada y profesora de francés comienza a sentir celos de su hija de 18 años. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A17d+USpfJL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Campeón de campeones (2005)</title>
     <desc lang="es">Un exconvicto intenta hacerse un sitio en el boxeo profesional. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/915euSGuKoL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260412085300 +0200" stop="20260412102400 +0200" channel="acontra+ CINE">
+    <title lang="es">El secreto de la mansión (2010)</title>
+    <desc lang="es">Una familia se muda a una casa de campo que esconde un secreto terrible. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71rtu-pqPVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260412102400 +0200" stop="20260412121300 +0200" channel="acontra+ CINE">
+    <title lang="es">Fedora (1980)</title>
+    <desc lang="es">A base de flasbacks, recorremos la vida de Fedora, una famosa actriz que muere atropellada. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81h-3V4uDLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260412121300 +0200" stop="20260412134400 +0200" channel="acontra+ CINE">
+    <title lang="es">Otro país (1985)</title>
+    <desc lang="es">En los años 30, dos jóvenes entablan amistad en un colegio británico de clase alta. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/9182KTodawL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
