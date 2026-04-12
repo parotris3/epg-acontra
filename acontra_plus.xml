@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260412034300 +0200" stop="20260412054300 +0200" channel="acontra+ CINE">
-    <title lang="es">Algo celosa (2020)</title>
-    <desc lang="es">Una mujer divorciada y profesora de francés comienza a sentir celos de su hija de 18 años. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A17d+USpfJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260412054300 +0200" stop="20260412070700 +0200" channel="acontra+ CINE">
-    <title lang="es">Diplomacia (2014)</title>
-    <desc lang="es">Raoul Nordling intenta convencer a Dietrich von Choltitz para que deje intactos los monumentos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81x-O7eaqzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260412070700 +0200" stop="20260412085300 +0200" channel="acontra+ CINE">
-    <title lang="es">Campeón de campeones (2005)</title>
-    <desc lang="es">Un exconvicto intenta hacerse un sitio en el boxeo profesional. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/915euSGuKoL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260412085300 +0200" stop="20260412102400 +0200" channel="acontra+ CINE">
+  <programme start="20260412082400 +0200" stop="20260412102400 +0200" channel="acontra+ CINE">
     <title lang="es">El secreto de la mansión (2010)</title>
     <desc lang="es">Una familia se muda a una casa de campo que esconde un secreto terrible. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71rtu-pqPVL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Otro país (1985)</title>
     <desc lang="es">En los años 30, dos jóvenes entablan amistad en un colegio británico de clase alta. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/9182KTodawL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260412134400 +0200" stop="20260412153200 +0200" channel="acontra+ CINE">
+    <title lang="es">Un hombre en el tejado (1976)</title>
+    <desc lang="es">El teniente de la policía Nyman es brutalmente asesinado en un hospital de Estocolmo. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81mr4InncSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260412153200 +0200" stop="20260412171900 +0200" channel="acontra+ CINE">
+    <title lang="es">Yatterman (2009)</title>
+    <desc lang="es">Gan, Ai y su fiel perro robot gigante tratarán de evitar que Doronjo se haga con una piedra mágica. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81pol7ZTJZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260412171900 +0200" stop="20260412190600 +0200" channel="acontra+ CINE">
+    <title lang="es">Orfeo negro (1959)</title>
+    <desc lang="es">La trágica historia de amor entre la joven Eurídice y el conductor y músico Orfeo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91DZLPATqGL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
