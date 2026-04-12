@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260412190200 +0200" stop="20260412210200 +0200" channel="acontra+ CINE">
-    <title lang="es">Mi amigo Mr. Morgan (2013)</title>
-    <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260412210200 +0200" stop="20260412223200 +0200" channel="acontra+ CINE">
-    <title lang="es">Los mejores amigos del mundo (2010)</title>
-    <desc lang="es">Un fin de semana al aire libre con sus mejores amigos, los realmente queridos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91EQMpQFeIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260412223200 +0200" stop="20260413000200 +0200" channel="acontra+ CINE">
+  <programme start="20260412220200 +0200" stop="20260413000200 +0200" channel="acontra+ CINE">
     <title lang="es">Notre Dame (2019)</title>
     <desc lang="es">La vida de una arquitecta cambia cuando gana la oportunidad de renovar la catedral de Notre Dame. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/819wBQ4-5BL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">Kim Novak nunca estuvo aquí (2012)</title>
     <desc lang="es">Henry comienza unas idílicas vacaciones en el campo hasta que ocurre un terrible incidente. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Rx9R4K4hL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260413051700 +0200" stop="20260413071000 +0200" channel="acontra+ CINE">
+    <title lang="es">Fast Food Nation (2006)</title>
+    <desc lang="es">Basada en el libro de Eric Schlosser. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1uAkKlOQmL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260413071000 +0200" stop="20260413090500 +0200" channel="acontra+ CINE">
+    <title lang="es">Pawn Sacrifice (2014)</title>
+    <desc lang="es">El ajedrecista Bobby Fischer compite contra un soviético. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/816y1HZz1AL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
