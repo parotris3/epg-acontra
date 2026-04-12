@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260412082400 +0200" stop="20260412102400 +0200" channel="acontra+ CINE">
-    <title lang="es">El secreto de la mansión (2010)</title>
-    <desc lang="es">Una familia se muda a una casa de campo que esconde un secreto terrible. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71rtu-pqPVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260412102400 +0200" stop="20260412121300 +0200" channel="acontra+ CINE">
-    <title lang="es">Fedora (1980)</title>
-    <desc lang="es">A base de flasbacks, recorremos la vida de Fedora, una famosa actriz que muere atropellada. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81h-3V4uDLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260412121300 +0200" stop="20260412134400 +0200" channel="acontra+ CINE">
-    <title lang="es">Otro país (1985)</title>
-    <desc lang="es">En los años 30, dos jóvenes entablan amistad en un colegio británico de clase alta. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/9182KTodawL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260412134400 +0200" stop="20260412153200 +0200" channel="acontra+ CINE">
+  <programme start="20260412133200 +0200" stop="20260412153200 +0200" channel="acontra+ CINE">
     <title lang="es">Un hombre en el tejado (1976)</title>
     <desc lang="es">El teniente de la policía Nyman es brutalmente asesinado en un hospital de Estocolmo. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81mr4InncSL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Orfeo negro (1959)</title>
     <desc lang="es">La trágica historia de amor entre la joven Eurídice y el conductor y músico Orfeo. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91DZLPATqGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260412190600 +0200" stop="20260412210200 +0200" channel="acontra+ CINE">
+    <title lang="es">Mi amigo Mr. Morgan (2013)</title>
+    <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260412210200 +0200" stop="20260412223200 +0200" channel="acontra+ CINE">
+    <title lang="es">Los mejores amigos del mundo (2010)</title>
+    <desc lang="es">Un fin de semana al aire libre con sus mejores amigos, los realmente queridos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91EQMpQFeIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260412223200 +0200" stop="20260413000200 +0200" channel="acontra+ CINE">
+    <title lang="es">Notre Dame (2019)</title>
+    <desc lang="es">La vida de una arquitecta cambia cuando gana la oportunidad de renovar la catedral de Notre Dame. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/819wBQ4-5BL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
