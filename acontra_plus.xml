@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260413191600 +0200" stop="20260413211600 +0200" channel="acontra+ CINE">
-    <title lang="es">Fuerzas especiales (2011)</title>
-    <desc lang="es">Afganistán, una periodista es capturada por los Talibanes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81wD-+H9LpL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260413211600 +0200" stop="20260413223600 +0200" channel="acontra+ CINE">
-    <title lang="es">La cena de los idiotas (1998)</title>
-    <desc lang="es">Un francés adinerado mantiene un certamen semanal para ver quién trae como invitado al mayor idiota. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ALhSuqkiL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260413223600 +0200" stop="20260414004100 +0200" channel="acontra+ CINE">
+  <programme start="20260413224100 +0200" stop="20260414004100 +0200" channel="acontra+ CINE">
     <title lang="es">Ciudad de Dios (2003)</title>
     <desc lang="es">Basada en el libro de Paulo Lins. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81wZp5Y1eLL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Le week-end (2013)</title>
     <desc lang="es">Nick y Meg, a sus 60 años, viajan a París para pasar un fin de semana romántico que reavive su vida. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81A0oV0QixL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260414040700 +0200" stop="20260414055800 +0200" channel="acontra+ CINE">
+    <title lang="es">Mi noche con Maud (1969)</title>
+    <desc lang="es">Un ingeniero católico trata de resistir las seducciones de una oscura mujer divorciada. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71fF8HWAegL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260414055800 +0200" stop="20260414075300 +0200" channel="acontra+ CINE">
+    <title lang="es">Saint Jack (1979)</title>
+    <desc lang="es">Jack se enfrentará a un nuevo inspector cuando este quiere revisar las cuentas de su burdel. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81zoGQKfTzL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260414075300 +0200" stop="20260414093500 +0200" channel="acontra+ CINE">
+    <title lang="es">Wolf Creek 2 (2013)</title>
+    <desc lang="es">Tres mochileros que visitan el cráter de Wolf Creek deben huir de un psicópata asesino. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81fxRxDBwBL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
