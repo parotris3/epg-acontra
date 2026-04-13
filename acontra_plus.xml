@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260413141200 +0200" stop="20260413161200 +0200" channel="acontra+ CINE">
-    <title lang="es">20 años no importan (2013)</title>
-    <desc lang="es">La vida de Alice, una mujer ambiciosa y egocéntrica, cambia cuando conoce al joven Baltasar. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91sfPGXr9ML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260413161200 +0200" stop="20260413174800 +0200" channel="acontra+ CINE">
-    <title lang="es">Al azar, Baltasar (1966)</title>
-    <desc lang="es">Baltasar es un burro que vive feliz en un pueblo francés, hasta que es comprado por la joven Marie. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91kXDMFyBkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260413174800 +0200" stop="20260413192700 +0200" channel="acontra+ CINE">
-    <title lang="es">El bello Sergio (1959)</title>
-    <desc lang="es">Un hombre vuelve a su ciudad natal y descubre que su mejor amigo se ha convertido en alcohólico. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71al89vV8gL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260413192700 +0200" stop="20260413211600 +0200" channel="acontra+ CINE">
+  <programme start="20260413191600 +0200" stop="20260413211600 +0200" channel="acontra+ CINE">
     <title lang="es">Fuerzas especiales (2011)</title>
     <desc lang="es">Afganistán, una periodista es capturada por los Talibanes. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81wD-+H9LpL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Ciudad de Dios (2003)</title>
     <desc lang="es">Basada en el libro de Paulo Lins. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81wZp5Y1eLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260414004100 +0200" stop="20260414023100 +0200" channel="acontra+ CINE">
+    <title lang="es">La música del silencio (2017)</title>
+    <desc lang="es">Amos Bardi es un joven que padece ceguera y que posee un gran talento para el canto. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81teHVb2TuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260414023100 +0200" stop="20260414040700 +0200" channel="acontra+ CINE">
+    <title lang="es">Le week-end (2013)</title>
+    <desc lang="es">Nick y Meg, a sus 60 años, viajan a París para pasar un fin de semana romántico que reavive su vida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81A0oV0QixL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
