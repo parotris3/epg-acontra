@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260412220200 +0200" stop="20260413000200 +0200" channel="acontra+ CINE">
-    <title lang="es">Notre Dame (2019)</title>
-    <desc lang="es">La vida de una arquitecta cambia cuando gana la oportunidad de renovar la catedral de Notre Dame. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/819wBQ4-5BL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260413000200 +0200" stop="20260413020100 +0200" channel="acontra+ CINE">
-    <title lang="es">La linterna roja (1991)</title>
-    <desc lang="es">China, años 20. Una joven accede a ser concubina de un hombre acaudalado que ya tiene tres esposas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81mKZ-18XaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260413020100 +0200" stop="20260413034500 +0200" channel="acontra+ CINE">
-    <title lang="es">La parte de los ángeles (2012)</title>
-    <desc lang="es">Robbie apenas evade la cárcel, se inspira para hallar la forma de salir de una vida sin esperanza. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ExK0oAYLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260413034500 +0200" stop="20260413051700 +0200" channel="acontra+ CINE">
+  <programme start="20260413031700 +0200" stop="20260413051700 +0200" channel="acontra+ CINE">
     <title lang="es">Kim Novak nunca estuvo aquí (2012)</title>
     <desc lang="es">Henry comienza unas idílicas vacaciones en el campo hasta que ocurre un terrible incidente. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Rx9R4K4hL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Pawn Sacrifice (2014)</title>
     <desc lang="es">El ajedrecista Bobby Fischer compite contra un soviético. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/816y1HZz1AL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260413090500 +0200" stop="20260413111800 +0200" channel="acontra+ CINE">
+    <title lang="es">Crónica de una mentira (2009)</title>
+    <desc lang="es">Un estafador se hace pasar por un jefe de obra engañando a todo un pueblo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71eZ8Qi7n+L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260413111800 +0200" stop="20260413130800 +0200" channel="acontra+ CINE">
+    <title lang="es">Diálogo de carmelitas (2011)</title>
+    <desc lang="es">En plena Revolución Francesa, la joven Blanche de la Force decide ingresar en un convento. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91fSPpdNqdL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
