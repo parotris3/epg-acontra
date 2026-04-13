@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260413091800 +0200" stop="20260413111800 +0200" channel="acontra+ CINE">
-    <title lang="es">Crónica de una mentira (2009)</title>
-    <desc lang="es">Un estafador se hace pasar por un jefe de obra engañando a todo un pueblo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71eZ8Qi7n+L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260413111800 +0200" stop="20260413130800 +0200" channel="acontra+ CINE">
-    <title lang="es">Diálogo de carmelitas (2011)</title>
-    <desc lang="es">En plena Revolución Francesa, la joven Blanche de la Force decide ingresar en un convento. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91fSPpdNqdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260413130800 +0200" stop="20260413144000 +0200" channel="acontra+ CINE">
-    <title lang="es">Asesino a sueldo (2012)</title>
-    <desc lang="es">Un asesino traicionado por los suyos huye a Londres, donde se une a una familia de gánsteres. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/819aK0w0LrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260413144000 +0200" stop="20260413161200 +0200" channel="acontra+ CINE">
+  <programme start="20260413141200 +0200" stop="20260413161200 +0200" channel="acontra+ CINE">
     <title lang="es">20 años no importan (2013)</title>
     <desc lang="es">La vida de Alice, una mujer ambiciosa y egocéntrica, cambia cuando conoce al joven Baltasar. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91sfPGXr9ML._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El bello Sergio (1959)</title>
     <desc lang="es">Un hombre vuelve a su ciudad natal y descubre que su mejor amigo se ha convertido en alcohólico. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71al89vV8gL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260413192700 +0200" stop="20260413211600 +0200" channel="acontra+ CINE">
+    <title lang="es">Fuerzas especiales (2011)</title>
+    <desc lang="es">Afganistán, una periodista es capturada por los Talibanes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81wD-+H9LpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260413211600 +0200" stop="20260413223600 +0200" channel="acontra+ CINE">
+    <title lang="es">La cena de los idiotas (1998)</title>
+    <desc lang="es">Un francés adinerado mantiene un certamen semanal para ver quién trae como invitado al mayor idiota. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ALhSuqkiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260413223600 +0200" stop="20260414004100 +0200" channel="acontra+ CINE">
+    <title lang="es">Ciudad de Dios (2003)</title>
+    <desc lang="es">Basada en el libro de Paulo Lins. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81wZp5Y1eLL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
