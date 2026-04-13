@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260413031700 +0200" stop="20260413051700 +0200" channel="acontra+ CINE">
-    <title lang="es">Kim Novak nunca estuvo aquí (2012)</title>
-    <desc lang="es">Henry comienza unas idílicas vacaciones en el campo hasta que ocurre un terrible incidente. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Rx9R4K4hL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260413051700 +0200" stop="20260413071000 +0200" channel="acontra+ CINE">
-    <title lang="es">Fast Food Nation (2006)</title>
-    <desc lang="es">Basada en el libro de Eric Schlosser. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1uAkKlOQmL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260413071000 +0200" stop="20260413090500 +0200" channel="acontra+ CINE">
-    <title lang="es">Pawn Sacrifice (2014)</title>
-    <desc lang="es">El ajedrecista Bobby Fischer compite contra un soviético. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/816y1HZz1AL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260413090500 +0200" stop="20260413111800 +0200" channel="acontra+ CINE">
+  <programme start="20260413091800 +0200" stop="20260413111800 +0200" channel="acontra+ CINE">
     <title lang="es">Crónica de una mentira (2009)</title>
     <desc lang="es">Un estafador se hace pasar por un jefe de obra engañando a todo un pueblo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71eZ8Qi7n+L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">Diálogo de carmelitas (2011)</title>
     <desc lang="es">En plena Revolución Francesa, la joven Blanche de la Force decide ingresar en un convento. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91fSPpdNqdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260413130800 +0200" stop="20260413144000 +0200" channel="acontra+ CINE">
+    <title lang="es">Asesino a sueldo (2012)</title>
+    <desc lang="es">Un asesino traicionado por los suyos huye a Londres, donde se une a una familia de gánsteres. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/819aK0w0LrL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260413144000 +0200" stop="20260413161200 +0200" channel="acontra+ CINE">
+    <title lang="es">20 años no importan (2013)</title>
+    <desc lang="es">La vida de Alice, una mujer ambiciosa y egocéntrica, cambia cuando conoce al joven Baltasar. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91sfPGXr9ML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260413161200 +0200" stop="20260413174800 +0200" channel="acontra+ CINE">
+    <title lang="es">Al azar, Baltasar (1966)</title>
+    <desc lang="es">Baltasar es un burro que vive feliz en un pueblo francés, hasta que es comprado por la joven Marie. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91kXDMFyBkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260413174800 +0200" stop="20260413192700 +0200" channel="acontra+ CINE">
+    <title lang="es">El bello Sergio (1959)</title>
+    <desc lang="es">Un hombre vuelve a su ciudad natal y descubre que su mejor amigo se ha convertido en alcohólico. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71al89vV8gL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
