@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260414135600 +0200" stop="20260414155600 +0200" channel="acontra+ CINE">
-    <title lang="es">El último vuelo (2014)</title>
-    <desc lang="es">Marie Vallières de Beaumont, una intrépida aviadora, se propone encontrar a su novio desaparecido. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71jGocrVMZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260414155600 +0200" stop="20260414174200 +0200" channel="acontra+ CINE">
-    <title lang="es">Bienvenidos al sur (2010)</title>
-    <desc lang="es">Un empleado de Correos de una pequeña ciudad hará todo lo posible porque lo trasladen a Milán. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81+R1HewwwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260414174200 +0200" stop="20260414192000 +0200" channel="acontra+ CINE">
-    <title lang="es">Déjate llevar (2018)</title>
-    <desc lang="es">Elías es un psicoanalista freudiano que necesita adelgazar y que conoce a una entrenadora personal. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81fznH0hqcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260414192000 +0200" stop="20260414210700 +0200" channel="acontra+ CINE">
+  <programme start="20260414190700 +0200" stop="20260414210700 +0200" channel="acontra+ CINE">
     <title lang="es">Dominio inminente (1991)</title>
     <desc lang="es">El camarada polaco Jozef Burski, acostumbrado a los lujos, ve cómo sus privilegios se acaban. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91lwMk2yZGL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Semillas de destrucción (2011)</title>
     <desc lang="es">Dos ecologistas son testigos del rápido crecimiento de unas raíces que puede provocar un terremoto. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1Oi7vZvK1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260414233600 +0200" stop="20260415014500 +0200" channel="acontra+ CINE">
+    <title lang="es">Stonewall (2015)</title>
+    <desc lang="es">Stonewall se convirtió en el punto de partida de los derechos de los homosexuales en Nueva York. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91bmUydEiYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260415014500 +0200" stop="20260415040600 +0200" channel="acontra+ CINE">
+    <title lang="es">Regreso a Howards End (1992)</title>
+    <desc lang="es">Dos hermanas cultas e independientes hacen amistad con la próspera y convencional familia Wilcox. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81021vjbDVL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
