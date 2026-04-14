@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260413224100 +0200" stop="20260414004100 +0200" channel="acontra+ CINE">
-    <title lang="es">Ciudad de Dios (2003)</title>
-    <desc lang="es">Basada en el libro de Paulo Lins. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81wZp5Y1eLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260414004100 +0200" stop="20260414023100 +0200" channel="acontra+ CINE">
-    <title lang="es">La música del silencio (2017)</title>
-    <desc lang="es">Amos Bardi es un joven que padece ceguera y que posee un gran talento para el canto. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81teHVb2TuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260414023100 +0200" stop="20260414040700 +0200" channel="acontra+ CINE">
-    <title lang="es">Le week-end (2013)</title>
-    <desc lang="es">Nick y Meg, a sus 60 años, viajan a París para pasar un fin de semana romántico que reavive su vida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81A0oV0QixL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260414040700 +0200" stop="20260414055800 +0200" channel="acontra+ CINE">
+  <programme start="20260414035800 +0200" stop="20260414055800 +0200" channel="acontra+ CINE">
     <title lang="es">Mi noche con Maud (1969)</title>
     <desc lang="es">Un ingeniero católico trata de resistir las seducciones de una oscura mujer divorciada. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71fF8HWAegL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Wolf Creek 2 (2013)</title>
     <desc lang="es">Tres mochileros que visitan el cráter de Wolf Creek deben huir de un psicópata asesino. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81fxRxDBwBL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260414093500 +0200" stop="20260414111500 +0200" channel="acontra+ CINE">
+    <title lang="es">Traveller (1997)</title>
+    <desc lang="es">Tras morir su padre, Pat O'Hara quiere unirse a un grupo de estafadores irlandeses-americanos. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1Vr2YKjJIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260414111500 +0200" stop="20260414124400 +0200" channel="acontra+ CINE">
+    <title lang="es">La Serpiente de Fuego (2007)</title>
+    <desc lang="es">Una temible criatura ardiente emerge del Sol con la intención de convertir la Tierra en cenizas. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81BBhfVscCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260414124400 +0200" stop="20260414142600 +0200" channel="acontra+ CINE">
+    <title lang="es">Sin techo ni ley (1991)</title>
+    <desc lang="es">Mona era una nómada, autoestopista y pasó sus últimos días caminando por las carreteras. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91igR0qpfHL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
