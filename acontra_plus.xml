@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260414091500 +0200" stop="20260414111500 +0200" channel="acontra+ CINE">
-    <title lang="es">Traveller (1997)</title>
-    <desc lang="es">Tras morir su padre, Pat O'Hara quiere unirse a un grupo de estafadores irlandeses-americanos. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Vr2YKjJIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260414111500 +0200" stop="20260414124400 +0200" channel="acontra+ CINE">
-    <title lang="es">La Serpiente de Fuego (2007)</title>
-    <desc lang="es">Una temible criatura ardiente emerge del Sol con la intención de convertir la Tierra en cenizas. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BBhfVscCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260414124400 +0200" stop="20260414142600 +0200" channel="acontra+ CINE">
-    <title lang="es">Sin techo ni ley (1991)</title>
-    <desc lang="es">Mona era una nómada, autoestopista y pasó sus últimos días caminando por las carreteras. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91igR0qpfHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260414142600 +0200" stop="20260414155600 +0200" channel="acontra+ CINE">
+  <programme start="20260414135600 +0200" stop="20260414155600 +0200" channel="acontra+ CINE">
     <title lang="es">El último vuelo (2014)</title>
     <desc lang="es">Marie Vallières de Beaumont, una intrépida aviadora, se propone encontrar a su novio desaparecido. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71jGocrVMZL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Déjate llevar (2018)</title>
     <desc lang="es">Elías es un psicoanalista freudiano que necesita adelgazar y que conoce a una entrenadora personal. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81fznH0hqcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260414192000 +0200" stop="20260414210700 +0200" channel="acontra+ CINE">
+    <title lang="es">Dominio inminente (1991)</title>
+    <desc lang="es">El camarada polaco Jozef Burski, acostumbrado a los lujos, ve cómo sus privilegios se acaban. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91lwMk2yZGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260414210700 +0200" stop="20260414220900 +0200" channel="acontra+ CINE">
+    <title lang="es">El Malvado Zaroff (1932)</title>
+    <desc lang="es">Un cazador loco decide disfrutar de la caza mayor y dar muerte de los pasajeros de un naufragio. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71meH1CQ-ML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260414220900 +0200" stop="20260414233600 +0200" channel="acontra+ CINE">
+    <title lang="es">Semillas de destrucción (2011)</title>
+    <desc lang="es">Dos ecologistas son testigos del rápido crecimiento de unas raíces que puede provocar un terremoto. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1Oi7vZvK1L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
