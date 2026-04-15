@@ -3,21 +3,6 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260415141400 +0200" stop="20260415161400 +0200" channel="acontra+ CINE">
-    <title lang="es">Housebound (2014)</title>
-    <desc lang="es">Una aspirante a ladrona es remitida a la custodia de su madre distanciada. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81HHDEtoTXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260415161400 +0200" stop="20260415180100 +0200" channel="acontra+ CINE">
-    <title lang="es">La Noche de San Lorenzo (2008)</title>
-    <desc lang="es">Durante la Segunda Guerra Mundial, los vecinos de un pueblo toscano huyen a las montañas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71p0zWUMldL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260415180100 +0200" stop="20260415195500 +0200" channel="acontra+ CINE">
-    <title lang="es">La hierba errante (1959)</title>
-    <desc lang="es">El director de una compañía de teatro llega al pueblo donde vive su hijo no reconocido. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tYPNPnoNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260415195500 +0200" stop="20260415215500 +0200" channel="acontra+ CINE">
     <title lang="es">Esperemos que sea mujer (1988)</title>
     <desc lang="es">Elena vive en una granja en la Toscana, separada de su marido y con sus parientes femeninas. | Edad: 13+</desc>
@@ -27,5 +12,20 @@
     <title lang="es">Gigolo (2024)</title>
     <desc lang="es">Tras la Primera Guerra Mundial, un hombre regresa a Berlín y decide convertirse en "gigolo". | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71hraIcbBVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260415234000 +0200" stop="20260416014500 +0200" channel="acontra+ CINE">
+    <title lang="es">El secreto de Vera Drake (2004)</title>
+    <desc lang="es">Londres, 1950. Una humilde limpiadora ayuda a mujeres a practicar abortos, una actividad ilegal. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71x06n-ou4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260416014500 +0200" stop="20260416032300 +0200" channel="acontra+ CINE">
+    <title lang="es">El hombre de la máscara de acero (2002)</title>
+    <desc lang="es">Tras sufrir un accidente de tráfico, un científico americano es capturado por los rusos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91iVMO8jAyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260416032300 +0200" stop="20260416050000 +0200" channel="acontra+ CINE">
+    <title lang="es">El amor está en el aire (2013)</title>
+    <desc lang="es">Julie, a punto de casarse, se encuentra a Antoine, un exnovio del que estuvo muy enamorada. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81s1C3uqZCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
