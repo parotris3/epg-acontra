@@ -3,24 +3,29 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260414234500 +0200" stop="20260415014500 +0200" channel="acontra+ CINE">
-    <title lang="es">Stonewall (2015)</title>
-    <desc lang="es">Stonewall se convirtió en el punto de partida de los derechos de los homosexuales en Nueva York. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91bmUydEiYL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260415092700 +0200" stop="20260415112700 +0200" channel="acontra+ CINE">
+    <title lang="es">6 días (2017)</title>
+    <desc lang="es">Un grupo armado toma la embajada iraní en 1980 y empieza un enfrentamiento de seis días. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91F6+BnLZtL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260415014500 +0200" stop="20260415040600 +0200" channel="acontra+ CINE">
-    <title lang="es">Regreso a Howards End (1992)</title>
-    <desc lang="es">Dos hermanas cultas e independientes hacen amistad con la próspera y convencional familia Wilcox. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81021vjbDVL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260415112700 +0200" stop="20260415125700 +0200" channel="acontra+ CINE">
+    <title lang="es">El cuchillo en el agua (1962)</title>
+    <desc lang="es">En el transcurso de un día en un yate surge un extraño triángulo entre una pareja y un hombre. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71whSLXVt1L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260415040600 +0200" stop="20260415063200 +0200" channel="acontra+ CINE">
-    <title lang="es">Romanzo criminale (2005)</title>
-    <desc lang="es">Una banda de delincuentes asesina a un hombre poderoso y se involucra en el tráfico de drogas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8193TrysWXL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260415125700 +0200" stop="20260415142700 +0200" channel="acontra+ CINE">
+    <title lang="es">Con todas nuestras fuerzas (2014)</title>
+    <desc lang="es">Un joven en silla de ruedas desafía todos los obstáculos para participar en un triatlón. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1SZreKkNsL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260415063200 +0200" stop="20260415081400 +0200" channel="acontra+ CINE">
-    <title lang="es">Sin vuelta atrás (1998)</title>
-    <desc lang="es">Tras salir de la cárcel, Joey se va a vivir con su hermano Tommy y su mujer a Staten Island. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1rt9pK1GHL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260415142700 +0200" stop="20260415161400 +0200" channel="acontra+ CINE">
+    <title lang="es">Housebound (2014)</title>
+    <desc lang="es">Una aspirante a ladrona es remitida a la custodia de su madre distanciada. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81HHDEtoTXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260415161400 +0200" stop="20260415180100 +0200" channel="acontra+ CINE">
+    <title lang="es">La Noche de San Lorenzo (2008)</title>
+    <desc lang="es">Durante la Segunda Guerra Mundial, los vecinos de un pueblo toscano huyen a las montañas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71p0zWUMldL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
