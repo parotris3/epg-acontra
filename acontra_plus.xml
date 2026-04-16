@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260416193000 +0200" stop="20260416213000 +0200" channel="acontra+ CINE">
-    <title lang="es">Manual de la buena esposa (2020)</title>
-    <desc lang="es">Una escuela de hogar se encarga de capacitar a sus estudiantes para que sean esposas modelo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81GtGBEHRyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260416213000 +0200" stop="20260416225900 +0200" channel="acontra+ CINE">
-    <title lang="es">12 catástrofes (2012)</title>
-    <desc lang="es">Una amenazadora estrella negra aparece en el cielo aterrorizando a los habitantes de La Tierra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1xorFXI7PL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260416225900 +0200" stop="20260417014200 +0200" channel="acontra+ CINE">
+  <programme start="20260416234200 +0200" stop="20260417014200 +0200" channel="acontra+ CINE">
     <title lang="es">Scenes From a Marriage (2021)</title>
     <desc lang="es">Una adaptación de la miniserie sueca de 1973 de Ingar Bergmann sobre un matrimonio que se desmorona. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1a0AxxalkL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Stalingrado (1992)</title>
     <desc lang="es">Musical que muestra los horrores de la guerra a través de las vicisitudes de unos soldados alemanes. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91sIMlEM6zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260417060500 +0200" stop="20260417074300 +0200" channel="acontra+ CINE">
+    <title lang="es">Perversidad (1945)</title>
+    <desc lang="es">Un hombre con talento para la pintura es explotado por una mujer y su novio sin escrúpulos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81sCHck-WNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260417074300 +0200" stop="20260417092300 +0200" channel="acontra+ CINE">
+    <title lang="es">Oss 117: Perdido en Río (2009)</title>
+    <desc lang="es">Doce años después de El Cairo, OSS 117 vuelve para una nueva misión en la otra punta del mundo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81BIF0HmNdL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
