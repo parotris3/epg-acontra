@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260416092900 +0200" stop="20260416112900 +0200" channel="acontra+ CINE">
-    <title lang="es">El pozo (2005)</title>
-    <desc lang="es">La maldición de los móviles se ha expandido a todos los contactos de las agendas de las víctimas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81YLbW9FWPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260416112900 +0200" stop="20260416131600 +0200" channel="acontra+ CINE">
-    <title lang="es">Europa, Europa (1991)</title>
-    <desc lang="es">Salomon Perel Sally es un joven judío polaco que se hace pasar por un huérfano alemán. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uThRPab5L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260416131600 +0200" stop="20260416150400 +0200" channel="acontra+ CINE">
+  <programme start="20260416130400 +0200" stop="20260416150400 +0200" channel="acontra+ CINE">
     <title lang="es">Machete Kills (2013)</title>
     <desc lang="es">Machete va tras un traficante de armas. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/B1zKwzF56cL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Van Gogh (1992)</title>
     <desc lang="es">La película de los últimos meses de la vida y el arte del pintor Vincent Van Gogh en París. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91bPQ3prf8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260416194000 +0200" stop="20260416213000 +0200" channel="acontra+ CINE">
+    <title lang="es">Manual de la buena esposa (2020)</title>
+    <desc lang="es">Una escuela de hogar se encarga de capacitar a sus estudiantes para que sean esposas modelo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81GtGBEHRyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260416213000 +0200" stop="20260416225900 +0200" channel="acontra+ CINE">
+    <title lang="es">12 catástrofes (2012)</title>
+    <desc lang="es">Una amenazadora estrella negra aparece en el cielo aterrorizando a los habitantes de La Tierra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1xorFXI7PL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260416225900 +0200" stop="20260417014200 +0200" channel="acontra+ CINE">
+    <title lang="es">Scenes From a Marriage (2021)</title>
+    <desc lang="es">Una adaptación de la miniserie sueca de 1973 de Ingar Bergmann sobre un matrimonio que se desmorona. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1a0AxxalkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
