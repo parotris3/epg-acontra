@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260415234500 +0200" stop="20260416014500 +0200" channel="acontra+ CINE">
-    <title lang="es">El secreto de Vera Drake (2004)</title>
-    <desc lang="es">Londres, 1950. Una humilde limpiadora ayuda a mujeres a practicar abortos, una actividad ilegal. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71x06n-ou4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260416014500 +0200" stop="20260416032300 +0200" channel="acontra+ CINE">
-    <title lang="es">El hombre de la máscara de acero (2002)</title>
-    <desc lang="es">Tras sufrir un accidente de tráfico, un científico americano es capturado por los rusos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91iVMO8jAyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260416032300 +0200" stop="20260416050000 +0200" channel="acontra+ CINE">
-    <title lang="es">El amor está en el aire (2013)</title>
-    <desc lang="es">Julie, a punto de casarse, se encuentra a Antoine, un exnovio del que estuvo muy enamorada. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81s1C3uqZCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260416050000 +0200" stop="20260416053100 +0200" channel="acontra+ CINE">
+  <programme start="20260416033100 +0200" stop="20260416053100 +0200" channel="acontra+ CINE">
     <title lang="es">Noche y niebla (2016)</title>
     <desc lang="es">Documental sobre el Holocausto, los campos de exterminio y cómo se llevaron a cabo los arrestos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81UTUiYXKPL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Becket (1964)</title>
     <desc lang="es">Enrique II Plantagenet, rey de Inglaterra, y Thomas Becket se enfrentan violentamente. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91DlKcfPiZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260416094700 +0200" stop="20260416112900 +0200" channel="acontra+ CINE">
+    <title lang="es">El pozo (2005)</title>
+    <desc lang="es">La maldición de los móviles se ha expandido a todos los contactos de las agendas de las víctimas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81YLbW9FWPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260416112900 +0200" stop="20260416131600 +0200" channel="acontra+ CINE">
+    <title lang="es">Europa, Europa (1991)</title>
+    <desc lang="es">Salomon Perel Sally es un joven judío polaco que se hace pasar por un huérfano alemán. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81uThRPab5L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
