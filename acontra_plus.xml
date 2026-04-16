@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260416033100 +0200" stop="20260416053100 +0200" channel="acontra+ CINE">
-    <title lang="es">Noche y niebla (2016)</title>
-    <desc lang="es">Documental sobre el Holocausto, los campos de exterminio y cómo se llevaron a cabo los arrestos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81UTUiYXKPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260416053100 +0200" stop="20260416072500 +0200" channel="acontra+ CINE">
-    <title lang="es">Cuento de Invierno (2015)</title>
-    <desc lang="es">El recuerdo del hombre que amó invade a una joven madre y le impide enamorarse. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-IFBUjqlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260416072500 +0200" stop="20260416094700 +0200" channel="acontra+ CINE">
-    <title lang="es">Becket (1964)</title>
-    <desc lang="es">Enrique II Plantagenet, rey de Inglaterra, y Thomas Becket se enfrentan violentamente. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91DlKcfPiZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260416094700 +0200" stop="20260416112900 +0200" channel="acontra+ CINE">
+  <programme start="20260416092900 +0200" stop="20260416112900 +0200" channel="acontra+ CINE">
     <title lang="es">El pozo (2005)</title>
     <desc lang="es">La maldición de los móviles se ha expandido a todos los contactos de las agendas de las víctimas. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81YLbW9FWPL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Europa, Europa (1991)</title>
     <desc lang="es">Salomon Perel Sally es un joven judío polaco que se hace pasar por un huérfano alemán. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81uThRPab5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260416131600 +0200" stop="20260416150400 +0200" channel="acontra+ CINE">
+    <title lang="es">Machete Kills (2013)</title>
+    <desc lang="es">Machete va tras un traficante de armas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1zKwzF56cL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260416150400 +0200" stop="20260416170100 +0200" channel="acontra+ CINE">
+    <title lang="es">Ojos Negros (1987)</title>
+    <desc lang="es">Romano, un hombre italiano, rememora un apasionado romance con una chica rusa llamada Anna. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91xMn34dyHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260416170100 +0200" stop="20260416194000 +0200" channel="acontra+ CINE">
+    <title lang="es">Van Gogh (1992)</title>
+    <desc lang="es">La película de los últimos meses de la vida y el arte del pintor Vincent Van Gogh en París. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91bPQ3prf8L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
