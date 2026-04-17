@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260417181300 +0200" stop="20260417201300 +0200" channel="acontra+ CINE">
-    <title lang="es">Naked Lunch (1991)</title>
-    <desc lang="es">Un exterminador alucina y mata a su mujer. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81+5fi71yYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260417201300 +0200" stop="20260417221200 +0200" channel="acontra+ CINE">
-    <title lang="es">Dinero fácil (2010)</title>
-    <desc lang="es">Tres criminales se unen para conseguir un objetivo común: vengarse del gran capo Radovan. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1hkAaQa6JL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260417221200 +0200" stop="20260418000600 +0200" channel="acontra+ CINE">
+  <programme start="20260417220600 +0200" stop="20260418000600 +0200" channel="acontra+ CINE">
     <title lang="es">Especiales (2019)</title>
     <desc lang="es">Stephane Benhamou y Daoud Tatou, dos amigos que crearon una ONG para ayudar a niños autistas. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81AsoW8lmTL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Sophie Scholl: los últimos días (2005)</title>
     <desc lang="es">Sophie Scholl es una estudiante en Múnich en 1943 encarcelada por la Gestapo durante una misión. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1v8rdAhFYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260418040100 +0200" stop="20260418053200 +0200" channel="acontra+ CINE">
+    <title lang="es">Semilla de crisantemo (1990)</title>
+    <desc lang="es">En la China rural, un hombre mayor compra a Ju Dou, una joven campesina. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81SKH9+LbUL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260418053200 +0200" stop="20260418073600 +0200" channel="acontra+ CINE">
+    <title lang="es">Otoño Tardío (1960)</title>
+    <desc lang="es">Una mujer viuda trata de casar a su hija con la ayuda de tres amigos de su difunto marido. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91IXcF-IzCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260418073600 +0200" stop="20260418091300 +0200" channel="acontra+ CINE">
+    <title lang="es">Mujeres contra hombres (2011)</title>
+    <desc lang="es">Historia de varias parejas sobre la guerra de sexos y la búsqueda desesperada de la persona ideal. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71GwVcxsZxL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
