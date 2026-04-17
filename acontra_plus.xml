@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260417040500 +0200" stop="20260417060500 +0200" channel="acontra+ CINE">
-    <title lang="es">Stalingrado (1992)</title>
-    <desc lang="es">Musical que muestra los horrores de la guerra a través de las vicisitudes de unos soldados alemanes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91sIMlEM6zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260417060500 +0200" stop="20260417074300 +0200" channel="acontra+ CINE">
-    <title lang="es">Perversidad (1945)</title>
-    <desc lang="es">Un hombre con talento para la pintura es explotado por una mujer y su novio sin escrúpulos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81sCHck-WNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260417074300 +0200" stop="20260417092300 +0200" channel="acontra+ CINE">
-    <title lang="es">Oss 117: Perdido en Río (2009)</title>
-    <desc lang="es">Doce años después de El Cairo, OSS 117 vuelve para una nueva misión en la otra punta del mundo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BIF0HmNdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260417092300 +0200" stop="20260417112100 +0200" channel="acontra+ CINE">
+  <programme start="20260417092100 +0200" stop="20260417112100 +0200" channel="acontra+ CINE">
     <title lang="es">Lullaby (2014)</title>
     <desc lang="es">Un hombre recibe la noticia de que su padre ha decidido desconectarse del soporte vital. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81CqWEI58fL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">La sala de baile (1984)</title>
     <desc lang="es">Ettore Scola narra la historia de Europa de los últimos 50 años comprimiéndola en un salón de baile. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/813CAMpLW9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260417131200 +0200" stop="20260417151500 +0200" channel="acontra+ CINE">
+    <title lang="es">Great Expectations (2012)</title>
+    <desc lang="es">Basada en la novela de Charles Dickens. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1CCHqpqbeL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260417151500 +0200" stop="20260417164400 +0200" channel="acontra+ CINE">
+    <title lang="es">Encubridora (1952)</title>
+    <desc lang="es">Un buen ranchero busca vengar la muerte de su novia cuando ella es asesinada durante un robo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91edcfoTFVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260417164400 +0200" stop="20260417182200 +0200" channel="acontra+ CINE">
+    <title lang="es">El retorno del soldado (2022)</title>
+    <desc lang="es">El capitán Chris Baldry vuelve del frente durante la Primera Guerra Mundial sufriendo amnesia. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8106rx9ahCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
