@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260417131500 +0200" stop="20260417151500 +0200" channel="acontra+ CINE">
-    <title lang="es">Great Expectations (2012)</title>
-    <desc lang="es">Basada en la novela de Charles Dickens. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1CCHqpqbeL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260417151500 +0200" stop="20260417164400 +0200" channel="acontra+ CINE">
-    <title lang="es">Encubridora (1952)</title>
-    <desc lang="es">Un buen ranchero busca vengar la muerte de su novia cuando ella es asesinada durante un robo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91edcfoTFVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260417164400 +0200" stop="20260417182200 +0200" channel="acontra+ CINE">
-    <title lang="es">El retorno del soldado (2022)</title>
-    <desc lang="es">El capitán Chris Baldry vuelve del frente durante la Primera Guerra Mundial sufriendo amnesia. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8106rx9ahCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260417182200 +0200" stop="20260417201300 +0200" channel="acontra+ CINE">
+  <programme start="20260417181300 +0200" stop="20260417201300 +0200" channel="acontra+ CINE">
     <title lang="es">Naked Lunch (1991)</title>
     <desc lang="es">Un exterminador alucina y mata a su mujer. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81+5fi71yYL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Especiales (2019)</title>
     <desc lang="es">Stephane Benhamou y Daoud Tatou, dos amigos que crearon una ONG para ayudar a niños autistas. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81AsoW8lmTL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260418000600 +0200" stop="20260418020200 +0200" channel="acontra+ CINE">
+    <title lang="es">Vania en la calle 42 (1994)</title>
+    <desc lang="es">En los noventa, Andre Gregory montó unas representaciones privadas de la obra "Tío Vania" de Chéjov. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81d8v6E967L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260418020200 +0200" stop="20260418040100 +0200" channel="acontra+ CINE">
+    <title lang="es">Sophie Scholl: los últimos días (2005)</title>
+    <desc lang="es">Sophie Scholl es una estudiante en Múnich en 1943 encarcelada por la Gestapo durante una misión. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1v8rdAhFYL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
