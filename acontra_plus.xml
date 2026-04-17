@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260416234200 +0200" stop="20260417014200 +0200" channel="acontra+ CINE">
-    <title lang="es">Scenes From a Marriage (2021)</title>
-    <desc lang="es">Una adaptación de la miniserie sueca de 1973 de Ingar Bergmann sobre un matrimonio que se desmorona. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1a0AxxalkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260417014200 +0200" stop="20260417034700 +0200" channel="acontra+ CINE">
-    <title lang="es">Madres e hijas (2010)</title>
-    <desc lang="es">Tres mujeres, Karen, Elizabeth y Lucy, comparten un objetivo común: adoptar a un hijo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8165KRQ-0PL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260417034700 +0200" stop="20260417060500 +0200" channel="acontra+ CINE">
+  <programme start="20260417040500 +0200" stop="20260417060500 +0200" channel="acontra+ CINE">
     <title lang="es">Stalingrado (1992)</title>
     <desc lang="es">Musical que muestra los horrores de la guerra a través de las vicisitudes de unos soldados alemanes. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91sIMlEM6zL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Oss 117: Perdido en Río (2009)</title>
     <desc lang="es">Doce años después de El Cairo, OSS 117 vuelve para una nueva misión en la otra punta del mundo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81BIF0HmNdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260417092300 +0200" stop="20260417112100 +0200" channel="acontra+ CINE">
+    <title lang="es">Lullaby (2014)</title>
+    <desc lang="es">Un hombre recibe la noticia de que su padre ha decidido desconectarse del soporte vital. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81CqWEI58fL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260417112100 +0200" stop="20260417131200 +0200" channel="acontra+ CINE">
+    <title lang="es">La sala de baile (1984)</title>
+    <desc lang="es">Ettore Scola narra la historia de Europa de los últimos 50 años comprimiéndola en un salón de baile. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/813CAMpLW9L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
