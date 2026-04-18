@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260418144900 +0200" stop="20260418164900 +0200" channel="acontra+ CINE">
-    <title lang="es">La gran comilona (1974)</title>
-    <desc lang="es">Cuatro amigos se reúnen en una mansión con la idea de suicidarse comiendo sin tregua. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1EVv2su3fL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260418164900 +0200" stop="20260418182300 +0200" channel="acontra+ CINE">
-    <title lang="es">Jeffrey (1995)</title>
-    <desc lang="es">El voto de celibato de un homosexual se pone a prueba cuando encuentra a su pareja perfecta. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/711EJ+nkA0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260418182300 +0200" stop="20260418200900 +0200" channel="acontra+ CINE">
+  <programme start="20260418180900 +0200" stop="20260418200900 +0200" channel="acontra+ CINE">
     <title lang="es">Farinelli: Il Castrato (1994)</title>
     <desc lang="es">Con tan sólo 32 años, Farinelli, célebre "castrato", está en la cumbre del éxito profesional. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/8151aO39RaL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Little Monsters (2019)</title>
     <desc lang="es">Dave se ofrece como voluntario para acompañar a su sobrino en un viaje escolar. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91irhFfgcgL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260418233300 +0200" stop="20260419015500 +0200" channel="acontra+ CINE">
+    <title lang="es">Secretos y mentiras (1995)</title>
+    <desc lang="es">Un sensible drama donde una mujer busca a su madre. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81VZmcnOdcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260419015500 +0200" stop="20260419040900 +0200" channel="acontra+ CINE">
+    <title lang="es">Papá está en viaje de negocios (1985)</title>
+    <desc lang="es">Un niño crece viendo cómo su padre tiene múltiples problemas políticos en los años 50 en Yugoslavia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/913GrwMD37L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
