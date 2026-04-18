@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260418085500 +0200" stop="20260418105500 +0200" channel="acontra+ CINE">
-    <title lang="es">Los malditos (1947)</title>
-    <desc lang="es">En 1945, varios nazis viajan a Oslo para embarcarse en un submarino rumbo a Sudamérica. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91YWiad1LKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260418105500 +0200" stop="20260418125000 +0200" channel="acontra+ CINE">
-    <title lang="es">El abuelo que saltó por la ventana y se largó (2014)</title>
-    <desc lang="es">El día en que va a cumplir 100 años, un anciano se fuga de la residencia en la que vive. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1kKccTNK5L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260418125000 +0200" stop="20260418143900 +0200" channel="acontra+ CINE">
-    <title lang="es">La venganza de un soldado</title>
-    <desc lang="es">Frank Morgan regresa de Vietnam y ayuda a una joven a luchar en una revolución centroamericana. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tMWga1XFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260418143900 +0200" stop="20260418164900 +0200" channel="acontra+ CINE">
+  <programme start="20260418144900 +0200" stop="20260418164900 +0200" channel="acontra+ CINE">
     <title lang="es">La gran comilona (1974)</title>
     <desc lang="es">Cuatro amigos se reúnen en una mansión con la idea de suicidarse comiendo sin tregua. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1EVv2su3fL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Jeffrey (1995)</title>
     <desc lang="es">El voto de celibato de un homosexual se pone a prueba cuando encuentra a su pareja perfecta. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/711EJ+nkA0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260418182300 +0200" stop="20260418200900 +0200" channel="acontra+ CINE">
+    <title lang="es">Farinelli: Il Castrato (1994)</title>
+    <desc lang="es">Con tan sólo 32 años, Farinelli, célebre "castrato", está en la cumbre del éxito profesional. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8151aO39RaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260418200900 +0200" stop="20260418220300 +0200" channel="acontra+ CINE">
+    <title lang="es">El Skylab (2011)</title>
+    <desc lang="es">Julio de 1979. Albertine, de diez años, y sus familiares se reúnen en una casa de Bretaña. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ccAm5Q3PL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260418220300 +0200" stop="20260418233300 +0200" channel="acontra+ CINE">
+    <title lang="es">Little Monsters (2019)</title>
+    <desc lang="es">Dave se ofrece como voluntario para acompañar a su sobrino en un viaje escolar. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91irhFfgcgL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
