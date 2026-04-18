@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260417220600 +0200" stop="20260418000600 +0200" channel="acontra+ CINE">
-    <title lang="es">Especiales (2019)</title>
-    <desc lang="es">Stephane Benhamou y Daoud Tatou, dos amigos que crearon una ONG para ayudar a niños autistas. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81AsoW8lmTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260418000600 +0200" stop="20260418020200 +0200" channel="acontra+ CINE">
-    <title lang="es">Vania en la calle 42 (1994)</title>
-    <desc lang="es">En los noventa, Andre Gregory montó unas representaciones privadas de la obra "Tío Vania" de Chéjov. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81d8v6E967L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260418020200 +0200" stop="20260418040100 +0200" channel="acontra+ CINE">
-    <title lang="es">Sophie Scholl: los últimos días (2005)</title>
-    <desc lang="es">Sophie Scholl es una estudiante en Múnich en 1943 encarcelada por la Gestapo durante una misión. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1v8rdAhFYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260418040100 +0200" stop="20260418053200 +0200" channel="acontra+ CINE">
+  <programme start="20260418033200 +0200" stop="20260418053200 +0200" channel="acontra+ CINE">
     <title lang="es">Semilla de crisantemo (1990)</title>
     <desc lang="es">En la China rural, un hombre mayor compra a Ju Dou, una joven campesina. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81SKH9+LbUL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Mujeres contra hombres (2011)</title>
     <desc lang="es">Historia de varias parejas sobre la guerra de sexos y la búsqueda desesperada de la persona ideal. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71GwVcxsZxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260418091300 +0200" stop="20260418105500 +0200" channel="acontra+ CINE">
+    <title lang="es">Los malditos (1947)</title>
+    <desc lang="es">En 1945, varios nazis viajan a Oslo para embarcarse en un submarino rumbo a Sudamérica. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91YWiad1LKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260418105500 +0200" stop="20260418125000 +0200" channel="acontra+ CINE">
+    <title lang="es">El abuelo que saltó por la ventana y se largó (2014)</title>
+    <desc lang="es">El día en que va a cumplir 100 años, un anciano se fuga de la residencia en la que vive. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1kKccTNK5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260418125000 +0200" stop="20260418143900 +0200" channel="acontra+ CINE">
+    <title lang="es">La venganza de un soldado</title>
+    <desc lang="es">Frank Morgan regresa de Vietnam y ayuda a una joven a luchar en una revolución centroamericana. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tMWga1XFL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
