@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260418180900 +0200" stop="20260418200900 +0200" channel="acontra+ CINE">
-    <title lang="es">Farinelli: Il Castrato (1994)</title>
-    <desc lang="es">Con tan sólo 32 años, Farinelli, célebre "castrato", está en la cumbre del éxito profesional. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8151aO39RaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260418200900 +0200" stop="20260418220300 +0200" channel="acontra+ CINE">
-    <title lang="es">El Skylab (2011)</title>
-    <desc lang="es">Julio de 1979. Albertine, de diez años, y sus familiares se reúnen en una casa de Bretaña. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ccAm5Q3PL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260418220300 +0200" stop="20260418233300 +0200" channel="acontra+ CINE">
-    <title lang="es">Little Monsters (2019)</title>
-    <desc lang="es">Dave se ofrece como voluntario para acompañar a su sobrino en un viaje escolar. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91irhFfgcgL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260418233300 +0200" stop="20260419015500 +0200" channel="acontra+ CINE">
+  <programme start="20260418235500 +0200" stop="20260419015500 +0200" channel="acontra+ CINE">
     <title lang="es">Secretos y mentiras (1995)</title>
     <desc lang="es">Un sensible drama donde una mujer busca a su madre. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81VZmcnOdcL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Papá está en viaje de negocios (1985)</title>
     <desc lang="es">Un niño crece viendo cómo su padre tiene múltiples problemas políticos en los años 50 en Yugoslavia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/913GrwMD37L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260419040900 +0200" stop="20260419052800 +0200" channel="acontra+ CINE">
+    <title lang="es">Pesadilla jurásica (2012)</title>
+    <desc lang="es">Exploradores británicos encuentran dinosaurios en el Congo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Mt6v4dPRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260419052800 +0200" stop="20260419065100 +0200" channel="acontra+ CINE">
+    <title lang="es">Nadie vive (2012)</title>
+    <desc lang="es">Unos delincuentes asaltan a una joven pareja sin saber lo que sus víctimas pueden llegar a hacer. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Reobno5YL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260419065100 +0200" stop="20260419083700 +0200" channel="acontra+ CINE">
+    <title lang="es">La rodilla de Clara (1971)</title>
+    <desc lang="es">Un diplomático a punto de casarse se obsesiona con una parte particular de la anatomía de una mujer. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ZMw3uHxdL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
