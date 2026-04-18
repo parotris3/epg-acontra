@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260418033200 +0200" stop="20260418053200 +0200" channel="acontra+ CINE">
-    <title lang="es">Semilla de crisantemo (1990)</title>
-    <desc lang="es">En la China rural, un hombre mayor compra a Ju Dou, una joven campesina. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81SKH9+LbUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260418053200 +0200" stop="20260418073600 +0200" channel="acontra+ CINE">
-    <title lang="es">Otoño Tardío (1960)</title>
-    <desc lang="es">Una mujer viuda trata de casar a su hija con la ayuda de tres amigos de su difunto marido. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91IXcF-IzCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260418073600 +0200" stop="20260418091300 +0200" channel="acontra+ CINE">
-    <title lang="es">Mujeres contra hombres (2011)</title>
-    <desc lang="es">Historia de varias parejas sobre la guerra de sexos y la búsqueda desesperada de la persona ideal. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71GwVcxsZxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260418091300 +0200" stop="20260418105500 +0200" channel="acontra+ CINE">
+  <programme start="20260418085500 +0200" stop="20260418105500 +0200" channel="acontra+ CINE">
     <title lang="es">Los malditos (1947)</title>
     <desc lang="es">En 1945, varios nazis viajan a Oslo para embarcarse en un submarino rumbo a Sudamérica. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91YWiad1LKL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">La venganza de un soldado</title>
     <desc lang="es">Frank Morgan regresa de Vietnam y ayuda a una joven a luchar en una revolución centroamericana. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81tMWga1XFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260418143900 +0200" stop="20260418164900 +0200" channel="acontra+ CINE">
+    <title lang="es">La gran comilona (1974)</title>
+    <desc lang="es">Cuatro amigos se reúnen en una mansión con la idea de suicidarse comiendo sin tregua. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1EVv2su3fL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260418164900 +0200" stop="20260418182300 +0200" channel="acontra+ CINE">
+    <title lang="es">Jeffrey (1995)</title>
+    <desc lang="es">El voto de celibato de un homosexual se pone a prueba cuando encuentra a su pareja perfecta. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/711EJ+nkA0L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
