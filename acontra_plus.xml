@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260419132500 +0200" stop="20260419152500 +0200" channel="acontra+ CINE">
-    <title lang="es">El tiempo del lobo</title>
-    <desc lang="es">Anna y su familia descubren que su casa de campo ha sido ocupada por otra familia. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91AG38UD0fL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260419152500 +0200" stop="20260419170100 +0200" channel="acontra+ CINE">
-    <title lang="es">El guardia (2011)</title>
-    <desc lang="es">Dos agentes de policía descubren que sus exsuperiores están involucrados en un caso de corrupción. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81QiXuZLC8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260419170100 +0200" stop="20260419183800 +0200" channel="acontra+ CINE">
-    <title lang="es">El placer (1953)</title>
-    <desc lang="es">Un hombre que oculta su edad, un viaje al campo y un pintor ilustran tres historias sobre el placer. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81OVO5JCtKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260419183800 +0200" stop="20260419202700 +0200" channel="acontra+ CINE">
+  <programme start="20260419182700 +0200" stop="20260419202700 +0200" channel="acontra+ CINE">
     <title lang="es">El sabor del sake (1962)</title>
     <desc lang="es">Shubei Hirayama es viudo y vive con su hija, pero ve injusto que ella se dedique solo a cuidarlo. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/91GC-TwVyML._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La vida de Galileo (2025)</title>
     <desc lang="es">Las teorías de Galileo Galilei le granjearon el rechazo de las poderosas autoridades eclesiásticas. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/91K7QG6px3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260420000400 +0200" stop="20260420020300 +0200" channel="acontra+ CINE">
+    <title lang="es">Salyut-7, héroes en el espacio (2017)</title>
+    <desc lang="es">Dos astronautas soviéticos ponen de nuevo en funcionamiento la estación espacial Salyut 7. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1Ukc29h3wL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260420020300 +0200" stop="20260420035500 +0200" channel="acontra+ CINE">
+    <title lang="es">Padre patrón (1977)</title>
+    <desc lang="es">La historia real de Gavino Ledda, que fue obligado por su autoritario padre a dejar la escuela. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/61+CRe2Rb7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260420035500 +0200" stop="20260420052800 +0200" channel="acontra+ CINE">
+    <title lang="es">Noche real (2015)</title>
+    <desc lang="es">En el Día de la Victoria, las princesas Isabel y Margarita se unen a la celebración de incógnito. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1eJ-vL++eL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
