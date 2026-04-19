@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260419032800 +0200" stop="20260419052800 +0200" channel="acontra+ CINE">
-    <title lang="es">Pesadilla jurásica (2012)</title>
-    <desc lang="es">Exploradores británicos encuentran dinosaurios en el Congo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Mt6v4dPRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260419052800 +0200" stop="20260419065100 +0200" channel="acontra+ CINE">
-    <title lang="es">Nadie vive (2012)</title>
-    <desc lang="es">Unos delincuentes asaltan a una joven pareja sin saber lo que sus víctimas pueden llegar a hacer. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Reobno5YL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260419065100 +0200" stop="20260419083700 +0200" channel="acontra+ CINE">
-    <title lang="es">La rodilla de Clara (1971)</title>
-    <desc lang="es">Un diplomático a punto de casarse se obsesiona con una parte particular de la anatomía de una mujer. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ZMw3uHxdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260419083700 +0200" stop="20260419102200 +0200" channel="acontra+ CINE">
+  <programme start="20260419082200 +0200" stop="20260419102200 +0200" channel="acontra+ CINE">
     <title lang="es">Llévame a la luna (2012)</title>
     <desc lang="es">Una mujer se propone eliminar la maldición familiar en la que cada primer matrimonio se divorcia. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/813uBwbCaXL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Hunger (2009)</title>
     <desc lang="es">Cuando expones tu cuerpo a las más extremas condiciones, las consecuencias son imprevisibles. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71gByKTRNSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260419133200 +0200" stop="20260419152500 +0200" channel="acontra+ CINE">
+    <title lang="es">El tiempo del lobo</title>
+    <desc lang="es">Anna y su familia descubren que su casa de campo ha sido ocupada por otra familia. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91AG38UD0fL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260419152500 +0200" stop="20260419170100 +0200" channel="acontra+ CINE">
+    <title lang="es">El guardia (2011)</title>
+    <desc lang="es">Dos agentes de policía descubren que sus exsuperiores están involucrados en un caso de corrupción. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81QiXuZLC8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260419170100 +0200" stop="20260419183800 +0200" channel="acontra+ CINE">
+    <title lang="es">El placer (1953)</title>
+    <desc lang="es">Un hombre que oculta su edad, un viaje al campo y un pintor ilustran tres historias sobre el placer. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81OVO5JCtKL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
