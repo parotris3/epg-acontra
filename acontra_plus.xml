@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260419182700 +0200" stop="20260419202700 +0200" channel="acontra+ CINE">
-    <title lang="es">El sabor del sake (1962)</title>
-    <desc lang="es">Shubei Hirayama es viudo y vive con su hija, pero ve injusto que ella se dedique solo a cuidarlo. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/91GC-TwVyML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260419202700 +0200" stop="20260419214500 +0200" channel="acontra+ CINE">
-    <title lang="es">El marido de la peluquera (1990)</title>
-    <desc lang="es">Fascinado por los estilistas desde que era un niño, Antoine promete casarse con una peluquera. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/918xYPpp98L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260419214500 +0200" stop="20260420000400 +0200" channel="acontra+ CINE">
+  <programme start="20260419220400 +0200" stop="20260420000400 +0200" channel="acontra+ CINE">
     <title lang="es">La vida de Galileo (2025)</title>
     <desc lang="es">Las teorías de Galileo Galilei le granjearon el rechazo de las poderosas autoridades eclesiásticas. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/91K7QG6px3L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,10 @@
     <title lang="es">Noche real (2015)</title>
     <desc lang="es">En el Día de la Victoria, las princesas Isabel y Margarita se unen a la celebración de incógnito. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1eJ-vL++eL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260420052800 +0200" stop="20260420091100 +0200" channel="acontra+ CINE">
+    <title lang="es">Los leales 47 ronin</title>
+    <desc lang="es">Aclamada y poética visión del honor en tiempos de guerra del maestro Mizoguchi. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71HCVzLChCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
