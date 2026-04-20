@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260420092500 +0200" stop="20260420112500 +0200" channel="acontra+ CINE">
-    <title lang="es">La fortaleza escondida (1958)</title>
-    <desc lang="es">El general Rokurota Makabe utilizará a dos desertores para rescatar a la princesa Yuki. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/816sLifRISL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260420112500 +0200" stop="20260420125300 +0200" channel="acontra+ CINE">
-    <title lang="es">Jane en busca de la ciudad perdida (1988)</title>
-    <desc lang="es">África 1940. Tanto los nazis como los británicos tratan de localizar la ciudad perdida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/912VzzWFthL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260420125300 +0200" stop="20260420142000 +0200" channel="acontra+ CINE">
-    <title lang="es">El silencio del mar (2012)</title>
-    <desc lang="es">Un oficial alemán, cultivado y francófilo, es el huésped impuesto en un hogar francés. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/71fMGZzJLRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260420142000 +0200" stop="20260420155300 +0200" channel="acontra+ CINE">
+  <programme start="20260420135300 +0200" stop="20260420155300 +0200" channel="acontra+ CINE">
     <title lang="es">The Angriest Man in Brooklyn (2014)</title>
     <desc lang="es">Un hombre infeliz se entera de que va a morir en 90 minutos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91hgkg7e05L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Don Giovanni (1989)</title>
     <desc lang="es">En esta versión de la ópera clásica de Mozart, Don Juan peca con su criada y es condenado. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Qw8rHPC8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260420184900 +0200" stop="20260420203800 +0200" channel="acontra+ CINE">
+    <title lang="es">De Gaulle (2020)</title>
+    <desc lang="es">Mayo, 1940. El general Charles de Gaulle deja a su familia para trabajar para el gobierno de París. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A12AJwc-kqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260420203800 +0200" stop="20260420220000 +0200" channel="acontra+ CINE">
+    <title lang="es">Indigenous (2014)</title>
+    <desc lang="es">Un grupo de amigos viaja a Panamá para relajarse y allí se encuentran con su peor pesadilla. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tGnRUOrJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260420220000 +0200" stop="20260420233900 +0200" channel="acontra+ CINE">
+    <title lang="es">El rayo verde (1986)</title>
+    <desc lang="es">Delphine es una joven parisina que trata de recuperarse de una ruptura reciente. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81fcd9fiYlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
