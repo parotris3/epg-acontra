@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260419220400 +0200" stop="20260420000400 +0200" channel="acontra+ CINE">
-    <title lang="es">La vida de Galileo (2025)</title>
-    <desc lang="es">Las teorías de Galileo Galilei le granjearon el rechazo de las poderosas autoridades eclesiásticas. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/91K7QG6px3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260420000400 +0200" stop="20260420020300 +0200" channel="acontra+ CINE">
-    <title lang="es">Salyut-7, héroes en el espacio (2017)</title>
-    <desc lang="es">Dos astronautas soviéticos ponen de nuevo en funcionamiento la estación espacial Salyut 7. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Ukc29h3wL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260420020300 +0200" stop="20260420035500 +0200" channel="acontra+ CINE">
-    <title lang="es">Padre patrón (1977)</title>
-    <desc lang="es">La historia real de Gavino Ledda, que fue obligado por su autoritario padre a dejar la escuela. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/61+CRe2Rb7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260420035500 +0200" stop="20260420052800 +0200" channel="acontra+ CINE">
+  <programme start="20260420032800 +0200" stop="20260420052800 +0200" channel="acontra+ CINE">
     <title lang="es">Noche real (2015)</title>
     <desc lang="es">En el Día de la Victoria, las princesas Isabel y Margarita se unen a la celebración de incógnito. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1eJ-vL++eL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Los leales 47 ronin</title>
     <desc lang="es">Aclamada y poética visión del honor en tiempos de guerra del maestro Mizoguchi. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71HCVzLChCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260420091100 +0200" stop="20260420112500 +0200" channel="acontra+ CINE">
+    <title lang="es">La fortaleza escondida (1958)</title>
+    <desc lang="es">El general Rokurota Makabe utilizará a dos desertores para rescatar a la princesa Yuki. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/816sLifRISL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260420112500 +0200" stop="20260420125300 +0200" channel="acontra+ CINE">
+    <title lang="es">Jane en busca de la ciudad perdida (1988)</title>
+    <desc lang="es">África 1940. Tanto los nazis como los británicos tratan de localizar la ciudad perdida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/912VzzWFthL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260420125300 +0200" stop="20260420142000 +0200" channel="acontra+ CINE">
+    <title lang="es">El silencio del mar (2012)</title>
+    <desc lang="es">Un oficial alemán, cultivado y francófilo, es el huésped impuesto en un hogar francés. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/71fMGZzJLRL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
