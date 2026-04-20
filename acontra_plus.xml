@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260420032800 +0200" stop="20260420052800 +0200" channel="acontra+ CINE">
-    <title lang="es">Noche real (2015)</title>
-    <desc lang="es">En el Día de la Victoria, las princesas Isabel y Margarita se unen a la celebración de incógnito. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1eJ-vL++eL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260420052800 +0200" stop="20260420091100 +0200" channel="acontra+ CINE">
-    <title lang="es">Los leales 47 ronin</title>
-    <desc lang="es">Aclamada y poética visión del honor en tiempos de guerra del maestro Mizoguchi. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71HCVzLChCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260420091100 +0200" stop="20260420112500 +0200" channel="acontra+ CINE">
+  <programme start="20260420092500 +0200" stop="20260420112500 +0200" channel="acontra+ CINE">
     <title lang="es">La fortaleza escondida (1958)</title>
     <desc lang="es">El general Rokurota Makabe utilizará a dos desertores para rescatar a la princesa Yuki. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/816sLifRISL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">El silencio del mar (2012)</title>
     <desc lang="es">Un oficial alemán, cultivado y francófilo, es el huésped impuesto en un hogar francés. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/71fMGZzJLRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260420142000 +0200" stop="20260420155300 +0200" channel="acontra+ CINE">
+    <title lang="es">The Angriest Man in Brooklyn (2014)</title>
+    <desc lang="es">Un hombre infeliz se entera de que va a morir en 90 minutos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91hgkg7e05L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260420155300 +0200" stop="20260420184900 +0200" channel="acontra+ CINE">
+    <title lang="es">Don Giovanni (1989)</title>
+    <desc lang="es">En esta versión de la ópera clásica de Mozart, Don Juan peca con su criada y es condenado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Qw8rHPC8L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
