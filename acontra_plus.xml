@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260421141200 +0200" stop="20260421161200 +0200" channel="acontra+ CINE">
-    <title lang="es">El gendarme en Nueva York (2023)</title>
-    <desc lang="es">Un gendarme francés viaja a Nueva York y se sorprende al encontrar que su hija ha viajado también. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/711aOCeoaCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260421161200 +0200" stop="20260421175300 +0200" channel="acontra+ CINE">
-    <title lang="es">Ídolos, mentiras y rock & roll (1997)</title>
-    <desc lang="es">Un joven inmigrante húngaro intenta adaptarse a la escuela y a la cultura americana de los años 60. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/71URI2-SMXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260421175300 +0200" stop="20260421194800 +0200" channel="acontra+ CINE">
-    <title lang="es">La mujer zurda (1980)</title>
-    <desc lang="es">Una mujer recién separada pone rumbo a París con su hijo, donde comienzan una nueva vida. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ebmwYoeRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260421194800 +0200" stop="20260421223000 +0200" channel="acontra+ CINE">
+  <programme start="20260421203000 +0200" stop="20260421223000 +0200" channel="acontra+ CINE">
     <title lang="es">Lo que el día debe a la noche (2012)</title>
     <desc lang="es">Un niño ve cómo se pone a prueba su amistad con sus amigos cuando una joven llega al pueblo. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/910jaGl7Z3L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,15 @@
     <title lang="es">Premonición (2006)</title>
     <desc lang="es">Un policía despierta de un coma para descubrir que tiene alucinaciones que predicen el futuro. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81QXR1BXE7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260421235700 +0200" stop="20260422020400 +0200" channel="acontra+ CINE">
+    <title lang="es">Modigliani (2005)</title>
+    <desc lang="es">La historia jamás contada de la ácida rivalidad entre Picasso y Modigliani. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81r817NqNIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260422020400 +0200" stop="20260422042100 +0200" channel="acontra+ CINE">
+    <title lang="es">Kabei. Nuestra madre (2008)</title>
+    <desc lang="es">Una mujer lucha por mantener a su familia unida cuando su marido es encarcelado por sus opiniones. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81e0U+3YW4L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
