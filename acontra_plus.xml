@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260421084100 +0200" stop="20260421104100 +0200" channel="acontra+ CINE">
-    <title lang="es">Alto el fuego (2019)</title>
-    <desc lang="es">Un excombatiente de la Primera Guerra Mundial regresa a casa cuatro años de vida nómada. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81mlTs7fv9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260421104100 +0200" stop="20260421125300 +0200" channel="acontra+ CINE">
-    <title lang="es">¡Vivir! (1994)</title>
-    <desc lang="es">Una pareja se enfrenta a la turbulenta historia política de China a lo largo de 30 años. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71bSqDq2fPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260421125300 +0200" stop="20260421143000 +0200" channel="acontra+ CINE">
-    <title lang="es">El día de los muertos (1985)</title>
-    <desc lang="es">Los zombies se han apoderado del planeta. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1ZIzNHVVuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260421143000 +0200" stop="20260421161200 +0200" channel="acontra+ CINE">
+  <programme start="20260421141200 +0200" stop="20260421161200 +0200" channel="acontra+ CINE">
     <title lang="es">El gendarme en Nueva York (2023)</title>
     <desc lang="es">Un gendarme francés viaja a Nueva York y se sorprende al encontrar que su hija ha viajado también. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/711aOCeoaCL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">La mujer zurda (1980)</title>
     <desc lang="es">Una mujer recién separada pone rumbo a París con su hijo, donde comienzan una nueva vida. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ebmwYoeRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260421194800 +0200" stop="20260421223000 +0200" channel="acontra+ CINE">
+    <title lang="es">Lo que el día debe a la noche (2012)</title>
+    <desc lang="es">Un niño ve cómo se pone a prueba su amistad con sus amigos cuando una joven llega al pueblo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/910jaGl7Z3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260421223000 +0200" stop="20260421235700 +0200" channel="acontra+ CINE">
+    <title lang="es">Premonición (2006)</title>
+    <desc lang="es">Un policía despierta de un coma para descubrir que tiene alucinaciones que predicen el futuro. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81QXR1BXE7L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
