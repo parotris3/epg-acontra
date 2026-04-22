@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260422000400 +0200" stop="20260422020400 +0200" channel="acontra+ CINE">
-    <title lang="es">Modigliani (2005)</title>
-    <desc lang="es">La historia jamás contada de la ácida rivalidad entre Picasso y Modigliani. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81r817NqNIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260422020400 +0200" stop="20260422042100 +0200" channel="acontra+ CINE">
-    <title lang="es">Kabei. Nuestra madre (2008)</title>
-    <desc lang="es">Una mujer lucha por mantener a su familia unida cuando su marido es encarcelado por sus opiniones. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81e0U+3YW4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260422042100 +0200" stop="20260422065700 +0200" channel="acontra+ CINE">
+  <programme start="20260422045700 +0200" stop="20260422065700 +0200" channel="acontra+ CINE">
     <title lang="es">El último emperador (1987)</title>
     <desc lang="es">Pu Yi se convierte en emperador de China a los tres años. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91B6wwr2j1L._UR1920,1080_FMpng_.jpg"/>
@@ -22,5 +12,20 @@
     <title lang="es">Fortunata (2024)</title>
     <desc lang="es">Fortunata intenta abrir su propio salón de belleza para poder separarse de su marido alcohólico. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81delV5A5oL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260422083500 +0200" stop="20260422102000 +0200" channel="acontra+ CINE">
+    <title lang="es">Emperador (2012)</title>
+    <desc lang="es">El general MacArthur debe tomar la decisión de someter al emperador Hirohito o perdonarle la vida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81XRazD7rdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260422102000 +0200" stop="20260422121300 +0200" channel="acontra+ CINE">
+    <title lang="es">Good Morning Babilonia (1987)</title>
+    <desc lang="es">Dos hermanos italianos buscan éxito como diseñadores de escenario en Estados Unidos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81+9mNV048L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260422121300 +0200" stop="20260422140700 +0200" channel="acontra+ CINE">
+    <title lang="es">Kon-Tiki (2012)</title>
+    <desc lang="es">Thor prepara un asombroso viaje de 8.000 kilómetros. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91CeeREtJ0L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
