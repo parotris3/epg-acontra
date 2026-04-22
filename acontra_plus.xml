@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260422183900 +0200" stop="20260422203900 +0200" channel="acontra+ CINE">
-    <title lang="es">Miss América (1989)</title>
-    <desc lang="es">Una joven del Sur se apunta en el concurso anual de belleza para resaltar la imagen de su pueblo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81yLQTeQGiL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260422203900 +0200" stop="20260422221600 +0200" channel="acontra+ CINE">
-    <title lang="es">Tortura (1944)</title>
-    <desc lang="es">Calígula, un profesor sádico, está obsesionado con Bertha, la encargada de un estanco. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71eELV6GEPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260422221600 +0200" stop="20260423001100 +0200" channel="acontra+ CINE">
+  <programme start="20260422221100 +0200" stop="20260423001100 +0200" channel="acontra+ CINE">
     <title lang="es">Oldboy (2003)</title>
     <desc lang="es">Tras ser liberado, un hombre de negocios intenta averiguar la causa de su secuestro hace 15 años. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91piJMJIOkL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">Reykjavik-Rotterdam (2008)</title>
     <desc lang="es">Un excontrabandista de alcohol arruinado vuelve a sus negocios ilegales para probar suerte. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1jLACGmzyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260423052300 +0200" stop="20260423065600 +0200" channel="acontra+ CINE">
+    <title lang="es">Turbo Kid (2015)</title>
+    <desc lang="es">En un mundo apocalíptico, un joven y solitario huérfano vaga por el desierto con su bicicleta BMX. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Xa0BHGcgL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260423065600 +0200" stop="20260423082400 +0200" channel="acontra+ CINE">
+    <title lang="es">La bala del asesino (2012)</title>
+    <desc lang="es">Un agente del FBI persigue a una persona que asesina a los terroristas más buscados de Europa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81oDwv67swL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
