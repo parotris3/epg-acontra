@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260422082000 +0200" stop="20260422102000 +0200" channel="acontra+ CINE">
-    <title lang="es">Emperador (2012)</title>
-    <desc lang="es">El general MacArthur debe tomar la decisión de someter al emperador Hirohito o perdonarle la vida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81XRazD7rdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260422102000 +0200" stop="20260422121300 +0200" channel="acontra+ CINE">
-    <title lang="es">Good Morning Babilonia (1987)</title>
-    <desc lang="es">Dos hermanos italianos buscan éxito como diseñadores de escenario en Estados Unidos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81+9mNV048L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260422121300 +0200" stop="20260422140700 +0200" channel="acontra+ CINE">
-    <title lang="es">Kon-Tiki (2012)</title>
-    <desc lang="es">Thor prepara un asombroso viaje de 8.000 kilómetros. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91CeeREtJ0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260422140700 +0200" stop="20260422155600 +0200" channel="acontra+ CINE">
+  <programme start="20260422135600 +0200" stop="20260422155600 +0200" channel="acontra+ CINE">
     <title lang="es">La delicadeza (2011)</title>
     <desc lang="es">El amor vuelve a llamar a la puerta de Nathalie, tras perder a su amado, en un compañero de trabajo. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71YqDG7BGWL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Sweet Virginia (2017)</title>
     <desc lang="es">Un antiguo campeón de rodeo cae en una espiral de secretos y violencia. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1kZccXxddL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260422190000 +0200" stop="20260422203900 +0200" channel="acontra+ CINE">
+    <title lang="es">Miss América (1989)</title>
+    <desc lang="es">Una joven del Sur se apunta en el concurso anual de belleza para resaltar la imagen de su pueblo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81yLQTeQGiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260422203900 +0200" stop="20260422221600 +0200" channel="acontra+ CINE">
+    <title lang="es">Tortura (1944)</title>
+    <desc lang="es">Calígula, un profesor sádico, está obsesionado con Bertha, la encargada de un estanco. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71eELV6GEPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260422221600 +0200" stop="20260423001100 +0200" channel="acontra+ CINE">
+    <title lang="es">Oldboy (2003)</title>
+    <desc lang="es">Tras ser liberado, un hombre de negocios intenta averiguar la causa de su secuestro hace 15 años. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91piJMJIOkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
