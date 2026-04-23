@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260423094500 +0200" stop="20260423114500 +0200" channel="acontra+ CINE">
-    <title lang="es">13 minutos para matar a Hitler (2015)</title>
-    <desc lang="es">Georg Elser pudo haber cambiado el rumbo de la historia de haber contado con trece minutos más. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Nrgxbf4VL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260423114500 +0200" stop="20260423133400 +0200" channel="acontra+ CINE">
-    <title lang="es">Antes del anochecer (2013)</title>
-    <desc lang="es">Jesse y Céline se encuentran de nuevo en Grecia. Han pasado nueve años desde su último encuentro. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81L897QoI-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260423133400 +0200" stop="20260423150000 +0200" channel="acontra+ CINE">
-    <title lang="es">Bajo las estrellas de París (2021)</title>
-    <desc lang="es">Christine, una sintecho que viven en París, se encuentra a Suli, de 8 años, durante el invierno. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ZMUirTdsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260423150000 +0200" stop="20260423170300 +0200" channel="acontra+ CINE">
+  <programme start="20260423150300 +0200" stop="20260423170300 +0200" channel="acontra+ CINE">
     <title lang="es">Feliz Navidad, Mr. Lawrence (1983)</title>
     <desc lang="es">Un intenso duelo de voluntades se establece entre comandantes japoneses y prisioneros británicos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1Ece-qw1kL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Caiga quien caiga (1972)</title>
     <desc lang="es">Un joven jamaicano cantante de reggae se ve envuelto en una espiral de violencia y corrupción. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91VJifKBH9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260423184600 +0200" stop="20260423202500 +0200" channel="acontra+ CINE">
+    <title lang="es">Pasión por las letras (2016)</title>
+    <desc lang="es">Maxwell Perkins desarrolla una amistad con Thomas Wolfe. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Ludfflu0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260423202500 +0200" stop="20260423222600 +0200" channel="acontra+ CINE">
+    <title lang="es">El piano (1993)</title>
+    <desc lang="es">Ada se queda viuda y viaja con su hija a Nueva Zelanda para un matrimonio concertado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71hTexxx1xL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260423222600 +0200" stop="20260424001100 +0200" channel="acontra+ CINE">
+    <title lang="es">Encuentro en la noche (1952)</title>
+    <desc lang="es">Tras diez años de ausencia, Mae Doyle vuelve a su pueblo natal, una pequeña población pesquera. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81zo2eSNOcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
