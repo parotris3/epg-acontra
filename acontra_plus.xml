@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260423150300 +0200" stop="20260423170300 +0200" channel="acontra+ CINE">
-    <title lang="es">Feliz Navidad, Mr. Lawrence (1983)</title>
-    <desc lang="es">Un intenso duelo de voluntades se establece entre comandantes japoneses y prisioneros británicos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Ece-qw1kL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260423170300 +0200" stop="20260423184600 +0200" channel="acontra+ CINE">
-    <title lang="es">Caiga quien caiga (1972)</title>
-    <desc lang="es">Un joven jamaicano cantante de reggae se ve envuelto en una espiral de violencia y corrupción. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91VJifKBH9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260423184600 +0200" stop="20260423202500 +0200" channel="acontra+ CINE">
+  <programme start="20260423182500 +0200" stop="20260423202500 +0200" channel="acontra+ CINE">
     <title lang="es">Pasión por las letras (2016)</title>
     <desc lang="es">Maxwell Perkins desarrolla una amistad con Thomas Wolfe. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Ludfflu0L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Encuentro en la noche (1952)</title>
     <desc lang="es">Tras diez años de ausencia, Mae Doyle vuelve a su pueblo natal, una pequeña población pesquera. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81zo2eSNOcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260424001100 +0200" stop="20260424031200 +0200" channel="acontra+ CINE">
+    <title lang="es">Fanny y Alexander (1983)</title>
+    <desc lang="es">Bergman propone su visión del mundo a través del avatar de una familia sueca a inicios del siglo XX. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91BqWp1kMqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260424031200 +0200" stop="20260424042000 +0200" channel="acontra+ CINE">
+    <title lang="es">Las tres edades (1923)</title>
+    <desc lang="es">La búsqueda primigenia del amor por parte del hombre se desarrolla en tres épocas históricas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71XzLiYKZzL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
