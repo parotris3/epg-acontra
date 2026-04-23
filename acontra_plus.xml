@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260423182500 +0200" stop="20260423202500 +0200" channel="acontra+ CINE">
-    <title lang="es">Pasión por las letras (2016)</title>
-    <desc lang="es">Maxwell Perkins desarrolla una amistad con Thomas Wolfe. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Ludfflu0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260423202500 +0200" stop="20260423222600 +0200" channel="acontra+ CINE">
-    <title lang="es">El piano (1993)</title>
-    <desc lang="es">Ada se queda viuda y viaja con su hija a Nueva Zelanda para un matrimonio concertado. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71hTexxx1xL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260423222600 +0200" stop="20260424001100 +0200" channel="acontra+ CINE">
+  <programme start="20260423221100 +0200" stop="20260424001100 +0200" channel="acontra+ CINE">
     <title lang="es">Encuentro en la noche (1952)</title>
     <desc lang="es">Tras diez años de ausencia, Mae Doyle vuelve a su pueblo natal, una pequeña población pesquera. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81zo2eSNOcL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Las tres edades (1923)</title>
     <desc lang="es">La búsqueda primigenia del amor por parte del hombre se desarrolla en tres épocas históricas. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71XzLiYKZzL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260424042000 +0200" stop="20260424054600 +0200" channel="acontra+ CINE">
+    <title lang="es">La puerta del infierno (1954)</title>
+    <desc lang="es">En el Japón del siglo XII, al valiente samurái Morito se le ofrece un deseo como premio a su valor. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/815VQ4YeeIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260424054600 +0200" stop="20260424062900 +0200" channel="acontra+ CINE">
+    <title lang="es">El moderno Sherlock Holmes (1924)</title>
+    <desc lang="es">Keaton, un proyeccionista con aspiraciones a detective, se encuentra dentro de la película. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1oNAtkwNaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260424062900 +0200" stop="20260424093900 +0200" channel="acontra+ CINE">
+    <title lang="es">Los niños del paraíso (1945)</title>
+    <desc lang="es">París, 1820. Dos jóvenes artistas entablan amistad. Un día, una mujer irrumpe en sus vidas. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/61VGB8+dDOL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
