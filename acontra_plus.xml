@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260422221100 +0200" stop="20260423001100 +0200" channel="acontra+ CINE">
-    <title lang="es">Oldboy (2003)</title>
-    <desc lang="es">Tras ser liberado, un hombre de negocios intenta averiguar la causa de su secuestro hace 15 años. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91piJMJIOkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260423001100 +0200" stop="20260423021700 +0200" channel="acontra+ CINE">
-    <title lang="es">No se lo digas a nadie (2006)</title>
-    <desc lang="es">La mujer de Alex Beck fue asesinada hace ocho años, ahora él es sospechoso de dos asesinatos. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91LHfqAz5OL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260423021700 +0200" stop="20260423040000 +0200" channel="acontra+ CINE">
-    <title lang="es">Mi hermano es hijo único (2008)</title>
-    <desc lang="es">En plena revolución social en Italia, dos hermanos dejan de hablarse por ideales políticos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81kCetHAdTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260423040000 +0200" stop="20260423052300 +0200" channel="acontra+ CINE">
+  <programme start="20260423032300 +0200" stop="20260423052300 +0200" channel="acontra+ CINE">
     <title lang="es">Reykjavik-Rotterdam (2008)</title>
     <desc lang="es">Un excontrabandista de alcohol arruinado vuelve a sus negocios ilegales para probar suerte. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1jLACGmzyL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La bala del asesino (2012)</title>
     <desc lang="es">Un agente del FBI persigue a una persona que asesina a los terroristas más buscados de Europa. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81oDwv67swL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260423082400 +0200" stop="20260423095100 +0200" channel="acontra+ CINE">
+    <title lang="es">Ejecutivo ejecutor (1990)</title>
+    <desc lang="es">Un ejecutivo que perdió a un subalterno, planea asesinatos a fin de ascender en la compañía. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81AJsq90WGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260423095100 +0200" stop="20260423114500 +0200" channel="acontra+ CINE">
+    <title lang="es">13 minutos para matar a Hitler (2015)</title>
+    <desc lang="es">Georg Elser pudo haber cambiado el rumbo de la historia de haber contado con trece minutos más. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Nrgxbf4VL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260423114500 +0200" stop="20260423133400 +0200" channel="acontra+ CINE">
+    <title lang="es">Antes del anochecer (2013)</title>
+    <desc lang="es">Jesse y Céline se encuentran de nuevo en Grecia. Han pasado nueve años desde su último encuentro. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81L897QoI-L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
