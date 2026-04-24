@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260424034600 +0200" stop="20260424054600 +0200" channel="acontra+ CINE">
-    <title lang="es">La puerta del infierno (1954)</title>
-    <desc lang="es">En el Japón del siglo XII, al valiente samurái Morito se le ofrece un deseo como premio a su valor. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/815VQ4YeeIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260424054600 +0200" stop="20260424062900 +0200" channel="acontra+ CINE">
-    <title lang="es">El moderno Sherlock Holmes (1924)</title>
-    <desc lang="es">Keaton, un proyeccionista con aspiraciones a detective, se encuentra dentro de la película. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1oNAtkwNaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260424062900 +0200" stop="20260424093900 +0200" channel="acontra+ CINE">
-    <title lang="es">Los niños del paraíso (1945)</title>
-    <desc lang="es">París, 1820. Dos jóvenes artistas entablan amistad. Un día, una mujer irrumpe en sus vidas. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/61VGB8+dDOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260424093900 +0200" stop="20260424111500 +0200" channel="acontra+ CINE">
+  <programme start="20260424091500 +0200" stop="20260424111500 +0200" channel="acontra+ CINE">
     <title lang="es">Mientras Nueva York duerme</title>
     <desc lang="es">En los pasillos del Sentinel, los periodistas intrigan para hacerse con la dirección del diario. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71ZbDqARslL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Un soplo en el corazón (1971)</title>
     <desc lang="es">Cuando a Laurent, de 15 años, le diagnostican un soplo, su madre le acompaña a un balneario. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/919fu+CNL5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260424144500 +0200" stop="20260424160800 +0200" channel="acontra+ CINE">
+    <title lang="es">Supervivientes de Los Andes</title>
+    <desc lang="es">Un avión con 45 pasajeros se estrella en Los Andes. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/811U24Djs8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260424160800 +0200" stop="20260424183400 +0200" channel="acontra+ CINE">
+    <title lang="es">Una familia de Tokio (2013)</title>
+    <desc lang="es">Una pareja de ancianos que vive en una pequeña isla viaja a Tokio para visitar a sus tres hijos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81koP10hlfL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
