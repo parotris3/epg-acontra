@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260423221100 +0200" stop="20260424001100 +0200" channel="acontra+ CINE">
-    <title lang="es">Encuentro en la noche (1952)</title>
-    <desc lang="es">Tras diez años de ausencia, Mae Doyle vuelve a su pueblo natal, una pequeña población pesquera. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81zo2eSNOcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260424001100 +0200" stop="20260424031200 +0200" channel="acontra+ CINE">
-    <title lang="es">Fanny y Alexander (1983)</title>
-    <desc lang="es">Bergman propone su visión del mundo a través del avatar de una familia sueca a inicios del siglo XX. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91BqWp1kMqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260424031200 +0200" stop="20260424042000 +0200" channel="acontra+ CINE">
-    <title lang="es">Las tres edades (1923)</title>
-    <desc lang="es">La búsqueda primigenia del amor por parte del hombre se desarrolla en tres épocas históricas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71XzLiYKZzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260424042000 +0200" stop="20260424054600 +0200" channel="acontra+ CINE">
+  <programme start="20260424034600 +0200" stop="20260424054600 +0200" channel="acontra+ CINE">
     <title lang="es">La puerta del infierno (1954)</title>
     <desc lang="es">En el Japón del siglo XII, al valiente samurái Morito se le ofrece un deseo como premio a su valor. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/815VQ4YeeIL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Los niños del paraíso (1945)</title>
     <desc lang="es">París, 1820. Dos jóvenes artistas entablan amistad. Un día, una mujer irrumpe en sus vidas. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/61VGB8+dDOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260424093900 +0200" stop="20260424111500 +0200" channel="acontra+ CINE">
+    <title lang="es">Mientras Nueva York duerme</title>
+    <desc lang="es">En los pasillos del Sentinel, los periodistas intrigan para hacerse con la dirección del diario. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ZbDqARslL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260424111500 +0200" stop="20260424124700 +0200" channel="acontra+ CINE">
+    <title lang="es">Sanjuro (1962)</title>
+    <desc lang="es">Sanjuro es un samurái errante y hastiado que ayuda a un grupo idealista de jóvenes guerreros. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/913EZq+FQoL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260424124700 +0200" stop="20260424144500 +0200" channel="acontra+ CINE">
+    <title lang="es">Un soplo en el corazón (1971)</title>
+    <desc lang="es">Cuando a Laurent, de 15 años, le diagnostican un soplo, su madre le acompaña a un balneario. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/919fu+CNL5L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
