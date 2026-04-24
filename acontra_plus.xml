@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260424091500 +0200" stop="20260424111500 +0200" channel="acontra+ CINE">
-    <title lang="es">Mientras Nueva York duerme</title>
-    <desc lang="es">En los pasillos del Sentinel, los periodistas intrigan para hacerse con la dirección del diario. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ZbDqARslL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260424111500 +0200" stop="20260424124700 +0200" channel="acontra+ CINE">
-    <title lang="es">Sanjuro (1962)</title>
-    <desc lang="es">Sanjuro es un samurái errante y hastiado que ayuda a un grupo idealista de jóvenes guerreros. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/913EZq+FQoL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260424124700 +0200" stop="20260424144500 +0200" channel="acontra+ CINE">
-    <title lang="es">Un soplo en el corazón (1971)</title>
-    <desc lang="es">Cuando a Laurent, de 15 años, le diagnostican un soplo, su madre le acompaña a un balneario. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/919fu+CNL5L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260424144500 +0200" stop="20260424160800 +0200" channel="acontra+ CINE">
+  <programme start="20260424140800 +0200" stop="20260424160800 +0200" channel="acontra+ CINE">
     <title lang="es">Supervivientes de Los Andes</title>
     <desc lang="es">Un avión con 45 pasajeros se estrella en Los Andes. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/811U24Djs8L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Una familia de Tokio (2013)</title>
     <desc lang="es">Una pareja de ancianos que vive en una pequeña isla viaja a Tokio para visitar a sus tres hijos. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81koP10hlfL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260424183400 +0200" stop="20260424200500 +0200" channel="acontra+ CINE">
+    <title lang="es">Rabia (1977)</title>
+    <desc lang="es">Una joven desarrolla un gusto especial por la sangre humana tras someterse a una operación. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71vjXi0bcBL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260424200500 +0200" stop="20260424215900 +0200" channel="acontra+ CINE">
+    <title lang="es">El señor de las bestias (1983)</title>
+    <desc lang="es">Dar, el príncipe guerrero, necesita salvar al amor de su vida, Kiri, ahora prisionera de un rey. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91WflJhW96L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260424215900 +0200" stop="20260424233400 +0200" channel="acontra+ CINE">
+    <title lang="es">La caravana del mal (2018)</title>
+    <desc lang="es">Charles compra una vieja caravana para llevar a su familia de viaje y reconciliarse con sus hijos. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91bFAFnMswL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
