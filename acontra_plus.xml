@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260424180500 +0200" stop="20260424200500 +0200" channel="acontra+ CINE">
-    <title lang="es">Rabia (1977)</title>
-    <desc lang="es">Una joven desarrolla un gusto especial por la sangre humana tras someterse a una operación. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71vjXi0bcBL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260424200500 +0200" stop="20260424215900 +0200" channel="acontra+ CINE">
-    <title lang="es">El señor de las bestias (1983)</title>
-    <desc lang="es">Dar, el príncipe guerrero, necesita salvar al amor de su vida, Kiri, ahora prisionera de un rey. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WflJhW96L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260424215900 +0200" stop="20260424233400 +0200" channel="acontra+ CINE">
-    <title lang="es">La caravana del mal (2018)</title>
-    <desc lang="es">Charles compra una vieja caravana para llevar a su familia de viaje y reconciliarse con sus hijos. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91bFAFnMswL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260424233400 +0200" stop="20260425013700 +0200" channel="acontra+ CINE">
+  <programme start="20260424233700 +0200" stop="20260425013700 +0200" channel="acontra+ CINE">
     <title lang="es">American Night (2021)</title>
     <desc lang="es">Un cuadro de Andy Warhol desaparecido reaparece y desencadena una peligrosa reacción en cadena. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1RSx3WyEaL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Paraíso (2013)</title>
     <desc lang="es">Annika Bengtzon trata de reconstruir su vida tras la violenta muerte de su prometido. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81UESgMWduL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260425053200 +0200" stop="20260425061500 +0200" channel="acontra+ CINE">
+    <title lang="es">El moderno Sherlock Holmes (1924)</title>
+    <desc lang="es">Keaton, un proyeccionista con aspiraciones a detective, se encuentra dentro de la película. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1oNAtkwNaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260425061500 +0200" stop="20260425082100 +0200" channel="acontra+ CINE">
+    <title lang="es">Nostalgia (1983)</title>
+    <desc lang="es">Un escritor ruso viaja a Italia para investigar la vida de un compositor ruso que estudió allí. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/912DRKglhmL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
