@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260425080600 +0200" stop="20260425100600 +0200" channel="acontra+ CINE">
-    <title lang="es">Los días impuros del extranjero (1976)</title>
-    <desc lang="es">En un pueblo costero, la viuda Anne Osborne conoce al segundo oficial Jim Cameron. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/912HkrAwIwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260425100600 +0200" stop="20260425113500 +0200" channel="acontra+ CINE">
-    <title lang="es">La hermandad de la justicia (1986)</title>
-    <desc lang="es">Un grupo de adolescentes tratan de vigilar y eliminar droga, violencia, y vandalismo de su colegio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81MS5ierj5L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260425113500 +0200" stop="20260425131800 +0200" channel="acontra+ CINE">
-    <title lang="es">Guerreros de antaño (1994)</title>
-    <desc lang="es">Una familia maorí comienza a desmoronarse bajo la presión de la violencia doméstica. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91awMRZ1fkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260425131800 +0200" stop="20260425153200 +0200" channel="acontra+ CINE">
+  <programme start="20260425133200 +0200" stop="20260425153200 +0200" channel="acontra+ CINE">
     <title lang="es">Francesco (1989)</title>
     <desc lang="es">Tras la muerte de San Francisco de Asís, sus amigos más cercanos hablan de la vida del santo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81oU1qjZcsL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Disparando a perros (2005)</title>
     <desc lang="es">Un profesor ofrece protección a miles de ruandeses que escapan del genocidio en la Ruanda de 1994. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71bv7tLr2dL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260425191300 +0200" stop="20260425210400 +0200" channel="acontra+ CINE">
+    <title lang="es">Cuento de Otoño (1998)</title>
+    <desc lang="es">Los amigos de una viuda, propietaria de una bodega, la ayudan a encontrar el amor. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91YD1xA+foL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260425210400 +0200" stop="20260425222500 +0200" channel="acontra+ CINE">
+    <title lang="es">Citadel (2012)</title>
+    <desc lang="es">Tommy es testigo de la agresión de unos niños encapuchados contra su mujer embarazada. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91MziHviNQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260425222500 +0200" stop="20260425235100 +0200" channel="acontra+ CINE">
+    <title lang="es">Los signos del Apocalipsis (2014)</title>
+    <desc lang="es">Un científico poco convencional trata de descifrar símbolos para evitar la destrucción del planeta. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1ESCsb+JKL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
