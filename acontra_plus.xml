@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260425033200 +0200" stop="20260425053200 +0200" channel="acontra+ CINE">
-    <title lang="es">Paraíso (2013)</title>
-    <desc lang="es">Annika Bengtzon trata de reconstruir su vida tras la violenta muerte de su prometido. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81UESgMWduL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260425053200 +0200" stop="20260425061500 +0200" channel="acontra+ CINE">
-    <title lang="es">El moderno Sherlock Holmes (1924)</title>
-    <desc lang="es">Keaton, un proyeccionista con aspiraciones a detective, se encuentra dentro de la película. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1oNAtkwNaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260425061500 +0200" stop="20260425082100 +0200" channel="acontra+ CINE">
-    <title lang="es">Nostalgia (1983)</title>
-    <desc lang="es">Un escritor ruso viaja a Italia para investigar la vida de un compositor ruso que estudió allí. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/912DRKglhmL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260425082100 +0200" stop="20260425100600 +0200" channel="acontra+ CINE">
+  <programme start="20260425080600 +0200" stop="20260425100600 +0200" channel="acontra+ CINE">
     <title lang="es">Los días impuros del extranjero (1976)</title>
     <desc lang="es">En un pueblo costero, la viuda Anne Osborne conoce al segundo oficial Jim Cameron. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/912HkrAwIwL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Guerreros de antaño (1994)</title>
     <desc lang="es">Una familia maorí comienza a desmoronarse bajo la presión de la violencia doméstica. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91awMRZ1fkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260425131800 +0200" stop="20260425153200 +0200" channel="acontra+ CINE">
+    <title lang="es">Francesco (1989)</title>
+    <desc lang="es">Tras la muerte de San Francisco de Asís, sus amigos más cercanos hablan de la vida del santo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81oU1qjZcsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260425153200 +0200" stop="20260425171700 +0200" channel="acontra+ CINE">
+    <title lang="es">El libro de la selva (1942)</title>
+    <desc lang="es">Mowgli, un chico criado entre lobos, trata de defender a sus amigos animales de los cazadores. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71XOJlwzopL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260425171700 +0200" stop="20260425191300 +0200" channel="acontra+ CINE">
+    <title lang="es">Disparando a perros (2005)</title>
+    <desc lang="es">Un profesor ofrece protección a miles de ruandeses que escapan del genocidio en la Ruanda de 1994. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71bv7tLr2dL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
