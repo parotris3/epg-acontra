@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260425190400 +0200" stop="20260425210400 +0200" channel="acontra+ CINE">
-    <title lang="es">Cuento de Otoño (1998)</title>
-    <desc lang="es">Los amigos de una viuda, propietaria de una bodega, la ayudan a encontrar el amor. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91YD1xA+foL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260425210400 +0200" stop="20260425222500 +0200" channel="acontra+ CINE">
-    <title lang="es">Citadel (2012)</title>
-    <desc lang="es">Tommy es testigo de la agresión de unos niños encapuchados contra su mujer embarazada. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91MziHviNQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260425222500 +0200" stop="20260425235100 +0200" channel="acontra+ CINE">
-    <title lang="es">Los signos del Apocalipsis (2014)</title>
-    <desc lang="es">Un científico poco convencional trata de descifrar símbolos para evitar la destrucción del planeta. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1ESCsb+JKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260425235100 +0200" stop="20260426015500 +0200" channel="acontra+ CINE">
+  <programme start="20260425235500 +0200" stop="20260426015500 +0200" channel="acontra+ CINE">
     <title lang="es">Pandora y el holandés errante (1951)</title>
     <desc lang="es">Un capitán holandés agobiado por maldiciones eternas encuentra su salvación en una mujer americana. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A121cQI7dQL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Muerte de un viajante (1985)</title>
     <desc lang="es">Willy Loman un vendedor toma conciencia de l vacío de su vida e intenta ponerle remetido. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81zTdAWcJuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260426040900 +0200" stop="20260426060300 +0200" channel="acontra+ CINE">
+    <title lang="es">Más allá del deber (2001)</title>
+    <desc lang="es">Un regimiento escocés, durante la Segunda Guerra, debió construir la vía ferroviaria de la muerte. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81P1jHaw-RL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260426060300 +0200" stop="20260426063600 +0200" channel="acontra+ CINE">
+    <title lang="es">Noche y niebla (2016)</title>
+    <desc lang="es">Documental sobre el Holocausto, los campos de exterminio y cómo se llevaron a cabo los arrestos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81UTUiYXKPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260426063600 +0200" stop="20260426081100 +0200" channel="acontra+ CINE">
+    <title lang="es">The Last Five Years (2014)</title>
+    <desc lang="es">Basada en la obra musical de Jason Robert Brown. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81dfDfoXLCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
