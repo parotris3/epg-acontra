@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260424233700 +0200" stop="20260425013700 +0200" channel="acontra+ CINE">
-    <title lang="es">American Night (2021)</title>
-    <desc lang="es">Un cuadro de Andy Warhol desaparecido reaparece y desencadena una peligrosa reacción en cadena. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1RSx3WyEaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260425013700 +0200" stop="20260425034100 +0200" channel="acontra+ CINE">
-    <title lang="es">S.A.S. Los invencibles (2002)</title>
-    <desc lang="es">Un grupo antinuclear toma la embajada de EE.UU. en Londres y amenaza con matar a los rehenes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71r6c13l-UL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260425034100 +0200" stop="20260425053200 +0200" channel="acontra+ CINE">
+  <programme start="20260425033200 +0200" stop="20260425053200 +0200" channel="acontra+ CINE">
     <title lang="es">Paraíso (2013)</title>
     <desc lang="es">Annika Bengtzon trata de reconstruir su vida tras la violenta muerte de su prometido. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81UESgMWduL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Nostalgia (1983)</title>
     <desc lang="es">Un escritor ruso viaja a Italia para investigar la vida de un compositor ruso que estudió allí. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/912DRKglhmL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260425082100 +0200" stop="20260425100600 +0200" channel="acontra+ CINE">
+    <title lang="es">Los días impuros del extranjero (1976)</title>
+    <desc lang="es">En un pueblo costero, la viuda Anne Osborne conoce al segundo oficial Jim Cameron. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/912HkrAwIwL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260425100600 +0200" stop="20260425113500 +0200" channel="acontra+ CINE">
+    <title lang="es">La hermandad de la justicia (1986)</title>
+    <desc lang="es">Un grupo de adolescentes tratan de vigilar y eliminar droga, violencia, y vandalismo de su colegio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81MS5ierj5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260425113500 +0200" stop="20260425131800 +0200" channel="acontra+ CINE">
+    <title lang="es">Guerreros de antaño (1994)</title>
+    <desc lang="es">Una familia maorí comienza a desmoronarse bajo la presión de la violencia doméstica. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91awMRZ1fkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
