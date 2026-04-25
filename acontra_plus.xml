@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260425133200 +0200" stop="20260425153200 +0200" channel="acontra+ CINE">
-    <title lang="es">Francesco (1989)</title>
-    <desc lang="es">Tras la muerte de San Francisco de Asís, sus amigos más cercanos hablan de la vida del santo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81oU1qjZcsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260425153200 +0200" stop="20260425171700 +0200" channel="acontra+ CINE">
-    <title lang="es">El libro de la selva (1942)</title>
-    <desc lang="es">Mowgli, un chico criado entre lobos, trata de defender a sus amigos animales de los cazadores. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71XOJlwzopL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260425171700 +0200" stop="20260425191300 +0200" channel="acontra+ CINE">
-    <title lang="es">Disparando a perros (2005)</title>
-    <desc lang="es">Un profesor ofrece protección a miles de ruandeses que escapan del genocidio en la Ruanda de 1994. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71bv7tLr2dL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260425191300 +0200" stop="20260425210400 +0200" channel="acontra+ CINE">
+  <programme start="20260425190400 +0200" stop="20260425210400 +0200" channel="acontra+ CINE">
     <title lang="es">Cuento de Otoño (1998)</title>
     <desc lang="es">Los amigos de una viuda, propietaria de una bodega, la ayudan a encontrar el amor. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91YD1xA+foL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Los signos del Apocalipsis (2014)</title>
     <desc lang="es">Un científico poco convencional trata de descifrar símbolos para evitar la destrucción del planeta. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1ESCsb+JKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260425235100 +0200" stop="20260426015500 +0200" channel="acontra+ CINE">
+    <title lang="es">Pandora y el holandés errante (1951)</title>
+    <desc lang="es">Un capitán holandés agobiado por maldiciones eternas encuentra su salvación en una mujer americana. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A121cQI7dQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260426015500 +0200" stop="20260426040900 +0200" channel="acontra+ CINE">
+    <title lang="es">Muerte de un viajante (1985)</title>
+    <desc lang="es">Willy Loman un vendedor toma conciencia de l vacío de su vida e intenta ponerle remetido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81zTdAWcJuL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
