@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260426092600 +0200" stop="20260426112600 +0200" channel="acontra+ CINE">
-    <title lang="es">La duda de Darwin (2009)</title>
-    <desc lang="es">Darwin se encontrará con una sociedad reacia al cambio cuando publique su teoría de la evolución. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91lZCeCPcAL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260426112600 +0200" stop="20260426131600 +0200" channel="acontra+ CINE">
-    <title lang="es">El valle oscuro (2015)</title>
-    <desc lang="es">Poco antes de que comience el duro invierno, un forastero llega a caballo hasta un aislado pueblo. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/912lwrLUgoL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260426131600 +0200" stop="20260426151200 +0200" channel="acontra+ CINE">
+  <programme start="20260426131200 +0200" stop="20260426151200 +0200" channel="acontra+ CINE">
     <title lang="es">El manantial (2001)</title>
     <desc lang="es">La rivalidad entre dos familias encuentra su cauce. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81YmyIr+LdL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Bellísima (1981)</title>
     <desc lang="es">Madalena Cecconi hace todo lo posible para que su hija María se convierta en una estrella de cine. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81-sgxXyzTL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260426185700 +0200" stop="20260426220000 +0200" channel="acontra+ CINE">
+    <title lang="es">Andrei Rublev (1972)</title>
+    <desc lang="es">Un monje sale de su reclusión y se percata de los crímenes que tienen aterrorizado al pueblo ruso. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81bwxmvdanL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260426220000 +0200" stop="20260426232800 +0200" channel="acontra+ CINE">
+    <title lang="es">Tormenta del pasado (2008)</title>
+    <desc lang="es">Una experta de condiciones climática extremas e intentará salvar a una ciudad de un tornado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Aaf3zxGxL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
