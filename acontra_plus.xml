@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260426040300 +0200" stop="20260426060300 +0200" channel="acontra+ CINE">
-    <title lang="es">Más allá del deber (2001)</title>
-    <desc lang="es">Un regimiento escocés, durante la Segunda Guerra, debió construir la vía ferroviaria de la muerte. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81P1jHaw-RL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260426060300 +0200" stop="20260426063600 +0200" channel="acontra+ CINE">
-    <title lang="es">Noche y niebla (2016)</title>
-    <desc lang="es">Documental sobre el Holocausto, los campos de exterminio y cómo se llevaron a cabo los arrestos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81UTUiYXKPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260426063600 +0200" stop="20260426081100 +0200" channel="acontra+ CINE">
-    <title lang="es">The Last Five Years (2014)</title>
-    <desc lang="es">Basada en la obra musical de Jason Robert Brown. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81dfDfoXLCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260426081100 +0200" stop="20260426093800 +0200" channel="acontra+ CINE">
-    <title lang="es">Las colinas tienen ojos 2 (1985)</title>
-    <desc lang="es">Un grupo de motoristas se topa con el Pluto y su familia caníbal en el desierto. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/61VX79Z8GyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260426093800 +0200" stop="20260426112600 +0200" channel="acontra+ CINE">
+  <programme start="20260426092600 +0200" stop="20260426112600 +0200" channel="acontra+ CINE">
     <title lang="es">La duda de Darwin (2009)</title>
     <desc lang="es">Darwin se encontrará con una sociedad reacia al cambio cuando publique su teoría de la evolución. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91lZCeCPcAL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +12,20 @@
     <title lang="es">El valle oscuro (2015)</title>
     <desc lang="es">Poco antes de que comience el duro invierno, un forastero llega a caballo hasta un aislado pueblo. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/912lwrLUgoL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260426131600 +0200" stop="20260426151200 +0200" channel="acontra+ CINE">
+    <title lang="es">El manantial (2001)</title>
+    <desc lang="es">La rivalidad entre dos familias encuentra su cauce. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81YmyIr+LdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260426151200 +0200" stop="20260426170700 +0200" channel="acontra+ CINE">
+    <title lang="es">Cuento de Verano (1996)</title>
+    <desc lang="es">Mientras aguarda a su novia, Gaspard se siente atraído por otras dos mujeres en sus vacaciones. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/719p7wpkgOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260426170700 +0200" stop="20260426185700 +0200" channel="acontra+ CINE">
+    <title lang="es">Bellísima (1981)</title>
+    <desc lang="es">Madalena Cecconi hace todo lo posible para que su hija María se convierta en una estrella de cine. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-sgxXyzTL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
