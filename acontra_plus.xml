@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260426131200 +0200" stop="20260426151200 +0200" channel="acontra+ CINE">
-    <title lang="es">El manantial (2001)</title>
-    <desc lang="es">La rivalidad entre dos familias encuentra su cauce. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81YmyIr+LdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260426151200 +0200" stop="20260426170700 +0200" channel="acontra+ CINE">
-    <title lang="es">Cuento de Verano (1996)</title>
-    <desc lang="es">Mientras aguarda a su novia, Gaspard se siente atraído por otras dos mujeres en sus vacaciones. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/719p7wpkgOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260426170700 +0200" stop="20260426185700 +0200" channel="acontra+ CINE">
-    <title lang="es">Bellísima (1981)</title>
-    <desc lang="es">Madalena Cecconi hace todo lo posible para que su hija María se convierta en una estrella de cine. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-sgxXyzTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260426185700 +0200" stop="20260426220000 +0200" channel="acontra+ CINE">
+  <programme start="20260426200000 +0200" stop="20260426220000 +0200" channel="acontra+ CINE">
     <title lang="es">Andrei Rublev (1972)</title>
     <desc lang="es">Un monje sale de su reclusión y se percata de los crímenes que tienen aterrorizado al pueblo ruso. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81bwxmvdanL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Tormenta del pasado (2008)</title>
     <desc lang="es">Una experta de condiciones climática extremas e intentará salvar a una ciudad de un tornado. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Aaf3zxGxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260426232800 +0200" stop="20260427014600 +0200" channel="acontra+ CINE">
+    <title lang="es">Historia del último crisantemo (1939)</title>
+    <desc lang="es">El hijo adoptivo de un prestigioso actor del teatro kabuki carece de las virtudes del padre. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91+fqQC0YWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260427014600 +0200" stop="20260427035500 +0200" channel="acontra+ CINE">
+    <title lang="es">Diarios de motocicleta (2004)</title>
+    <desc lang="es">En 1952, Ernesto "Che" Guevara y su amigo Alberto Granado realizan un viaje a través de Sudamérica. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71aFMJNSttL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260427035500 +0200" stop="20260427053700 +0200" channel="acontra+ CINE">
+    <title lang="es">Cromwell, el rey de los bárbaros (1982)</title>
+    <desc lang="es">Unos inadaptados intentan derrotar a un tirano malvado que controla reino medieval mediante magia. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91ZCvuPXU8L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
