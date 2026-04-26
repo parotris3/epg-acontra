@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260426200000 +0200" stop="20260426220000 +0200" channel="acontra+ CINE">
-    <title lang="es">Andrei Rublev (1972)</title>
-    <desc lang="es">Un monje sale de su reclusión y se percata de los crímenes que tienen aterrorizado al pueblo ruso. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81bwxmvdanL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260426220000 +0200" stop="20260426232800 +0200" channel="acontra+ CINE">
-    <title lang="es">Tormenta del pasado (2008)</title>
-    <desc lang="es">Una experta de condiciones climática extremas e intentará salvar a una ciudad de un tornado. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Aaf3zxGxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260426232800 +0200" stop="20260427014600 +0200" channel="acontra+ CINE">
+  <programme start="20260426234600 +0200" stop="20260427014600 +0200" channel="acontra+ CINE">
     <title lang="es">Historia del último crisantemo (1939)</title>
     <desc lang="es">El hijo adoptivo de un prestigioso actor del teatro kabuki carece de las virtudes del padre. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91+fqQC0YWL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Cromwell, el rey de los bárbaros (1982)</title>
     <desc lang="es">Unos inadaptados intentan derrotar a un tirano malvado que controla reino medieval mediante magia. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91ZCvuPXU8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260427053700 +0200" stop="20260427074700 +0200" channel="acontra+ CINE">
+    <title lang="es">Bullhead (2011)</title>
+    <desc lang="es">Jacky Vanmarsenille es abordado por un veterinario sin escrúpulos para hacer negocios sucios. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/712XNuWfUCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260427074700 +0200" stop="20260427092000 +0200" channel="acontra+ CINE">
+    <title lang="es">Ático sin ascensor (2014)</title>
+    <desc lang="es">Una pareja mayor intenta vender su apartamento de Brooklyn donde han vivido más de cuarenta años. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81M6kDL8+yL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
