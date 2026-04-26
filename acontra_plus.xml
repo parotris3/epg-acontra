@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260425235500 +0200" stop="20260426015500 +0200" channel="acontra+ CINE">
-    <title lang="es">Pandora y el holandés errante (1951)</title>
-    <desc lang="es">Un capitán holandés agobiado por maldiciones eternas encuentra su salvación en una mujer americana. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A121cQI7dQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260426015500 +0200" stop="20260426040900 +0200" channel="acontra+ CINE">
-    <title lang="es">Muerte de un viajante (1985)</title>
-    <desc lang="es">Willy Loman un vendedor toma conciencia de l vacío de su vida e intenta ponerle remetido. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81zTdAWcJuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260426040900 +0200" stop="20260426060300 +0200" channel="acontra+ CINE">
+  <programme start="20260426040300 +0200" stop="20260426060300 +0200" channel="acontra+ CINE">
     <title lang="es">Más allá del deber (2001)</title>
     <desc lang="es">Un regimiento escocés, durante la Segunda Guerra, debió construir la vía ferroviaria de la muerte. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81P1jHaw-RL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">The Last Five Years (2014)</title>
     <desc lang="es">Basada en la obra musical de Jason Robert Brown. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81dfDfoXLCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260426081100 +0200" stop="20260426093800 +0200" channel="acontra+ CINE">
+    <title lang="es">Las colinas tienen ojos 2 (1985)</title>
+    <desc lang="es">Un grupo de motoristas se topa con el Pluto y su familia caníbal en el desierto. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/61VX79Z8GyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260426093800 +0200" stop="20260426112600 +0200" channel="acontra+ CINE">
+    <title lang="es">La duda de Darwin (2009)</title>
+    <desc lang="es">Darwin se encontrará con una sociedad reacia al cambio cuando publique su teoría de la evolución. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91lZCeCPcAL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260426112600 +0200" stop="20260426131600 +0200" channel="acontra+ CINE">
+    <title lang="es">El valle oscuro (2015)</title>
+    <desc lang="es">Poco antes de que comience el duro invierno, un forastero llega a caballo hasta un aislado pueblo. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/912lwrLUgoL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
