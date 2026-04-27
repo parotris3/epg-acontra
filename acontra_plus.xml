@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260427182900 +0200" stop="20260427202900 +0200" channel="acontra+ CINE">
-    <title lang="es">Life Partners (2014)</title>
-    <desc lang="es">La relación entre dos amigas cambia dramáticamente. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81KbqWM--DL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260427202900 +0200" stop="20260427215800 +0200" channel="acontra+ CINE">
-    <title lang="es">La ronda (1950)</title>
-    <desc lang="es">Viena, 1900. El amor está en el aire, y las parejas van y vienen. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71BHBFA4BqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260427215800 +0200" stop="20260427233800 +0200" channel="acontra+ CINE">
-    <title lang="es">Invitado de honor (2019)</title>
-    <desc lang="es">Verónica quiere permanecer en la cárcel por una agresión sexual que no ha cometido. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Qt36N5w0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260427233800 +0200" stop="20260428013500 +0200" channel="acontra+ CINE">
+  <programme start="20260427233500 +0200" stop="20260428013500 +0200" channel="acontra+ CINE">
     <title lang="es">Salvar o morir (2020)</title>
     <desc lang="es">Un bombero parisino sacrifica su propia seguridad para salvar a sus compañeros durante un incendio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81aMCbkTScL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Barrabás (2025)</title>
     <desc lang="es">Una visión de la muerte y resurrección de Cristo, a través de los ojos de Barrabás. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71AkjH+oCXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260428054400 +0200" stop="20260428072700 +0200" channel="acontra+ CINE">
+    <title lang="es">Week-end (2005)</title>
+    <desc lang="es">El matrimonio Durand se queda atrapado en un atasco y por ello viven experiencias desconcertantes. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71sTqayjxdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260428072700 +0200" stop="20260428091100 +0200" channel="acontra+ CINE">
+    <title lang="es">Una cosa por otra (2021)</title>
+    <desc lang="es">Un fugitivo conoce a una mujer que amenaza con denunciarlo a la policía a menos que mate a su madre. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71GhOMiHeML._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
