@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260427090300 +0200" stop="20260427110300 +0200" channel="acontra+ CINE">
-    <title lang="es">American Playboy (2005)</title>
-    <desc lang="es">Un joven adoptado descubre que sus verdaderos padres son dueños de un imperio de revistas porno. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81P1eiY8T3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260427110300 +0200" stop="20260427123800 +0200" channel="acontra+ CINE">
-    <title lang="es">Ciudad del crimen</title>
-    <desc lang="es">Un exboxeador que regenta un club descubre que dos de sus bailarinas han sido asesinadas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1OtJlIvFrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260427123800 +0200" stop="20260427140500 +0200" channel="acontra+ CINE">
-    <title lang="es">Elvira Madigan (1967)</title>
-    <desc lang="es">Una joven equilibrista y un oficial casado se enamoran perdidamente y deciden abandonarlo todo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/712uVLv2tWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260427140500 +0200" stop="20260427155700 +0200" channel="acontra+ CINE">
+  <programme start="20260427135700 +0200" stop="20260427155700 +0200" channel="acontra+ CINE">
     <title lang="es">The Command (2018)</title>
     <desc lang="es">Mikhail es un humilde marinero que sobrevive junto a su familia. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81kN157Xu1L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Pauline en la playa (1983)</title>
     <desc lang="es">Pauline es una adolescente que pasa un verano con su prima Marion en busca de romance. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91HGjNRrcDL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260427185600 +0200" stop="20260427202900 +0200" channel="acontra+ CINE">
+    <title lang="es">Life Partners (2014)</title>
+    <desc lang="es">La relación entre dos amigas cambia dramáticamente. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81KbqWM--DL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260427202900 +0200" stop="20260427215800 +0200" channel="acontra+ CINE">
+    <title lang="es">La ronda (1950)</title>
+    <desc lang="es">Viena, 1900. El amor está en el aire, y las parejas van y vienen. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71BHBFA4BqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260427215800 +0200" stop="20260427233800 +0200" channel="acontra+ CINE">
+    <title lang="es">Invitado de honor (2019)</title>
+    <desc lang="es">Verónica quiere permanecer en la cárcel por una agresión sexual que no ha cometido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1Qt36N5w0L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
