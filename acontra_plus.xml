@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260427233500 +0200" stop="20260428013500 +0200" channel="acontra+ CINE">
-    <title lang="es">Salvar o morir (2020)</title>
-    <desc lang="es">Un bombero parisino sacrifica su propia seguridad para salvar a sus compañeros durante un incendio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81aMCbkTScL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260428013500 +0200" stop="20260428034900 +0200" channel="acontra+ CINE">
-    <title lang="es">Cuentos de Tokio (1953)</title>
-    <desc lang="es">Una pareja de ancianos pasa la noche en casa de su nuera, la cual muestra más interés que sus hijos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81sgTI5N65L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260428034900 +0200" stop="20260428054400 +0200" channel="acontra+ CINE">
+  <programme start="20260428034400 +0200" stop="20260428054400 +0200" channel="acontra+ CINE">
     <title lang="es">Barrabás (2025)</title>
     <desc lang="es">Una visión de la muerte y resurrección de Cristo, a través de los ojos de Barrabás. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71AkjH+oCXL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Una cosa por otra (2021)</title>
     <desc lang="es">Un fugitivo conoce a una mujer que amenaza con denunciarlo a la policía a menos que mate a su madre. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71GhOMiHeML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260428091100 +0200" stop="20260428104500 +0200" channel="acontra+ CINE">
+    <title lang="es">Tsotsi (2005)</title>
+    <desc lang="es">Un ladrón sudafricano cuida al bebé de una mujer a la que disparó cuando esta viajaba en coche. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/C1skyL60iYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260428104500 +0200" stop="20260428123100 +0200" channel="acontra+ CINE">
+    <title lang="es">Pie de página (2011)</title>
+    <desc lang="es">Comedia irónica sobre la competitividad, la lealtad, el amor y las relaciones entre padre e hijo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81BbzEwRiVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260428123100 +0200" stop="20260428135900 +0200" channel="acontra+ CINE">
+    <title lang="es">Gritos y susurros (1972)</title>
+    <desc lang="es">Tres hermanas se reúnen para pasar juntas los últimos días de vida de una de ellas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71l-O1xlqZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
