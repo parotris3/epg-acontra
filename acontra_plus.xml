@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260428135100 +0200" stop="20260428155100 +0200" channel="acontra+ CINE">
-    <title lang="es">Nueve vidas (2005)</title>
-    <desc lang="es">Nueve mujeres diferentes entre sí explican de manera cautivadora sus experiencias individuales. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91XIBSY-3pL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260428155100 +0200" stop="20260428172800 +0200" channel="acontra+ CINE">
-    <title lang="es">Mi vida como un perro (1987)</title>
-    <desc lang="es">Agridulce viaje de la infancia a la adolescencia que tiene que recorrer un niño sueco de 12 años. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91EciWOY9KL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260428172800 +0200" stop="20260428184800 +0200" channel="acontra+ CINE">
-    <title lang="es">La matanza de Texas (1974)</title>
-    <desc lang="es">Un grupo de jóvenes son atacados con sierras y otras herramientas mortales por seres dementes. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71VJFqz66zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260428184800 +0200" stop="20260428210400 +0200" channel="acontra+ CINE">
+  <programme start="20260428190400 +0200" stop="20260428210400 +0200" channel="acontra+ CINE">
     <title lang="es">Los verdugos también mueren (1943)</title>
     <desc lang="es">En mayo de 1942 murió víctima de un atentado Reinhard Heydrich, jefe del gobierno nazi de Praga. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81uWRbWALrL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Caramel (2007)</title>
     <desc lang="es">Cinco mujeres libanesas comparten sus vidas y preocupaciones en un salón de belleza de Beirut. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Svm35LVfL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260429001600 +0200" stop="20260429020000 +0200" channel="acontra+ CINE">
+    <title lang="es">French Cancan (1955)</title>
+    <desc lang="es">Danglard es un productor de espectáculos que desea volver a poner de moda el cancán. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qmVKnEy3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260429020000 +0200" stop="20260429041700 +0200" channel="acontra+ CINE">
+    <title lang="es">Fanny (1961)</title>
+    <desc lang="es">Marius abandona a Fanny deseoso de conocer mundo, aunque ignora que está embarazada. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81WrIjDy2YL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
