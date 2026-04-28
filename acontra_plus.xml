@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260428190400 +0200" stop="20260428210400 +0200" channel="acontra+ CINE">
-    <title lang="es">Los verdugos también mueren (1943)</title>
-    <desc lang="es">En mayo de 1942 murió víctima de un atentado Reinhard Heydrich, jefe del gobierno nazi de Praga. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uWRbWALrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260428210400 +0200" stop="20260428224000 +0200" channel="acontra+ CINE">
-    <title lang="es">La Chinoise (1969)</title>
-    <desc lang="es">París, 1967. Un grupo de estudiantes franceses empieza a pensar en la forma de cambiar el mundo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91xFWfprssL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260428224000 +0200" stop="20260429001600 +0200" channel="acontra+ CINE">
+  <programme start="20260428221600 +0200" stop="20260429001600 +0200" channel="acontra+ CINE">
     <title lang="es">Caramel (2007)</title>
     <desc lang="es">Cinco mujeres libanesas comparten sus vidas y preocupaciones en un salón de belleza de Beirut. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Svm35LVfL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Fanny (1961)</title>
     <desc lang="es">Marius abandona a Fanny deseoso de conocer mundo, aunque ignora que está embarazada. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81WrIjDy2YL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260429041700 +0200" stop="20260429055600 +0200" channel="acontra+ CINE">
+    <title lang="es">Adorable seductor (1989)</title>
+    <desc lang="es">El nuevo miembro de una compañía de teatro se enfrenta a un director bullicioso. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81eXQTzyLjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260429055600 +0200" stop="20260429074900 +0200" channel="acontra+ CINE">
+    <title lang="es">Macbeth (2015)</title>
+    <desc lang="es">Un hombre de la nobleza sube al trono escocés. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71jK0pNXjjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260429074900 +0200" stop="20260429091600 +0200" channel="acontra+ CINE">
+    <title lang="es">Hiroshima, mon amour (1959)</title>
+    <desc lang="es">Una actriz francesa se enamora de un arquitecto japonés en la época de la posguerra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81hJzVu9vRL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
