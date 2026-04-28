@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260428084500 +0200" stop="20260428104500 +0200" channel="acontra+ CINE">
-    <title lang="es">Tsotsi (2005)</title>
-    <desc lang="es">Un ladrón sudafricano cuida al bebé de una mujer a la que disparó cuando esta viajaba en coche. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/C1skyL60iYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260428104500 +0200" stop="20260428123100 +0200" channel="acontra+ CINE">
-    <title lang="es">Pie de página (2011)</title>
-    <desc lang="es">Comedia irónica sobre la competitividad, la lealtad, el amor y las relaciones entre padre e hijo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BbzEwRiVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260428123100 +0200" stop="20260428135900 +0200" channel="acontra+ CINE">
-    <title lang="es">Gritos y susurros (1972)</title>
-    <desc lang="es">Tres hermanas se reúnen para pasar juntas los últimos días de vida de una de ellas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71l-O1xlqZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260428135900 +0200" stop="20260428155100 +0200" channel="acontra+ CINE">
+  <programme start="20260428135100 +0200" stop="20260428155100 +0200" channel="acontra+ CINE">
     <title lang="es">Nueve vidas (2005)</title>
     <desc lang="es">Nueve mujeres diferentes entre sí explican de manera cautivadora sus experiencias individuales. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91XIBSY-3pL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La matanza de Texas (1974)</title>
     <desc lang="es">Un grupo de jóvenes son atacados con sierras y otras herramientas mortales por seres dementes. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71VJFqz66zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260428184800 +0200" stop="20260428210400 +0200" channel="acontra+ CINE">
+    <title lang="es">Los verdugos también mueren (1943)</title>
+    <desc lang="es">En mayo de 1942 murió víctima de un atentado Reinhard Heydrich, jefe del gobierno nazi de Praga. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81uWRbWALrL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260428210400 +0200" stop="20260428224000 +0200" channel="acontra+ CINE">
+    <title lang="es">La Chinoise (1969)</title>
+    <desc lang="es">París, 1967. Un grupo de estudiantes franceses empieza a pensar en la forma de cambiar el mundo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91xFWfprssL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260428224000 +0200" stop="20260429001600 +0200" channel="acontra+ CINE">
+    <title lang="es">Caramel (2007)</title>
+    <desc lang="es">Cinco mujeres libanesas comparten sus vidas y preocupaciones en un salón de belleza de Beirut. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Svm35LVfL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
