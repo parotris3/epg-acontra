@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260428034400 +0200" stop="20260428054400 +0200" channel="acontra+ CINE">
-    <title lang="es">Barrabás (2025)</title>
-    <desc lang="es">Una visión de la muerte y resurrección de Cristo, a través de los ojos de Barrabás. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71AkjH+oCXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260428054400 +0200" stop="20260428072700 +0200" channel="acontra+ CINE">
-    <title lang="es">Week-end (2005)</title>
-    <desc lang="es">El matrimonio Durand se queda atrapado en un atasco y por ello viven experiencias desconcertantes. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71sTqayjxdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260428072700 +0200" stop="20260428091100 +0200" channel="acontra+ CINE">
-    <title lang="es">Una cosa por otra (2021)</title>
-    <desc lang="es">Un fugitivo conoce a una mujer que amenaza con denunciarlo a la policía a menos que mate a su madre. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71GhOMiHeML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260428091100 +0200" stop="20260428104500 +0200" channel="acontra+ CINE">
+  <programme start="20260428084500 +0200" stop="20260428104500 +0200" channel="acontra+ CINE">
     <title lang="es">Tsotsi (2005)</title>
     <desc lang="es">Un ladrón sudafricano cuida al bebé de una mujer a la que disparó cuando esta viajaba en coche. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/C1skyL60iYL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Gritos y susurros (1972)</title>
     <desc lang="es">Tres hermanas se reúnen para pasar juntas los últimos días de vida de una de ellas. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71l-O1xlqZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260428135900 +0200" stop="20260428155100 +0200" channel="acontra+ CINE">
+    <title lang="es">Nueve vidas (2005)</title>
+    <desc lang="es">Nueve mujeres diferentes entre sí explican de manera cautivadora sus experiencias individuales. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91XIBSY-3pL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260428155100 +0200" stop="20260428172800 +0200" channel="acontra+ CINE">
+    <title lang="es">Mi vida como un perro (1987)</title>
+    <desc lang="es">Agridulce viaje de la infancia a la adolescencia que tiene que recorrer un niño sueco de 12 años. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91EciWOY9KL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260428172800 +0200" stop="20260428184800 +0200" channel="acontra+ CINE">
+    <title lang="es">La matanza de Texas (1974)</title>
+    <desc lang="es">Un grupo de jóvenes son atacados con sierras y otras herramientas mortales por seres dementes. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71VJFqz66zL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
