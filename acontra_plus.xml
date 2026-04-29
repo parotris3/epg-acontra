@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260429133800 +0200" stop="20260429153800 +0200" channel="acontra+ CINE">
-    <title lang="es">Despertando a Ned (1998)</title>
-    <desc lang="es">Un pueblo oculta la muerte de Ned, ganador de la lotería, para repartirse el dinero entre ellos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81lSKouKbuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260429153800 +0200" stop="20260429171900 +0200" channel="acontra+ CINE">
-    <title lang="es">Four Lions (2010)</title>
-    <desc lang="es">Cuatro musulmanes intentan realizar, sin éxito, actos de terrorismo en Inglaterra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81HPccFYNSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260429171900 +0200" stop="20260429185700 +0200" channel="acontra+ CINE">
-    <title lang="es">My Beautiful Laundrette (1986)</title>
-    <desc lang="es">Dos jóvenes se unen para restaurar una lavandería. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71PewlESOcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260429185700 +0200" stop="20260429203600 +0200" channel="acontra+ CINE">
+  <programme start="20260429183600 +0200" stop="20260429203600 +0200" channel="acontra+ CINE">
     <title lang="es">El festín de Babette (1987)</title>
     <desc lang="es">Una criada francesa gana la lotería y usa el dinero para preparar un banquete. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71OVFlkg-RL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">El señor de las moscas (1990)</title>
     <desc lang="es">Los supervivientes a un accidente de avión militar tendrán que sobrevivir en una isla. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81a1hgGIvjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260430000000 +0200" stop="20260430023400 +0200" channel="acontra+ CINE">
+    <title lang="es">Pequeñas mentiras sin importancia (2010)</title>
+    <desc lang="es">Un matrimonio invita a un grupo de amigos a su casa de la playa, pero un amigo no puede asistir. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Ci1eiig8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260430023400 +0200" stop="20260430042100 +0200" channel="acontra+ CINE">
+    <title lang="es">La escapada (1963)</title>
+    <desc lang="es">Un estudiante y un hombre de mediana edad que no se conocían inician un viaje en un descapotable. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81wbCxGOmcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
