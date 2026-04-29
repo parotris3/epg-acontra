@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260428221600 +0200" stop="20260429001600 +0200" channel="acontra+ CINE">
-    <title lang="es">Caramel (2007)</title>
-    <desc lang="es">Cinco mujeres libanesas comparten sus vidas y preocupaciones en un salón de belleza de Beirut. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Svm35LVfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260429001600 +0200" stop="20260429020000 +0200" channel="acontra+ CINE">
-    <title lang="es">French Cancan (1955)</title>
-    <desc lang="es">Danglard es un productor de espectáculos que desea volver a poner de moda el cancán. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qmVKnEy3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260429020000 +0200" stop="20260429041700 +0200" channel="acontra+ CINE">
-    <title lang="es">Fanny (1961)</title>
-    <desc lang="es">Marius abandona a Fanny deseoso de conocer mundo, aunque ignora que está embarazada. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81WrIjDy2YL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260429041700 +0200" stop="20260429055600 +0200" channel="acontra+ CINE">
+  <programme start="20260429035600 +0200" stop="20260429055600 +0200" channel="acontra+ CINE">
     <title lang="es">Adorable seductor (1989)</title>
     <desc lang="es">El nuevo miembro de una compañía de teatro se enfrenta a un director bullicioso. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81eXQTzyLjL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Hiroshima, mon amour (1959)</title>
     <desc lang="es">Una actriz francesa se enamora de un arquitecto japonés en la época de la posguerra. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81hJzVu9vRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260429091600 +0200" stop="20260429110100 +0200" channel="acontra+ CINE">
+    <title lang="es">El dossier 51 (2021)</title>
+    <desc lang="es">Dominique Auphal es un diplomático francés que acepta un cargo de responsabilidad. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81XvzsFvNAL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260429110100 +0200" stop="20260429123100 +0200" channel="acontra+ CINE">
+    <title lang="es">Cleo de 5 a 7 (1963)</title>
+    <desc lang="es">Cléo deambula, angustiada, mientras aguarda los resultados de un análisis médico. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81K289K2nQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260429123100 +0200" stop="20260429140700 +0200" channel="acontra+ CINE">
+    <title lang="es">Banda aparte (2003)</title>
+    <desc lang="es">Arthur y Franz adoran el cine negro americano y su sueño es llegar a ser como los gánsteres. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91np+eX01bL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
