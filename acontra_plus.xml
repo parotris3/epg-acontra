@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260429035600 +0200" stop="20260429055600 +0200" channel="acontra+ CINE">
-    <title lang="es">Adorable seductor (1989)</title>
-    <desc lang="es">El nuevo miembro de una compañía de teatro se enfrenta a un director bullicioso. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81eXQTzyLjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260429055600 +0200" stop="20260429074900 +0200" channel="acontra+ CINE">
-    <title lang="es">Macbeth (2015)</title>
-    <desc lang="es">Un hombre de la nobleza sube al trono escocés. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71jK0pNXjjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260429074900 +0200" stop="20260429091600 +0200" channel="acontra+ CINE">
-    <title lang="es">Hiroshima, mon amour (1959)</title>
-    <desc lang="es">Una actriz francesa se enamora de un arquitecto japonés en la época de la posguerra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81hJzVu9vRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260429091600 +0200" stop="20260429110100 +0200" channel="acontra+ CINE">
+  <programme start="20260429090100 +0200" stop="20260429110100 +0200" channel="acontra+ CINE">
     <title lang="es">El dossier 51 (2021)</title>
     <desc lang="es">Dominique Auphal es un diplomático francés que acepta un cargo de responsabilidad. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81XvzsFvNAL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Banda aparte (2003)</title>
     <desc lang="es">Arthur y Franz adoran el cine negro americano y su sueño es llegar a ser como los gánsteres. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91np+eX01bL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260429140700 +0200" stop="20260429153800 +0200" channel="acontra+ CINE">
+    <title lang="es">Despertando a Ned (1998)</title>
+    <desc lang="es">Un pueblo oculta la muerte de Ned, ganador de la lotería, para repartirse el dinero entre ellos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81lSKouKbuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260429153800 +0200" stop="20260429171900 +0200" channel="acontra+ CINE">
+    <title lang="es">Four Lions (2010)</title>
+    <desc lang="es">Cuatro musulmanes intentan realizar, sin éxito, actos de terrorismo en Inglaterra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81HPccFYNSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260429171900 +0200" stop="20260429185700 +0200" channel="acontra+ CINE">
+    <title lang="es">My Beautiful Laundrette (1986)</title>
+    <desc lang="es">Dos jóvenes se unen para restaurar una lavandería. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71PewlESOcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
