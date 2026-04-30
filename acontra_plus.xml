@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260430003400 +0200" stop="20260430023400 +0200" channel="acontra+ CINE">
-    <title lang="es">Pequeñas mentiras sin importancia (2010)</title>
-    <desc lang="es">Un matrimonio invita a un grupo de amigos a su casa de la playa, pero un amigo no puede asistir. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Ci1eiig8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260430023400 +0200" stop="20260430042100 +0200" channel="acontra+ CINE">
-    <title lang="es">La escapada (1963)</title>
-    <desc lang="es">Un estudiante y un hombre de mediana edad que no se conocían inician un viaje en un descapotable. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81wbCxGOmcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260430042100 +0200" stop="20260430060700 +0200" channel="acontra+ CINE">
+  <programme start="20260430040700 +0200" stop="20260430060700 +0200" channel="acontra+ CINE">
     <title lang="es">El espejo (1975)</title>
     <desc lang="es">Alekséi habla con su esposa sobre su situación actual y los motivos por los que se han distanciado. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/918hJRIVn7L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">El séptimo sello (1956)</title>
     <desc lang="es">Una alegoría del intento del ser humano por entender su destino y los misterios de la muerte. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/716CWrZG5-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260430091400 +0200" stop="20260430105700 +0200" channel="acontra+ CINE">
+    <title lang="es">Scanners (1981)</title>
+    <desc lang="es">Solo 237 personas en el mundo son seres humanos con poderes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81stBqphNAL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260430105700 +0200" stop="20260430123800 +0200" channel="acontra+ CINE">
+    <title lang="es">Dog Soldiers (2002)</title>
+    <desc lang="es">Unos soldados ingleses lucharán por sus vidas al enfrentarse a unas agresivas y extrañas bestias. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/918fYN7V4wL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260430123800 +0200" stop="20260430134400 +0200" channel="acontra+ CINE">
+    <title lang="es">Locos del aire (1939)</title>
+    <desc lang="es">Ollie y su amigo deciden alistarse en el ejército para olvidar un desamor. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81D5fmE6xzL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
