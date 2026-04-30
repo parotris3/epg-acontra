@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260430184500 +0200" stop="20260430204500 +0200" channel="acontra+ CINE">
-    <title lang="es">Vivarium (2019)</title>
-    <desc lang="es">Una joven pareja visita una inmobiliaria para comprar una casa donde se quedarán atrapados. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/914D3Ssc3AL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260430204500 +0200" stop="20260430222300 +0200" channel="acontra+ CINE">
-    <title lang="es">La madre del mal (2007)</title>
-    <desc lang="es">Sarah se convierte en la última esperanza para salvar al mundo de una bruja maligna. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71xbAA4o58L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260430222300 +0200" stop="20260430235900 +0200" channel="acontra+ CINE">
-    <title lang="es">Buenas noches mamá (2014)</title>
-    <desc lang="es">Cuando una madre regresa de una cirugía plástica sus hijos no saben si es una impostora. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/61pk8FT-etL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260430235900 +0200" stop="20260501015300 +0200" channel="acontra+ CINE">
+  <programme start="20260430235300 +0200" stop="20260501015300 +0200" channel="acontra+ CINE">
     <title lang="es">Soñadores (2000)</title>
     <desc lang="es">Isabelle, Theo y Matthew tratan de conocerse mutuamente explorando emociones y erotismo. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81gj-r-5MuL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Lacombe, Lucien (1974)</title>
     <desc lang="es">Lacombe, de un pueblo de Francia, colabora con el régimen nazi y se enamora de una niña judía. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81jQpU8pLWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260501041100 +0200" stop="20260501054900 +0200" channel="acontra+ CINE">
+    <title lang="es">Las ocho campanadas (2003)</title>
+    <desc lang="es">Philip Calvert es un agente del servicio secreto naval cuya misión es la de desentrañar un robo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qMCGYTo5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260501054900 +0200" stop="20260501072700 +0200" channel="acontra+ CINE">
+    <title lang="es">Déjate llevar (2018)</title>
+    <desc lang="es">Elías es un psicoanalista freudiano que necesita adelgazar y que conoce a una entrenadora personal. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81fznH0hqcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260501072700 +0200" stop="20260501092200 +0200" channel="acontra+ CINE">
+    <title lang="es">Barrabás (2025)</title>
+    <desc lang="es">Una visión de la muerte y resurrección de Cristo, a través de los ojos de Barrabás. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71AkjH+oCXL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
