@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260430040700 +0200" stop="20260430060700 +0200" channel="acontra+ CINE">
-    <title lang="es">El espejo (1975)</title>
-    <desc lang="es">Alekséi habla con su esposa sobre su situación actual y los motivos por los que se han distanciado. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/918hJRIVn7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260430060700 +0200" stop="20260430073900 +0200" channel="acontra+ CINE">
-    <title lang="es">Fresas salvajes (1959)</title>
-    <desc lang="es">El profesor Borg reflexiona sobre los placeres y fracasos de su propia vida en un viaje. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/912DmnSVQ3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260430073900 +0200" stop="20260430091400 +0200" channel="acontra+ CINE">
-    <title lang="es">El séptimo sello (1956)</title>
-    <desc lang="es">Una alegoría del intento del ser humano por entender su destino y los misterios de la muerte. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/716CWrZG5-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260430091400 +0200" stop="20260430105700 +0200" channel="acontra+ CINE">
+  <programme start="20260430085700 +0200" stop="20260430105700 +0200" channel="acontra+ CINE">
     <title lang="es">Scanners (1981)</title>
     <desc lang="es">Solo 237 personas en el mundo son seres humanos con poderes. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81stBqphNAL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Locos del aire (1939)</title>
     <desc lang="es">Ollie y su amigo deciden alistarse en el ejército para olvidar un desamor. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81D5fmE6xzL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260430134400 +0200" stop="20260430161700 +0200" channel="acontra+ CINE">
+    <title lang="es">La clase dirigente (1972)</title>
+    <desc lang="es">Un miembro de la Cámara de los Lores deja su patrimonio a su hijo Jack, un joven desequilibrado. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91GDdHqsoAL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260430161700 +0200" stop="20260430175100 +0200" channel="acontra+ CINE">
+    <title lang="es">Un verano con Mónica (1955)</title>
+    <desc lang="es">Dos adolescentes se enamoran y dejan todo para emprender un viaje juntos en barco. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81X33-oJfLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260430175100 +0200" stop="20260430191100 +0200" channel="acontra+ CINE">
+    <title lang="es">Persona (1966)</title>
+    <desc lang="es">La simbiosis de las dos personalidades de una misma mujer. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91YJjt7ASEL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
