@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260430141700 +0200" stop="20260430161700 +0200" channel="acontra+ CINE">
-    <title lang="es">La clase dirigente (1972)</title>
-    <desc lang="es">Un miembro de la Cámara de los Lores deja su patrimonio a su hijo Jack, un joven desequilibrado. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91GDdHqsoAL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260430161700 +0200" stop="20260430175100 +0200" channel="acontra+ CINE">
-    <title lang="es">Un verano con Mónica (1955)</title>
-    <desc lang="es">Dos adolescentes se enamoran y dejan todo para emprender un viaje juntos en barco. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81X33-oJfLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260430175100 +0200" stop="20260430191100 +0200" channel="acontra+ CINE">
-    <title lang="es">Persona (1966)</title>
-    <desc lang="es">La simbiosis de las dos personalidades de una misma mujer. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91YJjt7ASEL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260430191100 +0200" stop="20260430204500 +0200" channel="acontra+ CINE">
+  <programme start="20260430184500 +0200" stop="20260430204500 +0200" channel="acontra+ CINE">
     <title lang="es">Vivarium (2019)</title>
     <desc lang="es">Una joven pareja visita una inmobiliaria para comprar una casa donde se quedarán atrapados. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/914D3Ssc3AL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Buenas noches mamá (2014)</title>
     <desc lang="es">Cuando una madre regresa de una cirugía plástica sus hijos no saben si es una impostora. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/61pk8FT-etL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260430235900 +0200" stop="20260501015300 +0200" channel="acontra+ CINE">
+    <title lang="es">Soñadores (2000)</title>
+    <desc lang="es">Isabelle, Theo y Matthew tratan de conocerse mutuamente explorando emociones y erotismo. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81gj-r-5MuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260501015300 +0200" stop="20260501041100 +0200" channel="acontra+ CINE">
+    <title lang="es">Lacombe, Lucien (1974)</title>
+    <desc lang="es">Lacombe, de un pueblo de Francia, colabora con el régimen nazi y se enamora de una niña judía. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81jQpU8pLWL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
