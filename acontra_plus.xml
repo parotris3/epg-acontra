@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260502034700 +0200" stop="20260502054700 +0200" channel="acontra+ CINE">
-    <title lang="es">No mires atrás (2010)</title>
-    <desc lang="es">El inspector Sanzio investiga la violenta muerte de una adolescente en un paraje montañoso italiano. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81G3YyAkyfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260502054700 +0200" stop="20260502080200 +0200" channel="acontra+ CINE">
-    <title lang="es">Los verdugos también mueren (1943)</title>
-    <desc lang="es">En mayo de 1942 murió víctima de un atentado Reinhard Heydrich, jefe del gobierno nazi de Praga. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uWRbWALrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260502080200 +0200" stop="20260502102100 +0200" channel="acontra+ CINE">
+  <programme start="20260502082100 +0200" stop="20260502102100 +0200" channel="acontra+ CINE">
     <title lang="es">La vida de Galileo (2025)</title>
     <desc lang="es">Las teorías de Galileo Galilei le granjearon el rechazo de las poderosas autoridades eclesiásticas. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/91FI7srPpyL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Hydra (2009)</title>
     <desc lang="es">Una compañía organiza cacerías humanas para los hombres más ricos del mundo. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91HlXRYC4PL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260502135000 +0200" stop="20260502153800 +0200" channel="acontra+ CINE">
+    <title lang="es">Europa, Europa (1991)</title>
+    <desc lang="es">Salomón Perel Sally es un joven judío polaco que se hace pasar por un huérfano alemán. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81uThRPab5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260502153800 +0200" stop="20260502170900 +0200" channel="acontra+ CINE">
+    <title lang="es">El secreto de la mansión (2010)</title>
+    <desc lang="es">Una familia se muda a una casa de campo que esconde un secreto terrible. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71rtu-pqPVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260502170900 +0200" stop="20260502184700 +0200" channel="acontra+ CINE">
+    <title lang="es">El gato y el canario (1979)</title>
+    <desc lang="es">La gran herencia de una mujer la convierte en el objetivo de un misterioso asesino. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91WU8UPlK6L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
