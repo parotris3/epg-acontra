@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260502184600 +0200" stop="20260502204600 +0200" channel="acontra+ CINE">
-    <title lang="es">Dinero fácil (2010)</title>
-    <desc lang="es">Tres criminales se unen para conseguir un objetivo común: vengarse del gran capo Radovan. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1hkAaQa6JL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260502204600 +0200" stop="20260502223600 +0200" channel="acontra+ CINE">
-    <title lang="es">Bellísima (1981)</title>
-    <desc lang="es">Madalena Cecconi hace todo lo posible para que su hija María se convierta en una estrella de cine. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-sgxXyzTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260502223600 +0200" stop="20260503003300 +0200" channel="acontra+ CINE">
+  <programme start="20260502223300 +0200" stop="20260503003300 +0200" channel="acontra+ CINE">
     <title lang="es">Enamórate de mí</title>
     <desc lang="es">Cuando Michael muere, cree que está libre de las ansiedades de la búsqueda del amor verdadero. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91uM1CTU7eL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Love Bite (2012)</title>
     <desc lang="es">Jaime descubre que la única forma de estar a salvo de un hombre lobo es teniendo sexo. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81B5h7R964L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260503041300 +0200" stop="20260503060100 +0200" channel="acontra+ CINE">
+    <title lang="es">Orfeu negro (1959)</title>
+    <desc lang="es">La trágica historia de amor entre la joven Eurídice y el conductor y músico Orfeo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91DZLPATqGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260503060100 +0200" stop="20260503072900 +0200" channel="acontra+ CINE">
+    <title lang="es">Solamente se vive una vez (1997)</title>
+    <desc lang="es">George y Nathalie pasan las vacaciones en una remota isla de la costa de Maine. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/911BJnjObpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260503072900 +0200" stop="20260503091500 +0200" channel="acontra+ CINE">
+    <title lang="es">Todo por Grace (2018)</title>
+    <desc lang="es">Un joven trasciende los límites de raza y clase para perseguir un amor imposible. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1-Zchj8WXL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
