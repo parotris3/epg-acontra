@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260502082100 +0200" stop="20260502102100 +0200" channel="acontra+ CINE">
-    <title lang="es">La vida de Galileo (2025)</title>
-    <desc lang="es">Las teorías de Galileo Galilei le granjearon el rechazo de las poderosas autoridades eclesiásticas. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/91FI7srPpyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260502102100 +0200" stop="20260502121600 +0200" channel="acontra+ CINE">
-    <title lang="es">La hierba errante (1959)</title>
-    <desc lang="es">El director de una compañía de teatro llega al pueblo donde vive su hijo no reconocido. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tYPNPnoNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260502121600 +0200" stop="20260502135000 +0200" channel="acontra+ CINE">
-    <title lang="es">Hydra (2009)</title>
-    <desc lang="es">Una compañía organiza cacerías humanas para los hombres más ricos del mundo. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91HlXRYC4PL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260502135000 +0200" stop="20260502153800 +0200" channel="acontra+ CINE">
+  <programme start="20260502133800 +0200" stop="20260502153800 +0200" channel="acontra+ CINE">
     <title lang="es">Europa, Europa (1991)</title>
     <desc lang="es">Salomón Perel Sally es un joven judío polaco que se hace pasar por un huérfano alemán. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81uThRPab5L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El gato y el canario (1979)</title>
     <desc lang="es">La gran herencia de una mujer la convierte en el objetivo de un misterioso asesino. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91WU8UPlK6L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260502184700 +0200" stop="20260502204600 +0200" channel="acontra+ CINE">
+    <title lang="es">Dinero fácil (2010)</title>
+    <desc lang="es">Tres criminales se unen para conseguir un objetivo común: vengarse del gran capo Radovan. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1hkAaQa6JL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260502204600 +0200" stop="20260502223600 +0200" channel="acontra+ CINE">
+    <title lang="es">Bellísima (1981)</title>
+    <desc lang="es">Madalena Cecconi hace todo lo posible para que su hija María se convierta en una estrella de cine. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-sgxXyzTL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260502223600 +0200" stop="20260503003300 +0200" channel="acontra+ CINE">
+    <title lang="es">Enamórate de mí</title>
+    <desc lang="es">Cuando Michael muere, cree que está libre de las ansiedades de la búsqueda del amor verdadero. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91uM1CTU7eL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
