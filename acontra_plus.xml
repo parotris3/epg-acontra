@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260502133800 +0200" stop="20260502153800 +0200" channel="acontra+ CINE">
-    <title lang="es">Europa, Europa (1991)</title>
-    <desc lang="es">Salomón Perel Sally es un joven judío polaco que se hace pasar por un huérfano alemán. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uThRPab5L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260502153800 +0200" stop="20260502170900 +0200" channel="acontra+ CINE">
-    <title lang="es">El secreto de la mansión (2010)</title>
-    <desc lang="es">Una familia se muda a una casa de campo que esconde un secreto terrible. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71rtu-pqPVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260502170900 +0200" stop="20260502184700 +0200" channel="acontra+ CINE">
-    <title lang="es">El gato y el canario (1979)</title>
-    <desc lang="es">La gran herencia de una mujer la convierte en el objetivo de un misterioso asesino. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WU8UPlK6L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260502184700 +0200" stop="20260502204600 +0200" channel="acontra+ CINE">
+  <programme start="20260502184600 +0200" stop="20260502204600 +0200" channel="acontra+ CINE">
     <title lang="es">Dinero fácil (2010)</title>
     <desc lang="es">Tres criminales se unen para conseguir un objetivo común: vengarse del gran capo Radovan. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1hkAaQa6JL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Enamórate de mí</title>
     <desc lang="es">Cuando Michael muere, cree que está libre de las ansiedades de la búsqueda del amor verdadero. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91uM1CTU7eL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260503003300 +0200" stop="20260503023800 +0200" channel="acontra+ CINE">
+    <title lang="es">Tom & Viv (1994)</title>
+    <desc lang="es">Historia del matrimonio fallido entre T.S. Eliot y su esposa enferma. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81UTnu5cYvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260503023800 +0200" stop="20260503041300 +0200" channel="acontra+ CINE">
+    <title lang="es">Love Bite (2012)</title>
+    <desc lang="es">Jaime descubre que la única forma de estar a salvo de un hombre lobo es teniendo sexo. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81B5h7R964L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
