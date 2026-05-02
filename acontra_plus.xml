@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260501222800 +0200" stop="20260502002800 +0200" channel="acontra+ CINE">
-    <title lang="es">Trayecto infernal (2019)</title>
-    <desc lang="es">Las noches de Emerson Graham como taxista están llenas de molestias e inconvenientes. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A17jYCYegGL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260502002800 +0200" stop="20260502022300 +0200" channel="acontra+ CINE">
-    <title lang="es">Sophie Scholl: los últimos días (2005)</title>
-    <desc lang="es">Sophie Scholl es una estudiante en Múnich en 1943 encarcelada por la Gestapo durante una misión. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1v8rdAhFYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260502022300 +0200" stop="20260502041500 +0200" channel="acontra+ CINE">
-    <title lang="es">Bajo el volcán (1984)</title>
-    <desc lang="es">Geoffrey Firmin, un diplomático inglés deprimido que se retira al alcohol para consolarse. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91MGFHg1p3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260502041500 +0200" stop="20260502054700 +0200" channel="acontra+ CINE">
+  <programme start="20260502034700 +0200" stop="20260502054700 +0200" channel="acontra+ CINE">
     <title lang="es">No mires atrás (2010)</title>
     <desc lang="es">El inspector Sanzio investiga la violenta muerte de una adolescente en un paraje montañoso italiano. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81G3YyAkyfL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Los verdugos también mueren (1943)</title>
     <desc lang="es">En mayo de 1942 murió víctima de un atentado Reinhard Heydrich, jefe del gobierno nazi de Praga. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81uWRbWALrL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260502080200 +0200" stop="20260502102100 +0200" channel="acontra+ CINE">
+    <title lang="es">La vida de Galileo (2025)</title>
+    <desc lang="es">Las teorías de Galileo Galilei le granjearon el rechazo de las poderosas autoridades eclesiásticas. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91FI7srPpyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260502102100 +0200" stop="20260502121600 +0200" channel="acontra+ CINE">
+    <title lang="es">La hierba errante (1959)</title>
+    <desc lang="es">El director de una compañía de teatro llega al pueblo donde vive su hijo no reconocido. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tYPNPnoNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260502121600 +0200" stop="20260502135000 +0200" channel="acontra+ CINE">
+    <title lang="es">Hydra (2009)</title>
+    <desc lang="es">Una compañía organiza cacerías humanas para los hombres más ricos del mundo. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91HlXRYC4PL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
