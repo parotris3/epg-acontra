@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260503040100 +0200" stop="20260503060100 +0200" channel="acontra+ CINE">
-    <title lang="es">Orfeu negro (1959)</title>
-    <desc lang="es">La trágica historia de amor entre la joven Eurídice y el conductor y músico Orfeo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91DZLPATqGL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260503060100 +0200" stop="20260503072900 +0200" channel="acontra+ CINE">
-    <title lang="es">Solamente se vive una vez (1997)</title>
-    <desc lang="es">George y Nathalie pasan las vacaciones en una remota isla de la costa de Maine. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/911BJnjObpL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260503072900 +0200" stop="20260503091500 +0200" channel="acontra+ CINE">
-    <title lang="es">Todo por Grace (2018)</title>
-    <desc lang="es">Un joven trasciende los límites de raza y clase para perseguir un amor imposible. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1-Zchj8WXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260503091500 +0200" stop="20260503111200 +0200" channel="acontra+ CINE">
+  <programme start="20260503091200 +0200" stop="20260503111200 +0200" channel="acontra+ CINE">
     <title lang="es">Lullaby (2014)</title>
     <desc lang="es">Un hombre recibe la noticia de que su padre ha decidido desconectarse del soporte vital. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81CqWEI58fL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Fast Food Nation (2006)</title>
     <desc lang="es">Basada en el libro de Eric Schlosser. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1uAkKlOQmL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260503144300 +0200" stop="20260503162600 +0200" channel="acontra+ CINE">
+    <title lang="es">El hombre perfecto (2015)</title>
+    <desc lang="es">Un joven escritor encuentra un manuscrito de un anciano y lo publica a su nombre. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Tx-evqXLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260503162600 +0200" stop="20260503181200 +0200" channel="acontra+ CINE">
+    <title lang="es">De latir mi corazón se ha parado (2005)</title>
+    <desc lang="es">Tom debe elegir entre seguir el sórdido negocio de su padre o convertirse en pianista como su madre. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81SLJ3sPFuL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
