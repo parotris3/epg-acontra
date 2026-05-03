@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260502223300 +0200" stop="20260503003300 +0200" channel="acontra+ CINE">
-    <title lang="es">Enamórate de mí</title>
-    <desc lang="es">Cuando Michael muere, cree que está libre de las ansiedades de la búsqueda del amor verdadero. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91uM1CTU7eL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260503003300 +0200" stop="20260503023800 +0200" channel="acontra+ CINE">
-    <title lang="es">Tom & Viv (1994)</title>
-    <desc lang="es">Historia del matrimonio fallido entre T.S. Eliot y su esposa enferma. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81UTnu5cYvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260503023800 +0200" stop="20260503041300 +0200" channel="acontra+ CINE">
-    <title lang="es">Love Bite (2012)</title>
-    <desc lang="es">Jaime descubre que la única forma de estar a salvo de un hombre lobo es teniendo sexo. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81B5h7R964L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260503041300 +0200" stop="20260503060100 +0200" channel="acontra+ CINE">
+  <programme start="20260503040100 +0200" stop="20260503060100 +0200" channel="acontra+ CINE">
     <title lang="es">Orfeu negro (1959)</title>
     <desc lang="es">La trágica historia de amor entre la joven Eurídice y el conductor y músico Orfeo. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91DZLPATqGL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Todo por Grace (2018)</title>
     <desc lang="es">Un joven trasciende los límites de raza y clase para perseguir un amor imposible. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1-Zchj8WXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260503091500 +0200" stop="20260503111200 +0200" channel="acontra+ CINE">
+    <title lang="es">Lullaby (2014)</title>
+    <desc lang="es">Un hombre recibe la noticia de que su padre ha decidido desconectarse del soporte vital. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81CqWEI58fL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260503111200 +0200" stop="20260503125000 +0200" channel="acontra+ CINE">
+    <title lang="es">La horda (2009)</title>
+    <desc lang="es">Un grupo de policías corruptos y criminales despiadados aúnan fuerzas en contra de unos monstruos. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81opcegUrLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260503125000 +0200" stop="20260503144300 +0200" channel="acontra+ CINE">
+    <title lang="es">Fast Food Nation (2006)</title>
+    <desc lang="es">Basada en el libro de Eric Schlosser. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1uAkKlOQmL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
