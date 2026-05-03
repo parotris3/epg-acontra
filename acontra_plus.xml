@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260503185500 +0200" stop="20260503205500 +0200" channel="acontra+ CINE">
-    <title lang="es">Avispas asesinas (2012)</title>
-    <desc lang="es">Durante una misión de rescate, dos mujeres deben enfrentarse a unas avispas que disparan fuego. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81gQmc3rurL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260503205500 +0200" stop="20260503223800 +0200" channel="acontra+ CINE">
-    <title lang="es">El espejo (1975)</title>
-    <desc lang="es">Alekséi habla con su esposa sobre su situación actual y los motivos por los que se han distanciado. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/918hJRIVn7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260503223800 +0200" stop="20260504000900 +0200" channel="acontra+ CINE">
+  <programme start="20260503220900 +0200" stop="20260504000900 +0200" channel="acontra+ CINE">
     <title lang="es">El mejor regalo (2018)</title>
     <desc lang="es">Sena, una aspirante a diseñadora de moda y sin éxito en el amor, cumple 46 años. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81anZEQ6NtL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">Las ocho campanadas (2003)</title>
     <desc lang="es">Philip Calvert es un agente del servicio secreto naval cuya misión es la de desentrañar un robo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81qMCGYTo5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260504053200 +0200" stop="20260504071000 +0200" channel="acontra+ CINE">
+    <title lang="es">La madre del mal (2007)</title>
+    <desc lang="es">Sarah se convierte en la última esperanza para salvar al mundo de una bruja maligna. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71xbAA4o58L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260504071000 +0200" stop="20260504090300 +0200" channel="acontra+ CINE">
+    <title lang="es">Byzantium (2012)</title>
+    <desc lang="es">Dos vampiresas que huyen de otros vampiros se refugian en una comunidad británica junto al mar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91pz7+eAfkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
