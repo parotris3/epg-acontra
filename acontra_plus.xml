@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260503220900 +0200" stop="20260504000900 +0200" channel="acontra+ CINE">
-    <title lang="es">El mejor regalo (2018)</title>
-    <desc lang="es">Sena, una aspirante a diseñadora de moda y sin éxito en el amor, cumple 46 años. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81anZEQ6NtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260504000900 +0200" stop="20260504015600 +0200" channel="acontra+ CINE">
-    <title lang="es">Campeón de campeones (2005)</title>
-    <desc lang="es">Un exconvicto intenta hacerse un sitio en el boxeo profesional. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/915euSGuKoL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260504015600 +0200" stop="20260504035800 +0200" channel="acontra+ CINE">
-    <title lang="es">Salyut-7, héroes en el espacio (2017)</title>
-    <desc lang="es">Dos astronautas soviéticos ponen de nuevo en funcionamiento la estación espacial Salyut 7. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Ukc29h3wL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260504035800 +0200" stop="20260504053200 +0200" channel="acontra+ CINE">
+  <programme start="20260504033200 +0200" stop="20260504053200 +0200" channel="acontra+ CINE">
     <title lang="es">Las ocho campanadas (2003)</title>
     <desc lang="es">Philip Calvert es un agente del servicio secreto naval cuya misión es la de desentrañar un robo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81qMCGYTo5L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Byzantium (2012)</title>
     <desc lang="es">Dos vampiresas que huyen de otros vampiros se refugian en una comunidad británica junto al mar. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91pz7+eAfkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260504090300 +0200" stop="20260504105700 +0200" channel="acontra+ CINE">
+    <title lang="es">13 minutos para matar a Hitler (2015)</title>
+    <desc lang="es">Georg Elser pudo haber cambiado el rumbo de la historia de haber contado con trece minutos más. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Nrgxbf4VL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260504105700 +0200" stop="20260504123600 +0200" channel="acontra+ CINE">
+    <title lang="es">El rayo verde (1986)</title>
+    <desc lang="es">Delphine es una joven parisina que trata de recuperarse de una ruptura reciente. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81fcd9fiYlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260504123600 +0200" stop="20260504150200 +0200" channel="acontra+ CINE">
+    <title lang="es">Una familia de Tokio (2013)</title>
+    <desc lang="es">Una pareja de ancianos que vive en una pequeña isla viaja a Tokio para visitar a sus tres hijos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81koP10hlfL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
