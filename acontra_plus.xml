@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260504183900 +0200" stop="20260504203900 +0200" channel="acontra+ CINE">
-    <title lang="es">Oro (1974)</title>
-    <desc lang="es">El gerente de unas minas de Sudáfrica trama un plan para subir el precio del oro en el mercado. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81PzgJJMnvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260504203900 +0200" stop="20260504220900 +0200" channel="acontra+ CINE">
-    <title lang="es">Sonata de otoño (1978)</title>
-    <desc lang="es">Bergman retrata el enfrentamiento entre madre e hija, y temas como la incomunicación y la muerte. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uqx1pmRqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260504220900 +0200" stop="20260505000500 +0200" channel="acontra+ CINE">
+  <programme start="20260504220500 +0200" stop="20260505000500 +0200" channel="acontra+ CINE">
     <title lang="es">Vania en la calle 42 (1994)</title>
     <desc lang="es">En los noventa, Andre Gregory montó unas representaciones privadas de la obra "Tío Vania" de Chéjov. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81d8v6E967L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">The Brave (1998)</title>
     <desc lang="es">Un misterioso personaje le hace una siniestra oferta a un humilde padre de familia. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Pj3qqPZJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260505040300 +0200" stop="20260505053700 +0200" channel="acontra+ CINE">
+    <title lang="es">Pauline en la playa (1983)</title>
+    <desc lang="es">Pauline es una adolescente que pasa un verano con su prima Marion en busca de romance. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91HGjNRrcDL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260505053700 +0200" stop="20260505072500 +0200" channel="acontra+ CINE">
+    <title lang="es">Machete Kills (2013)</title>
+    <desc lang="es">Machete va tras un traficante de armas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1zKwzF56cL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260505072500 +0200" stop="20260505093800 +0200" channel="acontra+ CINE">
+    <title lang="es">Kabei. Nuestra madre (2008)</title>
+    <desc lang="es">Una mujer lucha por mantener a su familia unida cuando su marido es encarcelado por sus opiniones. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81e0U+3YW4L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
