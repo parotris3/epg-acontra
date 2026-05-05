@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260504220500 +0200" stop="20260505000500 +0200" channel="acontra+ CINE">
-    <title lang="es">Vania en la calle 42 (1994)</title>
-    <desc lang="es">En los noventa, Andre Gregory montó unas representaciones privadas de la obra "Tío Vania" de Chéjov. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81d8v6E967L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260505000500 +0200" stop="20260505020000 +0200" channel="acontra+ CINE">
-    <title lang="es">Tropa de élite 2 (2010)</title>
-    <desc lang="es">Un hombre se enfrenta a las milicias en Río de Janeiro y acaba metiéndose en problemas. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81lnxFNigkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260505020000 +0200" stop="20260505040300 +0200" channel="acontra+ CINE">
-    <title lang="es">The Brave (1998)</title>
-    <desc lang="es">Un misterioso personaje le hace una siniestra oferta a un humilde padre de familia. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Pj3qqPZJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260505040300 +0200" stop="20260505053700 +0200" channel="acontra+ CINE">
+  <programme start="20260505033700 +0200" stop="20260505053700 +0200" channel="acontra+ CINE">
     <title lang="es">Pauline en la playa (1983)</title>
     <desc lang="es">Pauline es una adolescente que pasa un verano con su prima Marion en busca de romance. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91HGjNRrcDL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Kabei. Nuestra madre (2008)</title>
     <desc lang="es">Una mujer lucha por mantener a su familia unida cuando su marido es encarcelado por sus opiniones. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81e0U+3YW4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260505093800 +0200" stop="20260505111000 +0200" channel="acontra+ CINE">
+    <title lang="es">El silencio (2002)</title>
+    <desc lang="es">Dos hermanas, Ester y Anna, y el hijo de una de ellas viajan en tren a un país en guerra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/812c7vMBQQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260505111000 +0200" stop="20260505130300 +0200" channel="acontra+ CINE">
+    <title lang="es">El caso Farewell (2009)</title>
+    <desc lang="es">Un coronel proporciona información secreta sobre el régimen comunista ruso a un ingeniero francés. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81KMPsGbe+L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
