@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260505184500 +0200" stop="20260505204500 +0200" channel="acontra+ CINE">
-    <title lang="es">Los mejores amigos del mundo (2010)</title>
-    <desc lang="es">Un fin de semana al aire libre con sus mejores amigos, los realmente queridos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91EQMpQFeIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260505204500 +0200" stop="20260505225200 +0200" channel="acontra+ CINE">
-    <title lang="es">Modigliani (2005)</title>
-    <desc lang="es">La historia jamás contada de la ácida rivalidad entre Picasso y Modigliani. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81r817NqNIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260505225200 +0200" stop="20260506005600 +0200" channel="acontra+ CINE">
+  <programme start="20260505225600 +0200" stop="20260506005600 +0200" channel="acontra+ CINE">
     <title lang="es">Desayuno en Plutón (2005)</title>
     <desc lang="es">Patrick, un joven trans, sobrevive en un ambiente hostil gracias a su ingenio y su perseverancia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/810J0xbCEWL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">El retorno del soldado (2022)</title>
     <desc lang="es">El capitán Chris Baldry vuelve del frente durante la Primera Guerra Mundial sufriendo amnesia. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/8106rx9ahCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260506053600 +0200" stop="20260506072800 +0200" channel="acontra+ CINE">
+    <title lang="es">Insignificance (1985)</title>
+    <desc lang="es">Albert Einstein charla con Marilyn Monroe sobre la teoría de la relatividad, el sexo y la política. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/712jQUN3uVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260506072800 +0200" stop="20260506090500 +0200" channel="acontra+ CINE">
+    <title lang="es">La garra de Satán (1971)</title>
+    <desc lang="es">El descubrimiento del cuerpo de un hombre bestia atemoriza a unos niños campesinos en Inglaterra. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81nuSA-K9tL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
