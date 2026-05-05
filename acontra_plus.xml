@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260505091000 +0200" stop="20260505111000 +0200" channel="acontra+ CINE">
-    <title lang="es">El silencio (2002)</title>
-    <desc lang="es">Dos hermanas, Ester y Anna, y el hijo de una de ellas viajan en tren a un país en guerra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/812c7vMBQQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260505111000 +0200" stop="20260505130300 +0200" channel="acontra+ CINE">
-    <title lang="es">El caso Farewell (2009)</title>
-    <desc lang="es">Un coronel proporciona información secreta sobre el régimen comunista ruso a un ingeniero francés. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81KMPsGbe+L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260505130300 +0200" stop="20260505144600 +0200" channel="acontra+ CINE">
-    <title lang="es">Cal (1989)</title>
-    <desc lang="es">En Irlanda del Norte, un joven católico es sospechoso en el asesinato de un policía protestante. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81T3UBe8n8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260505144600 +0200" stop="20260505171900 +0200" channel="acontra+ CINE">
+  <programme start="20260505151900 +0200" stop="20260505171900 +0200" channel="acontra+ CINE">
     <title lang="es">La clase dirigente (1972)</title>
     <desc lang="es">Un miembro de la Cámara de los Lores deja su patrimonio a su hijo Jack, un joven desequilibrado. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91GDdHqsoAL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Muriel (El tiempo de un retorno) (1963)</title>
     <desc lang="es">Helène se reencuentra con su amor de juventud y descubre que ya no tienen nada en común. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91pf6WLH5zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260505191400 +0200" stop="20260505204500 +0200" channel="acontra+ CINE">
+    <title lang="es">Los mejores amigos del mundo (2010)</title>
+    <desc lang="es">Un fin de semana al aire libre con sus mejores amigos, los realmente queridos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91EQMpQFeIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260505204500 +0200" stop="20260505225200 +0200" channel="acontra+ CINE">
+    <title lang="es">Modigliani (2005)</title>
+    <desc lang="es">La historia jamás contada de la ácida rivalidad entre Picasso y Modigliani. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81r817NqNIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260505225200 +0200" stop="20260506005600 +0200" channel="acontra+ CINE">
+    <title lang="es">Desayuno en Plutón (2005)</title>
+    <desc lang="es">Patrick, un joven trans, sobrevive en un ambiente hostil gracias a su ingenio y su perseverancia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/810J0xbCEWL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
