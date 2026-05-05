@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260505033700 +0200" stop="20260505053700 +0200" channel="acontra+ CINE">
-    <title lang="es">Pauline en la playa (1983)</title>
-    <desc lang="es">Pauline es una adolescente que pasa un verano con su prima Marion en busca de romance. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91HGjNRrcDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260505053700 +0200" stop="20260505072500 +0200" channel="acontra+ CINE">
-    <title lang="es">Machete Kills (2013)</title>
-    <desc lang="es">Machete va tras un traficante de armas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1zKwzF56cL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260505072500 +0200" stop="20260505093800 +0200" channel="acontra+ CINE">
-    <title lang="es">Kabei. Nuestra madre (2008)</title>
-    <desc lang="es">Una mujer lucha por mantener a su familia unida cuando su marido es encarcelado por sus opiniones. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81e0U+3YW4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260505093800 +0200" stop="20260505111000 +0200" channel="acontra+ CINE">
+  <programme start="20260505091000 +0200" stop="20260505111000 +0200" channel="acontra+ CINE">
     <title lang="es">El silencio (2002)</title>
     <desc lang="es">Dos hermanas, Ester y Anna, y el hijo de una de ellas viajan en tren a un país en guerra. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/812c7vMBQQL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">El caso Farewell (2009)</title>
     <desc lang="es">Un coronel proporciona información secreta sobre el régimen comunista ruso a un ingeniero francés. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81KMPsGbe+L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260505130300 +0200" stop="20260505144600 +0200" channel="acontra+ CINE">
+    <title lang="es">Cal (1989)</title>
+    <desc lang="es">En Irlanda del Norte, un joven católico es sospechoso en el asesinato de un policía protestante. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81T3UBe8n8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260505144600 +0200" stop="20260505171900 +0200" channel="acontra+ CINE">
+    <title lang="es">La clase dirigente (1972)</title>
+    <desc lang="es">Un miembro de la Cámara de los Lores deja su patrimonio a su hijo Jack, un joven desequilibrado. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91GDdHqsoAL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260505171900 +0200" stop="20260505191400 +0200" channel="acontra+ CINE">
+    <title lang="es">Muriel (El tiempo de un retorno) (1963)</title>
+    <desc lang="es">Helène se reencuentra con su amor de juventud y descubre que ya no tienen nada en común. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91pf6WLH5zL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
