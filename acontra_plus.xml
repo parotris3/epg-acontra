@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260505225600 +0200" stop="20260506005600 +0200" channel="acontra+ CINE">
-    <title lang="es">Desayuno en Plutón (2005)</title>
-    <desc lang="es">Patrick, un joven trans, sobrevive en un ambiente hostil gracias a su ingenio y su perseverancia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/810J0xbCEWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260506005600 +0200" stop="20260506024100 +0200" channel="acontra+ CINE">
-    <title lang="es">El dossier 51 (2021)</title>
-    <desc lang="es">Dominique Auphal es un diplomático francés que acepta un cargo de responsabilidad. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81XvzsFvNAL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260506024100 +0200" stop="20260506035300 +0200" channel="acontra+ CINE">
-    <title lang="es">El héroe del río (1928)</title>
-    <desc lang="es">Dos barcos fluviales compiten por el control del transporte de mercancías por el Misisipi. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/817T6LyUJ7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260506035300 +0200" stop="20260506053600 +0200" channel="acontra+ CINE">
+  <programme start="20260506033600 +0200" stop="20260506053600 +0200" channel="acontra+ CINE">
     <title lang="es">El retorno del soldado (2022)</title>
     <desc lang="es">El capitán Chris Baldry vuelve del frente durante la Primera Guerra Mundial sufriendo amnesia. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/8106rx9ahCL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La garra de Satán (1971)</title>
     <desc lang="es">El descubrimiento del cuerpo de un hombre bestia atemoriza a unos niños campesinos en Inglaterra. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81nuSA-K9tL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260506090500 +0200" stop="20260506102800 +0200" channel="acontra+ CINE">
+    <title lang="es">Nadie vive (2012)</title>
+    <desc lang="es">Unos delincuentes asaltan a una joven pareja sin saber lo que sus víctimas pueden llegar a hacer. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Reobno5YL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260506102800 +0200" stop="20260506122300 +0200" channel="acontra+ CINE">
+    <title lang="es">Saint Jack (1979)</title>
+    <desc lang="es">Jack se enfrentará a un nuevo inspector cuando este quiere revisar las cuentas de su burdel. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81zoGQKfTzL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260506122300 +0200" stop="20260506143200 +0200" channel="acontra+ CINE">
+    <title lang="es">Stonewall (2015)</title>
+    <desc lang="es">Stonewall se convirtió en el punto de partida de los derechos de los homosexuales en Nueva York. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91bmUydEiYL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
