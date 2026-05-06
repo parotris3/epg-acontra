@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260506185400 +0200" stop="20260506205400 +0200" channel="acontra+ CINE">
-    <title lang="es">La mirada del amor (2013)</title>
-    <desc lang="es">Una mujer se enamora de un hombre que se parece a su esposo fallecido. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91LGJdPU8CL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260506205400 +0200" stop="20260506221500 +0200" channel="acontra+ CINE">
-    <title lang="es">La cena de los idiotas (1998)</title>
-    <desc lang="es">Un francés adinerado mantiene un certamen semanal para ver quién trae como invitado al mayor idiota. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ALhSuqkiL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260506221500 +0200" stop="20260506235900 +0200" channel="acontra+ CINE">
-    <title lang="es">Encuentro en la noche (1952)</title>
-    <desc lang="es">Tras diez años de ausencia, Mae Doyle vuelve a su pueblo natal, una pequeña población pesquera. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81zo2eSNOcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260506235900 +0200" stop="20260507023200 +0200" channel="acontra+ CINE">
+  <programme start="20260507003200 +0200" stop="20260507023200 +0200" channel="acontra+ CINE">
     <title lang="es">El salario del miedo (1953)</title>
     <desc lang="es">Cuatro conductores tienen que llevar dos camiones con nitroglicerina a través de terreno inhóspito. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91zW3okns0L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Un Plan Para Enamorarse (2011)</title>
     <desc lang="es">Una consejera matrimonial recién casada descubre que sus padres se van a divorciar. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71gP16ib9fL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260507053700 +0200" stop="20260507072400 +0200" channel="acontra+ CINE">
+    <title lang="es">Adiós, felicidad</title>
+    <desc lang="es">Cuatro hermanos se reencuentran por última vez para rendirle un último homenaje a su padre. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1fX27r6b4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260507072400 +0200" stop="20260507085100 +0200" channel="acontra+ CINE">
+    <title lang="es">El cuerpo y el látigo (1963)</title>
+    <desc lang="es">El espíritu de un sádico aristócrata vuelve para seguir aterrorizando a su familia. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91MbcUjcA0L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
