@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260506142400 +0200" stop="20260506162400 +0200" channel="acontra+ CINE">
-    <title lang="es">Uno tras otro (2014)</title>
-    <desc lang="es">Cuando su hijo muere de sobredosis, Nils, convencido de que ha sido asesinado, quiere venganza. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81K2F-fI2sL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260506162400 +0200" stop="20260506175100 +0200" channel="acontra+ CINE">
-    <title lang="es">Semillas de destrucción (2011)</title>
-    <desc lang="es">Dos ecologistas son testigos del rápido crecimiento de unas raíces que puede provocar un terremoto. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Oi7vZvK1L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260506175100 +0200" stop="20260506192600 +0200" channel="acontra+ CINE">
-    <title lang="es">The Guest (2014)</title>
-    <desc lang="es">El exmarine David entra en la familia Peterson hasta que se dan cuenta de que no es lo que aparenta. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91yqoHlJH2L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260506192600 +0200" stop="20260506205400 +0200" channel="acontra+ CINE">
+  <programme start="20260506185400 +0200" stop="20260506205400 +0200" channel="acontra+ CINE">
     <title lang="es">La mirada del amor (2013)</title>
     <desc lang="es">Una mujer se enamora de un hombre que se parece a su esposo fallecido. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91LGJdPU8CL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Encuentro en la noche (1952)</title>
     <desc lang="es">Tras diez años de ausencia, Mae Doyle vuelve a su pueblo natal, una pequeña población pesquera. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81zo2eSNOcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260506235900 +0200" stop="20260507023200 +0200" channel="acontra+ CINE">
+    <title lang="es">El salario del miedo (1953)</title>
+    <desc lang="es">Cuatro conductores tienen que llevar dos camiones con nitroglicerina a través de terreno inhóspito. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91zW3okns0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260507023200 +0200" stop="20260507040000 +0200" channel="acontra+ CINE">
+    <title lang="es">Diplomacia (2014)</title>
+    <desc lang="es">Raoul Nordling intenta convencer a Dietrich von Choltitz para que deje intactos los monumentos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81x-O7eaqzL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260507040000 +0200" stop="20260507053700 +0200" channel="acontra+ CINE">
+    <title lang="es">Un Plan Para Enamorarse (2011)</title>
+    <desc lang="es">Una consejera matrimonial recién casada descubre que sus padres se van a divorciar. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71gP16ib9fL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
