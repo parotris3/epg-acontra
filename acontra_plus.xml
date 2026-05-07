@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260507185300 +0200" stop="20260507205300 +0200" channel="acontra+ CINE">
-    <title lang="es">Un condenado a muerte se ha escapado (1956)</title>
-    <desc lang="es">En 1943, un soldado de la Resistencia francesa es arrestado y encerrado en el Fuerte Montjuic. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91CfviYQcvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260507205300 +0200" stop="20260507222500 +0200" channel="acontra+ CINE">
-    <title lang="es">Sueños eléctricos (1984)</title>
-    <desc lang="es">Un arquitecto y su ordenador, que ha cobrado vida propia, pelearán por el amor de su vecina. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/818fKOqBghL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260507222500 +0200" stop="20260508000600 +0200" channel="acontra+ CINE">
+  <programme start="20260507220600 +0200" stop="20260508000600 +0200" channel="acontra+ CINE">
     <title lang="es">Super Mario Bros. (1993)</title>
     <desc lang="es">Mario y Luigi descubren un mundo paralelo poblado por los descendientes de los dinosaurios. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81B0uZ9WZCL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">La piedra sagrada (2017)</title>
     <desc lang="es">Un hombre dispara accidentalmente un dispositivo apocalíptico sumerio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1XwvyLLD+L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260508052200 +0200" stop="20260508065500 +0200" channel="acontra+ CINE">
+    <title lang="es">Noche real (2015)</title>
+    <desc lang="es">En el Día de la Victoria, las princesas Isabel y Margarita se unen a la celebración de incógnito. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1eJ-vL++eL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260508065500 +0200" stop="20260508084900 +0200" channel="acontra+ CINE">
+    <title lang="es">Sección especial</title>
+    <desc lang="es">En la Francia ocupada, un oficial alemán es asesinado por un grupo de jóvenes insurgentes. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71yJ2Ob6BfL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
