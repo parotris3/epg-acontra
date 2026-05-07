@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260507091700 +0200" stop="20260507111700 +0200" channel="acontra+ CINE">
-    <title lang="es">El tambor de hojalata (1988)</title>
-    <desc lang="es">En su tercer cumpleaños, Oskar recibe su primer tambor de hojalata. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91oMcNQd4CL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260507111700 +0200" stop="20260507124600 +0200" channel="acontra+ CINE">
-    <title lang="es">La bala del asesino (2012)</title>
-    <desc lang="es">Un agente del FBI persigue a una persona que asesina a los terroristas más buscados de Europa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81oDwv67swL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260507124600 +0200" stop="20260507143200 +0200" channel="acontra+ CINE">
-    <title lang="es">Llévame a la luna (2012)</title>
-    <desc lang="es">Una mujer se propone eliminar la maldición familiar en la que cada primer matrimonio se divorcia. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/813uBwbCaXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260507143200 +0200" stop="20260507160300 +0200" channel="acontra+ CINE">
+  <programme start="20260507140300 +0200" stop="20260507160300 +0200" channel="acontra+ CINE">
     <title lang="es">Notre Dame (2019)</title>
     <desc lang="es">La vida de una arquitecta cambia cuando gana la oportunidad de renovar la catedral de Notre Dame. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/819wBQ4-5BL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Seoul Station (2016)</title>
     <desc lang="es">Un hombre desesperado busca a su hija desaparecida durante un ataque zombi. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1pcxlvhZAL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260507191200 +0200" stop="20260507205300 +0200" channel="acontra+ CINE">
+    <title lang="es">Un condenado a muerte se ha escapado (1956)</title>
+    <desc lang="es">En 1943, un soldado de la Resistencia francesa es arrestado y encerrado en el Fuerte Montjuic. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91CfviYQcvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260507205300 +0200" stop="20260507222500 +0200" channel="acontra+ CINE">
+    <title lang="es">Sueños eléctricos (1984)</title>
+    <desc lang="es">Un arquitecto y su ordenador, que ha cobrado vida propia, pelearán por el amor de su vecina. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/818fKOqBghL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260507222500 +0200" stop="20260508000600 +0200" channel="acontra+ CINE">
+    <title lang="es">Super Mario Bros. (1993)</title>
+    <desc lang="es">Mario y Luigi descubren un mundo paralelo poblado por los descendientes de los dinosaurios. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81B0uZ9WZCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
