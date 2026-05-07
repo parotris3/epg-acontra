@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260507033700 +0200" stop="20260507053700 +0200" channel="acontra+ CINE">
-    <title lang="es">Un Plan Para Enamorarse (2011)</title>
-    <desc lang="es">Una consejera matrimonial recién casada descubre que sus padres se van a divorciar. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71gP16ib9fL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260507053700 +0200" stop="20260507072400 +0200" channel="acontra+ CINE">
-    <title lang="es">Adiós, felicidad</title>
-    <desc lang="es">Cuatro hermanos se reencuentran por última vez para rendirle un último homenaje a su padre. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1fX27r6b4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260507072400 +0200" stop="20260507085100 +0200" channel="acontra+ CINE">
-    <title lang="es">El cuerpo y el látigo (1963)</title>
-    <desc lang="es">El espíritu de un sádico aristócrata vuelve para seguir aterrorizando a su familia. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91MbcUjcA0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260507085100 +0200" stop="20260507111700 +0200" channel="acontra+ CINE">
+  <programme start="20260507091700 +0200" stop="20260507111700 +0200" channel="acontra+ CINE">
     <title lang="es">El tambor de hojalata (1988)</title>
     <desc lang="es">En su tercer cumpleaños, Oskar recibe su primer tambor de hojalata. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91oMcNQd4CL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Llévame a la luna (2012)</title>
     <desc lang="es">Una mujer se propone eliminar la maldición familiar en la que cada primer matrimonio se divorcia. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/813uBwbCaXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260507143200 +0200" stop="20260507160300 +0200" channel="acontra+ CINE">
+    <title lang="es">Notre Dame (2019)</title>
+    <desc lang="es">La vida de una arquitecta cambia cuando gana la oportunidad de renovar la catedral de Notre Dame. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/819wBQ4-5BL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260507160300 +0200" stop="20260507174300 +0200" channel="acontra+ CINE">
+    <title lang="es">Perversidad (1945)</title>
+    <desc lang="es">Un hombre con talento para la pintura es explotado por una mujer y su novio sin escrúpulos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81sCHck-WNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260507174300 +0200" stop="20260507191200 +0200" channel="acontra+ CINE">
+    <title lang="es">Seoul Station (2016)</title>
+    <desc lang="es">Un hombre desesperado busca a su hija desaparecida durante un ataque zombi. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1pcxlvhZAL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
