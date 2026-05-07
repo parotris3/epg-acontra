@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260507140300 +0200" stop="20260507160300 +0200" channel="acontra+ CINE">
-    <title lang="es">Notre Dame (2019)</title>
-    <desc lang="es">La vida de una arquitecta cambia cuando gana la oportunidad de renovar la catedral de Notre Dame. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/819wBQ4-5BL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260507160300 +0200" stop="20260507174300 +0200" channel="acontra+ CINE">
-    <title lang="es">Perversidad (1945)</title>
-    <desc lang="es">Un hombre con talento para la pintura es explotado por una mujer y su novio sin escrúpulos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81sCHck-WNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260507174300 +0200" stop="20260507191200 +0200" channel="acontra+ CINE">
-    <title lang="es">Seoul Station (2016)</title>
-    <desc lang="es">Un hombre desesperado busca a su hija desaparecida durante un ataque zombi. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1pcxlvhZAL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260507191200 +0200" stop="20260507205300 +0200" channel="acontra+ CINE">
+  <programme start="20260507185300 +0200" stop="20260507205300 +0200" channel="acontra+ CINE">
     <title lang="es">Un condenado a muerte se ha escapado (1956)</title>
     <desc lang="es">En 1943, un soldado de la Resistencia francesa es arrestado y encerrado en el Fuerte Montjuic. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91CfviYQcvL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Super Mario Bros. (1993)</title>
     <desc lang="es">Mario y Luigi descubren un mundo paralelo poblado por los descendientes de los dinosaurios. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81B0uZ9WZCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260508000600 +0200" stop="20260508023300 +0200" channel="acontra+ CINE">
+    <title lang="es">Romanzo criminale (2005)</title>
+    <desc lang="es">Una banda de delincuentes asesina a un hombre poderoso y se involucra en el tráfico de drogas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8193TrysWXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260508023300 +0200" stop="20260508035700 +0200" channel="acontra+ CINE">
+    <title lang="es">Lavalantula (2015)</title>
+    <desc lang="es">Una serie de erupciones volcánicas en Los Ángeles provoca la aparición de una plaga de tarántulas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1c-DnkrXiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260508035700 +0200" stop="20260508052200 +0200" channel="acontra+ CINE">
+    <title lang="es">La piedra sagrada (2017)</title>
+    <desc lang="es">Un hombre dispara accidentalmente un dispositivo apocalíptico sumerio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1XwvyLLD+L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
