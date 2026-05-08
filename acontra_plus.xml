@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260508190400 +0200" stop="20260508210400 +0200" channel="acontra+ CINE">
-    <title lang="es">American Night (2021)</title>
-    <desc lang="es">Un cuadro de Andy Warhol desaparecido reaparece y desencadena una peligrosa reacción en cadena. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1RSx3WyEaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260508210400 +0200" stop="20260508223400 +0200" channel="acontra+ CINE">
-    <title lang="es">12 catástrofes (2012)</title>
-    <desc lang="es">Una amenazadora estrella negra aparece en el cielo aterrorizando a los habitantes de La Tierra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1xorFXI7PL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260508223400 +0200" stop="20260509001500 +0200" channel="acontra+ CINE">
+  <programme start="20260508221500 +0200" stop="20260509001500 +0200" channel="acontra+ CINE">
     <title lang="es">Dog Soldiers (2002)</title>
     <desc lang="es">Unos soldados ingleses lucharán por sus vidas al enfrentarse a unas agresivas y extrañas bestias. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/918fYN7V4wL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">La escapada de Sobibor (1987)</title>
     <desc lang="es">El relato de la rebelión de más de 300 judíos de un campo de concentración nazi. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81iS3fCLTCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260509040700 +0200" stop="20260509054900 +0200" channel="acontra+ CINE">
+    <title lang="es">La resurrección de los muertos (2016)</title>
+    <desc lang="es">La resurrección de los muertos influye en la vida de una ciudad francesa que los volverá a acoger. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71AiAFn8TNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260509054900 +0200" stop="20260509072500 +0200" channel="acontra+ CINE">
+    <title lang="es">El rostro (1975)</title>
+    <desc lang="es">El hipnotizador y mago Vogler y su mujer están siendo desafiados por los escépticos locales. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Lo+2uo-4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260509072500 +0200" stop="20260509091900 +0200" channel="acontra+ CINE">
+    <title lang="es">Cuento de Invierno (2015)</title>
+    <desc lang="es">El recuerdo del hombre que amó invade a una joven madre y le impide enamorarse. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-IFBUjqlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
