@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260507220600 +0200" stop="20260508000600 +0200" channel="acontra+ CINE">
-    <title lang="es">Super Mario Bros. (1993)</title>
-    <desc lang="es">Mario y Luigi descubren un mundo paralelo poblado por los descendientes de los dinosaurios. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81B0uZ9WZCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260508000600 +0200" stop="20260508023300 +0200" channel="acontra+ CINE">
-    <title lang="es">Romanzo criminale (2005)</title>
-    <desc lang="es">Una banda de delincuentes asesina a un hombre poderoso y se involucra en el tráfico de drogas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8193TrysWXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260508023300 +0200" stop="20260508035700 +0200" channel="acontra+ CINE">
-    <title lang="es">Lavalantula (2015)</title>
-    <desc lang="es">Una serie de erupciones volcánicas en Los Ángeles provoca la aparición de una plaga de tarántulas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1c-DnkrXiL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260508035700 +0200" stop="20260508052200 +0200" channel="acontra+ CINE">
+  <programme start="20260508032200 +0200" stop="20260508052200 +0200" channel="acontra+ CINE">
     <title lang="es">La piedra sagrada (2017)</title>
     <desc lang="es">Un hombre dispara accidentalmente un dispositivo apocalíptico sumerio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1XwvyLLD+L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Sección especial</title>
     <desc lang="es">En la Francia ocupada, un oficial alemán es asesinado por un grupo de jóvenes insurgentes. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71yJ2Ob6BfL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260508084900 +0200" stop="20260508101400 +0200" channel="acontra+ CINE">
+    <title lang="es">Sexy Beast (2000)</title>
+    <desc lang="es">Gal Dove se planteará regresar al mundo criminal cuando su antiguo socio, Don Logan, se lo propone. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81dP7k-3QgL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260508101400 +0200" stop="20260508115400 +0200" channel="acontra+ CINE">
+    <title lang="es">Traveller (1997)</title>
+    <desc lang="es">Tras morir su padre, Pat O'Hara quiere unirse a un grupo de estafadores irlandeses-americanos. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1Vr2YKjJIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260508115400 +0200" stop="20260508132100 +0200" channel="acontra+ CINE">
+    <title lang="es">Un Plan Para Enamorarse (2011)</title>
+    <desc lang="es">Una consejera matrimonial recién casada descubre que sus padres se van a divorciar. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71gP16ib9fL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
