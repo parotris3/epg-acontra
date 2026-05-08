@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260508032200 +0200" stop="20260508052200 +0200" channel="acontra+ CINE">
-    <title lang="es">La piedra sagrada (2017)</title>
-    <desc lang="es">Un hombre dispara accidentalmente un dispositivo apocalíptico sumerio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1XwvyLLD+L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260508052200 +0200" stop="20260508065500 +0200" channel="acontra+ CINE">
-    <title lang="es">Noche real (2015)</title>
-    <desc lang="es">En el Día de la Victoria, las princesas Isabel y Margarita se unen a la celebración de incógnito. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1eJ-vL++eL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260508065500 +0200" stop="20260508084900 +0200" channel="acontra+ CINE">
-    <title lang="es">Sección especial</title>
-    <desc lang="es">En la Francia ocupada, un oficial alemán es asesinado por un grupo de jóvenes insurgentes. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71yJ2Ob6BfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260508084900 +0200" stop="20260508101400 +0200" channel="acontra+ CINE">
+  <programme start="20260508081400 +0200" stop="20260508101400 +0200" channel="acontra+ CINE">
     <title lang="es">Sexy Beast (2000)</title>
     <desc lang="es">Gal Dove se planteará regresar al mundo criminal cuando su antiguo socio, Don Logan, se lo propone. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81dP7k-3QgL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Un Plan Para Enamorarse (2011)</title>
     <desc lang="es">Una consejera matrimonial recién casada descubre que sus padres se van a divorciar. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71gP16ib9fL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260508132100 +0200" stop="20260508150000 +0200" channel="acontra+ CINE">
+    <title lang="es">El último gran día (2009)</title>
+    <desc lang="es">Un temible solitario prepara su propio funeral y piensa asistir a él para revelárselo a todos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/acontra_CINE_16x9._UR1920,1080_FMpng_.png"/>
+  </programme>
+  <programme start="20260508150000 +0200" stop="20260508171300 +0200" channel="acontra+ CINE">
+    <title lang="es">El cielo protector (1990)</title>
+    <desc lang="es">Una pareja neoyorquina hace un viaje al norte de África en un intento de reparar su matrimonio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91biKRsKAwL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260508171300 +0200" stop="20260508190100 +0200" channel="acontra+ CINE">
+    <title lang="es">La duda de Darwin (2009)</title>
+    <desc lang="es">Darwin se encontrará con una sociedad reacia al cambio cuando publique su teoría de la evolución. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91lZCeCPcAL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
