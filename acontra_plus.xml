@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260509034900 +0200" stop="20260509054900 +0200" channel="acontra+ CINE">
-    <title lang="es">La resurrección de los muertos (2016)</title>
-    <desc lang="es">La resurrección de los muertos influye en la vida de una ciudad francesa que los volverá a acoger. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71AiAFn8TNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260509054900 +0200" stop="20260509072500 +0200" channel="acontra+ CINE">
-    <title lang="es">El rostro (1975)</title>
-    <desc lang="es">El hipnotizador y mago Vogler y su mujer están siendo desafiados por los escépticos locales. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Lo+2uo-4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260509072500 +0200" stop="20260509091900 +0200" channel="acontra+ CINE">
-    <title lang="es">Cuento de Invierno (2015)</title>
-    <desc lang="es">El recuerdo del hombre que amó invade a una joven madre y le impide enamorarse. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-IFBUjqlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260509091900 +0200" stop="20260509111100 +0200" channel="acontra+ CINE">
+  <programme start="20260509091100 +0200" stop="20260509111100 +0200" channel="acontra+ CINE">
     <title lang="es">Antes de la Revolución (1964)</title>
     <desc lang="es">Fabrizio intenta conciliar su origen burgués con su pertenencia al Partido Comunista Italiano. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91few9fDydL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">Destrucción (2018)</title>
     <desc lang="es">Una policía revive el drama que marcó su vida. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Kaac9AZlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260509130700 +0200" stop="20260509143400 +0200" channel="acontra+ CINE">
+    <title lang="es">El valor de una madre</title>
+    <desc lang="es">Aline, que perdió a su hijo de 17 años en una reyerta, se encuentra a su agresor. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81nW9J6LlQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260509143400 +0200" stop="20260509160900 +0200" channel="acontra+ CINE">
+    <title lang="es">La caravana del mal (2018)</title>
+    <desc lang="es">Charles compra una vieja caravana para llevar a su familia de viaje y reconciliarse con sus hijos. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91bFAFnMswL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260509160900 +0200" stop="20260509175500 +0200" channel="acontra+ CINE">
+    <title lang="es">La rodilla de Clara (1971)</title>
+    <desc lang="es">Un diplomático a punto de casarse se obsesiona con una parte particular de la anatomía de una mujer. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ZMw3uHxdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260509175500 +0200" stop="20260509193400 +0200" channel="acontra+ CINE">
+    <title lang="es">Medidas extremas (2017)</title>
+    <desc lang="es">Un hombre está dispuesto a todo con tal de sacar a su hija del mundo de las drogas y los hurtos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/915YbrZlfKL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
