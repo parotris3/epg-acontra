@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260509190300 +0200" stop="20260509210300 +0200" channel="acontra+ CINE">
-    <title lang="es">Twin Dragons (1992)</title>
-    <desc lang="es">Dos gemelos idénticos separados poco después de nacer, se reencuentran años después. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81mPSuY5TqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260509210300 +0200" stop="20260509225800 +0200" channel="acontra+ CINE">
-    <title lang="es">Mi amigo Mr. Morgan (2013)</title>
-    <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260509225800 +0200" stop="20260510004000 +0200" channel="acontra+ CINE">
+  <programme start="20260509224000 +0200" stop="20260510004000 +0200" channel="acontra+ CINE">
     <title lang="es">Sin techo ni ley (1991)</title>
     <desc lang="es">Mona era una nómada, autoestopista y pasó sus últimos días caminando por las carreteras. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91igR0qpfHL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">Elvira Madigan (1967)</title>
     <desc lang="es">Una joven equilibrista y un oficial casado se enamoran perdidamente y deciden abandonarlo todo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/712uVLv2tWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260510052700 +0200" stop="20260510065300 +0200" channel="acontra+ CINE">
+    <title lang="es">El manantial de la doncella (1960)</title>
+    <desc lang="es">Tres campesinos medievales violan y asesinan a una joven en el bosque y su padre busca venganza. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81HPQIn7ktL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260510065300 +0200" stop="20260510084600 +0200" channel="acontra+ CINE">
+    <title lang="es">Cartas a Roxane (2018)</title>
+    <desc lang="es">Edmond Rostand conoce a Constant Coquellin que acepta interpretar Cyrano de Bergerac. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/814tsVpTvyL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
