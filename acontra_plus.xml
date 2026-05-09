@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260508221500 +0200" stop="20260509001500 +0200" channel="acontra+ CINE">
-    <title lang="es">Dog Soldiers (2002)</title>
-    <desc lang="es">Unos soldados ingleses lucharán por sus vidas al enfrentarse a unas agresivas y extrañas bestias. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/918fYN7V4wL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260509001500 +0200" stop="20260509014400 +0200" channel="acontra+ CINE">
-    <title lang="es">Swimfan (2002)</title>
-    <desc lang="es">Un adolescente se arrepiente de su cita con una compañera. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Adam7EqjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260509014400 +0200" stop="20260509040700 +0200" channel="acontra+ CINE">
-    <title lang="es">La escapada de Sobibor (1987)</title>
-    <desc lang="es">El relato de la rebelión de más de 300 judíos de un campo de concentración nazi. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81iS3fCLTCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260509040700 +0200" stop="20260509054900 +0200" channel="acontra+ CINE">
+  <programme start="20260509034900 +0200" stop="20260509054900 +0200" channel="acontra+ CINE">
     <title lang="es">La resurrección de los muertos (2016)</title>
     <desc lang="es">La resurrección de los muertos influye en la vida de una ciudad francesa que los volverá a acoger. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71AiAFn8TNL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Cuento de Invierno (2015)</title>
     <desc lang="es">El recuerdo del hombre que amó invade a una joven madre y le impide enamorarse. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81-IFBUjqlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260509091900 +0200" stop="20260509111100 +0200" channel="acontra+ CINE">
+    <title lang="es">Antes de la Revolución (1964)</title>
+    <desc lang="es">Fabrizio intenta conciliar su origen burgués con su pertenencia al Partido Comunista Italiano. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91few9fDydL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260509111100 +0200" stop="20260509130700 +0200" channel="acontra+ CINE">
+    <title lang="es">Destrucción (2018)</title>
+    <desc lang="es">Una policía revive el drama que marcó su vida. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Kaac9AZlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
