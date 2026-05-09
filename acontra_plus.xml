@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260509140900 +0200" stop="20260509160900 +0200" channel="acontra+ CINE">
-    <title lang="es">La caravana del mal (2018)</title>
-    <desc lang="es">Charles compra una vieja caravana para llevar a su familia de viaje y reconciliarse con sus hijos. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91bFAFnMswL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260509160900 +0200" stop="20260509175500 +0200" channel="acontra+ CINE">
-    <title lang="es">La rodilla de Clara (1971)</title>
-    <desc lang="es">Un diplomático a punto de casarse se obsesiona con una parte particular de la anatomía de una mujer. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ZMw3uHxdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260509175500 +0200" stop="20260509193400 +0200" channel="acontra+ CINE">
-    <title lang="es">Medidas extremas (2017)</title>
-    <desc lang="es">Un hombre está dispuesto a todo con tal de sacar a su hija del mundo de las drogas y los hurtos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/915YbrZlfKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260509193400 +0200" stop="20260509210300 +0200" channel="acontra+ CINE">
+  <programme start="20260509190300 +0200" stop="20260509210300 +0200" channel="acontra+ CINE">
     <title lang="es">Twin Dragons (1992)</title>
     <desc lang="es">Dos gemelos idénticos separados poco después de nacer, se reencuentran años después. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81mPSuY5TqL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Sin techo ni ley (1991)</title>
     <desc lang="es">Mona era una nómada, autoestopista y pasó sus últimos días caminando por las carreteras. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91igR0qpfHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260510004000 +0200" stop="20260510020300 +0200" channel="acontra+ CINE">
+    <title lang="es">La decisión (2026)</title>
+    <desc lang="es">Sara va a cometer un atentado suicida, pero un vendedor hará que se replantee sus convicciones. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/713kMSbRPpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260510020300 +0200" stop="20260510040000 +0200" channel="acontra+ CINE">
+    <title lang="es">Gertrud (1964)</title>
+    <desc lang="es">Gertrud busca el amor absoluto, pero sus relaciones se ven siempre abocadas al fracaso. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71lbHLum9eL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260510040000 +0200" stop="20260510052700 +0200" channel="acontra+ CINE">
+    <title lang="es">Elvira Madigan (1967)</title>
+    <desc lang="es">Una joven equilibrista y un oficial casado se enamoran perdidamente y deciden abandonarlo todo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/712uVLv2tWL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
