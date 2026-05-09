@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260509091100 +0200" stop="20260509111100 +0200" channel="acontra+ CINE">
-    <title lang="es">Antes de la Revolución (1964)</title>
-    <desc lang="es">Fabrizio intenta conciliar su origen burgués con su pertenencia al Partido Comunista Italiano. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91few9fDydL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260509111100 +0200" stop="20260509130700 +0200" channel="acontra+ CINE">
-    <title lang="es">Destrucción (2018)</title>
-    <desc lang="es">Una policía revive el drama que marcó su vida. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Kaac9AZlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260509130700 +0200" stop="20260509143400 +0200" channel="acontra+ CINE">
-    <title lang="es">El valor de una madre</title>
-    <desc lang="es">Aline, que perdió a su hijo de 17 años en una reyerta, se encuentra a su agresor. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nW9J6LlQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260509143400 +0200" stop="20260509160900 +0200" channel="acontra+ CINE">
+  <programme start="20260509140900 +0200" stop="20260509160900 +0200" channel="acontra+ CINE">
     <title lang="es">La caravana del mal (2018)</title>
     <desc lang="es">Charles compra una vieja caravana para llevar a su familia de viaje y reconciliarse con sus hijos. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91bFAFnMswL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Medidas extremas (2017)</title>
     <desc lang="es">Un hombre está dispuesto a todo con tal de sacar a su hija del mundo de las drogas y los hurtos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/915YbrZlfKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260509193400 +0200" stop="20260509210300 +0200" channel="acontra+ CINE">
+    <title lang="es">Twin Dragons (1992)</title>
+    <desc lang="es">Dos gemelos idénticos separados poco después de nacer, se reencuentran años después. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81mPSuY5TqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260509210300 +0200" stop="20260509225800 +0200" channel="acontra+ CINE">
+    <title lang="es">Mi amigo Mr. Morgan (2013)</title>
+    <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260509225800 +0200" stop="20260510004000 +0200" channel="acontra+ CINE">
+    <title lang="es">Sin techo ni ley (1991)</title>
+    <desc lang="es">Mona era una nómada, autoestopista y pasó sus últimos días caminando por las carreteras. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91igR0qpfHL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
