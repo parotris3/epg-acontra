@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260510180100 +0200" stop="20260510200100 +0200" channel="acontra+ CINE">
-    <title lang="es">La ciudad de la alegría (1992)</title>
-    <desc lang="es">En la ciudad de Calcuta, dos personas muy diferentes encuentran comprensión la una en la otra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81vWESbKG4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260510200100 +0200" stop="20260510224400 +0200" channel="acontra+ CINE">
-    <title lang="es">Scenes From a Marriage (2021)</title>
-    <desc lang="es">Una adaptación de la miniserie sueca de 1973 de Ingar Bergmann sobre un matrimonio que se desmorona. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1a0AxxalkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260510224400 +0200" stop="20260511002400 +0200" channel="acontra+ CINE">
+  <programme start="20260510222400 +0200" stop="20260511002400 +0200" channel="acontra+ CINE">
     <title lang="es">Mejor otro día (2014)</title>
     <desc lang="es">En Londres, durante la noche de fin de año, cuatro desconocidos coinciden para lanzarse al vacío. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81BOSXet0mL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Farinelli: Il Castrato (1994)</title>
     <desc lang="es">Con tan solo 32 años, Farinelli, célebre "castrato", está en la cumbre del éxito profesional. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/8151aO39RaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260511040300 +0200" stop="20260511061600 +0200" channel="acontra+ CINE">
+    <title lang="es">Francesco (1989)</title>
+    <desc lang="es">Tras la muerte de San Francisco de Asís, sus amigos más cercanos hablan de la vida del santo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81oU1qjZcsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260511061600 +0200" stop="20260511080900 +0200" channel="acontra+ CINE">
+    <title lang="es">La gran seducción (2013)</title>
+    <desc lang="es">Los habitantes del pueblo costero canadiense de Tickel Cove necesitan un médico. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ZWzJlAK2L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
