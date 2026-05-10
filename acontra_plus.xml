@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260509224000 +0200" stop="20260510004000 +0200" channel="acontra+ CINE">
-    <title lang="es">Sin techo ni ley (1991)</title>
-    <desc lang="es">Mona era una nómada, autoestopista y pasó sus últimos días caminando por las carreteras. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91igR0qpfHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260510004000 +0200" stop="20260510020300 +0200" channel="acontra+ CINE">
-    <title lang="es">La decisión (2026)</title>
-    <desc lang="es">Sara va a cometer un atentado suicida, pero un vendedor hará que se replantee sus convicciones. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/713kMSbRPpL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260510020300 +0200" stop="20260510040000 +0200" channel="acontra+ CINE">
-    <title lang="es">Gertrud (1964)</title>
-    <desc lang="es">Gertrud busca el amor absoluto, pero sus relaciones se ven siempre abocadas al fracaso. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71lbHLum9eL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260510040000 +0200" stop="20260510052700 +0200" channel="acontra+ CINE">
+  <programme start="20260510032700 +0200" stop="20260510052700 +0200" channel="acontra+ CINE">
     <title lang="es">Elvira Madigan (1967)</title>
     <desc lang="es">Una joven equilibrista y un oficial casado se enamoran perdidamente y deciden abandonarlo todo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/712uVLv2tWL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Cartas a Roxane (2018)</title>
     <desc lang="es">Edmond Rostand conoce a Constant Coquellin que acepta interpretar Cyrano de Bergerac. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/814tsVpTvyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260510084600 +0200" stop="20260510101200 +0200" channel="acontra+ CINE">
+    <title lang="es">Área 407 (2011)</title>
+    <desc lang="es">Los supervivientes de un accidente aéreo se ven perseguidos por predadores creados por el gobierno. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81K+8pQ5S7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260510101200 +0200" stop="20260510114200 +0200" channel="acontra+ CINE">
+    <title lang="es">6 días (2017)</title>
+    <desc lang="es">Un grupo armado toma la embajada iraní en 1980 y empieza un enfrentamiento de seis días. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91F6+BnLZtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260510114200 +0200" stop="20260510131900 +0200" channel="acontra+ CINE">
+    <title lang="es">El guardia (2011)</title>
+    <desc lang="es">Dos agentes de policía descubren que sus exsuperiores están involucrados en un caso de corrupción. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81QiXuZLC8L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
