@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260510081200 +0200" stop="20260510101200 +0200" channel="acontra+ CINE">
-    <title lang="es">Área 407 (2011)</title>
-    <desc lang="es">Los supervivientes de un accidente aéreo se ven perseguidos por predadores creados por el gobierno. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81K+8pQ5S7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260510101200 +0200" stop="20260510114200 +0200" channel="acontra+ CINE">
-    <title lang="es">6 días (2017)</title>
-    <desc lang="es">Un grupo armado toma la embajada iraní en 1980 y empieza un enfrentamiento de seis días. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91F6+BnLZtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260510114200 +0200" stop="20260510131900 +0200" channel="acontra+ CINE">
-    <title lang="es">El guardia (2011)</title>
-    <desc lang="es">Dos agentes de policía descubren que sus exsuperiores están involucrados en un caso de corrupción. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81QiXuZLC8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260510131900 +0200" stop="20260510145400 +0200" channel="acontra+ CINE">
-    <title lang="es">Esperando la hora (1998)</title>
-    <desc lang="es">Cuatro mujeres jóvenes tienen en común la precariedad laboral y la esperanza de un contrato fijo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71aMWv9eWlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260510145400 +0200" stop="20260510163100 +0200" channel="acontra+ CINE">
+  <programme start="20260510143100 +0200" stop="20260510163100 +0200" channel="acontra+ CINE">
     <title lang="es">JCVD (2008)</title>
     <desc lang="es">Van Damme no pasa por un gran momento: sin trabajo y a punto de perder la custodia de su hija. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1pNYm7xglL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +17,15 @@
     <title lang="es">La ciudad de la alegría (1992)</title>
     <desc lang="es">En la ciudad de Calcuta, dos personas muy diferentes encuentran comprensión la una en la otra. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81vWESbKG4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260510200100 +0200" stop="20260510224400 +0200" channel="acontra+ CINE">
+    <title lang="es">Scenes From a Marriage (2021)</title>
+    <desc lang="es">Una adaptación de la miniserie sueca de 1973 de Ingar Bergmann sobre un matrimonio que se desmorona. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1a0AxxalkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260510224400 +0200" stop="20260511002400 +0200" channel="acontra+ CINE">
+    <title lang="es">Mejor otro día (2014)</title>
+    <desc lang="es">En Londres, durante la noche de fin de año, cuatro desconocidos coinciden para lanzarse al vacío. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81BOSXet0mL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
