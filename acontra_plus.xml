@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260510222400 +0200" stop="20260511002400 +0200" channel="acontra+ CINE">
-    <title lang="es">Mejor otro día (2014)</title>
-    <desc lang="es">En Londres, durante la noche de fin de año, cuatro desconocidos coinciden para lanzarse al vacío. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BOSXet0mL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260511002400 +0200" stop="20260511021500 +0200" channel="acontra+ CINE">
-    <title lang="es">La próxima vez apuntaré al corazón (2014)</title>
-    <desc lang="es">Los habitantes de una tranquila comarca vivieron aterrorizados a causa de un asesino en serie. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81AoIaGSW8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260511021500 +0200" stop="20260511040300 +0200" channel="acontra+ CINE">
-    <title lang="es">Farinelli: Il Castrato (1994)</title>
-    <desc lang="es">Con tan solo 32 años, Farinelli, célebre "castrato", está en la cumbre del éxito profesional. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8151aO39RaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260511040300 +0200" stop="20260511061600 +0200" channel="acontra+ CINE">
+  <programme start="20260511041600 +0200" stop="20260511061600 +0200" channel="acontra+ CINE">
     <title lang="es">Francesco (1989)</title>
     <desc lang="es">Tras la muerte de San Francisco de Asís, sus amigos más cercanos hablan de la vida del santo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81oU1qjZcsL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">La gran seducción (2013)</title>
     <desc lang="es">Los habitantes del pueblo costero canadiense de Tickel Cove necesitan un médico. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ZWzJlAK2L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260511080900 +0200" stop="20260511100000 +0200" channel="acontra+ CINE">
+    <title lang="es">Los profesores de Saint-Denis (2019)</title>
+    <desc lang="es">Samia tendrá que lidiar con los problemas de disciplina y la realidad social de la escuela. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-2mCfCkLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260511100000 +0200" stop="20260511120400 +0200" channel="acontra+ CINE">
+    <title lang="es">Pandora y el holandés errante (1951)</title>
+    <desc lang="es">Un capitán holandés agobiado por maldiciones eternas encuentra su salvación en una mujer americana. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A121cQI7dQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260511120400 +0200" stop="20260511134300 +0200" channel="acontra+ CINE">
+    <title lang="es">14 días, 12 noches (2021)</title>
+    <desc lang="es">Isabelle vuelve a Vietnam un año después de la trágica muerte de su hija Clara. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/918nQDfInWL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
