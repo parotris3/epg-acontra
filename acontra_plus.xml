@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260511132600 +0200" stop="20260511152600 +0200" channel="acontra+ CINE">
-    <title lang="es">El coro (2014)</title>
-    <desc lang="es">Las estrictas e inspiradoras lecciones de un maestro despertarán en un joven el amor por la música. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Uiayj-0kL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260511152600 +0200" stop="20260511165400 +0200" channel="acontra+ CINE">
-    <title lang="es">Fresas salvajes (1959)</title>
-    <desc lang="es">El profesor Borg reflexiona sobre los placeres y fracasos de su propia vida en un viaje. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/912DmnSVQ3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260511165400 +0200" stop="20260511195000 +0200" channel="acontra+ CINE">
-    <title lang="es">Don Giovanni (1989)</title>
-    <desc lang="es">En esta versión de la ópera clásica de Mozart, Don Juan peca con su criada y es condenado. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Qw8rHPC8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260511195000 +0200" stop="20260511213000 +0200" channel="acontra+ CINE">
+  <programme start="20260511193000 +0200" stop="20260511213000 +0200" channel="acontra+ CINE">
     <title lang="es">El festín de Babette (1987)</title>
     <desc lang="es">Una criada francesa gana la lotería y usa el dinero para preparar un banquete. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71OVFlkg-RL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">I Am Not a Serial Killer (2016)</title>
     <desc lang="es">Un adolescente tiene que enfrentar su lado oscuro para poder detener a un asesino en serie. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71ua2dH0DiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260511230900 +0200" stop="20260512004400 +0200" channel="acontra+ CINE">
+    <title lang="es">Caramel (2007)</title>
+    <desc lang="es">Cinco mujeres libanesas comparten sus vidas y preocupaciones en un salón de belleza de Beirut. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Svm35LVfL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260512004400 +0200" stop="20260512024600 +0200" channel="acontra+ CINE">
+    <title lang="es">Un pueblo y su rey (2019)</title>
+    <desc lang="es">París, 1789. La Bastilla ha sido asaltada y un soplo de libertad invade las calles. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71AIj2LVkZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260512024600 +0200" stop="20260512041200 +0200" channel="acontra+ CINE">
+    <title lang="es">Salir del armario (2001)</title>
+    <desc lang="es">El empleado de una compañía de condones francesa finge ser homosexual para no perder el empleo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71VYxa3yzML._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
