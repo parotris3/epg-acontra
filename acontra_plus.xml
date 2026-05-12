@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260512184800 +0200" stop="20260512204800 +0200" channel="acontra+ CINE">
-    <title lang="es">Soñadores (2000)</title>
-    <desc lang="es">Isabelle, Theo y Matthew tratan de conocerse mutuamente explorando emociones y erotismo. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81gj-r-5MuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260512204800 +0200" stop="20260512223500 +0200" channel="acontra+ CINE">
-    <title lang="es">Regreso a Bountiful (1986)</title>
-    <desc lang="es">Una mujer grande intenta realizar un último viaje a su pueblo natal, Bountiful. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/91vuEIn4OYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260512223500 +0200" stop="20260513004000 +0200" channel="acontra+ CINE">
+  <programme start="20260512224000 +0200" stop="20260513004000 +0200" channel="acontra+ CINE">
     <title lang="es">Ciudad de Dios (2003)</title>
     <desc lang="es">Basada en el libro de Paulo Lins. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81wZp5Y1eLL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Muerte de un viajante (1985)</title>
     <desc lang="es">Willy Loman un vendedor toma conciencia de l vacío de su vida e intenta ponerle remetido. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81zTdAWcJuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260513060500 +0200" stop="20260513075400 +0200" channel="acontra+ CINE">
+    <title lang="es">Los seductores (2010)</title>
+    <desc lang="es">Álex y su hermana se dedican a separar parejas, pero empezarán a encontrarse problemas. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ln4OpX+FL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260513075400 +0200" stop="20260513092600 +0200" channel="acontra+ CINE">
+    <title lang="es">Gritos y susurros (1972)</title>
+    <desc lang="es">Tres hermanas se reúnen para pasar juntas los últimos días de vida de una de ellas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71l-O1xlqZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
