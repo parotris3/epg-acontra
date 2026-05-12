@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260512040400 +0200" stop="20260512060400 +0200" channel="acontra+ CINE">
-    <title lang="es">Wilde (1998)</title>
-    <desc lang="es">En la Inglaterra victoriana, la relación de Oscar Wilde con un noble lo conduce a su ruina. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81IkOUj2oqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260512060400 +0200" stop="20260512073700 +0200" channel="acontra+ CINE">
-    <title lang="es">Otelo (1952)</title>
-    <desc lang="es">El admirado general Otelo es víctima de las intrigas de unos de sus envidiosos oficiales. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81DQBnGA6NL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260512073700 +0200" stop="20260512090500 +0200" channel="acontra+ CINE">
-    <title lang="es">La senda de la esperanza</title>
-    <desc lang="es">Tres mujeres, que se encuentran alojadas en una pensión de Roma, comparten un mismo sueño. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1r2kgbrXwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260512090500 +0200" stop="20260512103000 +0200" channel="acontra+ CINE">
+  <programme start="20260512083000 +0200" stop="20260512103000 +0200" channel="acontra+ CINE">
     <title lang="es">Enrique IV (2014)</title>
     <desc lang="es">En una fiesta de disfraces, un hombre disfrazado de Enrique IV de Alemania se golpea la cabeza. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A116kxGgaXL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Adorable seductor (1989)</title>
     <desc lang="es">El nuevo miembro de una compañía de teatro se enfrenta a un director bullicioso. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81eXQTzyLjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260512135700 +0200" stop="20260512153300 +0200" channel="acontra+ CINE">
+    <title lang="es">Hit & Run (2012)</title>
+    <desc lang="es">Un piloto se arriesga para llevar a una mujer a Los Ángeles. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1SfhywIqsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260512153300 +0200" stop="20260512170500 +0200" channel="acontra+ CINE">
+    <title lang="es">Kim Novak nunca estuvo aquí (2012)</title>
+    <desc lang="es">Henry comienza unas idílicas vacaciones en el campo hasta que ocurre un terrible incidente. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Rx9R4K4hL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260512170500 +0200" stop="20260512185300 +0200" channel="acontra+ CINE">
+    <title lang="es">Los amantes de Montparnasse (1958)</title>
+    <desc lang="es">Relato del último año de vida del pintor italiano Modigliani en el barrio francés de Montparnasse. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ph+W4zttL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
