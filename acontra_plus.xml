@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260512133300 +0200" stop="20260512153300 +0200" channel="acontra+ CINE">
-    <title lang="es">Hit & Run (2012)</title>
-    <desc lang="es">Un piloto se arriesga para llevar a una mujer a Los Ángeles. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1SfhywIqsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260512153300 +0200" stop="20260512170500 +0200" channel="acontra+ CINE">
-    <title lang="es">Kim Novak nunca estuvo aquí (2012)</title>
-    <desc lang="es">Henry comienza unas idílicas vacaciones en el campo hasta que ocurre un terrible incidente. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Rx9R4K4hL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260512170500 +0200" stop="20260512185300 +0200" channel="acontra+ CINE">
-    <title lang="es">Los amantes de Montparnasse (1958)</title>
-    <desc lang="es">Relato del último año de vida del pintor italiano Modigliani en el barrio francés de Montparnasse. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ph+W4zttL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260512185300 +0200" stop="20260512204800 +0200" channel="acontra+ CINE">
+  <programme start="20260512184800 +0200" stop="20260512204800 +0200" channel="acontra+ CINE">
     <title lang="es">Soñadores (2000)</title>
     <desc lang="es">Isabelle, Theo y Matthew tratan de conocerse mutuamente explorando emociones y erotismo. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81gj-r-5MuL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Ciudad de Dios (2003)</title>
     <desc lang="es">Basada en el libro de Paulo Lins. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81wZp5Y1eLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260513004000 +0200" stop="20260513035000 +0200" channel="acontra+ CINE">
+    <title lang="es">Los niños del paraíso (1945)</title>
+    <desc lang="es">París, 1820. Dos jóvenes artistas entablan amistad. Un día, una mujer irrumpe en sus vidas. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/61VGB8+dDOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260513035000 +0200" stop="20260513060500 +0200" channel="acontra+ CINE">
+    <title lang="es">Muerte de un viajante (1985)</title>
+    <desc lang="es">Willy Loman un vendedor toma conciencia de l vacío de su vida e intenta ponerle remetido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81zTdAWcJuL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
