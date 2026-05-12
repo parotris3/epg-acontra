@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260511224400 +0200" stop="20260512004400 +0200" channel="acontra+ CINE">
-    <title lang="es">Caramel (2007)</title>
-    <desc lang="es">Cinco mujeres libanesas comparten sus vidas y preocupaciones en un salón de belleza de Beirut. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Svm35LVfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260512004400 +0200" stop="20260512024600 +0200" channel="acontra+ CINE">
-    <title lang="es">Un pueblo y su rey (2019)</title>
-    <desc lang="es">París, 1789. La Bastilla ha sido asaltada y un soplo de libertad invade las calles. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71AIj2LVkZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260512024600 +0200" stop="20260512041200 +0200" channel="acontra+ CINE">
-    <title lang="es">Salir del armario (2001)</title>
-    <desc lang="es">El empleado de una compañía de condones francesa finge ser homosexual para no perder el empleo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71VYxa3yzML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260512041200 +0200" stop="20260512060400 +0200" channel="acontra+ CINE">
+  <programme start="20260512040400 +0200" stop="20260512060400 +0200" channel="acontra+ CINE">
     <title lang="es">Wilde (1998)</title>
     <desc lang="es">En la Inglaterra victoriana, la relación de Oscar Wilde con un noble lo conduce a su ruina. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81IkOUj2oqL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La senda de la esperanza</title>
     <desc lang="es">Tres mujeres, que se encuentran alojadas en una pensión de Roma, comparten un mismo sueño. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/A1r2kgbrXwL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260512090500 +0200" stop="20260512103000 +0200" channel="acontra+ CINE">
+    <title lang="es">Enrique IV (2014)</title>
+    <desc lang="es">En una fiesta de disfraces, un hombre disfrazado de Enrique IV de Alemania se golpea la cabeza. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A116kxGgaXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260512103000 +0200" stop="20260512121800 +0200" channel="acontra+ CINE">
+    <title lang="es">Consejo de guerra (1980)</title>
+    <desc lang="es">Australianos que luchan por Inglaterra en la Guerra de los Bóer se enfrentan a un consejo de guerra. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91MYLrjr-ML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260512121800 +0200" stop="20260512135700 +0200" channel="acontra+ CINE">
+    <title lang="es">Adorable seductor (1989)</title>
+    <desc lang="es">El nuevo miembro de una compañía de teatro se enfrenta a un director bullicioso. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81eXQTzyLjL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
