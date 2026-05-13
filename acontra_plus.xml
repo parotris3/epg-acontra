@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260513141000 +0200" stop="20260513161000 +0200" channel="acontra+ CINE">
-    <title lang="es">Little Monsters (2019)</title>
-    <desc lang="es">Dave se ofrece como voluntario para acompañar a su sobrino en un viaje escolar. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91irhFfgcgL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260513161000 +0200" stop="20260513180300 +0200" channel="acontra+ CINE">
-    <title lang="es">Paraíso (2013)</title>
-    <desc lang="es">Annika Bengtzon trata de reconstruir su vida tras la violenta muerte de su prometido. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81UESgMWduL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260513180300 +0200" stop="20260513192900 +0200" channel="acontra+ CINE">
-    <title lang="es">Sucedió mañana (1944)</title>
-    <desc lang="es">En sus bodas de oro, Larry y Sylvia narran a su familia un suceso muy extraño del pasado. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81GpqLoyBML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260513192900 +0200" stop="20260513210300 +0200" channel="acontra+ CINE">
+  <programme start="20260513190300 +0200" stop="20260513210300 +0200" channel="acontra+ CINE">
     <title lang="es">Cromosoma 3 (1979)</title>
     <desc lang="es">El psiquiatra Hal Raglen inventa una terapia especial para tratar psicópatas, la somatización. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71AmspXCoFL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Un Tipo Genial (1983)</title>
     <desc lang="es">El representante de una compañía de petróleos quiere comprar un pueblecito pesquero escocés. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Xhp6oX1mL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260514002200 +0200" stop="20260514021000 +0200" channel="acontra+ CINE">
+    <title lang="es">Nadia, mariposa (2021)</title>
+    <desc lang="es">A los 23 años, Nadia, campeona olímpica de natación, toma la controvertida decisión de retirarse. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71YCqu8eGJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260514021000 +0200" stop="20260514035500 +0200" channel="acontra+ CINE">
+    <title lang="es">Miss Julie (1999)</title>
+    <desc lang="es">Durante la noche de San Juan, Julie se siente atraída por Jean, un sirviente de carácter fuerte. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81el+nQmgXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260514035500 +0200" stop="20260514061100 +0200" channel="acontra+ CINE">
+    <title lang="es">La flauta mágica (1975)</title>
+    <desc lang="es">El príncipe Tamino busca rescatar a la princesa Pamina, secuestrada por un hechicero. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91rFoIZIBaL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
