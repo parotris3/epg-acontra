@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260513091000 +0200" stop="20260513111000 +0200" channel="acontra+ CINE">
-    <title lang="es">Pasión por las letras (2016)</title>
-    <desc lang="es">Maxwell Perkins desarrolla una amistad con Thomas Wolfe. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Ludfflu0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260513111000 +0200" stop="20260513124300 +0200" channel="acontra+ CINE">
-    <title lang="es">El gendarme se casa (2015)</title>
-    <desc lang="es">En Saint-Tropez, un gendarme se enamora locamente de la hermosa viuda de un coronel. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Pf0Pd6IJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260513124300 +0200" stop="20260513143600 +0200" channel="acontra+ CINE">
-    <title lang="es">Fedora (1980)</title>
-    <desc lang="es">A base de flashbacks, recorremos la vida de Fedora, una famosa actriz que muere atropellada. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81h-3V4uDLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260513143600 +0200" stop="20260513161000 +0200" channel="acontra+ CINE">
+  <programme start="20260513141000 +0200" stop="20260513161000 +0200" channel="acontra+ CINE">
     <title lang="es">Little Monsters (2019)</title>
     <desc lang="es">Dave se ofrece como voluntario para acompañar a su sobrino en un viaje escolar. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91irhFfgcgL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">Paraíso (2013)</title>
     <desc lang="es">Annika Bengtzon trata de reconstruir su vida tras la violenta muerte de su prometido. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81UESgMWduL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260513180300 +0200" stop="20260513192900 +0200" channel="acontra+ CINE">
+    <title lang="es">Sucedió mañana (1944)</title>
+    <desc lang="es">En sus bodas de oro, Larry y Sylvia narran a su familia un suceso muy extraño del pasado. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81GpqLoyBML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260513192900 +0200" stop="20260513210300 +0200" channel="acontra+ CINE">
+    <title lang="es">Cromosoma 3 (1979)</title>
+    <desc lang="es">El psiquiatra Hal Raglen inventa una terapia especial para tratar psicópatas, la somatización. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71AmspXCoFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260513210300 +0200" stop="20260513223500 +0200" channel="acontra+ CINE">
+    <title lang="es">Te Amo, Te Amo (1968)</title>
+    <desc lang="es">Tras recuperarse de un intento de suicidio, un hombre es seleccionado para viajar en el tiempo. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/acontra_CINE_16x9._UR1920,1080_FMpng_.png"/>
+  </programme>
+  <programme start="20260513223500 +0200" stop="20260514002200 +0200" channel="acontra+ CINE">
+    <title lang="es">Un Tipo Genial (1983)</title>
+    <desc lang="es">El representante de una compañía de petróleos quiere comprar un pueblecito pesquero escocés. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Xhp6oX1mL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
