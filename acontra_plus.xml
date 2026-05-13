@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260512224000 +0200" stop="20260513004000 +0200" channel="acontra+ CINE">
-    <title lang="es">Ciudad de Dios (2003)</title>
-    <desc lang="es">Basada en el libro de Paulo Lins. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81wZp5Y1eLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260513004000 +0200" stop="20260513035000 +0200" channel="acontra+ CINE">
-    <title lang="es">Los niños del paraíso (1945)</title>
-    <desc lang="es">París, 1820. Dos jóvenes artistas entablan amistad. Un día, una mujer irrumpe en sus vidas. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/61VGB8+dDOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260513035000 +0200" stop="20260513060500 +0200" channel="acontra+ CINE">
+  <programme start="20260513040500 +0200" stop="20260513060500 +0200" channel="acontra+ CINE">
     <title lang="es">Muerte de un viajante (1985)</title>
     <desc lang="es">Willy Loman un vendedor toma conciencia de l vacío de su vida e intenta ponerle remetido. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81zTdAWcJuL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Gritos y susurros (1972)</title>
     <desc lang="es">Tres hermanas se reúnen para pasar juntas los últimos días de vida de una de ellas. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71l-O1xlqZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260513092600 +0200" stop="20260513111000 +0200" channel="acontra+ CINE">
+    <title lang="es">Pasión por las letras (2016)</title>
+    <desc lang="es">Maxwell Perkins desarrolla una amistad con Thomas Wolfe. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Ludfflu0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260513111000 +0200" stop="20260513124300 +0200" channel="acontra+ CINE">
+    <title lang="es">El gendarme se casa (2015)</title>
+    <desc lang="es">En Saint-Tropez, un gendarme se enamora locamente de la hermosa viuda de un coronel. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Pf0Pd6IJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260513124300 +0200" stop="20260513143600 +0200" channel="acontra+ CINE">
+    <title lang="es">Fedora (1980)</title>
+    <desc lang="es">A base de flashbacks, recorremos la vida de Fedora, una famosa actriz que muere atropellada. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81h-3V4uDLL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
