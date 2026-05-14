@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260514082400 +0200" stop="20260514102400 +0200" channel="acontra+ CINE">
-    <title lang="es">Crónica de una mentira (2009)</title>
-    <desc lang="es">Un estafador se hace pasar por un jefe de obra engañando a todo un pueblo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71eZ8Qi7n+L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260514102400 +0200" stop="20260514120000 +0200" channel="acontra+ CINE">
-    <title lang="es">Al azar, Baltasar (1966)</title>
-    <desc lang="es">Baltasar es un burro que vive feliz en un pueblo francés, hasta que es comprado por la joven Marie. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91kXDMFyBkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260514120000 +0200" stop="20260514133100 +0200" channel="acontra+ CINE">
-    <title lang="es">Despertando a Ned (1998)</title>
-    <desc lang="es">Un pueblo oculta la muerte de Ned, ganador de la lotería, para repartirse el dinero entre ellos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81lSKouKbuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260514133100 +0200" stop="20260514144000 +0200" channel="acontra+ CINE">
-    <title lang="es">El trío fantástico (1925)</title>
-    <desc lang="es">Tres artistas de circo deciden dejar sus miserables vidas y formar El trío fantástico. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81QWxaFKI7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260514144000 +0200" stop="20260514163300 +0200" channel="acontra+ CINE">
+  <programme start="20260514143300 +0200" stop="20260514163300 +0200" channel="acontra+ CINE">
     <title lang="es">The Command (2018)</title>
     <desc lang="es">Mikhail es un humilde marinero que sobrevive junto a su familia. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81kN157Xu1L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +12,20 @@
     <title lang="es">Especiales (2019)</title>
     <desc lang="es">Stephane Benhamou y Daoud Tatou, dos amigos que crearon una ONG para ayudar a niños autistas. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81AsoW8lmTL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260514182700 +0200" stop="20260514195700 +0200" channel="acontra+ CINE">
+    <title lang="es">EL fin del mundo (2013)</title>
+    <desc lang="es">Dos hombres que trabajan en un videoclub deberán salvar a la humanidad en un momento apocalíptico. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qAtoiymgL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260514195700 +0200" stop="20260514215400 +0200" channel="acontra+ CINE">
+    <title lang="es">Dos mujeres (2017)</title>
+    <desc lang="es">Claire, una apasionada y estricta matrona, conoce a la amante de su difunto padre. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91RakOdlovL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260514215400 +0200" stop="20260514232400 +0200" channel="acontra+ CINE">
+    <title lang="es">Cleo de 5 a 7 (1963)</title>
+    <desc lang="es">Cléo deambula, angustiada, mientras aguarda los resultados de un análisis médico. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81K289K2nQL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
