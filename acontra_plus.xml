@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260514041100 +0200" stop="20260514061100 +0200" channel="acontra+ CINE">
-    <title lang="es">La flauta mágica (1975)</title>
-    <desc lang="es">El príncipe Tamino busca rescatar a la princesa Pamina, secuestrada por un hechicero. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/91rFoIZIBaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260514061100 +0200" stop="20260514081000 +0200" channel="acontra+ CINE">
-    <title lang="es">Esperemos que sea mujer (1988)</title>
-    <desc lang="es">Elena vive en una granja en la Toscana, separada de su marido y con sus parientes femeninas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1RB8VWD04L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260514081000 +0200" stop="20260514102400 +0200" channel="acontra+ CINE">
+  <programme start="20260514082400 +0200" stop="20260514102400 +0200" channel="acontra+ CINE">
     <title lang="es">Crónica de una mentira (2009)</title>
     <desc lang="es">Un estafador se hace pasar por un jefe de obra engañando a todo un pueblo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71eZ8Qi7n+L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Despertando a Ned (1998)</title>
     <desc lang="es">Un pueblo oculta la muerte de Ned, ganador de la lotería, para repartirse el dinero entre ellos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81lSKouKbuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260514133100 +0200" stop="20260514144000 +0200" channel="acontra+ CINE">
+    <title lang="es">El trío fantástico (1925)</title>
+    <desc lang="es">Tres artistas de circo deciden dejar sus miserables vidas y formar El trío fantástico. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81QWxaFKI7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260514144000 +0200" stop="20260514163300 +0200" channel="acontra+ CINE">
+    <title lang="es">The Command (2018)</title>
+    <desc lang="es">Mikhail es un humilde marinero que sobrevive junto a su familia. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81kN157Xu1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260514163300 +0200" stop="20260514182700 +0200" channel="acontra+ CINE">
+    <title lang="es">Especiales (2019)</title>
+    <desc lang="es">Stephane Benhamou y Daoud Tatou, dos amigos que crearon una ONG para ayudar a niños autistas. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81AsoW8lmTL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
