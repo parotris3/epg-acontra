@@ -3,29 +3,34 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260514143300 +0200" stop="20260514163300 +0200" channel="acontra+ CINE">
-    <title lang="es">The Command (2018)</title>
-    <desc lang="es">Mikhail es un humilde marinero que sobrevive junto a su familia. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81kN157Xu1L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260514224700 +0200" stop="20260515004700 +0200" channel="acontra+ CINE">
+    <title lang="es">El infierno bajo tierra (2009)</title>
+    <desc lang="es">Un equipo científico ocupa una estación de perforación abandonada en el desierto del Sahara. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71mk-wkBfPL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260514163300 +0200" stop="20260514182700 +0200" channel="acontra+ CINE">
-    <title lang="es">Especiales (2019)</title>
-    <desc lang="es">Stephane Benhamou y Daoud Tatou, dos amigos que crearon una ONG para ayudar a niños autistas. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81AsoW8lmTL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260515004700 +0200" stop="20260515022000 +0200" channel="acontra+ CINE">
+    <title lang="es">El soldado perdido (2017)</title>
+    <desc lang="es">En 1941, durante un bombardeo, un piloto es salvado por una joven viuda que lo esconde en su casa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1GHdFfsbCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260514182700 +0200" stop="20260514195700 +0200" channel="acontra+ CINE">
-    <title lang="es">EL fin del mundo (2013)</title>
-    <desc lang="es">Dos hombres que trabajan en un videoclub deberán salvar a la humanidad en un momento apocalíptico. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qAtoiymgL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260515022000 +0200" stop="20260515040700 +0200" channel="acontra+ CINE">
+    <title lang="es">Guerreros de antaño (1994)</title>
+    <desc lang="es">Una familia maorí comienza a desmoronarse bajo la presión de la violencia doméstica. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91awMRZ1fkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260514195700 +0200" stop="20260514215400 +0200" channel="acontra+ CINE">
-    <title lang="es">Dos mujeres (2017)</title>
-    <desc lang="es">Claire, una apasionada y estricta matrona, conoce a la amante de su difunto padre. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91RakOdlovL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260515040700 +0200" stop="20260515055600 +0200" channel="acontra+ CINE">
+    <title lang="es">La fiesta (1982)</title>
+    <desc lang="es">Vic, a sus 14 años, atraviesa la etapa de sus primeros flirteos y fiestas entre amigas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81M2qfD7kNL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260514215400 +0200" stop="20260514232400 +0200" channel="acontra+ CINE">
-    <title lang="es">Cleo de 5 a 7 (1963)</title>
-    <desc lang="es">Cléo deambula, angustiada, mientras aguarda los resultados de un análisis médico. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81K289K2nQL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260515055600 +0200" stop="20260515072200 +0200" channel="acontra+ CINE">
+    <title lang="es">Los signos del Apocalipsis (2014)</title>
+    <desc lang="es">Un científico poco convencional trata de descifrar símbolos para evitar la destrucción del planeta. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1ESCsb+JKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260515072200 +0200" stop="20260515090000 +0200" channel="acontra+ CINE">
+    <title lang="es">Oxford Blues (1984)</title>
+    <desc lang="es">Un americano que anda tras la chica de sus sueños amenaza la tradición de la Universidad de Oxford. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91t7glRFKjL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
