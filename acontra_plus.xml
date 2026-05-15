@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260515035600 +0200" stop="20260515055600 +0200" channel="acontra+ CINE">
-    <title lang="es">La fiesta (1982)</title>
-    <desc lang="es">Vic, a sus 14 años, atraviesa la etapa de sus primeros flirteos y fiestas entre amigas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81M2qfD7kNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260515055600 +0200" stop="20260515072200 +0200" channel="acontra+ CINE">
-    <title lang="es">Los signos del Apocalipsis (2014)</title>
-    <desc lang="es">Un científico poco convencional trata de descifrar símbolos para evitar la destrucción del planeta. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1ESCsb+JKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260515072200 +0200" stop="20260515090000 +0200" channel="acontra+ CINE">
-    <title lang="es">Oxford Blues (1984)</title>
-    <desc lang="es">Un americano que anda tras la chica de sus sueños amenaza la tradición de la Universidad de Oxford. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91t7glRFKjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260515090000 +0200" stop="20260515102900 +0200" channel="acontra+ CINE">
+  <programme start="20260515082900 +0200" stop="20260515102900 +0200" channel="acontra+ CINE">
     <title lang="es">Juicio de fuego (2008)</title>
     <desc lang="es">Una mujer bombero decide entrar en el cuerpo de élite de paracaidismo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1tw--Od0TL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Él (1987)</title>
     <desc lang="es">Francisco Galván de Montemayor se queda prendado de una joven mientras asiste a misa. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/61zQyr8U3NL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260515135100 +0200" stop="20260515153700 +0200" channel="acontra+ CINE">
+    <title lang="es">Bienvenidos al sur (2010)</title>
+    <desc lang="es">Un empleado de Correos de una pequeña ciudad hará todo lo posible porque lo trasladen a Milán. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81+R1HewwwL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260515153700 +0200" stop="20260515171200 +0200" channel="acontra+ CINE">
+    <title lang="es">600 kilos de oro puro (2010)</title>
+    <desc lang="es">Aventureros roban una mina de oro en la Guyana, pero deben aterrizar de emergencia en plena jungla. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81EGNcaSulL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260515171200 +0200" stop="20260515185300 +0200" channel="acontra+ CINE">
+    <title lang="es">En busca del fuego (1981)</title>
+    <desc lang="es">Cuando el fuego de una tribu prehistórica se apaga, tres guerreros emprenden un viaje en su busca. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91qAiEV8XWL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
