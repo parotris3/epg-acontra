@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260515082900 +0200" stop="20260515102900 +0200" channel="acontra+ CINE">
-    <title lang="es">Juicio de fuego (2008)</title>
-    <desc lang="es">Una mujer bombero decide entrar en el cuerpo de élite de paracaidismo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1tw--Od0TL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260515102900 +0200" stop="20260515121900 +0200" channel="acontra+ CINE">
-    <title lang="es">El valle oscuro (2015)</title>
-    <desc lang="es">Poco antes de que comience el duro invierno, un forastero llega a caballo hasta un aislado pueblo. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/912lwrLUgoL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260515121900 +0200" stop="20260515135100 +0200" channel="acontra+ CINE">
-    <title lang="es">Él (1987)</title>
-    <desc lang="es">Francisco Galván de Montemayor se queda prendado de una joven mientras asiste a misa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/61zQyr8U3NL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260515135100 +0200" stop="20260515153700 +0200" channel="acontra+ CINE">
+  <programme start="20260515133700 +0200" stop="20260515153700 +0200" channel="acontra+ CINE">
     <title lang="es">Bienvenidos al sur (2010)</title>
     <desc lang="es">Un empleado de Correos de una pequeña ciudad hará todo lo posible porque lo trasladen a Milán. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81+R1HewwwL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">En busca del fuego (1981)</title>
     <desc lang="es">Cuando el fuego de una tribu prehistórica se apaga, tres guerreros emprenden un viaje en su busca. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91qAiEV8XWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260515185300 +0200" stop="20260515204300 +0200" channel="acontra+ CINE">
+    <title lang="es">La música del silencio (2017)</title>
+    <desc lang="es">Amos Bardi es un joven que padece ceguera y que posee un gran talento para el canto. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81teHVb2TuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260515204300 +0200" stop="20260515221400 +0200" channel="acontra+ CINE">
+    <title lang="es">Los bicivoladores (1985)</title>
+    <desc lang="es">Tres adolescentes dan con los 'walkie-talkies' que una banda de ladrones iba a usar en un atraco. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Xt+Ig0t1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260515221400 +0200" stop="20260516001300 +0200" channel="acontra+ CINE">
+    <title lang="es">Monstruos de Hoy (1968)</title>
+    <desc lang="es">Retrato episódico de los mitos de la sociedad italiana de los años 60. Italia, entre finales de los 50 y principios de los 60... | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91L6Mpu8sXL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
