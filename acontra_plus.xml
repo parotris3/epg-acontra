@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260514224700 +0200" stop="20260515004700 +0200" channel="acontra+ CINE">
-    <title lang="es">El infierno bajo tierra (2009)</title>
-    <desc lang="es">Un equipo científico ocupa una estación de perforación abandonada en el desierto del Sahara. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71mk-wkBfPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260515004700 +0200" stop="20260515022000 +0200" channel="acontra+ CINE">
-    <title lang="es">El soldado perdido (2017)</title>
-    <desc lang="es">En 1941, durante un bombardeo, un piloto es salvado por una joven viuda que lo esconde en su casa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1GHdFfsbCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260515022000 +0200" stop="20260515040700 +0200" channel="acontra+ CINE">
-    <title lang="es">Guerreros de antaño (1994)</title>
-    <desc lang="es">Una familia maorí comienza a desmoronarse bajo la presión de la violencia doméstica. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91awMRZ1fkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260515040700 +0200" stop="20260515055600 +0200" channel="acontra+ CINE">
+  <programme start="20260515035600 +0200" stop="20260515055600 +0200" channel="acontra+ CINE">
     <title lang="es">La fiesta (1982)</title>
     <desc lang="es">Vic, a sus 14 años, atraviesa la etapa de sus primeros flirteos y fiestas entre amigas. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81M2qfD7kNL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Oxford Blues (1984)</title>
     <desc lang="es">Un americano que anda tras la chica de sus sueños amenaza la tradición de la Universidad de Oxford. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91t7glRFKjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260515090000 +0200" stop="20260515102900 +0200" channel="acontra+ CINE">
+    <title lang="es">Juicio de fuego (2008)</title>
+    <desc lang="es">Una mujer bombero decide entrar en el cuerpo de élite de paracaidismo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1tw--Od0TL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260515102900 +0200" stop="20260515121900 +0200" channel="acontra+ CINE">
+    <title lang="es">El valle oscuro (2015)</title>
+    <desc lang="es">Poco antes de que comience el duro invierno, un forastero llega a caballo hasta un aislado pueblo. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/912lwrLUgoL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260515121900 +0200" stop="20260515135100 +0200" channel="acontra+ CINE">
+    <title lang="es">Él (1987)</title>
+    <desc lang="es">Francisco Galván de Montemayor se queda prendado de una joven mientras asiste a misa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/61zQyr8U3NL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
