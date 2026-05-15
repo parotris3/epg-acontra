@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260515133700 +0200" stop="20260515153700 +0200" channel="acontra+ CINE">
-    <title lang="es">Bienvenidos al sur (2010)</title>
-    <desc lang="es">Un empleado de Correos de una pequeña ciudad hará todo lo posible porque lo trasladen a Milán. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81+R1HewwwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260515153700 +0200" stop="20260515171200 +0200" channel="acontra+ CINE">
-    <title lang="es">600 kilos de oro puro (2010)</title>
-    <desc lang="es">Aventureros roban una mina de oro en la Guyana, pero deben aterrizar de emergencia en plena jungla. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81EGNcaSulL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260515171200 +0200" stop="20260515185300 +0200" channel="acontra+ CINE">
-    <title lang="es">En busca del fuego (1981)</title>
-    <desc lang="es">Cuando el fuego de una tribu prehistórica se apaga, tres guerreros emprenden un viaje en su busca. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91qAiEV8XWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260515185300 +0200" stop="20260515204300 +0200" channel="acontra+ CINE">
+  <programme start="20260515184300 +0200" stop="20260515204300 +0200" channel="acontra+ CINE">
     <title lang="es">La música del silencio (2017)</title>
     <desc lang="es">Amos Bardi es un joven que padece ceguera y que posee un gran talento para el canto. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81teHVb2TuL._UR1920,1080_FMpng_.jpg"/>
@@ -30,7 +15,17 @@
   </programme>
   <programme start="20260515221400 +0200" stop="20260516001300 +0200" channel="acontra+ CINE">
     <title lang="es">Monstruos de Hoy (1968)</title>
-    <desc lang="es">Retrato episódico de los mitos de la sociedad italiana de los años 60. Italia, entre finales de los 50 y principios de los 60... | Edad: Todas las edades</desc>
+    <desc lang="es">Retrato en veinte episodios de Italia durante la buena época económica. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/91L6Mpu8sXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260516001300 +0200" stop="20260516022600 +0200" channel="acontra+ CINE">
+    <title lang="es">Verano asesino (1985)</title>
+    <desc lang="es">Elle, una joven de 19 años, regresa a su pueblo natal con un oscuro plan de venganza. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91iSUe6b7oL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260516022600 +0200" stop="20260516041000 +0200" channel="acontra+ CINE">
+    <title lang="es">No soy un asesino (1967)</title>
+    <desc lang="es">Acusado de asesinato, un sheriff deberá demostrar su inocencia. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81nf1aYhQnL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
