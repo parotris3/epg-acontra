@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260516183900 +0200" stop="20260516203900 +0200" channel="acontra+ CINE">
-    <title lang="es">Asalto a la comisaría del distrito 13 (1976)</title>
-    <desc lang="es">Un policía de Los Ángeles recibe su primer destino en una comisaría que está siendo trasladada. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81oSJqNa7iL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260516203900 +0200" stop="20260516223700 +0200" channel="acontra+ CINE">
-    <title lang="es">Estación zombie (2016)</title>
-    <desc lang="es">Los pasajeros de un tren luchan por sobrevivir a un virus. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1VO3KLrRNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260516223700 +0200" stop="20260517001500 +0200" channel="acontra+ CINE">
+  <programme start="20260516221500 +0200" stop="20260517001500 +0200" channel="acontra+ CINE">
     <title lang="es">Fundido a negro</title>
     <desc lang="es">Eric Binford, un demente fanático de las películas comete una serie de homicidios como sus villanos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81QoWq2IEkL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Nostalgia (1983)</title>
     <desc lang="es">Un escritor ruso viaja a Italia para investigar la vida de un compositor ruso que estudió allí. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/912DRKglhmL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260517040200 +0200" stop="20260517062000 +0200" channel="acontra+ CINE">
+    <title lang="es">Lacombe, Lucien (1974)</title>
+    <desc lang="es">Lacombe, de un pueblo de Francia, colabora con el régimen nazi y se enamora de una niña judía. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81jQpU8pLWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260517062000 +0200" stop="20260517075800 +0200" channel="acontra+ CINE">
+    <title lang="es">La lectora (1989)</title>
+    <desc lang="es">Constance es una apasionada lectora que decide dedicarse a leer a domicilio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/41vj4NFX3TL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260517075800 +0200" stop="20260517092400 +0200" channel="acontra+ CINE">
+    <title lang="es">Nuevo orden (2020)</title>
+    <desc lang="es">Los miembros de una familia se reúnen para una boda. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1Hncfr-0hL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
