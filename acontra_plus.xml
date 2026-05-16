@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260516084100 +0200" stop="20260516104100 +0200" channel="acontra+ CINE">
-    <title lang="es">La historia de Marie Heurtin (2014)</title>
-    <desc lang="es">Marie Heurtin, de 14 años, es sorda y ciega de nacimiento, y es incapaz de comunicarse. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/915p9Qcc9XL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260516104100 +0200" stop="20260516122000 +0200" channel="acontra+ CINE">
-    <title lang="es">El grito de la lechuza (2010)</title>
-    <desc lang="es">Un joven arquitecto, deprimido y en proceso de divorcio, se muda a una pequeña comunidad. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71eILbXT65L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260516122000 +0200" stop="20260516135600 +0200" channel="acontra+ CINE">
-    <title lang="es">El mundo resplandeciente (2021)</title>
-    <desc lang="es">Una mujer se ve arrastrada a una dimensión alternativa en la que su hermana podría seguir viva. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81SRmqiK87L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260516135600 +0200" stop="20260516154200 +0200" channel="acontra+ CINE">
+  <programme start="20260516134200 +0200" stop="20260516154200 +0200" channel="acontra+ CINE">
     <title lang="es">Herida (1992)</title>
     <desc lang="es">Peligrosa aventura de amor y sexo entre un político casado y la prometida de su hijo. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71oQ1wnlNSL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Caiga quien caiga (1972)</title>
     <desc lang="es">Un joven jamaicano cantante de reggae se ve envuelto en una espiral de violencia y corrupción. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91VJifKBH9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260516190900 +0200" stop="20260516203900 +0200" channel="acontra+ CINE">
+    <title lang="es">Asalto a la comisaría del distrito 13 (1976)</title>
+    <desc lang="es">Un policía de Los Ángeles recibe su primer destino en una comisaría que está siendo trasladada. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81oSJqNa7iL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260516203900 +0200" stop="20260516223700 +0200" channel="acontra+ CINE">
+    <title lang="es">Estación zombie (2016)</title>
+    <desc lang="es">Los pasajeros de un tren luchan por sobrevivir a un virus. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1VO3KLrRNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260516223700 +0200" stop="20260517001500 +0200" channel="acontra+ CINE">
+    <title lang="es">Fundido a negro</title>
+    <desc lang="es">Eric Binford, un demente fanático de las películas comete una serie de homicidios como sus villanos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81QoWq2IEkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
