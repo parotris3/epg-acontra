@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260516221500 +0200" stop="20260517001500 +0200" channel="acontra+ CINE">
-    <title lang="es">Fundido a negro</title>
-    <desc lang="es">Eric Binford, un demente fanático de las películas comete una serie de homicidios como sus villanos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81QoWq2IEkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260517001500 +0200" stop="20260517015200 +0200" channel="acontra+ CINE">
-    <title lang="es">Pasión (1993)</title>
-    <desc lang="es">Un hombre recién divorciado conoce a una viuda y comienzan una historia de amor. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81rbTrvq8qL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260517015200 +0200" stop="20260517040200 +0200" channel="acontra+ CINE">
-    <title lang="es">Nostalgia (1983)</title>
-    <desc lang="es">Un escritor ruso viaja a Italia para investigar la vida de un compositor ruso que estudió allí. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/912DRKglhmL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260517040200 +0200" stop="20260517062000 +0200" channel="acontra+ CINE">
+  <programme start="20260517042000 +0200" stop="20260517062000 +0200" channel="acontra+ CINE">
     <title lang="es">Lacombe, Lucien (1974)</title>
     <desc lang="es">Lacombe, de un pueblo de Francia, colabora con el régimen nazi y se enamora de una niña judía. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81jQpU8pLWL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Nuevo orden (2020)</title>
     <desc lang="es">Los miembros de una familia se reúnen para una boda. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1Hncfr-0hL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260517092400 +0200" stop="20260517111100 +0200" channel="acontra+ CINE">
+    <title lang="es">Culpable sin rostro (conducta indecorosa) (2018)</title>
+    <desc lang="es">Un soldado británico trasladado a la India contra su voluntad comienza a rebelarse. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91kPrF3vm8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260517111100 +0200" stop="20260517125400 +0200" channel="acontra+ CINE">
+    <title lang="es">Exótica (1994)</title>
+    <desc lang="es">Un solitario inspector de Hacienda acude cada noche al club de baile erótico Exótica. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B166go0R7zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260517125400 +0200" stop="20260517150000 +0200" channel="acontra+ CINE">
+    <title lang="es">Aline (2020)</title>
+    <desc lang="es">Aline tiene una voz prodigiosa que no pasa desapercibida para un productor ambicioso. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ra+l9mqHL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
