@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260517190900 +0200" stop="20260517210900 +0200" channel="acontra+ CINE">
-    <title lang="es">The Last Five Years (2014)</title>
-    <desc lang="es">Basada en la obra musical de Jason Robert Brown. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81dfDfoXLCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260517210900 +0200" stop="20260517225100 +0200" channel="acontra+ CINE">
-    <title lang="es">Rufufú da el golpe (1959)</title>
-    <desc lang="es">Un milanés convence a Pepe y a sus amigos para ir a Milán para robar el furgón de las qunielas. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/71uBR3dN43L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260517225100 +0200" stop="20260518004000 +0200" channel="acontra+ CINE">
+  <programme start="20260517224000 +0200" stop="20260518004000 +0200" channel="acontra+ CINE">
     <title lang="es">La delicadeza (2011)</title>
     <desc lang="es">El amor vuelve a llamar a la puerta de Nathalie, tras perder a su amado, en un compañero de trabajo. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71YqDG7BGWL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">El tiempo del lobo</title>
     <desc lang="es">Anna y su familia descubren que su casa de campo ha sido ocupada por otra familia. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91AG38UD0fL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260518041300 +0200" stop="20260518060000 +0200" channel="acontra+ CINE">
+    <title lang="es">The Chosen (1981)</title>
+    <desc lang="es">Un judío y el hijo de un rabí hasídico se hacen amigos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/818x1QaWSFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260518060000 +0200" stop="20260518072300 +0200" channel="acontra+ CINE">
+    <title lang="es">El collar rojo (2019)</title>
+    <desc lang="es">En una aldea francesa azotada por el calor del verano de 1919, un perro no para de ladrar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81gjqsqToNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260518072300 +0200" stop="20260518090400 +0200" channel="acontra+ CINE">
+    <title lang="es">Ídolos, mentiras y rock & roll (1997)</title>
+    <desc lang="es">Un joven inmigrante húngaro intenta adaptarse a la escuela y a la cultura americana de los años 60. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/71URI2-SMXL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
