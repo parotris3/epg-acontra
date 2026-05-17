@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260517091100 +0200" stop="20260517111100 +0200" channel="acontra+ CINE">
-    <title lang="es">Culpable sin rostro (conducta indecorosa) (2018)</title>
-    <desc lang="es">Un soldado británico trasladado a la India contra su voluntad comienza a rebelarse. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91kPrF3vm8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260517111100 +0200" stop="20260517125400 +0200" channel="acontra+ CINE">
-    <title lang="es">Exótica (1994)</title>
-    <desc lang="es">Un solitario inspector de Hacienda acude cada noche al club de baile erótico Exótica. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B166go0R7zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260517125400 +0200" stop="20260517150000 +0200" channel="acontra+ CINE">
-    <title lang="es">Aline (2020)</title>
-    <desc lang="es">Aline tiene una voz prodigiosa que no pasa desapercibida para un productor ambicioso. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ra+l9mqHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260517150000 +0200" stop="20260517164500 +0200" channel="acontra+ CINE">
+  <programme start="20260517144500 +0200" stop="20260517164500 +0200" channel="acontra+ CINE">
     <title lang="es">Churchill (2017)</title>
     <desc lang="es">Churchill se opone a los generales estadounidenses antes del desembarco de Normandía. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91SzqtuzYwL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">El padre es abuelo (1951)</title>
     <desc lang="es">Un padre ve interrumpida su tranquilidad cuando recibe la noticia de que va a ser abuelo. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81LkISzhNZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260517180300 +0200" stop="20260517193500 +0200" channel="acontra+ CINE">
+    <title lang="es">La historia de Zatoichi (1962)</title>
+    <desc lang="es">Zatoichi es un masajista ciego extremadamente hábil luchando con la espada. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71-lsxz8ckL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260517193500 +0200" stop="20260517210900 +0200" channel="acontra+ CINE">
+    <title lang="es">The Last Five Years (2014)</title>
+    <desc lang="es">Basada en la obra musical de Jason Robert Brown. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81dfDfoXLCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260517210900 +0200" stop="20260517225100 +0200" channel="acontra+ CINE">
+    <title lang="es">Rufufú da el golpe (1959)</title>
+    <desc lang="es">Un milanés convence a Pepe y a sus amigos para ir a Milán para robar el furgón de las qunielas. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/71uBR3dN43L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260517225100 +0200" stop="20260518004000 +0200" channel="acontra+ CINE">
+    <title lang="es">La delicadeza (2011)</title>
+    <desc lang="es">El amor vuelve a llamar a la puerta de Nathalie, tras perder a su amado, en un compañero de trabajo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71YqDG7BGWL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
