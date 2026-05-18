@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260518153500 +0200" stop="20260518173500 +0200" channel="acontra+ CINE">
-    <title lang="es">Tess (1979)</title>
-    <desc lang="es">La hija de un humilde granjero es víctima de las aspiraciones de su familia y de su propia belleza. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91RxeM8Up8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260518173500 +0200" stop="20260518193200 +0200" channel="acontra+ CINE">
-    <title lang="es">Ojos Negros (1987)</title>
-    <desc lang="es">Romano, un hombre italiano, rememora un apasionado romance con una chica rusa llamada Anna. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/91xMn34dyHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260518193200 +0200" stop="20260518210300 +0200" channel="acontra+ CINE">
+  <programme start="20260518190300 +0200" stop="20260518210300 +0200" channel="acontra+ CINE">
     <title lang="es">The Point Men: En el punto de mira (2001)</title>
     <desc lang="es">Un agente secreto del Mossad israelí debe atrapar a un peligroso terrorista. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71dpu8snIHL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Los ojos sin rostro (1960)</title>
     <desc lang="es">Un brillante cirujano rapta chicas para utilizar su piel y así reconstruir la belleza de su hija. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/8194+Gl+upL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260519001100 +0200" stop="20260519024800 +0200" channel="acontra+ CINE">
+    <title lang="es">El león del desierto (1980)</title>
+    <desc lang="es">Un líder libio rebelde se enfrenta a las tropas italianas de Mussolini. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1CzYjsJAUL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260519024800 +0200" stop="20260519040600 +0200" channel="acontra+ CINE">
+    <title lang="es">Los viajes de Gulliver (1939)</title>
+    <desc lang="es">Adaptación al clásico de Jonathan Swift sobre un hombre inglés, Gulliver, que naufraga en Lilliput. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91i1WVx+XML._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
