@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260518084500 +0200" stop="20260518104500 +0200" channel="acontra+ CINE">
-    <title lang="es">Los panzers de la muerte (1988)</title>
-    <desc lang="es">En 1942, Adolf Hitler da a sus tropas la orden de no retroceder y oponer una resistencia fanática. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uPYLrwyUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260518104500 +0200" stop="20260518125400 +0200" channel="acontra+ CINE">
-    <title lang="es">Madame Marguerite (2015)</title>
-    <desc lang="es">Una mujer se propone cantar ópera delante de un gran público a pesar de desafinar terriblemente. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nyw5jz0uL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260518125400 +0200" stop="20260518145100 +0200" channel="acontra+ CINE">
-    <title lang="es">Nueva vida en Nueva York (2013)</title>
-    <desc lang="es">Xavier es un escritor de 40 años que no ha sentado la cabeza y va a Nueva York a encontrar su lugar. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qkrxjYFTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260518145100 +0200" stop="20260518173500 +0200" channel="acontra+ CINE">
+  <programme start="20260518153500 +0200" stop="20260518173500 +0200" channel="acontra+ CINE">
     <title lang="es">Tess (1979)</title>
     <desc lang="es">La hija de un humilde granjero es víctima de las aspiraciones de su familia y de su propia belleza. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91RxeM8Up8L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Ojos Negros (1987)</title>
     <desc lang="es">Romano, un hombre italiano, rememora un apasionado romance con una chica rusa llamada Anna. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/91xMn34dyHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260518193200 +0200" stop="20260518210300 +0200" channel="acontra+ CINE">
+    <title lang="es">The Point Men: En el punto de mira (2001)</title>
+    <desc lang="es">Un agente secreto del Mossad israelí debe atrapar a un peligroso terrorista. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71dpu8snIHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260518210300 +0200" stop="20260518224600 +0200" channel="acontra+ CINE">
+    <title lang="es">La escapada (1963)</title>
+    <desc lang="es">Un estudiante y un hombre de mediana edad que no se conocían inician un viaje en un descapotable. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81wbCxGOmcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260518224600 +0200" stop="20260519001100 +0200" channel="acontra+ CINE">
+    <title lang="es">Los ojos sin rostro (1960)</title>
+    <desc lang="es">Un brillante cirujano rapta chicas para utilizar su piel y así reconstruir la belleza de su hija. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8194+Gl+upL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
