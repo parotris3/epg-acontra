@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260519083600 +0200" stop="20260519103600 +0200" channel="acontra+ CINE">
-    <title lang="es">Trono de sangre (1957)</title>
-    <desc lang="es">Un guerrero samurái tiene un encuentro espiritual y descubre que está destinado a la gloria. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81MOpG+TfFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260519103600 +0200" stop="20260519122300 +0200" channel="acontra+ CINE">
-    <title lang="es">La Noche de San Lorenzo (2008)</title>
-    <desc lang="es">Durante la Segunda Guerra Mundial, los vecinos de un pueblo toscano huyen a las montañas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71p0zWUMldL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260519122300 +0200" stop="20260519140000 +0200" channel="acontra+ CINE">
-    <title lang="es">El día de los muertos (1985)</title>
-    <desc lang="es">Los zombis se han apoderado del planeta. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1ZIzNHVVuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260519140000 +0200" stop="20260519154400 +0200" channel="acontra+ CINE">
+  <programme start="20260519134400 +0200" stop="20260519154400 +0200" channel="acontra+ CINE">
     <title lang="es">Asher (2018)</title>
     <desc lang="es">La irrupción de una mujer en la vida de un sicario provoca que el asesino intente cambiar de vida. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A19nCE6n+jL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El piano (1993)</title>
     <desc lang="es">Ada se queda viuda y viaja con su hija a Nueva Zelanda para un matrimonio concertado. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71hTexxx1xL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260519193800 +0200" stop="20260519210600 +0200" channel="acontra+ CINE">
+    <title lang="es">Goon (2011)</title>
+    <desc lang="es">Doug Glatt consigue un lugar en un equipo de hockey canadiense de las ligas menores. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81S5SD0d9gL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260519210600 +0200" stop="20260519223100 +0200" channel="acontra+ CINE">
+    <title lang="es">La sombra del faraón (1999)</title>
+    <desc lang="es">La nieta de un arqueólogo desaparecido en Egipto en 1948 investiga la desaparición de su abuelo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91OZFOCFz0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260519223100 +0200" stop="20260520002600 +0200" channel="acontra+ CINE">
+    <title lang="es">Disparando a perros (2005)</title>
+    <desc lang="es">Un profesor ofrece protección a miles de ruandeses que escapan del genocidio en la Ruanda de 1994. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71bv7tLr2dL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
