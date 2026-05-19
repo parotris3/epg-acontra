@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260519034700 +0200" stop="20260519054700 +0200" channel="acontra+ CINE">
-    <title lang="es">Mister Johnson (1990)</title>
-    <desc lang="es">En 1923, un africano educado y ambicioso ve que no encaja entre los nativos y colonizadores. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ZwxjcMwCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260519054700 +0200" stop="20260519072700 +0200" channel="acontra+ CINE">
-    <title lang="es">Mi hermano es hijo único (2008)</title>
-    <desc lang="es">En plena revolución social en Italia, dos hermanos dejan de hablarse por ideales políticos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81kCetHAdTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260519072700 +0200" stop="20260519085100 +0200" channel="acontra+ CINE">
-    <title lang="es">S.O.S. El mundo en peligro (1966)</title>
-    <desc lang="es">Unos científicos van a una isla remota donde algunos investigadores han creado una vida letal. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Sd11UaRtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260519085100 +0200" stop="20260519103600 +0200" channel="acontra+ CINE">
+  <programme start="20260519083600 +0200" stop="20260519103600 +0200" channel="acontra+ CINE">
     <title lang="es">Trono de sangre (1957)</title>
     <desc lang="es">Un guerrero samurái tiene un encuentro espiritual y descubre que está destinado a la gloria. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81MOpG+TfFL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El día de los muertos (1985)</title>
     <desc lang="es">Los zombis se han apoderado del planeta. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1ZIzNHVVuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260519140000 +0200" stop="20260519154400 +0200" channel="acontra+ CINE">
+    <title lang="es">Asher (2018)</title>
+    <desc lang="es">La irrupción de una mujer en la vida de un sicario provoca que el asesino intente cambiar de vida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A19nCE6n+jL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260519154400 +0200" stop="20260519173700 +0200" channel="acontra+ CINE">
+    <title lang="es">Caché (2005)</title>
+    <desc lang="es">Un crítico literario de televisión comienza a recibir inquietantes paquetes con vídeos suyos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71l9y149-cL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260519173700 +0200" stop="20260519193800 +0200" channel="acontra+ CINE">
+    <title lang="es">El piano (1993)</title>
+    <desc lang="es">Ada se queda viuda y viaja con su hija a Nueva Zelanda para un matrimonio concertado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71hTexxx1xL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
