@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260519190600 +0200" stop="20260519210600 +0200" channel="acontra+ CINE">
-    <title lang="es">Goon (2011)</title>
-    <desc lang="es">Doug Glatt consigue un lugar en un equipo de hockey canadiense de las ligas menores. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81S5SD0d9gL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260519210600 +0200" stop="20260519223100 +0200" channel="acontra+ CINE">
-    <title lang="es">La sombra del faraón (1999)</title>
-    <desc lang="es">La nieta de un arqueólogo desaparecido en Egipto en 1948 investiga la desaparición de su abuelo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91OZFOCFz0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260519223100 +0200" stop="20260520002600 +0200" channel="acontra+ CINE">
+  <programme start="20260519222600 +0200" stop="20260520002600 +0200" channel="acontra+ CINE">
     <title lang="es">Disparando a perros (2005)</title>
     <desc lang="es">Un profesor ofrece protección a miles de ruandeses que escapan del genocidio en la Ruanda de 1994. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71bv7tLr2dL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">La anguila (1997)</title>
     <desc lang="es">Takuro Yamashita sale en libertad condicional tras haber matado a su esposa. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81zRh+SlX7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260520042200 +0200" stop="20260520061200 +0200" channel="acontra+ CINE">
+    <title lang="es">Mi noche con Maud (1969)</title>
+    <desc lang="es">Un ingeniero católico trata de resistir las seducciones de una oscura mujer divorciada. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71fF8HWAegL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260520061200 +0200" stop="20260520073500 +0200" channel="acontra+ CINE">
+    <title lang="es">Reykjavik-Rotterdam (2008)</title>
+    <desc lang="es">Un ex-contrabandista de alcohol arruinado vuelve a sus negocios ilegales para probar suerte. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1jLACGmzyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260520073500 +0200" stop="20260520090100 +0200" channel="acontra+ CINE">
+    <title lang="es">Premonición (2006)</title>
+    <desc lang="es">Un policía despierta de un coma para descubrir que tiene alucinaciones que predicen el futuro. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81QXR1BXE7L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
