@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260518221100 +0200" stop="20260519001100 +0200" channel="acontra+ CINE">
-    <title lang="es">Los ojos sin rostro (1960)</title>
-    <desc lang="es">Un brillante cirujano rapta chicas para utilizar su piel y así reconstruir la belleza de su hija. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8194+Gl+upL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260519001100 +0200" stop="20260519024800 +0200" channel="acontra+ CINE">
-    <title lang="es">El león del desierto (1980)</title>
-    <desc lang="es">Un líder libio rebelde se enfrenta a las tropas italianas de Mussolini. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1CzYjsJAUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260519024800 +0200" stop="20260519040600 +0200" channel="acontra+ CINE">
-    <title lang="es">Los viajes de Gulliver (1939)</title>
-    <desc lang="es">Adaptación al clásico de Jonathan Swift sobre un hombre inglés, Gulliver, que naufraga en Lilliput. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91i1WVx+XML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260519040600 +0200" stop="20260519054700 +0200" channel="acontra+ CINE">
+  <programme start="20260519034700 +0200" stop="20260519054700 +0200" channel="acontra+ CINE">
     <title lang="es">Mister Johnson (1990)</title>
     <desc lang="es">En 1923, un africano educado y ambicioso ve que no encaja entre los nativos y colonizadores. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71ZwxjcMwCL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">S.O.S. El mundo en peligro (1966)</title>
     <desc lang="es">Unos científicos van a una isla remota donde algunos investigadores han creado una vida letal. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Sd11UaRtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260519085100 +0200" stop="20260519103600 +0200" channel="acontra+ CINE">
+    <title lang="es">Trono de sangre (1957)</title>
+    <desc lang="es">Un guerrero samurái tiene un encuentro espiritual y descubre que está destinado a la gloria. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81MOpG+TfFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260519103600 +0200" stop="20260519122300 +0200" channel="acontra+ CINE">
+    <title lang="es">La Noche de San Lorenzo (2008)</title>
+    <desc lang="es">Durante la Segunda Guerra Mundial, los vecinos de un pueblo toscano huyen a las montañas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71p0zWUMldL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260519122300 +0200" stop="20260519140000 +0200" channel="acontra+ CINE">
+    <title lang="es">El día de los muertos (1985)</title>
+    <desc lang="es">Los zombis se han apoderado del planeta. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1ZIzNHVVuL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
