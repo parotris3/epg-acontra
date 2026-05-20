@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260520041200 +0200" stop="20260520061200 +0200" channel="acontra+ CINE">
-    <title lang="es">Mi noche con Maud (1969)</title>
-    <desc lang="es">Un ingeniero católico trata de resistir las seducciones de una oscura mujer divorciada. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71fF8HWAegL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260520061200 +0200" stop="20260520073500 +0200" channel="acontra+ CINE">
-    <title lang="es">Reykjavik-Rotterdam (2008)</title>
-    <desc lang="es">Un ex-contrabandista de alcohol arruinado vuelve a sus negocios ilegales para probar suerte. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1jLACGmzyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260520073500 +0200" stop="20260520090100 +0200" channel="acontra+ CINE">
-    <title lang="es">Premonición (2006)</title>
-    <desc lang="es">Un policía despierta de un coma para descubrir que tiene alucinaciones que predicen el futuro. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81QXR1BXE7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260520090100 +0200" stop="20260520102700 +0200" channel="acontra+ CINE">
+  <programme start="20260520082700 +0200" stop="20260520102700 +0200" channel="acontra+ CINE">
     <title lang="es">Arañas 3D (2013)</title>
     <desc lang="es">Arañas se vuelven gigantes tras choque de estación espacial. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81CnDetRZRL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Danton (2020)</title>
     <desc lang="es">Cuando Robespierre establece el régimen de terror, Georges Danton regresa para confrontarlo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81LJzCJ85+L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260520144600 +0200" stop="20260520161900 +0200" channel="acontra+ CINE">
+    <title lang="es">The Angriest Man in Brooklyn (2014)</title>
+    <desc lang="es">Un hombre infeliz se entera de que va a morir en 90 minutos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91hgkg7e05L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260520161900 +0200" stop="20260520174800 +0200" channel="acontra+ CINE">
+    <title lang="es">Aprendiendo a conducir (2014)</title>
+    <desc lang="es">Una escritora y un taxista indio se alejan de sus problemas durante las clases de conducción. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tu3xFypWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260520174800 +0200" stop="20260520192600 +0200" channel="acontra+ CINE">
+    <title lang="es">El placer (1953)</title>
+    <desc lang="es">Un hombre que oculta su edad, un viaje al campo y un pintor ilustran tres historias sobre el placer. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81OVO5JCtKL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
