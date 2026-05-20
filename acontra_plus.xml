@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260520190100 +0200" stop="20260520210100 +0200" channel="acontra+ CINE">
-    <title lang="es">Mientras Nueva York duerme</title>
-    <desc lang="es">En los pasillos del Sentinel, los periodistas intrigan para hacerse con la dirección del diario. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ZbDqARslL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260520210100 +0200" stop="20260520224200 +0200" channel="acontra+ CINE">
-    <title lang="es">Repulsión (1965)</title>
-    <desc lang="es">Una mujer muy reprimida sexualmente empieza a tener alucinaciones sobre violaciones. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/812OaS9v0aL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260520224200 +0200" stop="20260521011700 +0200" channel="acontra+ CINE">
+  <programme start="20260520231700 +0200" stop="20260521011700 +0200" channel="acontra+ CINE">
     <title lang="es">Stalker (1981)</title>
     <desc lang="es">Tres hombres del futuro buscan un cuarto secreto que cumple los deseos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91CWA5+x90L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Punto de no retorno (2008)</title>
     <desc lang="es">Un científico sube a un avión con la tecnología de un experimento sobre viajes en el tiempo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A14MvFznsVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260521041300 +0200" stop="20260521055400 +0200" channel="acontra+ CINE">
+    <title lang="es">La mansión de los crímenes (1971)</title>
+    <desc lang="es">Cuatro cuentos de terror que giran entono a una vieja y fantasmal mansión. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/9121sq+78aL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260521055400 +0200" stop="20260521073300 +0200" channel="acontra+ CINE">
+    <title lang="es">El bello Sergio (1959)</title>
+    <desc lang="es">Un hombre vuelve a su ciudad natal y descubre que su mejor amigo se ha convertido en alcohólico. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/71al89vV8gL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260521073300 +0200" stop="20260521092800 +0200" channel="acontra+ CINE">
+    <title lang="es">Bright Star (2009)</title>
+    <desc lang="es">El romance de tres años entre el poeta John Keats y Fanny Brawne cerca del final de su vida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1zxyQnUk9L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
