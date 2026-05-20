@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260520082700 +0200" stop="20260520102700 +0200" channel="acontra+ CINE">
-    <title lang="es">Arañas 3D (2013)</title>
-    <desc lang="es">Arañas se vuelven gigantes tras choque de estación espacial. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81CnDetRZRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260520102700 +0200" stop="20260520123000 +0200" channel="acontra+ CINE">
-    <title lang="es">Feliz Navidad, Mr. Lawrence (1983)</title>
-    <desc lang="es">Un intenso duelo de voluntades se establece entre comandantes japoneses y prisioneros británicos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Ece-qw1kL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260520123000 +0200" stop="20260520144600 +0200" channel="acontra+ CINE">
-    <title lang="es">Danton (2020)</title>
-    <desc lang="es">Cuando Robespierre establece el régimen de terror, Georges Danton regresa para confrontarlo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81LJzCJ85+L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260520144600 +0200" stop="20260520161900 +0200" channel="acontra+ CINE">
+  <programme start="20260520141900 +0200" stop="20260520161900 +0200" channel="acontra+ CINE">
     <title lang="es">The Angriest Man in Brooklyn (2014)</title>
     <desc lang="es">Un hombre infeliz se entera de que va a morir en 90 minutos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91hgkg7e05L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El placer (1953)</title>
     <desc lang="es">Un hombre que oculta su edad, un viaje al campo y un pintor ilustran tres historias sobre el placer. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81OVO5JCtKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260520192600 +0200" stop="20260520210100 +0200" channel="acontra+ CINE">
+    <title lang="es">Mientras Nueva York duerme</title>
+    <desc lang="es">En los pasillos del Sentinel, los periodistas intrigan para hacerse con la dirección del diario. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ZbDqARslL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260520210100 +0200" stop="20260520224200 +0200" channel="acontra+ CINE">
+    <title lang="es">Repulsión (1965)</title>
+    <desc lang="es">Una mujer muy reprimida sexualmente empieza a tener alucinaciones sobre violaciones. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/812OaS9v0aL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260520224200 +0200" stop="20260521011700 +0200" channel="acontra+ CINE">
+    <title lang="es">Stalker (1981)</title>
+    <desc lang="es">Tres hombres del futuro buscan un cuarto secreto que cumple los deseos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91CWA5+x90L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
