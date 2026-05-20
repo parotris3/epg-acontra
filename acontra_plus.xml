@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260520141900 +0200" stop="20260520161900 +0200" channel="acontra+ CINE">
-    <title lang="es">The Angriest Man in Brooklyn (2014)</title>
-    <desc lang="es">Un hombre infeliz se entera de que va a morir en 90 minutos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91hgkg7e05L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260520161900 +0200" stop="20260520174800 +0200" channel="acontra+ CINE">
-    <title lang="es">Aprendiendo a conducir (2014)</title>
-    <desc lang="es">Una escritora y un taxista indio se alejan de sus problemas durante las clases de conducción. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tu3xFypWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260520174800 +0200" stop="20260520192600 +0200" channel="acontra+ CINE">
-    <title lang="es">El placer (1953)</title>
-    <desc lang="es">Un hombre que oculta su edad, un viaje al campo y un pintor ilustran tres historias sobre el placer. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81OVO5JCtKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260520192600 +0200" stop="20260520210100 +0200" channel="acontra+ CINE">
+  <programme start="20260520190100 +0200" stop="20260520210100 +0200" channel="acontra+ CINE">
     <title lang="es">Mientras Nueva York duerme</title>
     <desc lang="es">En los pasillos del Sentinel, los periodistas intrigan para hacerse con la dirección del diario. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/71ZbDqARslL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Stalker (1981)</title>
     <desc lang="es">Tres hombres del futuro buscan un cuarto secreto que cumple los deseos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91CWA5+x90L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260521011700 +0200" stop="20260521024200 +0200" channel="acontra+ CINE">
+    <title lang="es">Toni (2014)</title>
+    <desc lang="es">Toni, un inmigrante italiano que trabaja en el sur de Francia, se enamora de una mujer local. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-0Dtqa25L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260521024200 +0200" stop="20260521041300 +0200" channel="acontra+ CINE">
+    <title lang="es">Punto de no retorno (2008)</title>
+    <desc lang="es">Un científico sube a un avión con la tecnología de un experimento sobre viajes en el tiempo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A14MvFznsVL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
