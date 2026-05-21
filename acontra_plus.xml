@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260521035400 +0200" stop="20260521055400 +0200" channel="acontra+ CINE">
-    <title lang="es">La mansión de los crímenes (1971)</title>
-    <desc lang="es">Cuatro cuentos de terror que giran entono a una vieja y fantasmal mansión. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/9121sq+78aL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260521055400 +0200" stop="20260521073300 +0200" channel="acontra+ CINE">
-    <title lang="es">El bello Sergio (1959)</title>
-    <desc lang="es">Un hombre vuelve a su ciudad natal y descubre que su mejor amigo se ha convertido en alcohólico. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/71al89vV8gL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260521073300 +0200" stop="20260521092800 +0200" channel="acontra+ CINE">
-    <title lang="es">Bright Star (2009)</title>
-    <desc lang="es">El romance de tres años entre el poeta John Keats y Fanny Brawne cerca del final de su vida. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1zxyQnUk9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260521092800 +0200" stop="20260521103400 +0200" channel="acontra+ CINE">
+  <programme start="20260521083400 +0200" stop="20260521103400 +0200" channel="acontra+ CINE">
     <title lang="es">Locos del aire (1939)</title>
     <desc lang="es">Ollie y su amigo deciden alistarse en el ejército para olvidar un desamor. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81D5fmE6xzL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">La fortaleza escondida (1958)</title>
     <desc lang="es">El general Rokurota Makabe utilizará a dos desertores para rescatar a la princesa Yuki. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/816sLifRISL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260521150500 +0200" stop="20260521164900 +0200" channel="acontra+ CINE">
+    <title lang="es">Los días impuros del extranjero (1976)</title>
+    <desc lang="es">En un pueblo costero, la viuda Anne Osborne conoce al segundo oficial Jim Cameron. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/912HkrAwIwL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260521164900 +0200" stop="20260521182200 +0200" channel="acontra+ CINE">
+    <title lang="es">Rescate en Nueva York (2006)</title>
+    <desc lang="es">Un hombre trata de encontrar a su hermana secuestrada en medio de una guerra entre la mafia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Z3bXCwlnL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
