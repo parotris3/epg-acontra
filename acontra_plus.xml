@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260521083400 +0200" stop="20260521103400 +0200" channel="acontra+ CINE">
-    <title lang="es">Locos del aire (1939)</title>
-    <desc lang="es">Ollie y su amigo deciden alistarse en el ejército para olvidar un desamor. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81D5fmE6xzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260521103400 +0200" stop="20260521125100 +0200" channel="acontra+ CINE">
-    <title lang="es">Historia del último crisantemo (1939)</title>
-    <desc lang="es">El hijo adoptivo de un prestigioso actor del teatro kabuki carece de las virtudes del padre. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/91+fqQC0YWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260521125100 +0200" stop="20260521150500 +0200" channel="acontra+ CINE">
+  <programme start="20260521130500 +0200" stop="20260521150500 +0200" channel="acontra+ CINE">
     <title lang="es">La fortaleza escondida (1958)</title>
     <desc lang="es">El general Rokurota Makabe utilizará a dos desertores para rescatar a la princesa Yuki. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/816sLifRISL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Rescate en Nueva York (2006)</title>
     <desc lang="es">Un hombre trata de encontrar a su hermana secuestrada en medio de una guerra entre la mafia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Z3bXCwlnL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260521182200 +0200" stop="20260521202800 +0200" channel="acontra+ CINE">
+    <title lang="es">No se lo digas a nadie (2006)</title>
+    <desc lang="es">La mujer de Alex Beck fue asesinada hace ocho años, ahora él es sospechoso de dos asesinatos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91LHfqAz5OL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260521202800 +0200" stop="20260521224600 +0200" channel="acontra+ CINE">
+    <title lang="es">Stalingrado (1992)</title>
+    <desc lang="es">Musical que muestra los horrores de la guerra a través de las vicisitudes de unos soldados alemanes. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91sIMlEM6zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260521224600 +0200" stop="20260522003800 +0200" channel="acontra+ CINE">
+    <title lang="es">Todos los animales pequeños (1998)</title>
+    <desc lang="es">Bobby, un joven discapacitado psíquico, decide huir de su padrastro a través de la campiña inglesa. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91nvNVgFCVL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
