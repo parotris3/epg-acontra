@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260521182800 +0200" stop="20260521202800 +0200" channel="acontra+ CINE">
-    <title lang="es">No se lo digas a nadie (2006)</title>
-    <desc lang="es">La mujer de Alex Beck fue asesinada hace ocho años, ahora él es sospechoso de dos asesinatos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91LHfqAz5OL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260521202800 +0200" stop="20260521224600 +0200" channel="acontra+ CINE">
-    <title lang="es">Stalingrado (1992)</title>
-    <desc lang="es">Musical que muestra los horrores de la guerra a través de las vicisitudes de unos soldados alemanes. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91sIMlEM6zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260521224600 +0200" stop="20260522003800 +0200" channel="acontra+ CINE">
+  <programme start="20260521223800 +0200" stop="20260522003800 +0200" channel="acontra+ CINE">
     <title lang="es">Todos los animales pequeños (1998)</title>
     <desc lang="es">Bobby, un joven discapacitado psíquico, decide huir de su padrastro a través de la campiña inglesa. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91nvNVgFCVL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Supervivientes de Los Andes</title>
     <desc lang="es">Un avión con 45 pasajeros se estrella en Los Andes. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/811U24Djs8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260522040200 +0200" stop="20260522062800 +0200" channel="acontra+ CINE">
+    <title lang="es">Quemado por el sol (1994)</title>
+    <desc lang="es">La aparición de un hombre perturba la existencia de un héroe de la Revolución Soviética. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71qHPt+eWxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260522062800 +0200" stop="20260522082600 +0200" channel="acontra+ CINE">
+    <title lang="es">La novena configuración (1980)</title>
+    <desc lang="es">El Coronel Hudson Kane llega para hacerse cargo de una institución psiquiátrica militar. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/614osUZ0gPL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
