@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260521223800 +0200" stop="20260522003800 +0200" channel="acontra+ CINE">
-    <title lang="es">Todos los animales pequeños (1998)</title>
-    <desc lang="es">Bobby, un joven discapacitado psíquico, decide huir de su padrastro a través de la campiña inglesa. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91nvNVgFCVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260522003800 +0200" stop="20260522023600 +0200" channel="acontra+ CINE">
-    <title lang="es">Salvar o morir (2020)</title>
-    <desc lang="es">Un bombero parisino sacrifica su propia seguridad para salvar a sus compañeros durante un incendio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81aMCbkTScL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260522023600 +0200" stop="20260522040200 +0200" channel="acontra+ CINE">
-    <title lang="es">Supervivientes de Los Andes</title>
-    <desc lang="es">Un avión con 45 pasajeros se estrella en Los Andes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/811U24Djs8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260522040200 +0200" stop="20260522062800 +0200" channel="acontra+ CINE">
+  <programme start="20260522042800 +0200" stop="20260522062800 +0200" channel="acontra+ CINE">
     <title lang="es">Quemado por el sol (1994)</title>
     <desc lang="es">La aparición de un hombre perturba la existencia de un héroe de la Revolución Soviética. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71qHPt+eWxL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">La novena configuración (1980)</title>
     <desc lang="es">El Coronel Hudson Kane llega para hacerse cargo de una institución psiquiátrica militar. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/614osUZ0gPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260522082600 +0200" stop="20260522095300 +0200" channel="acontra+ CINE">
+    <title lang="es">El silencio del mar (2012)</title>
+    <desc lang="es">Un oficial alemán, cultivado y francófilo, es el huésped impuesto en un hogar francés. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/71fMGZzJLRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260522095300 +0200" stop="20260522111100 +0200" channel="acontra+ CINE">
+    <title lang="es">Más allá de la duda (1956)</title>
+    <desc lang="es">Un escritor intenta demostrar la deficiencia de las leyes y la ineficacia de la policía. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Oc-S15fdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260522111100 +0200" stop="20260522124200 +0200" channel="acontra+ CINE">
+    <title lang="es">Nuestro último verano en Escocia (2014)</title>
+    <desc lang="es">Una pareja recién separada con hijos viaja a Escocia para el cumpleaños del abuelo enfermo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ZdTEM4w9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260522124200 +0200" stop="20260522142000 +0200" channel="acontra+ CINE">
+    <title lang="es">Buffalo Soldiers (2001)</title>
+    <desc lang="es">Un soldado condenado se las arregla para organizar una operación de mercado negro. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91RAMxXH5HL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
