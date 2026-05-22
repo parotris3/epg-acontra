@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260522192600 +0200" stop="20260522212600 +0200" channel="acontra+ CINE">
-    <title lang="es">Posada Jamaica (1939)</title>
-    <desc lang="es">Mary Yellan, una huérfana, viaja a Cornualles para vivir con su tía, pero nada es lo que parece ser. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/9173Y+UybvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260522212600 +0200" stop="20260522230200 +0200" channel="acontra+ CINE">
-    <title lang="es">Teniente corrupto (1992)</title>
-    <desc lang="es">Un policía corrupto queda a cargo del caso de una monja que ha sufrido una múltiple violación. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91djjNBTzxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260522230200 +0200" stop="20260523004000 +0200" channel="acontra+ CINE">
+  <programme start="20260522224000 +0200" stop="20260523004000 +0200" channel="acontra+ CINE">
     <title lang="es">Los ojos, la boca</title>
     <desc lang="es">El suicidio de un joven trae un cambio en las vidas de su hermano gemelo, su madre y su amante. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/91Hs06qQxzL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Mandíbulas letales (2015)</title>
     <desc lang="es">Una policía y un experto en escualos investigan una serie de extraños ataques de tiburones. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71v5DWIM60L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260523040100 +0200" stop="20260523052900 +0200" channel="acontra+ CINE">
+    <title lang="es">Tormenta del pasado (2008)</title>
+    <desc lang="es">Una experta de condiciones climática extremas e intentará salvar a una ciudad de un tornado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Aaf3zxGxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260523052900 +0200" stop="20260523071300 +0200" channel="acontra+ CINE">
+    <title lang="es">Primavera tardía (1949)</title>
+    <desc lang="es">Noriko vive con su padre viudo y cuida de él, pero ya va siendo muy mayor para permanecer soltera. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/817LyByUZ6L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260523071300 +0200" stop="20260523090200 +0200" channel="acontra+ CINE">
+    <title lang="es">Manual de la buena esposa (2020)</title>
+    <desc lang="es">Una escuela de hogar se encarga de capacitar a sus estudiantes para que sean esposas modelo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81GtGBEHRyL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
