@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260522091100 +0200" stop="20260522111100 +0200" channel="acontra+ CINE">
-    <title lang="es">Más allá de la duda (1956)</title>
-    <desc lang="es">Un escritor intenta demostrar la deficiencia de las leyes y la ineficacia de la policía. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Oc-S15fdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260522111100 +0200" stop="20260522124200 +0200" channel="acontra+ CINE">
-    <title lang="es">Nuestro último verano en Escocia (2014)</title>
-    <desc lang="es">Una pareja recién separada con hijos viaja a Escocia para el cumpleaños del abuelo enfermo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ZdTEM4w9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260522124200 +0200" stop="20260522142000 +0200" channel="acontra+ CINE">
-    <title lang="es">Buffalo Soldiers (2001)</title>
-    <desc lang="es">Un soldado condenado se las arregla para organizar una operación de mercado negro. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91RAMxXH5HL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260522142000 +0200" stop="20260522155300 +0200" channel="acontra+ CINE">
+  <programme start="20260522135300 +0200" stop="20260522155300 +0200" channel="acontra+ CINE">
     <title lang="es">El regreso de Jack el destripador (1988)</title>
     <desc lang="es">Un asesino de Los Ángeles intenta replicar los asesinatos de Jack el destripador. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91bbvDVxctL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">La venganza es mía (1979)</title>
     <desc lang="es">Enokizu es un criminal al que le encanta cometer atrocidades y despiadados crímenes. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81+f+z7V-RL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260522194600 +0200" stop="20260522212600 +0200" channel="acontra+ CINE">
+    <title lang="es">Posada Jamaica (1939)</title>
+    <desc lang="es">Mary Yellan, una huérfana, viaja a Cornualles para vivir con su tía, pero nada es lo que parece ser. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/9173Y+UybvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260522212600 +0200" stop="20260522230200 +0200" channel="acontra+ CINE">
+    <title lang="es">Teniente corrupto (1992)</title>
+    <desc lang="es">Un policía corrupto queda a cargo del caso de una monja que ha sufrido una múltiple violación. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91djjNBTzxL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
