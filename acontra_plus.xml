@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260522135300 +0200" stop="20260522155300 +0200" channel="acontra+ CINE">
-    <title lang="es">El regreso de Jack el destripador (1988)</title>
-    <desc lang="es">Un asesino de Los Ángeles intenta replicar los asesinatos de Jack el destripador. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91bbvDVxctL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260522155300 +0200" stop="20260522172500 +0200" channel="acontra+ CINE">
-    <title lang="es">Hunger (2009)</title>
-    <desc lang="es">Cuando expones tu cuerpo a las más extremas condiciones, las consecuencias son imprevisibles. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71gByKTRNSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260522172500 +0200" stop="20260522194600 +0200" channel="acontra+ CINE">
-    <title lang="es">La venganza es mía (1979)</title>
-    <desc lang="es">Enokizu es un criminal al que le encanta cometer atrocidades y despiadados crímenes. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81+f+z7V-RL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260522194600 +0200" stop="20260522212600 +0200" channel="acontra+ CINE">
+  <programme start="20260522192600 +0200" stop="20260522212600 +0200" channel="acontra+ CINE">
     <title lang="es">Posada Jamaica (1939)</title>
     <desc lang="es">Mary Yellan, una huérfana, viaja a Cornualles para vivir con su tía, pero nada es lo que parece ser. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/9173Y+UybvL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Teniente corrupto (1992)</title>
     <desc lang="es">Un policía corrupto queda a cargo del caso de una monja que ha sufrido una múltiple violación. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91djjNBTzxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260522230200 +0200" stop="20260523004000 +0200" channel="acontra+ CINE">
+    <title lang="es">Los ojos, la boca</title>
+    <desc lang="es">El suicidio de un joven trae un cambio en las vidas de su hermano gemelo, su madre y su amante. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Hs06qQxzL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260523004000 +0200" stop="20260523022800 +0200" channel="acontra+ CINE">
+    <title lang="es">Un hombre en el tejado (1976)</title>
+    <desc lang="es">El teniente de la policía Nyman es brutalmente asesinado en un hospital de Estocolmo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81mr4InncSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260523022800 +0200" stop="20260523040100 +0200" channel="acontra+ CINE">
+    <title lang="es">Mandíbulas letales (2015)</title>
+    <desc lang="es">Una policía y un experto en escualos investigan una serie de extraños ataques de tiburones. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71v5DWIM60L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
