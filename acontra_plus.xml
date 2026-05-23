@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260523084500 +0200" stop="20260523104500 +0200" channel="acontra+ CINE">
-    <title lang="es">Más allá del arcoíris (1990)</title>
-    <desc lang="es">Martha Travis es una médium que ofrece espectáculos de espiritismo junto a su padre alcohólico. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/810DlN4GkSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260523104500 +0200" stop="20260523124000 +0200" channel="acontra+ CINE">
-    <title lang="es">La mujer zurda (1980)</title>
-    <desc lang="es">Una mujer recién separada pone rumbo a París con su hijo, donde comienzan una nueva vida. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ebmwYoeRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260523124000 +0200" stop="20260523141900 +0200" channel="acontra+ CINE">
-    <title lang="es">Fortunata (2024)</title>
-    <desc lang="es">Fortunata intenta abrir su propio salón de belleza para poder separarse de su marido alcohólico. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81delV5A5oL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260523141900 +0200" stop="20260523161100 +0200" channel="acontra+ CINE">
+  <programme start="20260523141100 +0200" stop="20260523161100 +0200" channel="acontra+ CINE">
     <title lang="es">Nueve vidas (2005)</title>
     <desc lang="es">Nueve mujeres diferentes entre sí explican de manera cautivadora sus experiencias individuales. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91XIBSY-3pL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">De Repente (1954)</title>
     <desc lang="es">Tres criminales secuestran a una familia en su casa para matar al presidente de Estados Unidos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81-cn0GVi9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260523190400 +0200" stop="20260523205100 +0200" channel="acontra+ CINE">
+    <title lang="es">Principiantes (1986)</title>
+    <desc lang="es">Un fotógrafo se enamora locamente de una chica que quiere ser diseñadora de moda. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81USLUz2mlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260523205100 +0200" stop="20260523224900 +0200" channel="acontra+ CINE">
+    <title lang="es">Senso (1954)</title>
+    <desc lang="es">Venecia, 1866. Livia, una bella aristócrata italiana, vive un romance con el teniente Franz Mahler. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91RRRFhbw0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260523224900 +0200" stop="20260524002000 +0200" channel="acontra+ CINE">
+    <title lang="es">La revolución de las ratas (Willard) (1971)</title>
+    <desc lang="es">Un joven entrena un ejército de ratas para que destruya a sus enemigos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71QDdcUL7NL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
