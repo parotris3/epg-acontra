@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260522224000 +0200" stop="20260523004000 +0200" channel="acontra+ CINE">
-    <title lang="es">Los ojos, la boca</title>
-    <desc lang="es">El suicidio de un joven trae un cambio en las vidas de su hermano gemelo, su madre y su amante. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Hs06qQxzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260523004000 +0200" stop="20260523022800 +0200" channel="acontra+ CINE">
-    <title lang="es">Un hombre en el tejado (1976)</title>
-    <desc lang="es">El teniente de la policía Nyman es brutalmente asesinado en un hospital de Estocolmo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81mr4InncSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260523022800 +0200" stop="20260523040100 +0200" channel="acontra+ CINE">
-    <title lang="es">Mandíbulas letales (2015)</title>
-    <desc lang="es">Una policía y un experto en escualos investigan una serie de extraños ataques de tiburones. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71v5DWIM60L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260523040100 +0200" stop="20260523052900 +0200" channel="acontra+ CINE">
+  <programme start="20260523032900 +0200" stop="20260523052900 +0200" channel="acontra+ CINE">
     <title lang="es">Tormenta del pasado (2008)</title>
     <desc lang="es">Una experta de condiciones climática extremas e intentará salvar a una ciudad de un tornado. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Aaf3zxGxL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Manual de la buena esposa (2020)</title>
     <desc lang="es">Una escuela de hogar se encarga de capacitar a sus estudiantes para que sean esposas modelo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81GtGBEHRyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260523090200 +0200" stop="20260523104500 +0200" channel="acontra+ CINE">
+    <title lang="es">Más allá del arcoíris (1990)</title>
+    <desc lang="es">Martha Travis es una médium que ofrece espectáculos de espiritismo junto a su padre alcohólico. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/810DlN4GkSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260523104500 +0200" stop="20260523124000 +0200" channel="acontra+ CINE">
+    <title lang="es">La mujer zurda (1980)</title>
+    <desc lang="es">Una mujer recién separada pone rumbo a París con su hijo, donde comienzan una nueva vida. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ebmwYoeRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260523124000 +0200" stop="20260523141900 +0200" channel="acontra+ CINE">
+    <title lang="es">Fortunata (2024)</title>
+    <desc lang="es">Fortunata intenta abrir su propio salón de belleza para poder separarse de su marido alcohólico. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81delV5A5oL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
