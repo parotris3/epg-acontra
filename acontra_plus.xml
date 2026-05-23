@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260523141100 +0200" stop="20260523161100 +0200" channel="acontra+ CINE">
-    <title lang="es">Nueve vidas (2005)</title>
-    <desc lang="es">Nueve mujeres diferentes entre sí explican de manera cautivadora sus experiencias individuales. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91XIBSY-3pL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260523161100 +0200" stop="20260523175000 +0200" channel="acontra+ CINE">
-    <title lang="es">El legado (1979)</title>
-    <desc lang="es">Seis personas llegan a una casa en el campo, pero su tranquilo fin de semana se complicará. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81thiMnpaZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260523175000 +0200" stop="20260523190400 +0200" channel="acontra+ CINE">
-    <title lang="es">De Repente (1954)</title>
-    <desc lang="es">Tres criminales secuestran a una familia en su casa para matar al presidente de Estados Unidos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-cn0GVi9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260523190400 +0200" stop="20260523205100 +0200" channel="acontra+ CINE">
+  <programme start="20260523185100 +0200" stop="20260523205100 +0200" channel="acontra+ CINE">
     <title lang="es">Principiantes (1986)</title>
     <desc lang="es">Un fotógrafo se enamora locamente de una chica que quiere ser diseñadora de moda. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81USLUz2mlL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La revolución de las ratas (Willard) (1971)</title>
     <desc lang="es">Un joven entrena un ejército de ratas para que destruya a sus enemigos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71QDdcUL7NL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260524002000 +0200" stop="20260524020100 +0200" channel="acontra+ CINE">
+    <title lang="es">Yo compré una moto vampiro (1991)</title>
+    <desc lang="es">Tras un ritual en el que un ocultista es asesinado, una moto es poseída por un espíritu vampírico. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1ZJSyE4GTL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260524020100 +0200" stop="20260524034700 +0200" channel="acontra+ CINE">
+    <title lang="es">La regla del juego (1939)</title>
+    <desc lang="es">Ilustración de clásico de Jean Renoir acerca de las reglas sociales y sexuales que separan a clases. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91ZzBu2bdRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260524034700 +0200" stop="20260524055100 +0200" channel="acontra+ CINE">
+    <title lang="es">Las bostonianas (1984)</title>
+    <desc lang="es">La sufragista Olive decide convertir a la joven Verena en portavoz del incipiente movimiento. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91JXk-A4hcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
