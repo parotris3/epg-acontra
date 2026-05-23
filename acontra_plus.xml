@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260523032900 +0200" stop="20260523052900 +0200" channel="acontra+ CINE">
-    <title lang="es">Tormenta del pasado (2008)</title>
-    <desc lang="es">Una experta de condiciones climática extremas e intentará salvar a una ciudad de un tornado. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Aaf3zxGxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260523052900 +0200" stop="20260523071300 +0200" channel="acontra+ CINE">
-    <title lang="es">Primavera tardía (1949)</title>
-    <desc lang="es">Noriko vive con su padre viudo y cuida de él, pero ya va siendo muy mayor para permanecer soltera. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/817LyByUZ6L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260523071300 +0200" stop="20260523090200 +0200" channel="acontra+ CINE">
-    <title lang="es">Manual de la buena esposa (2020)</title>
-    <desc lang="es">Una escuela de hogar se encarga de capacitar a sus estudiantes para que sean esposas modelo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81GtGBEHRyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260523090200 +0200" stop="20260523104500 +0200" channel="acontra+ CINE">
+  <programme start="20260523084500 +0200" stop="20260523104500 +0200" channel="acontra+ CINE">
     <title lang="es">Más allá del arcoíris (1990)</title>
     <desc lang="es">Martha Travis es una médium que ofrece espectáculos de espiritismo junto a su padre alcohólico. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/810DlN4GkSL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Fortunata (2024)</title>
     <desc lang="es">Fortunata intenta abrir su propio salón de belleza para poder separarse de su marido alcohólico. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81delV5A5oL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260523141900 +0200" stop="20260523161100 +0200" channel="acontra+ CINE">
+    <title lang="es">Nueve vidas (2005)</title>
+    <desc lang="es">Nueve mujeres diferentes entre sí explican de manera cautivadora sus experiencias individuales. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91XIBSY-3pL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260523161100 +0200" stop="20260523175000 +0200" channel="acontra+ CINE">
+    <title lang="es">El legado (1979)</title>
+    <desc lang="es">Seis personas llegan a una casa en el campo, pero su tranquilo fin de semana se complicará. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81thiMnpaZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260523175000 +0200" stop="20260523190400 +0200" channel="acontra+ CINE">
+    <title lang="es">De Repente (1954)</title>
+    <desc lang="es">Tres criminales secuestran a una familia en su casa para matar al presidente de Estados Unidos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-cn0GVi9L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
