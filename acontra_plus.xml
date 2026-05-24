@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260524090500 +0200" stop="20260524110500 +0200" channel="acontra+ CINE">
-    <title lang="es">Pawn Sacrifice (2014)</title>
-    <desc lang="es">El ajedrecista Bobby Fischer compite contra un soviético. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/816y1HZz1AL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260524110500 +0200" stop="20260524125600 +0200" channel="acontra+ CINE">
-    <title lang="es">Diálogo de carmelitas (2011)</title>
-    <desc lang="es">En plena Revolución Francesa, la joven Blanche de la Force decide ingresar en un convento. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91fSPpdNqdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260524125600 +0200" stop="20260524143500 +0200" channel="acontra+ CINE">
-    <title lang="es">Cash (2008)</title>
-    <desc lang="es">Cash decide vengar el asesinato de su hermano a su manera: sin armas ni violencia, con estilo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91nYcTFWEvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260524143500 +0200" stop="20260524160800 +0200" channel="acontra+ CINE">
+  <programme start="20260524140800 +0200" stop="20260524160800 +0200" channel="acontra+ CINE">
     <title lang="es">Juntos, nada más (2007)</title>
     <desc lang="es">Un cocinero, una dibujante y un aristócrata solitario deberán aprender a convivir. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81IK+avmNdL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Madres e hijas (2010)</title>
     <desc lang="es">Tres mujeres, Karen, Elizabeth y Lucy, comparten un objetivo común: adoptar a un hijo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/8165KRQ-0PL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260524194900 +0200" stop="20260524213800 +0200" channel="acontra+ CINE">
+    <title lang="es">Me casé con un boludo</title>
+    <desc lang="es">Florencia se da cuenta de que se casó con un idiota. Él intentará recuperarla con un guionista. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71rVwQe6GOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260524213800 +0200" stop="20260524235500 +0200" channel="acontra+ CINE">
+    <title lang="es">Regreso a Howards End (1992)</title>
+    <desc lang="es">Dos hermanas cultas e independientes hacen amistad con la próspera y convencional familia Wilcox. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81021vjbDVL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
