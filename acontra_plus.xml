@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260524035100 +0200" stop="20260524055100 +0200" channel="acontra+ CINE">
-    <title lang="es">Las bostonianas (1984)</title>
-    <desc lang="es">La sufragista Olive decide convertir a la joven Verena en portavoz del incipiente movimiento. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91JXk-A4hcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260524055100 +0200" stop="20260524074700 +0200" channel="acontra+ CINE">
-    <title lang="es">Good Morning Babilonia (1987)</title>
-    <desc lang="es">Dos hermanos italianos buscan éxito como diseñadores de escenario en Estados Unidos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81+9mNV048L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260524074700 +0200" stop="20260524090900 +0200" channel="acontra+ CINE">
-    <title lang="es">El marido de la peluquera (1990)</title>
-    <desc lang="es">Fascinado por los estilistas desde que era un niño, Antoine promete casarse con una peluquera. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/918xYPpp98L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260524090900 +0200" stop="20260524110500 +0200" channel="acontra+ CINE">
+  <programme start="20260524090500 +0200" stop="20260524110500 +0200" channel="acontra+ CINE">
     <title lang="es">Pawn Sacrifice (2014)</title>
     <desc lang="es">El ajedrecista Bobby Fischer compite contra un soviético. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/816y1HZz1AL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Cash (2008)</title>
     <desc lang="es">Cash decide vengar el asesinato de su hermano a su manera: sin armas ni violencia, con estilo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91nYcTFWEvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260524143500 +0200" stop="20260524160800 +0200" channel="acontra+ CINE">
+    <title lang="es">Juntos, nada más (2007)</title>
+    <desc lang="es">Un cocinero, una dibujante y un aristócrata solitario deberán aprender a convivir. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81IK+avmNdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260524160800 +0200" stop="20260524174700 +0200" channel="acontra+ CINE">
+    <title lang="es">71 fragmentos de una cronología del azar</title>
+    <desc lang="es">Fragmentos separados por cortes de pantalla en negro describen las vidas de varias personas. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/916aQRjTMpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260524174700 +0200" stop="20260524194900 +0200" channel="acontra+ CINE">
+    <title lang="es">Madres e hijas (2010)</title>
+    <desc lang="es">Tres mujeres, Karen, Elizabeth y Lucy, comparten un objetivo común: adoptar a un hijo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8165KRQ-0PL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
