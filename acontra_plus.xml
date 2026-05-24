@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260524193800 +0200" stop="20260524213800 +0200" channel="acontra+ CINE">
-    <title lang="es">Me casé con un boludo</title>
-    <desc lang="es">Florencia se da cuenta de que se casó con un idiota. Él intentará recuperarla con un guionista. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71rVwQe6GOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260524213800 +0200" stop="20260524235500 +0200" channel="acontra+ CINE">
-    <title lang="es">Regreso a Howards End (1992)</title>
-    <desc lang="es">Dos hermanas cultas e independientes hacen amistad con la próspera y convencional familia Wilcox. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81021vjbDVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260524235500 +0200" stop="20260525015300 +0200" channel="acontra+ CINE">
+  <programme start="20260524235300 +0200" stop="20260525015300 +0200" channel="acontra+ CINE">
     <title lang="es">Detective Dee y el misterio de la llama fantasma (2010)</title>
     <desc lang="es">Wu, la primera emperatriz de la China, reclama la ayuda de Di Renjie para resolver un misterio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81QvE9VDVqL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,10 @@
     <title lang="es">El Barbero de Siberia (2000)</title>
     <desc lang="es">En 1885, un empresario se aventura en Rusia, soñando con vender un nuevo tractor de vapor. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71N0tVPaqrL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260525064000 +0200" stop="20260525080800 +0200" channel="acontra+ CINE">
+    <title lang="es">Cuenta atrás (2010)</title>
+    <desc lang="es">Una mujer es secuestrada bajo la mirada impotente de su marido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ScUhFWl4L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
