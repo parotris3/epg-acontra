@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260523222000 +0200" stop="20260524002000 +0200" channel="acontra+ CINE">
-    <title lang="es">La revolución de las ratas (Willard) (1971)</title>
-    <desc lang="es">Un joven entrena un ejército de ratas para que destruya a sus enemigos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71QDdcUL7NL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260524002000 +0200" stop="20260524020100 +0200" channel="acontra+ CINE">
-    <title lang="es">Yo compré una moto vampiro (1991)</title>
-    <desc lang="es">Tras un ritual en el que un ocultista es asesinado, una moto es poseída por un espíritu vampírico. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1ZJSyE4GTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260524020100 +0200" stop="20260524034700 +0200" channel="acontra+ CINE">
-    <title lang="es">La regla del juego (1939)</title>
-    <desc lang="es">Ilustración de clásico de Jean Renoir acerca de las reglas sociales y sexuales que separan a clases. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91ZzBu2bdRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260524034700 +0200" stop="20260524055100 +0200" channel="acontra+ CINE">
+  <programme start="20260524035100 +0200" stop="20260524055100 +0200" channel="acontra+ CINE">
     <title lang="es">Las bostonianas (1984)</title>
     <desc lang="es">La sufragista Olive decide convertir a la joven Verena en portavoz del incipiente movimiento. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91JXk-A4hcL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El marido de la peluquera (1990)</title>
     <desc lang="es">Fascinado por los estilistas desde que era un niño, Antoine promete casarse con una peluquera. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/918xYPpp98L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260524090900 +0200" stop="20260524110500 +0200" channel="acontra+ CINE">
+    <title lang="es">Pawn Sacrifice (2014)</title>
+    <desc lang="es">El ajedrecista Bobby Fischer compite contra un soviético. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/816y1HZz1AL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260524110500 +0200" stop="20260524125600 +0200" channel="acontra+ CINE">
+    <title lang="es">Diálogo de carmelitas (2011)</title>
+    <desc lang="es">En plena Revolución Francesa, la joven Blanche de la Force decide ingresar en un convento. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91fSPpdNqdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260524125600 +0200" stop="20260524143500 +0200" channel="acontra+ CINE">
+    <title lang="es">Cash (2008)</title>
+    <desc lang="es">Cash decide vengar el asesinato de su hermano a su manera: sin armas ni violencia, con estilo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91nYcTFWEvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
