@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260525183400 +0200" stop="20260525203400 +0200" channel="acontra+ CINE">
-    <title lang="es">El Navegante (1924)</title>
-    <desc lang="es">Dos personas de sociedad están sólos en barco abandonado. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81S386unAEL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260525203400 +0200" stop="20260525222200 +0200" channel="acontra+ CINE">
-    <title lang="es">Los cien pasos (2000)</title>
-    <desc lang="es">Un activista político cuya familia está vinculada a la mafia denuncia el crimen organizado. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71fIjNsS4-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260525222200 +0200" stop="20260526005300 +0200" channel="acontra+ CINE">
+  <programme start="20260525225300 +0200" stop="20260526005300 +0200" channel="acontra+ CINE">
     <title lang="es">Un ángel en mi mesa (1991)</title>
     <desc lang="es">Cinta biográfica sobre la escritora Janet Frame, quien casi fue víctima de una lobotomía. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1FHg-vfEtL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">La matanza de Texas (1974)</title>
     <desc lang="es">Un grupo de jóvenes son atacados con sierras y otras herramientas mortales por seres dementes. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71VJFqz66zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260526051000 +0200" stop="20260526070700 +0200" channel="acontra+ CINE">
+    <title lang="es">Macbeth (2015)</title>
+    <desc lang="es">Un hombre de la nobleza sube al trono escocés. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71jK0pNXjjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260526070700 +0200" stop="20260526084300 +0200" channel="acontra+ CINE">
+    <title lang="es">Sanjuro (1962)</title>
+    <desc lang="es">Sanjuro es un samurái errante y hastiado que ayuda a un grupo idealista de jóvenes guerreros. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/913EZq+FQoL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
