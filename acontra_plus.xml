@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260525091500 +0200" stop="20260525111500 +0200" channel="acontra+ CINE">
-    <title lang="es">20 años no importan (2013)</title>
-    <desc lang="es">La vida de Alice, una mujer ambiciosa y egocéntrica, cambia cuando conoce al joven Baltasar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91sfPGXr9ML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260525111500 +0200" stop="20260525124700 +0200" channel="acontra+ CINE">
-    <title lang="es">Asesino a sueldo (2012)</title>
-    <desc lang="es">Un asesino traicionado por los suyos huye a Londres, donde se une a una familia de gánsteres. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/819aK0w0LrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260525124700 +0200" stop="20260525143100 +0200" channel="acontra+ CINE">
-    <title lang="es">Eugénie Grandet (2021)</title>
-    <desc lang="es">Un padre no ve con buenos ojos a las partes que se apresuran a pedir la mano de su hija. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/91hAc2jMZUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260525143100 +0200" stop="20260525161000 +0200" channel="acontra+ CINE">
+  <programme start="20260525141000 +0200" stop="20260525161000 +0200" channel="acontra+ CINE">
     <title lang="es">El loco, loco mundo del gendarme (2022)</title>
     <desc lang="es">Cuatro jóvenes y hermosas mujeres policías trastornan la vida de una comisaría francesa. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81u8LwKvTLL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Sorgo rojo (1989)</title>
     <desc lang="es">En la China de la década de 1930, una joven es enviada por su padre a casarse con un hombre enfermo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71vjhf6CsDL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260525192700 +0200" stop="20260525203400 +0200" channel="acontra+ CINE">
+    <title lang="es">El Navegante (1924)</title>
+    <desc lang="es">Dos personas de sociedad están sólos en barco abandonado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81S386unAEL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260525203400 +0200" stop="20260525222200 +0200" channel="acontra+ CINE">
+    <title lang="es">Los cien pasos (2000)</title>
+    <desc lang="es">Un activista político cuya familia está vinculada a la mafia denuncia el crimen organizado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71fIjNsS4-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260525222200 +0200" stop="20260526005300 +0200" channel="acontra+ CINE">
+    <title lang="es">Un ángel en mi mesa (1991)</title>
+    <desc lang="es">Cinta biográfica sobre la escritora Janet Frame, quien casi fue víctima de una lobotomía. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1FHg-vfEtL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
