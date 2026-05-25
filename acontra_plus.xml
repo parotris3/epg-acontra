@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260524235300 +0200" stop="20260525015300 +0200" channel="acontra+ CINE">
-    <title lang="es">Detective Dee y el misterio de la llama fantasma (2010)</title>
-    <desc lang="es">Wu, la primera emperatriz de la China, reclama la ayuda de Di Renjie para resolver un misterio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81QvE9VDVqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260525015300 +0200" stop="20260525034600 +0200" channel="acontra+ CINE">
-    <title lang="es">Antes del anochecer (2013)</title>
-    <desc lang="es">Jesse y Céline se encuentran de nuevo en Grecia. Han pasado nueve años desde su último encuentro. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81L897QoI-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260525034600 +0200" stop="20260525064000 +0200" channel="acontra+ CINE">
+  <programme start="20260525044000 +0200" stop="20260525064000 +0200" channel="acontra+ CINE">
     <title lang="es">El Barbero de Siberia (2000)</title>
     <desc lang="es">En 1885, un empresario se aventura en Rusia, soñando con vender un nuevo tractor de vapor. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71N0tVPaqrL._UR1920,1080_FMpng_.jpg"/>
@@ -22,5 +12,25 @@
     <title lang="es">Cuenta atrás (2010)</title>
     <desc lang="es">Una mujer es secuestrada bajo la mirada impotente de su marido. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ScUhFWl4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260525080800 +0200" stop="20260525094200 +0200" channel="acontra+ CINE">
+    <title lang="es">El guardián (2002)</title>
+    <desc lang="es">Un inspector de policía investiga una ola de violencia provocada por un espíritu maligno. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/813v6NxUfHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260525094200 +0200" stop="20260525111500 +0200" channel="acontra+ CINE">
+    <title lang="es">20 años no importan (2013)</title>
+    <desc lang="es">La vida de Alice, una mujer ambiciosa y egocéntrica, cambia cuando conoce al joven Baltasar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91sfPGXr9ML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260525111500 +0200" stop="20260525124700 +0200" channel="acontra+ CINE">
+    <title lang="es">Asesino a sueldo (2012)</title>
+    <desc lang="es">Un asesino traicionado por los suyos huye a Londres, donde se une a una familia de gánsteres. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/819aK0w0LrL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260525124700 +0200" stop="20260525143100 +0200" channel="acontra+ CINE">
+    <title lang="es">Eugénie Grandet (2021)</title>
+    <desc lang="es">Un padre no ve con buenos ojos a las partes que se apresuran a pedir la mano de su hija. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91hAc2jMZUL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
