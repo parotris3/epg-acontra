@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260525141000 +0200" stop="20260525161000 +0200" channel="acontra+ CINE">
-    <title lang="es">El loco, loco mundo del gendarme (2022)</title>
-    <desc lang="es">Cuatro jóvenes y hermosas mujeres policías trastornan la vida de una comisaría francesa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81u8LwKvTLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260525161000 +0200" stop="20260525175900 +0200" channel="acontra+ CINE">
-    <title lang="es">Padre patrón (1977)</title>
-    <desc lang="es">La historia real de Gavino Ledda, que fue obligado por su autoritario padre a dejar la escuela. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/61+CRe2Rb7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260525175900 +0200" stop="20260525192700 +0200" channel="acontra+ CINE">
-    <title lang="es">Sorgo rojo (1989)</title>
-    <desc lang="es">En la China de la década de 1930, una joven es enviada por su padre a casarse con un hombre enfermo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71vjhf6CsDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260525192700 +0200" stop="20260525203400 +0200" channel="acontra+ CINE">
+  <programme start="20260525183400 +0200" stop="20260525203400 +0200" channel="acontra+ CINE">
     <title lang="es">El Navegante (1924)</title>
     <desc lang="es">Dos personas de sociedad están sólos en barco abandonado. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81S386unAEL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Un ángel en mi mesa (1991)</title>
     <desc lang="es">Cinta biográfica sobre la escritora Janet Frame, quien casi fue víctima de una lobotomía. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1FHg-vfEtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260526005300 +0200" stop="20260526022900 +0200" channel="acontra+ CINE">
+    <title lang="es">Walkabout (1972)</title>
+    <desc lang="es">Un joven aborigen viene al rescate de una joven y su hermano, varados en la naturaleza australiana. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/61Ual-H9uKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260526022900 +0200" stop="20260526034600 +0200" channel="acontra+ CINE">
+    <title lang="es">Adrenalina</title>
+    <desc lang="es">Durante unas vacaciones en Europa del Este, la hija de una agente del FBI es secuestrada. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qNKG3BZZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260526034600 +0200" stop="20260526051000 +0200" channel="acontra+ CINE">
+    <title lang="es">La matanza de Texas (1974)</title>
+    <desc lang="es">Un grupo de jóvenes son atacados con sierras y otras herramientas mortales por seres dementes. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71VJFqz66zL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
