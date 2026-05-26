@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260526185200 +0200" stop="20260526205200 +0200" channel="acontra+ CINE">
-    <title lang="es">Algo celosa (2020)</title>
-    <desc lang="es">Una mujer divorciada y profesora de francés comienza a sentir celos de su hija de 18 años. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A17d+USpfJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260526205200 +0200" stop="20260526224400 +0200" channel="acontra+ CINE">
-    <title lang="es">Callejón sin salida (1966)</title>
-    <desc lang="es">Dos fugitivos se esconden en un castillo medieval habitado por una pareja muy excéntrica. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71uV+LXDfLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260526224400 +0200" stop="20260527002500 +0200" channel="acontra+ CINE">
+  <programme start="20260526222500 +0200" stop="20260527002500 +0200" channel="acontra+ CINE">
     <title lang="es">Four Lions (2010)</title>
     <desc lang="es">Cuatro musulmanes intentan realizar, sin éxito, actos de terrorismo en Inglaterra. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81HPccFYNSL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Los asesinos de la luna de miel (1970)</title>
     <desc lang="es">Martha Beck y su novio Ray Fernández se dedican a estafar y asesinar a mujeres ricas y solitarias. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ucXlfED7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260527040100 +0200" stop="20260527053600 +0200" channel="acontra+ CINE">
+    <title lang="es">Profesor Lazhar (2011)</title>
+    <desc lang="es">Bachir Lazhar, un inmigrante argelino, se ofrece como sustituto de un maestro. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/815c9swPh1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260527053600 +0200" stop="20260527071000 +0200" channel="acontra+ CINE">
+    <title lang="es">Buscando la perfección (2019)</title>
+    <desc lang="es">En 1984, John McEnroe pierde la gran final del Roland Garros contra Ivan Lendl. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91vPU5eJPXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260527071000 +0200" stop="20260527084100 +0200" channel="acontra+ CINE">
+    <title lang="es">Testigo (2017)</title>
+    <desc lang="es">Duval debe afrontar la brutal mecánica del mundo oculto de los servicios secretos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71etEZ+ZdkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
