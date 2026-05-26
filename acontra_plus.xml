@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260525225300 +0200" stop="20260526005300 +0200" channel="acontra+ CINE">
-    <title lang="es">Un ángel en mi mesa (1991)</title>
-    <desc lang="es">Cinta biográfica sobre la escritora Janet Frame, quien casi fue víctima de una lobotomía. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1FHg-vfEtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260526005300 +0200" stop="20260526022900 +0200" channel="acontra+ CINE">
-    <title lang="es">Walkabout (1972)</title>
-    <desc lang="es">Un joven aborigen viene al rescate de una joven y su hermano, varados en la naturaleza australiana. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/61Ual-H9uKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260526022900 +0200" stop="20260526034600 +0200" channel="acontra+ CINE">
-    <title lang="es">Adrenalina</title>
-    <desc lang="es">Durante unas vacaciones en Europa del Este, la hija de una agente del FBI es secuestrada. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qNKG3BZZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260526034600 +0200" stop="20260526051000 +0200" channel="acontra+ CINE">
+  <programme start="20260526031000 +0200" stop="20260526051000 +0200" channel="acontra+ CINE">
     <title lang="es">La matanza de Texas (1974)</title>
     <desc lang="es">Un grupo de jóvenes son atacados con sierras y otras herramientas mortales por seres dementes. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71VJFqz66zL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Sanjuro (1962)</title>
     <desc lang="es">Sanjuro es un samurái errante y hastiado que ayuda a un grupo idealista de jóvenes guerreros. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/913EZq+FQoL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260526084300 +0200" stop="20260526102000 +0200" channel="acontra+ CINE">
+    <title lang="es">Testigo mudo (1996)</title>
+    <desc lang="es">Billy Hughes, una americana que trabaja en Rusia, es testigo de un asesinato en un plató de cine. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71n9KAvmIsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260526102000 +0200" stop="20260526120300 +0200" channel="acontra+ CINE">
+    <title lang="es">La desaparición de Alice Creed (2010)</title>
+    <desc lang="es">Rapto acaba en un juego de codicia, amor, sexo y violencia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81LBfvDBf-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260526120300 +0200" stop="20260526140900 +0200" channel="acontra+ CINE">
+    <title lang="es">Great Expectations (2012)</title>
+    <desc lang="es">Basada en la novela de Charles Dickens. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1CCHqpqbeL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
