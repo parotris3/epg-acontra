@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260526082000 +0200" stop="20260526102000 +0200" channel="acontra+ CINE">
-    <title lang="es">Testigo mudo (1996)</title>
-    <desc lang="es">Billy Hughes, una americana que trabaja en Rusia, es testigo de un asesinato en un plató de cine. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71n9KAvmIsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260526102000 +0200" stop="20260526120300 +0200" channel="acontra+ CINE">
-    <title lang="es">La desaparición de Alice Creed (2010)</title>
-    <desc lang="es">Rapto acaba en un juego de codicia, amor, sexo y violencia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81LBfvDBf-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260526120300 +0200" stop="20260526140900 +0200" channel="acontra+ CINE">
-    <title lang="es">Great Expectations (2012)</title>
-    <desc lang="es">Basada en la novela de Charles Dickens. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1CCHqpqbeL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260526140900 +0200" stop="20260526154500 +0200" channel="acontra+ CINE">
+  <programme start="20260526134500 +0200" stop="20260526154500 +0200" channel="acontra+ CINE">
     <title lang="es">El pecado del padre Mouret</title>
     <desc lang="es">Serge Mouret, un devoto párroco, sufre una pérdida de memoria. Una joven enfermera lo cuida. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71VCRO62IML._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El fotógrafo de Minamata (2020)</title>
     <desc lang="es">W. Eugne Smith, fotógrafo de guerra, regresa a Japón para documentar el envenenamiento por mercurio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Y8Sd-EGgL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260526190500 +0200" stop="20260526205200 +0200" channel="acontra+ CINE">
+    <title lang="es">Algo celosa (2020)</title>
+    <desc lang="es">Una mujer divorciada y profesora de francés comienza a sentir celos de su hija de 18 años. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A17d+USpfJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260526205200 +0200" stop="20260526224400 +0200" channel="acontra+ CINE">
+    <title lang="es">Callejón sin salida (1966)</title>
+    <desc lang="es">Dos fugitivos se esconden en un castillo medieval habitado por una pareja muy excéntrica. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71uV+LXDfLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260526224400 +0200" stop="20260527002500 +0200" channel="acontra+ CINE">
+    <title lang="es">Four Lions (2010)</title>
+    <desc lang="es">Cuatro musulmanes intentan realizar, sin éxito, actos de terrorismo en Inglaterra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81HPccFYNSL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
