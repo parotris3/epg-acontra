@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260526031000 +0200" stop="20260526051000 +0200" channel="acontra+ CINE">
-    <title lang="es">La matanza de Texas (1974)</title>
-    <desc lang="es">Un grupo de jóvenes son atacados con sierras y otras herramientas mortales por seres dementes. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71VJFqz66zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260526051000 +0200" stop="20260526070700 +0200" channel="acontra+ CINE">
-    <title lang="es">Macbeth (2015)</title>
-    <desc lang="es">Un hombre de la nobleza sube al trono escocés. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71jK0pNXjjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260526070700 +0200" stop="20260526084300 +0200" channel="acontra+ CINE">
-    <title lang="es">Sanjuro (1962)</title>
-    <desc lang="es">Sanjuro es un samurái errante y hastiado que ayuda a un grupo idealista de jóvenes guerreros. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/913EZq+FQoL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260526084300 +0200" stop="20260526102000 +0200" channel="acontra+ CINE">
+  <programme start="20260526082000 +0200" stop="20260526102000 +0200" channel="acontra+ CINE">
     <title lang="es">Testigo mudo (1996)</title>
     <desc lang="es">Billy Hughes, una americana que trabaja en Rusia, es testigo de un asesinato en un plató de cine. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71n9KAvmIsL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Great Expectations (2012)</title>
     <desc lang="es">Basada en la novela de Charles Dickens. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1CCHqpqbeL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260526140900 +0200" stop="20260526154500 +0200" channel="acontra+ CINE">
+    <title lang="es">El pecado del padre Mouret</title>
+    <desc lang="es">Serge Mouret, un devoto párroco, sufre una pérdida de memoria. Una joven enfermera lo cuida. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71VCRO62IML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260526154500 +0200" stop="20260526171400 +0200" channel="acontra+ CINE">
+    <title lang="es">Como en un espejo (1961)</title>
+    <desc lang="es">Karin pierde el contacto con la realidad a causa de la esquizofrenia que padece. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81nB1w59ZQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260526171400 +0200" stop="20260526190500 +0200" channel="acontra+ CINE">
+    <title lang="es">El fotógrafo de Minamata (2020)</title>
+    <desc lang="es">W. Eugne Smith, fotógrafo de guerra, regresa a Japón para documentar el envenenamiento por mercurio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Y8Sd-EGgL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
