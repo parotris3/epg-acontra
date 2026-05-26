@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260526134500 +0200" stop="20260526154500 +0200" channel="acontra+ CINE">
-    <title lang="es">El pecado del padre Mouret</title>
-    <desc lang="es">Serge Mouret, un devoto párroco, sufre una pérdida de memoria. Una joven enfermera lo cuida. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71VCRO62IML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260526154500 +0200" stop="20260526171400 +0200" channel="acontra+ CINE">
-    <title lang="es">Como en un espejo (1961)</title>
-    <desc lang="es">Karin pierde el contacto con la realidad a causa de la esquizofrenia que padece. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nB1w59ZQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260526171400 +0200" stop="20260526190500 +0200" channel="acontra+ CINE">
-    <title lang="es">El fotógrafo de Minamata (2020)</title>
-    <desc lang="es">W. Eugne Smith, fotógrafo de guerra, regresa a Japón para documentar el envenenamiento por mercurio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Y8Sd-EGgL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260526190500 +0200" stop="20260526205200 +0200" channel="acontra+ CINE">
+  <programme start="20260526185200 +0200" stop="20260526205200 +0200" channel="acontra+ CINE">
     <title lang="es">Algo celosa (2020)</title>
     <desc lang="es">Una mujer divorciada y profesora de francés comienza a sentir celos de su hija de 18 años. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A17d+USpfJL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Four Lions (2010)</title>
     <desc lang="es">Cuatro musulmanes intentan realizar, sin éxito, actos de terrorismo en Inglaterra. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81HPccFYNSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260527002500 +0200" stop="20260527021400 +0200" channel="acontra+ CINE">
+    <title lang="es">Fuerzas especiales (2011)</title>
+    <desc lang="es">Afganistán, una periodista es capturada por los Talibanes. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81wD-+H9LpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260527021400 +0200" stop="20260527040100 +0200" channel="acontra+ CINE">
+    <title lang="es">Los asesinos de la luna de miel (1970)</title>
+    <desc lang="es">Martha Beck y su novio Ray Fernández se dedican a estafar y asesinar a mujeres ricas y solitarias. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ucXlfED7L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
