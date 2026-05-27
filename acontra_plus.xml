@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260527135800 +0200" stop="20260527155800 +0200" channel="acontra+ CINE">
-    <title lang="es">El amor de Swann (1984)</title>
-    <desc lang="es">La apasionada historia de amor de Swann, un aristócrata, con la bella prostituta Odette de Crécy. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71WNSPx7jcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260527155800 +0200" stop="20260527174900 +0200" channel="acontra+ CINE">
-    <title lang="es">The Sea of Trees (2015)</title>
-    <desc lang="es">Un estadounidense y un japonés se conocen en un bosque. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BFJfGFeZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260527174900 +0200" stop="20260527193400 +0200" channel="acontra+ CINE">
-    <title lang="es">El caso Wells (2007)</title>
-    <desc lang="es">Un agente y su protegida investigan la desaparición de una joven por temas de delincuencia sexual. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81dmJ8admJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260527193400 +0200" stop="20260527211400 +0200" channel="acontra+ CINE">
+  <programme start="20260527191400 +0200" stop="20260527211400 +0200" channel="acontra+ CINE">
     <title lang="es">Cromwell, el rey de los bárbaros (1982)</title>
     <desc lang="es">Unos inadaptados intentan derrotar a un tirano malvado que controla reino medieval mediante magia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91ZCvuPXU8L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Lo que el día debe a la noche (2012)</title>
     <desc lang="es">Un niño ve cómo se pone a prueba su amistad con sus amigos cuando una joven llega al pueblo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/910jaGl7Z3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260528011400 +0200" stop="20260528024800 +0200" channel="acontra+ CINE">
+    <title lang="es">El señor Manglehorn (2014)</title>
+    <desc lang="es">Una empleada de un banco intenta cambiar a hombre huraño que vive recluido en su casa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81BWNMU3SJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260528024800 +0200" stop="20260528042000 +0200" channel="acontra+ CINE">
+    <title lang="es">El brindis (2020)</title>
+    <desc lang="es">Un hombre espera un mensaje de reconciliación de su ex durante una cena familiar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91YMCCqF3DL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
