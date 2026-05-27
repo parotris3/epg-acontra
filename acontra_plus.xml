@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260527033600 +0200" stop="20260527053600 +0200" channel="acontra+ CINE">
-    <title lang="es">Profesor Lazhar (2011)</title>
-    <desc lang="es">Bachir Lazhar, un inmigrante argelino, se ofrece como sustituto de un maestro. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/815c9swPh1L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260527053600 +0200" stop="20260527071000 +0200" channel="acontra+ CINE">
-    <title lang="es">Buscando la perfección (2019)</title>
-    <desc lang="es">En 1984, John McEnroe pierde la gran final del Roland Garros contra Ivan Lendl. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/91vPU5eJPXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260527071000 +0200" stop="20260527084100 +0200" channel="acontra+ CINE">
-    <title lang="es">Testigo (2017)</title>
-    <desc lang="es">Duval debe afrontar la brutal mecánica del mundo oculto de los servicios secretos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71etEZ+ZdkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260527084100 +0200" stop="20260527110400 +0200" channel="acontra+ CINE">
+  <programme start="20260527090400 +0200" stop="20260527110400 +0200" channel="acontra+ CINE">
     <title lang="es">Madame Bovary (1991)</title>
     <desc lang="es">Emma, cansada de su matrimonio con Charles Bovary, buscará consuelo en relaciones extraconyugales. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71ARpmyQPkL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Absolución (1987)</title>
     <desc lang="es">Un cura debe decidir si quebrantar el secreto de confesión. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/618HEhcNOqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260527140700 +0200" stop="20260527155800 +0200" channel="acontra+ CINE">
+    <title lang="es">El amor de Swann (1984)</title>
+    <desc lang="es">La apasionada historia de amor de Swann, un aristócrata, con la bella prostituta Odette de Crécy. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71WNSPx7jcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260527155800 +0200" stop="20260527174900 +0200" channel="acontra+ CINE">
+    <title lang="es">The Sea of Trees (2015)</title>
+    <desc lang="es">Un estadounidense y un japonés se conocen en un bosque. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81BFJfGFeZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260527174900 +0200" stop="20260527193400 +0200" channel="acontra+ CINE">
+    <title lang="es">El caso Wells (2007)</title>
+    <desc lang="es">Un agente y su protegida investigan la desaparición de una joven por temas de delincuencia sexual. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81dmJ8admJL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
