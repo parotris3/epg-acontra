@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260527090400 +0200" stop="20260527110400 +0200" channel="acontra+ CINE">
-    <title lang="es">Madame Bovary (1991)</title>
-    <desc lang="es">Emma, cansada de su matrimonio con Charles Bovary, buscará consuelo en relaciones extraconyugales. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ARpmyQPkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260527110400 +0200" stop="20260527123200 +0200" channel="acontra+ CINE">
-    <title lang="es">El proyecto supermente (2017)</title>
-    <desc lang="es">Algo sucede en Los Ángeles; la tierra ha comenzado a temblar y los edificios se vienen abajo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WroaoxMzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260527123200 +0200" stop="20260527140700 +0200" channel="acontra+ CINE">
-    <title lang="es">Absolución (1987)</title>
-    <desc lang="es">Un cura debe decidir si quebrantar el secreto de confesión. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/618HEhcNOqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260527140700 +0200" stop="20260527155800 +0200" channel="acontra+ CINE">
+  <programme start="20260527135800 +0200" stop="20260527155800 +0200" channel="acontra+ CINE">
     <title lang="es">El amor de Swann (1984)</title>
     <desc lang="es">La apasionada historia de amor de Swann, un aristócrata, con la bella prostituta Odette de Crécy. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71WNSPx7jcL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El caso Wells (2007)</title>
     <desc lang="es">Un agente y su protegida investigan la desaparición de una joven por temas de delincuencia sexual. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81dmJ8admJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260527193400 +0200" stop="20260527211400 +0200" channel="acontra+ CINE">
+    <title lang="es">Cromwell, el rey de los bárbaros (1982)</title>
+    <desc lang="es">Unos inadaptados intentan derrotar a un tirano malvado que controla reino medieval mediante magia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91ZCvuPXU8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260527211400 +0200" stop="20260527223200 +0200" channel="acontra+ CINE">
+    <title lang="es">El color de la granada (1968)</title>
+    <desc lang="es">Biografía del venerado poeta y músico armenio del siglo XVIII Sayat-Nova. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81rVw38VTBL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260527223200 +0200" stop="20260528011400 +0200" channel="acontra+ CINE">
+    <title lang="es">Lo que el día debe a la noche (2012)</title>
+    <desc lang="es">Un niño ve cómo se pone a prueba su amistad con sus amigos cuando una joven llega al pueblo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/910jaGl7Z3L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
