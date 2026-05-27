@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260527191400 +0200" stop="20260527211400 +0200" channel="acontra+ CINE">
-    <title lang="es">Cromwell, el rey de los bárbaros (1982)</title>
-    <desc lang="es">Unos inadaptados intentan derrotar a un tirano malvado que controla reino medieval mediante magia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91ZCvuPXU8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260527211400 +0200" stop="20260527223200 +0200" channel="acontra+ CINE">
-    <title lang="es">El color de la granada (1968)</title>
-    <desc lang="es">Biografía del venerado poeta y músico armenio del siglo XVIII Sayat-Nova. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81rVw38VTBL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260527223200 +0200" stop="20260528011400 +0200" channel="acontra+ CINE">
+  <programme start="20260527231400 +0200" stop="20260528011400 +0200" channel="acontra+ CINE">
     <title lang="es">Lo que el día debe a la noche (2012)</title>
     <desc lang="es">Un niño ve cómo se pone a prueba su amistad con sus amigos cuando una joven llega al pueblo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/910jaGl7Z3L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">El brindis (2020)</title>
     <desc lang="es">Un hombre espera un mensaje de reconciliación de su ex durante una cena familiar. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91YMCCqF3DL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260528042000 +0200" stop="20260528065900 +0200" channel="acontra+ CINE">
+    <title lang="es">Carmen de Bizet (1984)</title>
+    <desc lang="es">La trabajadora del tabaco Carmen atrae al joven soldado Don José por mal camino. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Ck0TUa3FL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260528065900 +0200" stop="20260528083600 +0200" channel="acontra+ CINE">
+    <title lang="es">El escapista (2008)</title>
+    <desc lang="es">El preso condenado a cadena perpetua Frank Perry recibe un mensaje sobre la salud de su hija. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1sbBOhNhjL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
