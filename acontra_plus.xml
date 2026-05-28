@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260528045900 +0200" stop="20260528065900 +0200" channel="acontra+ CINE">
-    <title lang="es">Carmen de Bizet (1984)</title>
-    <desc lang="es">La trabajadora del tabaco Carmen atrae al joven soldado Don José por mal camino. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Ck0TUa3FL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260528065900 +0200" stop="20260528083600 +0200" channel="acontra+ CINE">
-    <title lang="es">El escapista (2008)</title>
-    <desc lang="es">El preso condenado a cadena perpetua Frank Perry recibe un mensaje sobre la salud de su hija. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1sbBOhNhjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260528083600 +0200" stop="20260528101000 +0200" channel="acontra+ CINE">
+  <programme start="20260528081000 +0200" stop="20260528101000 +0200" channel="acontra+ CINE">
     <title lang="es">Ártico (2018)</title>
     <desc lang="es">Un hombre aprende a sobrevivir en medio del Ártico después de que su avión se estrelle. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91TPEQy3KRL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">El secuestro de Alfred Heineken (2011)</title>
     <desc lang="es">Heineken propietario de la multinacional cervecera fue secuestrado cuando salía de una sede. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Fhej4KTOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260528133300 +0200" stop="20260528150200 +0200" channel="acontra+ CINE">
+    <title lang="es">La ronda (1950)</title>
+    <desc lang="es">Viena, 1900. El amor está en el aire, y las parejas van y vienen. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71BHBFA4BqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260528150200 +0200" stop="20260528165100 +0200" channel="acontra+ CINE">
+    <title lang="es">De Gaulle (2020)</title>
+    <desc lang="es">Mayo, 1940. El general Charles de Gaulle deja a su familia para trabajar para el gobierno de París. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A12AJwc-kqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260528165100 +0200" stop="20260528181900 +0200" channel="acontra+ CINE">
+    <title lang="es">Bichos raros (2007)</title>
+    <desc lang="es">Dos inadaptados se conocen en una fiesta de disfraces y descubren que tienen mucho en común. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91jYTr8aPEL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
