@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260527231400 +0200" stop="20260528011400 +0200" channel="acontra+ CINE">
-    <title lang="es">Lo que el día debe a la noche (2012)</title>
-    <desc lang="es">Un niño ve cómo se pone a prueba su amistad con sus amigos cuando una joven llega al pueblo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/910jaGl7Z3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260528011400 +0200" stop="20260528024800 +0200" channel="acontra+ CINE">
-    <title lang="es">El señor Manglehorn (2014)</title>
-    <desc lang="es">Una empleada de un banco intenta cambiar a hombre huraño que vive recluido en su casa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BWNMU3SJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260528024800 +0200" stop="20260528042000 +0200" channel="acontra+ CINE">
-    <title lang="es">El brindis (2020)</title>
-    <desc lang="es">Un hombre espera un mensaje de reconciliación de su ex durante una cena familiar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91YMCCqF3DL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260528042000 +0200" stop="20260528065900 +0200" channel="acontra+ CINE">
+  <programme start="20260528045900 +0200" stop="20260528065900 +0200" channel="acontra+ CINE">
     <title lang="es">Carmen de Bizet (1984)</title>
     <desc lang="es">La trabajadora del tabaco Carmen atrae al joven soldado Don José por mal camino. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Ck0TUa3FL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">El escapista (2008)</title>
     <desc lang="es">El preso condenado a cadena perpetua Frank Perry recibe un mensaje sobre la salud de su hija. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1sbBOhNhjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260528083600 +0200" stop="20260528101000 +0200" channel="acontra+ CINE">
+    <title lang="es">Ártico (2018)</title>
+    <desc lang="es">Un hombre aprende a sobrevivir en medio del Ártico después de que su avión se estrelle. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91TPEQy3KRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260528101000 +0200" stop="20260528113500 +0200" channel="acontra+ CINE">
+    <title lang="es">Escóndete y tiembla (1988)</title>
+    <desc lang="es">Viajeros son objetivos de una familia de psicópatas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91hlpnJKfWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260528113500 +0200" stop="20260528133300 +0200" channel="acontra+ CINE">
+    <title lang="es">El secuestro de Alfred Heineken (2011)</title>
+    <desc lang="es">Heineken propietario de la multinacional cervecera fue secuestrado cuando salía de una sede. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Fhej4KTOL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
