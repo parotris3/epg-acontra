@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260528081000 +0200" stop="20260528101000 +0200" channel="acontra+ CINE">
-    <title lang="es">Ártico (2018)</title>
-    <desc lang="es">Un hombre aprende a sobrevivir en medio del Ártico después de que su avión se estrelle. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91TPEQy3KRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260528101000 +0200" stop="20260528113500 +0200" channel="acontra+ CINE">
-    <title lang="es">Escóndete y tiembla (1988)</title>
-    <desc lang="es">Viajeros son objetivos de una familia de psicópatas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91hlpnJKfWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260528113500 +0200" stop="20260528133300 +0200" channel="acontra+ CINE">
-    <title lang="es">El secuestro de Alfred Heineken (2011)</title>
-    <desc lang="es">Heineken propietario de la multinacional cervecera fue secuestrado cuando salía de una sede. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Fhej4KTOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260528133300 +0200" stop="20260528150200 +0200" channel="acontra+ CINE">
+  <programme start="20260528130200 +0200" stop="20260528150200 +0200" channel="acontra+ CINE">
     <title lang="es">La ronda (1950)</title>
     <desc lang="es">Viena, 1900. El amor está en el aire, y las parejas van y vienen. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71BHBFA4BqL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,25 @@
     <title lang="es">Bichos raros (2007)</title>
     <desc lang="es">Dos inadaptados se conocen en una fiesta de disfraces y descubren que tienen mucho en común. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91jYTr8aPEL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260528181900 +0200" stop="20260528194800 +0200" channel="acontra+ CINE">
+    <title lang="es">Encubridora (1952)</title>
+    <desc lang="es">Un buen ranchero busca vengar la muerte de su novia cuando ella es asesinada durante un robo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91edcfoTFVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260528194800 +0200" stop="20260528205700 +0200" channel="acontra+ CINE">
+    <title lang="es">El caserón de las sombras (1932)</title>
+    <desc lang="es">Debido a una tormenta, unos viajeros se ven obligados a refugiarse en un viejo caserón. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71KVPyfH4OL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260528205700 +0200" stop="20260528224900 +0200" channel="acontra+ CINE">
+    <title lang="es">Las pandillas del Bronx (1979)</title>
+    <desc lang="es">Está la historia de las pandillas del Bronx en Nueva York en 1963. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71L08sGvR0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260528224900 +0200" stop="20260529002900 +0200" channel="acontra+ CINE">
+    <title lang="es">El extranjero (2014)</title>
+    <desc lang="es">Un militar comienza una investigación para encontrar a su hija, a quien han dado por muerta. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/819rBMqDTFL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
