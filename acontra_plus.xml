@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260529130200 +0200" stop="20260529150200 +0200" channel="acontra+ CINE">
-    <title lang="es">Sácame de dudas (2020)</title>
-    <desc lang="es">Erwan descubre que no es hijo del hombre al que consideraba su padre tras hacerse un análisis. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91w2r94asNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260529150200 +0200" stop="20260529163600 +0200" channel="acontra+ CINE">
-    <title lang="es">¡Va por nosotras! (2020)</title>
-    <desc lang="es">Para salvar a un club a punto de desaparecer, el entrenador decide formarlo solo por mujeres. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81duRIuPVhL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260529163600 +0200" stop="20260529175100 +0200" channel="acontra+ CINE">
-    <title lang="es">Ultraje (1950)</title>
-    <desc lang="es">Tras ser abusada sexualmente, Ann Walton huye de casa e intenta rehacer su vida en otra ciudad. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zFZFnaX0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260529175100 +0200" stop="20260529195000 +0200" channel="acontra+ CINE">
-    <title lang="es">Juntos (2003)</title>
-    <desc lang="es">Un joven prodigio del violín y su padre se mudan a Pekín en busca de un maestro. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91UcJguueIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260529195000 +0200" stop="20260529205400 +0200" channel="acontra+ CINE">
+  <programme start="20260529185400 +0200" stop="20260529205400 +0200" channel="acontra+ CINE">
     <title lang="es">Las tres edades (1923)</title>
     <desc lang="es">La búsqueda primigenia del amor por parte del hombre se desarrolla en tres épocas históricas. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/71XzLiYKZzL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +17,15 @@
     <title lang="es">Ocho y medio (1963)</title>
     <desc lang="es">Un director de cine atraviesa una crisis de creatividad. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81arxyacWlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260530004200 +0200" stop="20260530020700 +0200" channel="acontra+ CINE">
+    <title lang="es">Un regalo para ella (2024)</title>
+    <desc lang="es">Tras regalarle un perro a su novia, Jean-Pierre descubre lo difícil que es convivir con una mascota. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/81CNII6X0sL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260530020700 +0200" stop="20260530041600 +0200" channel="acontra+ CINE">
+    <title lang="es">13 asesinos (2010)</title>
+    <desc lang="es">Un oficial llega a un acuerdo con un samurái para que le ayude a acabar con un tirano. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71QqYrnKBwL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
