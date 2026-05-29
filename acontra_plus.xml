@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260529032200 +0200" stop="20260529052200 +0200" channel="acontra+ CINE">
-    <title lang="es">Ascensor para el Cadalso (1958)</title>
-    <desc lang="es">Julien es el amante de la mujer de su jefe. Ambos deciden planear el asesinato del marido. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BqT+c2ZvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260529052200 +0200" stop="20260529070900 +0200" channel="acontra+ CINE">
-    <title lang="es">El escándalo Ted Kennedy (2017)</title>
-    <desc lang="es">Al salir de una fiesta en 1969, el senador Ted Kennedy y su acompañante sufren un accidente. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71I96M5i2VL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260529070900 +0200" stop="20260529084600 +0200" channel="acontra+ CINE">
-    <title lang="es">The Great Gilly Hopkins (2015)</title>
-    <desc lang="es">Basado en la novela de Katherine Paterson. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Uf-bXo0xL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260529084600 +0200" stop="20260529102300 +0200" channel="acontra+ CINE">
+  <programme start="20260529082300 +0200" stop="20260529102300 +0200" channel="acontra+ CINE">
     <title lang="es">Misión País Vasco (2021)</title>
     <desc lang="es">Una comercial parisina debe ir al País Vasco francés por razones profesionales. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/91zwLJAme4L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,25 @@
     <title lang="es">Mujeres contra hombres (2011)</title>
     <desc lang="es">Historia de varias parejas sobre la guerra de sexos y la búsqueda desesperada de la persona ideal. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71GwVcxsZxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260529132100 +0200" stop="20260529150200 +0200" channel="acontra+ CINE">
+    <title lang="es">Sácame de dudas (2020)</title>
+    <desc lang="es">Erwan descubre que no es hijo del hombre al que consideraba su padre tras hacerse un análisis. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91w2r94asNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260529150200 +0200" stop="20260529163600 +0200" channel="acontra+ CINE">
+    <title lang="es">¡Va por nosotras! (2020)</title>
+    <desc lang="es">Para salvar a un club a punto de desaparecer, el entrenador decide formarlo solo por mujeres. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81duRIuPVhL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260529163600 +0200" stop="20260529175100 +0200" channel="acontra+ CINE">
+    <title lang="es">Ultraje (1950)</title>
+    <desc lang="es">Tras ser abusada sexualmente, Ann Walton huye de casa e intenta rehacer su vida en otra ciudad. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91zFZFnaX0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260529175100 +0200" stop="20260529195000 +0200" channel="acontra+ CINE">
+    <title lang="es">Juntos (2003)</title>
+    <desc lang="es">Un joven prodigio del violín y su padre se mudan a Pekín en busca de un maestro. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91UcJguueIL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
