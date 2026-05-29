@@ -3,34 +3,34 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260528185700 +0200" stop="20260528205700 +0200" channel="acontra+ CINE">
-    <title lang="es">El caserón de las sombras (1932)</title>
-    <desc lang="es">Debido a una tormenta, unos viajeros se ven obligados a refugiarse en un viejo caserón. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71KVPyfH4OL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260528205700 +0200" stop="20260528224900 +0200" channel="acontra+ CINE">
-    <title lang="es">Las pandillas del Bronx (1979)</title>
-    <desc lang="es">Está la historia de las pandillas del Bronx en Nueva York en 1963. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71L08sGvR0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260528224900 +0200" stop="20260529002900 +0200" channel="acontra+ CINE">
-    <title lang="es">El extranjero (2014)</title>
-    <desc lang="es">Un militar comienza una investigación para encontrar a su hija, a quien han dado por muerta. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/819rBMqDTFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260529002900 +0200" stop="20260529021000 +0200" channel="acontra+ CINE">
-    <title lang="es">One Last Dance (2003)</title>
-    <desc lang="es">Tres antiguos bailarines se reúnen para usar su talento y poder salvar el estudio de su mentor. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/913oFILPzOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260529021000 +0200" stop="20260529035100 +0200" channel="acontra+ CINE">
-    <title lang="es">Trabajo clandestino (1982)</title>
-    <desc lang="es">Nowak y su equipo de albañiles polacos llegan a Londres para trabajar clandestinamente en una casa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Vef6-ewhL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260529035100 +0200" stop="20260529052200 +0200" channel="acontra+ CINE">
+  <programme start="20260529032200 +0200" stop="20260529052200 +0200" channel="acontra+ CINE">
     <title lang="es">Ascensor para el Cadalso (1958)</title>
     <desc lang="es">Julien es el amante de la mujer de su jefe. Ambos deciden planear el asesinato del marido. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81BqT+c2ZvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260529052200 +0200" stop="20260529070900 +0200" channel="acontra+ CINE">
+    <title lang="es">El escándalo Ted Kennedy (2017)</title>
+    <desc lang="es">Al salir de una fiesta en 1969, el senador Ted Kennedy y su acompañante sufren un accidente. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71I96M5i2VL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260529070900 +0200" stop="20260529084600 +0200" channel="acontra+ CINE">
+    <title lang="es">The Great Gilly Hopkins (2015)</title>
+    <desc lang="es">Basado en la novela de Katherine Paterson. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Uf-bXo0xL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260529084600 +0200" stop="20260529102300 +0200" channel="acontra+ CINE">
+    <title lang="es">Misión País Vasco (2021)</title>
+    <desc lang="es">Una comercial parisina debe ir al País Vasco francés por razones profesionales. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91zwLJAme4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260529102300 +0200" stop="20260529114400 +0200" channel="acontra+ CINE">
+    <title lang="es">Riders (2003)</title>
+    <desc lang="es">Una banda de atracadores con habilidad para los deportes de riesgo planea sus últimos golpes. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81GNmXSk-NL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260529114400 +0200" stop="20260529132100 +0200" channel="acontra+ CINE">
+    <title lang="es">Mujeres contra hombres (2011)</title>
+    <desc lang="es">Historia de varias parejas sobre la guerra de sexos y la búsqueda desesperada de la persona ideal. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71GwVcxsZxL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
