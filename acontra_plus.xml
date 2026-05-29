@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260529082300 +0200" stop="20260529102300 +0200" channel="acontra+ CINE">
-    <title lang="es">Misión País Vasco (2021)</title>
-    <desc lang="es">Una comercial parisina debe ir al País Vasco francés por razones profesionales. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zwLJAme4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260529102300 +0200" stop="20260529114400 +0200" channel="acontra+ CINE">
-    <title lang="es">Riders (2003)</title>
-    <desc lang="es">Una banda de atracadores con habilidad para los deportes de riesgo planea sus últimos golpes. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81GNmXSk-NL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260529114400 +0200" stop="20260529132100 +0200" channel="acontra+ CINE">
-    <title lang="es">Mujeres contra hombres (2011)</title>
-    <desc lang="es">Historia de varias parejas sobre la guerra de sexos y la búsqueda desesperada de la persona ideal. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71GwVcxsZxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260529132100 +0200" stop="20260529150200 +0200" channel="acontra+ CINE">
+  <programme start="20260529130200 +0200" stop="20260529150200 +0200" channel="acontra+ CINE">
     <title lang="es">Sácame de dudas (2020)</title>
     <desc lang="es">Erwan descubre que no es hijo del hombre al que consideraba su padre tras hacerse un análisis. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91w2r94asNL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +22,20 @@
     <title lang="es">Juntos (2003)</title>
     <desc lang="es">Un joven prodigio del violín y su padre se mudan a Pekín en busca de un maestro. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91UcJguueIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260529195000 +0200" stop="20260529205400 +0200" channel="acontra+ CINE">
+    <title lang="es">Las tres edades (1923)</title>
+    <desc lang="es">La búsqueda primigenia del amor por parte del hombre se desarrolla en tres épocas históricas. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/71XzLiYKZzL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260529205400 +0200" stop="20260529222900 +0200" channel="acontra+ CINE">
+    <title lang="es">Habitación verde (2015)</title>
+    <desc lang="es">Unos neonazis quieren matar a unos músicos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/9163gYcEEDL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260529222900 +0200" stop="20260530004200 +0200" channel="acontra+ CINE">
+    <title lang="es">Ocho y medio (1963)</title>
+    <desc lang="es">Un director de cine atraviesa una crisis de creatividad. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81arxyacWlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
