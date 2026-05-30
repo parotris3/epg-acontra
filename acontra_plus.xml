@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260530033400 +0200" stop="20260530053400 +0200" channel="acontra+ CINE">
-    <title lang="es">Castores zombies (2014)</title>
-    <desc lang="es">Unos universitarios son atacados por unos castores zombis. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/819U50ILkrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260530053400 +0200" stop="20260530070400 +0200" channel="acontra+ CINE">
-    <title lang="es">Adiós a las armas (1932)</title>
-    <desc lang="es">El chofer de una ambulancia y una enfermera se enamoran en Italia durante la Primera Guerra Mundial. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81A20FiWj2L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260530070400 +0200" stop="20260530083500 +0200" channel="acontra+ CINE">
-    <title lang="es">Con todas nuestras fuerzas (2014)</title>
-    <desc lang="es">Un joven en silla de ruedas desafía todos los obstáculos para participar en un triatlón. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1SZreKkNsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260530083500 +0200" stop="20260530101700 +0200" channel="acontra+ CINE">
+  <programme start="20260530081700 +0200" stop="20260530101700 +0200" channel="acontra+ CINE">
     <title lang="es">Nosotras las mujeres</title>
     <desc lang="es">Retrato de la vida privada de cinco grandes actrices, que se interpretan a sí mismas. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/81s+DfMebeL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +22,20 @@
     <title lang="es">El guardián de la reliquia (2017)</title>
     <desc lang="es">Irlanda, 1209. Unos monjes emprenden un peligroso viaje para trasladar a Roma una poderosa reliquia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81MjMmSWPfL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260530141900 +0200" stop="20260530160200 +0200" channel="acontra+ CINE">
+    <title lang="es">Alto el fuego (2019)</title>
+    <desc lang="es">Un excombatiente de la Primera Guerra Mundial regresa a casa cuatro años de vida nómada. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81mlTs7fv9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260530160200 +0200" stop="20260530173700 +0200" channel="acontra+ CINE">
+    <title lang="es">Dos vidas en un instante (1998)</title>
+    <desc lang="es">En medio de las crisis, la vida de Helen da un giro y experimenta una realidad alternativa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71gf9K9ZaPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260530173700 +0200" stop="20260530185800 +0200" channel="acontra+ CINE">
+    <title lang="es">Bloodsucking Bastards (2015)</title>
+    <desc lang="es">Evan, un empleado obediente y sobrecargado de trabajo, descubre que su compañero es un vampiro. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91B4zb3tooL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
