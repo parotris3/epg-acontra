@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260530081700 +0200" stop="20260530101700 +0200" channel="acontra+ CINE">
-    <title lang="es">Nosotras las mujeres</title>
-    <desc lang="es">Retrato de la vida privada de cinco grandes actrices, que se interpretan a sí mismas. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/81s+DfMebeL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260530101700 +0200" stop="20260530114800 +0200" channel="acontra+ CINE">
-    <title lang="es">La infancia de Iván (1963)</title>
-    <desc lang="es">Iván, un niño ruso cuyos padres murieron tras la invasión nazi, espía a los alemanes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81EtCa22FeL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260530114800 +0200" stop="20260530124700 +0200" channel="acontra+ CINE">
-    <title lang="es">Miedo y deseo (1953)</title>
-    <desc lang="es">Cuatro soldados norteamericanos quedan atrapados y perdidos detrás de las líneas enemigas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81x01UnP1TL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260530124700 +0200" stop="20260530141900 +0200" channel="acontra+ CINE">
-    <title lang="es">El guardián de la reliquia (2017)</title>
-    <desc lang="es">Irlanda, 1209. Unos monjes emprenden un peligroso viaje para trasladar a Roma una poderosa reliquia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81MjMmSWPfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260530141900 +0200" stop="20260530160200 +0200" channel="acontra+ CINE">
+  <programme start="20260530140200 +0200" stop="20260530160200 +0200" channel="acontra+ CINE">
     <title lang="es">Alto el fuego (2019)</title>
     <desc lang="es">Un excombatiente de la Primera Guerra Mundial regresa a casa cuatro años de vida nómada. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81mlTs7fv9L._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +17,20 @@
     <title lang="es">Bloodsucking Bastards (2015)</title>
     <desc lang="es">Evan, un empleado obediente y sobrecargado de trabajo, descubre que su compañero es un vampiro. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91B4zb3tooL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260530185800 +0200" stop="20260530203100 +0200" channel="acontra+ CINE">
+    <title lang="es">Welcome Home (2018)</title>
+    <desc lang="es">Un hombre manipula a una pareja vecina porque ve que su relación está deteriorada. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81wKMUYaEvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260530203100 +0200" stop="20260530220100 +0200" channel="acontra+ CINE">
+    <title lang="es">La hermandad de la justicia (1986)</title>
+    <desc lang="es">Un grupo de adolescentes tratan de vigilar y eliminar droga, violencia, y vandalismo de su colegio. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81MS5ierj5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260530220100 +0200" stop="20260531003600 +0200" channel="acontra+ CINE">
+    <title lang="es">Un profeta (2009)</title>
+    <desc lang="es">Malik, un chico de apenas 19 años que no sabe ni leer y escribir, entra en la cárcel. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81d4Py0pFYL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
