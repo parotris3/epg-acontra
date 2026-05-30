@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260530140200 +0200" stop="20260530160200 +0200" channel="acontra+ CINE">
-    <title lang="es">Alto el fuego (2019)</title>
-    <desc lang="es">Un excombatiente de la Primera Guerra Mundial regresa a casa cuatro años de vida nómada. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81mlTs7fv9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260530160200 +0200" stop="20260530173700 +0200" channel="acontra+ CINE">
-    <title lang="es">Dos vidas en un instante (1998)</title>
-    <desc lang="es">En medio de las crisis, la vida de Helen da un giro y experimenta una realidad alternativa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71gf9K9ZaPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260530173700 +0200" stop="20260530185800 +0200" channel="acontra+ CINE">
-    <title lang="es">Bloodsucking Bastards (2015)</title>
-    <desc lang="es">Evan, un empleado obediente y sobrecargado de trabajo, descubre que su compañero es un vampiro. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91B4zb3tooL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260530185800 +0200" stop="20260530203100 +0200" channel="acontra+ CINE">
+  <programme start="20260530183100 +0200" stop="20260530203100 +0200" channel="acontra+ CINE">
     <title lang="es">Welcome Home (2018)</title>
     <desc lang="es">Un hombre manipula a una pareja vecina porque ve que su relación está deteriorada. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81wKMUYaEvL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Un profeta (2009)</title>
     <desc lang="es">Malik, un chico de apenas 19 años que no sabe ni leer y escribir, entra en la cárcel. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81d4Py0pFYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260531003600 +0200" stop="20260531021400 +0200" channel="acontra+ CINE">
+    <title lang="es">Barbacoa de amigos (2014)</title>
+    <desc lang="es">En su 50 cumpleaños, Antoine tiene una ataque al corazón y decide cambiar su estilo de vida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ZftxIvRIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260531021400 +0200" stop="20260531040100 +0200" channel="acontra+ CINE">
+    <title lang="es">The Visitor (2007)</title>
+    <desc lang="es">La relación entre dos inmigrantes y un deprimido profesor universitario aviva su interés en la vida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91rKNPDdwkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
