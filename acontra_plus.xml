@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260529224200 +0200" stop="20260530004200 +0200" channel="acontra+ CINE">
-    <title lang="es">Ocho y medio (1963)</title>
-    <desc lang="es">Un director de cine atraviesa una crisis de creatividad. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81arxyacWlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260530004200 +0200" stop="20260530020700 +0200" channel="acontra+ CINE">
-    <title lang="es">Un regalo para ella (2024)</title>
-    <desc lang="es">Tras regalarle un perro a su novia, Jean-Pierre descubre lo difícil que es convivir con una mascota. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/81CNII6X0sL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260530020700 +0200" stop="20260530041600 +0200" channel="acontra+ CINE">
-    <title lang="es">13 asesinos (2010)</title>
-    <desc lang="es">Un oficial llega a un acuerdo con un samurái para que le ayude a acabar con un tirano. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71QqYrnKBwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260530041600 +0200" stop="20260530053400 +0200" channel="acontra+ CINE">
+  <programme start="20260530033400 +0200" stop="20260530053400 +0200" channel="acontra+ CINE">
     <title lang="es">Castores zombies (2014)</title>
     <desc lang="es">Unos universitarios son atacados por unos castores zombis. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/819U50ILkrL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,25 @@
     <title lang="es">Con todas nuestras fuerzas (2014)</title>
     <desc lang="es">Un joven en silla de ruedas desafía todos los obstáculos para participar en un triatlón. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1SZreKkNsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260530083500 +0200" stop="20260530101700 +0200" channel="acontra+ CINE">
+    <title lang="es">Nosotras las mujeres</title>
+    <desc lang="es">Retrato de la vida privada de cinco grandes actrices, que se interpretan a sí mismas. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/81s+DfMebeL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260530101700 +0200" stop="20260530114800 +0200" channel="acontra+ CINE">
+    <title lang="es">La infancia de Iván (1963)</title>
+    <desc lang="es">Iván, un niño ruso cuyos padres murieron tras la invasión nazi, espía a los alemanes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81EtCa22FeL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260530114800 +0200" stop="20260530124700 +0200" channel="acontra+ CINE">
+    <title lang="es">Miedo y deseo (1953)</title>
+    <desc lang="es">Cuatro soldados norteamericanos quedan atrapados y perdidos detrás de las líneas enemigas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81x01UnP1TL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260530124700 +0200" stop="20260530141900 +0200" channel="acontra+ CINE">
+    <title lang="es">El guardián de la reliquia (2017)</title>
+    <desc lang="es">Irlanda, 1209. Unos monjes emprenden un peligroso viaje para trasladar a Roma una poderosa reliquia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81MjMmSWPfL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
