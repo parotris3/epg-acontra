@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260531081400 +0200" stop="20260531101400 +0200" channel="acontra+ CINE">
-    <title lang="es">Siete ocasiones (1925)</title>
-    <desc lang="es">James necesita casarse antes de cumplir 27 años para recibir la herencia de su abuelo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71FzQnNfdKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260531101400 +0200" stop="20260531120900 +0200" channel="acontra+ CINE">
-    <title lang="es">El abuelo que saltó por la ventana y se largó (2014)</title>
-    <desc lang="es">El día en que va a cumplir 100 años, un anciano se fuga de la residencia en la que vive. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1kKccTNK5L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260531120900 +0200" stop="20260531140300 +0200" channel="acontra+ CINE">
-    <title lang="es">Cuento de Verano (1996)</title>
-    <desc lang="es">Mientras aguarda a su novia, Gaspard se siente atraído por otras dos mujeres en sus vacaciones. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/719p7wpkgOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260531140300 +0200" stop="20260531153700 +0200" channel="acontra+ CINE">
+  <programme start="20260531133700 +0200" stop="20260531153700 +0200" channel="acontra+ CINE">
     <title lang="es">Un verano con Mónica (1955)</title>
     <desc lang="es">Dos adolescentes se enamoran y dejan todo para emprender un viaje juntos en barco. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81X33-oJfLL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El séptimo sello (1956)</title>
     <desc lang="es">Una alegoría del intento del ser humano por entender su destino y los misterios de la muerte. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/716CWrZG5-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260531183800 +0200" stop="20260531200900 +0200" channel="acontra+ CINE">
+    <title lang="es">Palabras suaves (1985)</title>
+    <desc lang="es">Connie Wyatt es una chica de quince años de espíritu libre que vuelve locos a los chicos. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1CMMnYpAcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260531200900 +0200" stop="20260531214000 +0200" channel="acontra+ CINE">
+    <title lang="es">El señor de las moscas (1990)</title>
+    <desc lang="es">Los supervivientes a un accidente de avión militar tendrán que sobrevivir en una isla. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81a1hgGIvjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260531214000 +0200" stop="20260531230700 +0200" channel="acontra+ CINE">
+    <title lang="es">Nada (2022)</title>
+    <desc lang="es">Cuando Pierre Anthon comienza el octavo grado, no le ve sentido a la vida y se muda a un árbol. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Vrpm8h3cL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
