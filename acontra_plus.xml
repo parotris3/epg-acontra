@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260531133700 +0200" stop="20260531153700 +0200" channel="acontra+ CINE">
-    <title lang="es">Un verano con Mónica (1955)</title>
-    <desc lang="es">Dos adolescentes se enamoran y dejan todo para emprender un viaje juntos en barco. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81X33-oJfLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260531153700 +0200" stop="20260531170500 +0200" channel="acontra+ CINE">
-    <title lang="es">Ejecutivo ejecutor (1990)</title>
-    <desc lang="es">Un ejecutivo que perdió a un subalterno, planea asesinatos a fin de ascender en la compañía. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81AJsq90WGL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260531170500 +0200" stop="20260531183800 +0200" channel="acontra+ CINE">
-    <title lang="es">El séptimo sello (1956)</title>
-    <desc lang="es">Una alegoría del intento del ser humano por entender su destino y los misterios de la muerte. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/716CWrZG5-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260531183800 +0200" stop="20260531200900 +0200" channel="acontra+ CINE">
+  <programme start="20260531180900 +0200" stop="20260531200900 +0200" channel="acontra+ CINE">
     <title lang="es">Palabras suaves (1985)</title>
     <desc lang="es">Connie Wyatt es una chica de quince años de espíritu libre que vuelve locos a los chicos. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1CMMnYpAcL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Nada (2022)</title>
     <desc lang="es">Cuando Pierre Anthon comienza el octavo grado, no le ve sentido a la vida y se muda a un árbol. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Vrpm8h3cL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260531230700 +0200" stop="20260601004400 +0200" channel="acontra+ CINE">
+    <title lang="es">La Chinoise (1969)</title>
+    <desc lang="es">París, 1967. Un grupo de estudiantes franceses empieza a pensar en la forma de cambiar el mundo. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91xFWfprssL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260601004400 +0200" stop="20260601021800 +0200" channel="acontra+ CINE">
+    <title lang="es">Vivarium (2019)</title>
+    <desc lang="es">Una joven pareja visita una inmobiliaria para comprar una casa donde se quedarán atrapados. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/914D3Ssc3AL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260601021800 +0200" stop="20260601040700 +0200" channel="acontra+ CINE">
+    <title lang="es">Gigolo (2024)</title>
+    <desc lang="es">Tras la Primera Guerra Mundial, un hombre regresa a Berlín y decide convertirse en "gigoló". | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71hraIcbBVL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
