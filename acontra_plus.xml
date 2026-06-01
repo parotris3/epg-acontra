@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260601185100 +0200" stop="20260601205100 +0200" channel="acontra+ CINE">
-    <title lang="es">Todo va bien (1996)</title>
-    <desc lang="es">La lucha de clases en Francia durante la revolución y la destrucción social a causa del capitalismo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81MO923d63L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260601205100 +0200" stop="20260601222000 +0200" channel="acontra+ CINE">
-    <title lang="es">Viva la Muerte (2013)</title>
-    <desc lang="es">Al final de la Guerra Civil española, un niño intenta encontrarle sentido a la guerra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Tea-RtG7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260601222000 +0200" stop="20260602003500 +0200" channel="acontra+ CINE">
+  <programme start="20260601223500 +0200" stop="20260602003500 +0200" channel="acontra+ CINE">
     <title lang="es">Los verdugos también mueren (1943)</title>
     <desc lang="es">En mayo de 1942 murió víctima de un atentado Reinhard Heydrich, jefe del gobierno nazi de Praga. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81uWRbWALrL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">La mansión de los crímenes (1971)</title>
     <desc lang="es">Cuatro cuentos de terror que giran entono a una vieja y fantasmal mansión. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/9121sq+78aL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260602053800 +0200" stop="20260602071800 +0200" channel="acontra+ CINE">
+    <title lang="es">Invitado de honor (2019)</title>
+    <desc lang="es">Verónica quiere permanecer en la cárcel por una agresión sexual que no ha cometido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1Qt36N5w0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260602071800 +0200" stop="20260602091200 +0200" channel="acontra+ CINE">
+    <title lang="es">Especiales (2019)</title>
+    <desc lang="es">Stephane Benhamou y Daoud Tatou, dos amigos que crearon una ONG para ayudar a niños autistas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81AsoW8lmTL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
