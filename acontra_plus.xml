@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260531224400 +0200" stop="20260601004400 +0200" channel="acontra+ CINE">
-    <title lang="es">La Chinoise (1969)</title>
-    <desc lang="es">París, 1967. Un grupo de estudiantes franceses empieza a pensar en la forma de cambiar el mundo. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91xFWfprssL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260601004400 +0200" stop="20260601021800 +0200" channel="acontra+ CINE">
-    <title lang="es">Vivarium (2019)</title>
-    <desc lang="es">Una joven pareja visita una inmobiliaria para comprar una casa donde se quedarán atrapados. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/914D3Ssc3AL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260601021800 +0200" stop="20260601040700 +0200" channel="acontra+ CINE">
-    <title lang="es">Gigolo (2024)</title>
-    <desc lang="es">Tras la Primera Guerra Mundial, un hombre regresa a Berlín y decide convertirse en "gigoló". | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71hraIcbBVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260601040700 +0200" stop="20260601052100 +0200" channel="acontra+ CINE">
+  <programme start="20260601032100 +0200" stop="20260601052100 +0200" channel="acontra+ CINE">
     <title lang="es">De Repente (1954)</title>
     <desc lang="es">Tres criminales secuestran a una familia en su casa para matar al presidente de Estados Unidos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81-cn0GVi9L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El brindis (2020)</title>
     <desc lang="es">Un hombre espera un mensaje de reconciliación de su ex durante una cena familiar. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91YMCCqF3DL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260601082500 +0200" stop="20260601094700 +0200" channel="acontra+ CINE">
+    <title lang="es">El infierno bajo tierra (2009)</title>
+    <desc lang="es">Un equipo científico ocupa una estación de perforación abandonada en el desierto del Sahara. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71mk-wkBfPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260601094700 +0200" stop="20260601120000 +0200" channel="acontra+ CINE">
+    <title lang="es">Harakiri (1962)</title>
+    <desc lang="es">En el Japón de 1630, abundan los samuráis que han perdido su sentido de propósito. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91YkEs3n9sL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260601120000 +0200" stop="20260601140200 +0200" channel="acontra+ CINE">
+    <title lang="es">Las bostonianas (1984)</title>
+    <desc lang="es">La sufragista Olive decide convertir a la joven Verena en portavoz del incipiente movimiento. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91JXk-A4hcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
