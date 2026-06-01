@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260601134500 +0200" stop="20260601154500 +0200" channel="acontra+ CINE">
-    <title lang="es">Más allá del arcoíris (1990)</title>
-    <desc lang="es">Martha Travis es una médium que ofrece espectáculos de espiritismo junto a su padre alcohólico. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/810DlN4GkSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260601154500 +0200" stop="20260601173400 +0200" channel="acontra+ CINE">
-    <title lang="es">Padre patrón (1977)</title>
-    <desc lang="es">La historia real de Gavino Ledda, que fue obligado por su autoritario padre a dejar la escuela. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/61+CRe2Rb7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260601173400 +0200" stop="20260601191500 +0200" channel="acontra+ CINE">
-    <title lang="es">Repulsión (1965)</title>
-    <desc lang="es">Una mujer muy reprimida sexualmente empieza a tener alucinaciones sobre violaciones. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/812OaS9v0aL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260601191500 +0200" stop="20260601205100 +0200" channel="acontra+ CINE">
+  <programme start="20260601185100 +0200" stop="20260601205100 +0200" channel="acontra+ CINE">
     <title lang="es">Todo va bien (1996)</title>
     <desc lang="es">La lucha de clases en Francia durante la revolución y la destrucción social a causa del capitalismo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81MO923d63L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Los verdugos también mueren (1943)</title>
     <desc lang="es">En mayo de 1942 murió víctima de un atentado Reinhard Heydrich, jefe del gobierno nazi de Praga. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81uWRbWALrL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260602003500 +0200" stop="20260602022300 +0200" channel="acontra+ CINE">
+    <title lang="es">Machete Kills (2013)</title>
+    <desc lang="es">Machete va tras un traficante de armas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1zKwzF56cL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260602022300 +0200" stop="20260602035700 +0200" channel="acontra+ CINE">
+    <title lang="es">No mires atrás (2010)</title>
+    <desc lang="es">El inspector Sanzio investiga la violenta muerte de una adolescente en un paraje montañoso italiano. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81G3YyAkyfL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260602035700 +0200" stop="20260602053800 +0200" channel="acontra+ CINE">
+    <title lang="es">La mansión de los crímenes (1971)</title>
+    <desc lang="es">Cuatro cuentos de terror que giran entono a una vieja y fantasmal mansión. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/9121sq+78aL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
