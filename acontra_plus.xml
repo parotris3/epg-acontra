@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260602134200 +0200" stop="20260602154200 +0200" channel="acontra+ CINE">
-    <title lang="es">Buscando la perfección (2019)</title>
-    <desc lang="es">En 1984, John McEnroe pierde la gran final del Roland Garros contra Ivan Lendl. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/91vPU5eJPXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260602154200 +0200" stop="20260602172000 +0200" channel="acontra+ CINE">
-    <title lang="es">Soltera a los 40 (2014)</title>
-    <desc lang="es">La vida de Ave María Mulligan se pone patas arriba cuando descubre un secreto familiar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91xlVzV85AL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260602172000 +0200" stop="20260602183800 +0200" channel="acontra+ CINE">
-    <title lang="es">Ángel de venganza (1981)</title>
-    <desc lang="es">Una joven sordomuda que ha sido violada recorre las calles de Nueva York en busca de venganza. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qVPfjBNiL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260602183800 +0200" stop="20260602195600 +0200" channel="acontra+ CINE">
-    <title lang="es">El color de la granada (1968)</title>
-    <desc lang="es">Biografía del venerado poeta y músico armenio del siglo XVIII Sayat-Nova. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81rVw38VTBL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260602195600 +0200" stop="20260602212000 +0200" channel="acontra+ CINE">
+  <programme start="20260602192000 +0200" stop="20260602212000 +0200" channel="acontra+ CINE">
     <title lang="es">Swimfan (2002)</title>
     <desc lang="es">Un adolescente se arrepiente de su cita con una compañera. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Adam7EqjL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +12,20 @@
     <title lang="es">La gran seducción (2013)</title>
     <desc lang="es">Los habitantes del pueblo costero canadiense de Tickel Cove necesitan un médico. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ZWzJlAK2L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260602231400 +0200" stop="20260603004400 +0200" channel="acontra+ CINE">
+    <title lang="es">Los bicivoladores (1985)</title>
+    <desc lang="es">Tres adolescentes dan con los 'walkie-talkies' que una banda de ladrones iba a usar en un atraco. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Xt+Ig0t1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260603004400 +0200" stop="20260603024100 +0200" channel="acontra+ CINE">
+    <title lang="es">Ojos Negros (1987)</title>
+    <desc lang="es">Romano, un hombre italiano, rememora un apasionado romance con una chica rusa llamada Anna. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91xMn34dyHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260603024100 +0200" stop="20260603040400 +0200" channel="acontra+ CINE">
+    <title lang="es">Willow Creek (2014)</title>
+    <desc lang="es">Una pareja se adentra en el bosque en busca de una foto que demuestre la existencia del Pie Grande. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71QKxQmk0OL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
