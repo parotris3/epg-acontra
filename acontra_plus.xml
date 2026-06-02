@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260601223500 +0200" stop="20260602003500 +0200" channel="acontra+ CINE">
-    <title lang="es">Los verdugos también mueren (1943)</title>
-    <desc lang="es">En mayo de 1942 murió víctima de un atentado Reinhard Heydrich, jefe del gobierno nazi de Praga. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uWRbWALrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260602003500 +0200" stop="20260602022300 +0200" channel="acontra+ CINE">
-    <title lang="es">Machete Kills (2013)</title>
-    <desc lang="es">Machete va tras un traficante de armas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1zKwzF56cL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260602022300 +0200" stop="20260602035700 +0200" channel="acontra+ CINE">
-    <title lang="es">No mires atrás (2010)</title>
-    <desc lang="es">El inspector Sanzio investiga la violenta muerte de una adolescente en un paraje montañoso italiano. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81G3YyAkyfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260602035700 +0200" stop="20260602053800 +0200" channel="acontra+ CINE">
+  <programme start="20260602033800 +0200" stop="20260602053800 +0200" channel="acontra+ CINE">
     <title lang="es">La mansión de los crímenes (1971)</title>
     <desc lang="es">Cuatro cuentos de terror que giran entono a una vieja y fantasmal mansión. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/9121sq+78aL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Especiales (2019)</title>
     <desc lang="es">Stephane Benhamou y Daoud Tatou, dos amigos que crearon una ONG para ayudar a niños autistas. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81AsoW8lmTL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260602091200 +0200" stop="20260602105800 +0200" channel="acontra+ CINE">
+    <title lang="es">El escándalo Ted Kennedy (2017)</title>
+    <desc lang="es">Al salir de una fiesta en 1969, el senador Ted Kennedy y su acompañante sufren un accidente. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71I96M5i2VL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260602105800 +0200" stop="20260602123300 +0200" channel="acontra+ CINE">
+    <title lang="es">¡Va por nosotras! (2020)</title>
+    <desc lang="es">Para salvar a un club a punto de desaparecer, el entrenador decide formarlo solo por mujeres. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81duRIuPVhL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260602123300 +0200" stop="20260602140700 +0200" channel="acontra+ CINE">
+    <title lang="es">Profesor Lazhar (2011)</title>
+    <desc lang="es">Bachir Lazhar, un inmigrante argelino, se ofrece como sustituto de un maestro. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/815c9swPh1L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
