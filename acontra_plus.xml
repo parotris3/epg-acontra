@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260602033800 +0200" stop="20260602053800 +0200" channel="acontra+ CINE">
-    <title lang="es">La mansión de los crímenes (1971)</title>
-    <desc lang="es">Cuatro cuentos de terror que giran entono a una vieja y fantasmal mansión. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/9121sq+78aL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260602053800 +0200" stop="20260602071800 +0200" channel="acontra+ CINE">
-    <title lang="es">Invitado de honor (2019)</title>
-    <desc lang="es">Verónica quiere permanecer en la cárcel por una agresión sexual que no ha cometido. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Qt36N5w0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260602071800 +0200" stop="20260602091200 +0200" channel="acontra+ CINE">
-    <title lang="es">Especiales (2019)</title>
-    <desc lang="es">Stephane Benhamou y Daoud Tatou, dos amigos que crearon una ONG para ayudar a niños autistas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81AsoW8lmTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260602091200 +0200" stop="20260602105800 +0200" channel="acontra+ CINE">
+  <programme start="20260602085800 +0200" stop="20260602105800 +0200" channel="acontra+ CINE">
     <title lang="es">El escándalo Ted Kennedy (2017)</title>
     <desc lang="es">Al salir de una fiesta en 1969, el senador Ted Kennedy y su acompañante sufren un accidente. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71I96M5i2VL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Profesor Lazhar (2011)</title>
     <desc lang="es">Bachir Lazhar, un inmigrante argelino, se ofrece como sustituto de un maestro. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/815c9swPh1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260602140700 +0200" stop="20260602154200 +0200" channel="acontra+ CINE">
+    <title lang="es">Buscando la perfección (2019)</title>
+    <desc lang="es">En 1984, John McEnroe pierde la gran final del Roland Garros contra Ivan Lendl. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91vPU5eJPXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260602154200 +0200" stop="20260602172000 +0200" channel="acontra+ CINE">
+    <title lang="es">Soltera a los 40 (2014)</title>
+    <desc lang="es">La vida de Ave María Mulligan se pone patas arriba cuando descubre un secreto familiar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91xlVzV85AL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260602172000 +0200" stop="20260602183800 +0200" channel="acontra+ CINE">
+    <title lang="es">Ángel de venganza (1981)</title>
+    <desc lang="es">Una joven sordomuda que ha sido violada recorre las calles de Nueva York en busca de venganza. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qVPfjBNiL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
