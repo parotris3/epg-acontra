@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260602085800 +0200" stop="20260602105800 +0200" channel="acontra+ CINE">
-    <title lang="es">El escándalo Ted Kennedy (2017)</title>
-    <desc lang="es">Al salir de una fiesta en 1969, el senador Ted Kennedy y su acompañante sufren un accidente. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71I96M5i2VL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260602105800 +0200" stop="20260602123300 +0200" channel="acontra+ CINE">
-    <title lang="es">¡Va por nosotras! (2020)</title>
-    <desc lang="es">Para salvar a un club a punto de desaparecer, el entrenador decide formarlo solo por mujeres. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81duRIuPVhL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260602123300 +0200" stop="20260602140700 +0200" channel="acontra+ CINE">
-    <title lang="es">Profesor Lazhar (2011)</title>
-    <desc lang="es">Bachir Lazhar, un inmigrante argelino, se ofrece como sustituto de un maestro. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/815c9swPh1L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260602140700 +0200" stop="20260602154200 +0200" channel="acontra+ CINE">
+  <programme start="20260602134200 +0200" stop="20260602154200 +0200" channel="acontra+ CINE">
     <title lang="es">Buscando la perfección (2019)</title>
     <desc lang="es">En 1984, John McEnroe pierde la gran final del Roland Garros contra Ivan Lendl. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/91vPU5eJPXL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Ángel de venganza (1981)</title>
     <desc lang="es">Una joven sordomuda que ha sido violada recorre las calles de Nueva York en busca de venganza. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81qVPfjBNiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260602183800 +0200" stop="20260602195600 +0200" channel="acontra+ CINE">
+    <title lang="es">El color de la granada (1968)</title>
+    <desc lang="es">Biografía del venerado poeta y músico armenio del siglo XVIII Sayat-Nova. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81rVw38VTBL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260602195600 +0200" stop="20260602212000 +0200" channel="acontra+ CINE">
+    <title lang="es">Swimfan (2002)</title>
+    <desc lang="es">Un adolescente se arrepiente de su cita con una compañera. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Adam7EqjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260602212000 +0200" stop="20260602231400 +0200" channel="acontra+ CINE">
+    <title lang="es">La gran seducción (2013)</title>
+    <desc lang="es">Los habitantes del pueblo costero canadiense de Tickel Cove necesitan un médico. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ZWzJlAK2L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
