@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260603182000 +0200" stop="20260603202000 +0200" channel="acontra+ CINE">
-    <title lang="es">Sácame de dudas (2020)</title>
-    <desc lang="es">Erwan descubre que no es hijo del hombre al que consideraba su padre tras hacerse un análisis. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91w2r94asNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260603202000 +0200" stop="20260603215000 +0200" channel="acontra+ CINE">
-    <title lang="es">Cleo de 5 a 7 (1963)</title>
-    <desc lang="es">Cléo deambula, angustiada, mientras aguarda los resultados de un análisis médico. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81K289K2nQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260603215000 +0200" stop="20260603232400 +0200" channel="acontra+ CINE">
-    <title lang="es">Un verano con Mónica (1955)</title>
-    <desc lang="es">Dos adolescentes se enamoran y dejan todo para emprender un viaje juntos en barco. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81X33-oJfLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260603232400 +0200" stop="20260604004900 +0200" channel="acontra+ CINE">
+  <programme start="20260603224900 +0200" stop="20260604004900 +0200" channel="acontra+ CINE">
     <title lang="es">Sexy Beast (2000)</title>
     <desc lang="es">Gal Dove se planteará regresar al mundo criminal cuando su antiguo socio, Don Logan, se lo propone. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81dP7k-3QgL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">One Last Dance (2003)</title>
     <desc lang="es">Tres antiguos bailarines se reúnen para usar su talento y poder salvar el estudio de su mentor. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/913oFILPzOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260604040500 +0200" stop="20260604053500 +0200" channel="acontra+ CINE">
+    <title lang="es">Love Bite (2012)</title>
+    <desc lang="es">Jaime descubre que la única forma de estar a salvo de un hombre lobo es teniendo sexo. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81B5h7R964L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260604053500 +0200" stop="20260604070700 +0200" channel="acontra+ CINE">
+    <title lang="es">Sanjuro (1962)</title>
+    <desc lang="es">Sanjuro es un samurái errante y hastiado que ayuda a un grupo idealista de jóvenes guerreros. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/913EZq+FQoL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260604070700 +0200" stop="20260604085800 +0200" channel="acontra+ CINE">
+    <title lang="es">La Madre Teresa (2003)</title>
+    <desc lang="es">Una monja dedica su vida a ayudar a los pobres. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/71jK-GYTo7L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
