@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260603134200 +0200" stop="20260603154200 +0200" channel="acontra+ CINE">
-    <title lang="es">Mi cena con Andre (1981)</title>
-    <desc lang="es">Durante una cena, dos actores y dramaturgos abordan los grandes temas de la existencia. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1+nEcy5x7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260603154200 +0200" stop="20260603171100 +0200" channel="acontra+ CINE">
-    <title lang="es">Encubridora (1952)</title>
-    <desc lang="es">Un buen ranchero busca vengar la muerte de su novia cuando ella es asesinada durante un robo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91edcfoTFVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260603171100 +0200" stop="20260603183900 +0200" channel="acontra+ CINE">
-    <title lang="es">Pterodactyl (2005)</title>
-    <desc lang="es">Un equipo descubre un nido de huevos de pterodáctilo en un volcán inactivo en Turquía. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81N3ibLHBKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260603183900 +0200" stop="20260603202000 +0200" channel="acontra+ CINE">
+  <programme start="20260603182000 +0200" stop="20260603202000 +0200" channel="acontra+ CINE">
     <title lang="es">Sácame de dudas (2020)</title>
     <desc lang="es">Erwan descubre que no es hijo del hombre al que consideraba su padre tras hacerse un análisis. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91w2r94asNL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Un verano con Mónica (1955)</title>
     <desc lang="es">Dos adolescentes se enamoran y dejan todo para emprender un viaje juntos en barco. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81X33-oJfLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260603232400 +0200" stop="20260604004900 +0200" channel="acontra+ CINE">
+    <title lang="es">Sexy Beast (2000)</title>
+    <desc lang="es">Gal Dove se planteará regresar al mundo criminal cuando su antiguo socio, Don Logan, se lo propone. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81dP7k-3QgL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260604004900 +0200" stop="20260604022200 +0200" channel="acontra+ CINE">
+    <title lang="es">Ártico (2018)</title>
+    <desc lang="es">Un hombre aprende a sobrevivir en medio del Ártico después de que su avión se estrelle. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91TPEQy3KRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260604022200 +0200" stop="20260604040500 +0200" channel="acontra+ CINE">
+    <title lang="es">One Last Dance (2003)</title>
+    <desc lang="es">Tres antiguos bailarines se reúnen para usar su talento y poder salvar el estudio de su mentor. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/913oFILPzOL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
