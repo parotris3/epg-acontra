@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260604085300 +0200" stop="20260604105300 +0200" channel="acontra+ CINE">
-    <title lang="es">Muriel (El tiempo de un retorno) (1963)</title>
-    <desc lang="es">Helène se reencuentra con su amor de juventud y descubre que ya no tienen nada en común. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91pf6WLH5zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260604105300 +0200" stop="20260604121700 +0200" channel="acontra+ CINE">
-    <title lang="es">Un regalo para ella (2024)</title>
-    <desc lang="es">Tras regalarle un perro a su novia, Jean-Pierre descubre lo difícil que es convivir con una mascota. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/81CNII6X0sL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260604121700 +0200" stop="20260604141300 +0200" channel="acontra+ CINE">
-    <title lang="es">Vania en la calle 42 (1994)</title>
-    <desc lang="es">En los noventa, André Gregory montó unas representaciones privadas de la obra "Tío Vania" de Chéjov. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81d8v6E967L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260604141300 +0200" stop="20260604161900 +0200" channel="acontra+ CINE">
+  <programme start="20260604141900 +0200" stop="20260604161900 +0200" channel="acontra+ CINE">
     <title lang="es">Aline (2020)</title>
     <desc lang="es">Aline tiene una voz prodigiosa que no pasa desapercibida para un productor ambicioso. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ra+l9mqHL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">Wilde (1998)</title>
     <desc lang="es">En la Inglaterra victoriana, la relación de Oscar Wilde con un noble lo conduce a su ruina. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81IkOUj2oqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260604181100 +0200" stop="20260604194100 +0200" channel="acontra+ CINE">
+    <title lang="es">El cuchillo en el agua (1962)</title>
+    <desc lang="es">En el transcurso de un día en un yate surge un extraño triángulo entre una pareja y un hombre. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71whSLXVt1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260604194100 +0200" stop="20260604212000 +0200" channel="acontra+ CINE">
+    <title lang="es">Vergüenza (1968)</title>
+    <desc lang="es">La relación de una pareja destrozada a causa de una guerra civil que intentaban evitar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71QagNZ4dPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260604212000 +0200" stop="20260604225500 +0200" channel="acontra+ CINE">
+    <title lang="es">Hydra (2009)</title>
+    <desc lang="es">Una compañía organiza cacerías humanas para los hombres más ricos del mundo. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91HlXRYC4PL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260604225500 +0200" stop="20260605003400 +0200" channel="acontra+ CINE">
+    <title lang="es">Medidas extremas (2017)</title>
+    <desc lang="es">Un hombre está dispuesto a todo con tal de sacar a su hija del mundo de las drogas y los hurtos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/915YbrZlfKL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
