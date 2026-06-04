@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260604192000 +0200" stop="20260604212000 +0200" channel="acontra+ CINE">
-    <title lang="es">Vergüenza (1968)</title>
-    <desc lang="es">La relación de una pareja destrozada a causa de una guerra civil que intentaban evitar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71QagNZ4dPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260604212000 +0200" stop="20260604225500 +0200" channel="acontra+ CINE">
-    <title lang="es">Hydra (2009)</title>
-    <desc lang="es">Una compañía organiza cacerías humanas para los hombres más ricos del mundo. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91HlXRYC4PL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260604225500 +0200" stop="20260605003400 +0200" channel="acontra+ CINE">
+  <programme start="20260604223400 +0200" stop="20260605003400 +0200" channel="acontra+ CINE">
     <title lang="es">Medidas extremas (2017)</title>
     <desc lang="es">Un hombre está dispuesto a todo con tal de sacar a su hija del mundo de las drogas y los hurtos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/915YbrZlfKL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Campeón de campeones (2005)</title>
     <desc lang="es">Un exconvicto intenta hacerse un sitio en el boxeo profesional. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/915euSGuKoL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260605040600 +0200" stop="20260605061100 +0200" channel="acontra+ CINE">
+    <title lang="es">Tom & Viv (1994)</title>
+    <desc lang="es">Historia del matrimonio fallido entre T.S. Eliot y su esposa enferma. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81UTnu5cYvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260605061100 +0200" stop="20260605073900 +0200" channel="acontra+ CINE">
+    <title lang="es">Tormenta del pasado (2008)</title>
+    <desc lang="es">Una experta de condiciones climática extremas e intentará salvar a una ciudad de un tornado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Aaf3zxGxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260605073900 +0200" stop="20260605091300 +0200" channel="acontra+ CINE">
+    <title lang="es">Generación robada (2002)</title>
+    <desc lang="es">Año 1931, Australia. Tres niñas aborígenes emprenden un peligroso viaje de vuelta a su casa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91hbtE3pHFL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
