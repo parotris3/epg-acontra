@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260604033500 +0200" stop="20260604053500 +0200" channel="acontra+ CINE">
-    <title lang="es">Love Bite (2012)</title>
-    <desc lang="es">Jaime descubre que la única forma de estar a salvo de un hombre lobo es teniendo sexo. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81B5h7R964L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260604053500 +0200" stop="20260604070700 +0200" channel="acontra+ CINE">
-    <title lang="es">Sanjuro (1962)</title>
-    <desc lang="es">Sanjuro es un samurái errante y hastiado que ayuda a un grupo idealista de jóvenes guerreros. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/913EZq+FQoL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260604070700 +0200" stop="20260604085800 +0200" channel="acontra+ CINE">
-    <title lang="es">La Madre Teresa (2003)</title>
-    <desc lang="es">Una monja dedica su vida a ayudar a los pobres. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/71jK-GYTo7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260604085800 +0200" stop="20260604105300 +0200" channel="acontra+ CINE">
+  <programme start="20260604085300 +0200" stop="20260604105300 +0200" channel="acontra+ CINE">
     <title lang="es">Muriel (El tiempo de un retorno) (1963)</title>
     <desc lang="es">Helène se reencuentra con su amor de juventud y descubre que ya no tienen nada en común. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91pf6WLH5zL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Vania en la calle 42 (1994)</title>
     <desc lang="es">En los noventa, André Gregory montó unas representaciones privadas de la obra "Tío Vania" de Chéjov. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81d8v6E967L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260604141300 +0200" stop="20260604161900 +0200" channel="acontra+ CINE">
+    <title lang="es">Aline (2020)</title>
+    <desc lang="es">Aline tiene una voz prodigiosa que no pasa desapercibida para un productor ambicioso. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ra+l9mqHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260604161900 +0200" stop="20260604181100 +0200" channel="acontra+ CINE">
+    <title lang="es">Wilde (1998)</title>
+    <desc lang="es">En la Inglaterra victoriana, la relación de Oscar Wilde con un noble lo conduce a su ruina. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81IkOUj2oqL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
