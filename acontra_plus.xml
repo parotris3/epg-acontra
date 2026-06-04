@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260604141900 +0200" stop="20260604161900 +0200" channel="acontra+ CINE">
-    <title lang="es">Aline (2020)</title>
-    <desc lang="es">Aline tiene una voz prodigiosa que no pasa desapercibida para un productor ambicioso. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ra+l9mqHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260604161900 +0200" stop="20260604181100 +0200" channel="acontra+ CINE">
-    <title lang="es">Wilde (1998)</title>
-    <desc lang="es">En la Inglaterra victoriana, la relación de Oscar Wilde con un noble lo conduce a su ruina. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81IkOUj2oqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260604181100 +0200" stop="20260604194100 +0200" channel="acontra+ CINE">
-    <title lang="es">El cuchillo en el agua (1962)</title>
-    <desc lang="es">En el transcurso de un día en un yate surge un extraño triángulo entre una pareja y un hombre. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71whSLXVt1L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260604194100 +0200" stop="20260604212000 +0200" channel="acontra+ CINE">
+  <programme start="20260604192000 +0200" stop="20260604212000 +0200" channel="acontra+ CINE">
     <title lang="es">Vergüenza (1968)</title>
     <desc lang="es">La relación de una pareja destrozada a causa de una guerra civil que intentaban evitar. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71QagNZ4dPL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Medidas extremas (2017)</title>
     <desc lang="es">Un hombre está dispuesto a todo con tal de sacar a su hija del mundo de las drogas y los hurtos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/915YbrZlfKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260605003400 +0200" stop="20260605021800 +0200" channel="acontra+ CINE">
+    <title lang="es">The Visitor (2007)</title>
+    <desc lang="es">La relación entre dos inmigrantes y un deprimido profesor universitario aviva su interés en la vida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91rKNPDdwkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260605021800 +0200" stop="20260605040600 +0200" channel="acontra+ CINE">
+    <title lang="es">Campeón de campeones (2005)</title>
+    <desc lang="es">Un exconvicto intenta hacerse un sitio en el boxeo profesional. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/915euSGuKoL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
