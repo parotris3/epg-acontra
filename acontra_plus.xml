@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260605085300 +0200" stop="20260605105300 +0200" channel="acontra+ CINE">
-    <title lang="es">El grito de la lechuza (2010)</title>
-    <desc lang="es">Un joven arquitecto, deprimido y en proceso de divorcio, se muda a una pequeña comunidad. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71eILbXT65L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260605105300 +0200" stop="20260605124300 +0200" channel="acontra+ CINE">
-    <title lang="es">Paraíso (2013)</title>
-    <desc lang="es">Annika Bengtzon trata de reconstruir su vida tras la violenta muerte de su prometido. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81UESgMWduL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260605124300 +0200" stop="20260605144900 +0200" channel="acontra+ CINE">
-    <title lang="es">No se lo digas a nadie (2006)</title>
-    <desc lang="es">La mujer de Alex Beck fue asesinada hace ocho años, ahora él es sospechoso de dos asesinatos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91LHfqAz5OL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260605144900 +0200" stop="20260605164500 +0200" channel="acontra+ CINE">
+  <programme start="20260605144500 +0200" stop="20260605164500 +0200" channel="acontra+ CINE">
     <title lang="es">Destrucción (2018)</title>
     <desc lang="es">Una policía revive el drama que marcó su vida. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Kaac9AZlL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Lacombe, Lucien (1974)</title>
     <desc lang="es">Lacombe, de un pueblo de Francia, colabora con el régimen nazi y se enamora de una niña judía. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81jQpU8pLWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260605190300 +0200" stop="20260605202900 +0200" channel="acontra+ CINE">
+    <title lang="es">Nuevo orden (2020)</title>
+    <desc lang="es">Los miembros de una familia se reúnen para una boda. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1Hncfr-0hL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260605202900 +0200" stop="20260605220300 +0200" channel="acontra+ CINE">
+    <title lang="es">Vivarium (2019)</title>
+    <desc lang="es">Una joven pareja visita una inmobiliaria para comprar una casa donde se quedarán atrapados. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/914D3Ssc3AL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260605220300 +0200" stop="20260605232600 +0200" channel="acontra+ CINE">
+    <title lang="es">La guerra de los drones (2016)</title>
+    <desc lang="es">Un grupo de científicos resiste el ataque letal de unos drones en el planeta tierra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1u3p+L+CxL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
