@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260605182900 +0200" stop="20260605202900 +0200" channel="acontra+ CINE">
-    <title lang="es">Nuevo orden (2020)</title>
-    <desc lang="es">Los miembros de una familia se reúnen para una boda. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Hncfr-0hL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260605202900 +0200" stop="20260605220300 +0200" channel="acontra+ CINE">
-    <title lang="es">Vivarium (2019)</title>
-    <desc lang="es">Una joven pareja visita una inmobiliaria para comprar una casa donde se quedarán atrapados. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/914D3Ssc3AL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260605220300 +0200" stop="20260605232600 +0200" channel="acontra+ CINE">
-    <title lang="es">La guerra de los drones (2016)</title>
-    <desc lang="es">Un grupo de científicos resiste el ataque letal de unos drones en el planeta tierra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1u3p+L+CxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260605232600 +0200" stop="20260606004300 +0200" channel="acontra+ CINE">
+  <programme start="20260605224300 +0200" stop="20260606004300 +0200" channel="acontra+ CINE">
     <title lang="es">Milagro en la Calle Mayor</title>
     <desc lang="es">Una noche, huyendo de la policía, María entra en una iglesia y encuentra allí un bebé abandonado. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/acontra_CINE_16x9._UR1920,1080_FMpng_.png"/>
@@ -32,5 +17,20 @@
     <title lang="es">Orfeo (1950)</title>
     <desc lang="es">Orfeo, conocido poeta del barrio parisino de Saint-Germain-des-Prés, está obsesionado con la Muerte. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91gieFP4c2L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260606041500 +0200" stop="20260606060800 +0200" channel="acontra+ CINE">
+    <title lang="es">Fast Food Nation (2006)</title>
+    <desc lang="es">Basada en el libro de Eric Schlosser. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1uAkKlOQmL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260606060800 +0200" stop="20260606074500 +0200" channel="acontra+ CINE">
+    <title lang="es">Dies Irae (1943)</title>
+    <desc lang="es">En un pueblo danés del siglo XVII, una anciana es acusada de brujería. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81zpJq2N50L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260606074500 +0200" stop="20260606092300 +0200" channel="acontra+ CINE">
+    <title lang="es">El día de tu boda (2013)</title>
+    <desc lang="es">Leo se enamora de Colette el día de su boda y decide ganarse su corazón. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91zDK4wxcXL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
