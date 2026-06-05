@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260604223400 +0200" stop="20260605003400 +0200" channel="acontra+ CINE">
-    <title lang="es">Medidas extremas (2017)</title>
-    <desc lang="es">Un hombre está dispuesto a todo con tal de sacar a su hija del mundo de las drogas y los hurtos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/915YbrZlfKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260605003400 +0200" stop="20260605021800 +0200" channel="acontra+ CINE">
-    <title lang="es">The Visitor (2007)</title>
-    <desc lang="es">La relación entre dos inmigrantes y un deprimido profesor universitario aviva su interés en la vida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91rKNPDdwkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260605021800 +0200" stop="20260605040600 +0200" channel="acontra+ CINE">
-    <title lang="es">Campeón de campeones (2005)</title>
-    <desc lang="es">Un exconvicto intenta hacerse un sitio en el boxeo profesional. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/915euSGuKoL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260605040600 +0200" stop="20260605061100 +0200" channel="acontra+ CINE">
+  <programme start="20260605041100 +0200" stop="20260605061100 +0200" channel="acontra+ CINE">
     <title lang="es">Tom & Viv (1994)</title>
     <desc lang="es">Historia del matrimonio fallido entre T.S. Eliot y su esposa enferma. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81UTnu5cYvL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Generación robada (2002)</title>
     <desc lang="es">Año 1931, Australia. Tres niñas aborígenes emprenden un peligroso viaje de vuelta a su casa. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91hbtE3pHFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260605091300 +0200" stop="20260605105300 +0200" channel="acontra+ CINE">
+    <title lang="es">El grito de la lechuza (2010)</title>
+    <desc lang="es">Un joven arquitecto, deprimido y en proceso de divorcio, se muda a una pequeña comunidad. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71eILbXT65L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260605105300 +0200" stop="20260605124300 +0200" channel="acontra+ CINE">
+    <title lang="es">Paraíso (2013)</title>
+    <desc lang="es">Annika Bengtzon trata de reconstruir su vida tras la violenta muerte de su prometido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81UESgMWduL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260605124300 +0200" stop="20260605144900 +0200" channel="acontra+ CINE">
+    <title lang="es">No se lo digas a nadie (2006)</title>
+    <desc lang="es">La mujer de Alex Beck fue asesinada hace ocho años, ahora él es sospechoso de dos asesinatos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91LHfqAz5OL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
