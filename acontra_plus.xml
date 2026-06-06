@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260606141200 +0200" stop="20260606161200 +0200" channel="acontra+ CINE">
-    <title lang="es">Yo acuso (2003)</title>
-    <desc lang="es">Una mujer alega haber sufrido abusos tras ser drogada por el médico que la atendió. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ZB1tQFccL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260606161200 +0200" stop="20260606175900 +0200" channel="acontra+ CINE">
-    <title lang="es">Cuento de primavera (1990)</title>
-    <desc lang="es">Una estudiante de música desea que su padre conozca a su nueva amiga, una maestra de filosofía. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tp9wOoGTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260606175900 +0200" stop="20260606193400 +0200" channel="acontra+ CINE">
-    <title lang="es">Absolución (1987)</title>
-    <desc lang="es">Un cura debe decidir si quebrantar el secreto de confesión. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/618HEhcNOqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260606193400 +0200" stop="20260606213900 +0200" channel="acontra+ CINE">
+  <programme start="20260606193900 +0200" stop="20260606213900 +0200" channel="acontra+ CINE">
     <title lang="es">Ciudad de Dios (2003)</title>
     <desc lang="es">Basada en el libro de Paulo Lins. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81wZp5Y1eLL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">El piano (1993)</title>
     <desc lang="es">Ada se queda viuda y viaja con su hija a Nueva Zelanda para un matrimonio concertado. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71hTexxx1xL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260606234000 +0200" stop="20260607010200 +0200" channel="acontra+ CINE">
+    <title lang="es">La decisión (2026)</title>
+    <desc lang="es">Sara va a cometer un atentado suicida, pero un vendedor hará que se replantee sus convicciones. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/713kMSbRPpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260607010200 +0200" stop="20260607024800 +0200" channel="acontra+ CINE">
+    <title lang="es">Emperador (2012)</title>
+    <desc lang="es">El general MacArthur debe tomar la decisión de someter al emperador Hirohito o perdonarle la vida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81XRazD7rdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260607024800 +0200" stop="20260607042300 +0200" channel="acontra+ CINE">
+    <title lang="es">Despertando a Ned (1998)</title>
+    <desc lang="es">Un pueblo oculta la muerte de Ned, ganador de la lotería, para repartirse el dinero entre ellos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81lSKouKbuL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
