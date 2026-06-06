@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260605224300 +0200" stop="20260606004300 +0200" channel="acontra+ CINE">
-    <title lang="es">Milagro en la Calle Mayor</title>
-    <desc lang="es">Una noche, huyendo de la policía, María entra en una iglesia y encuentra allí un bebé abandonado. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/acontra_CINE_16x9._UR1920,1080_FMpng_.png"/>
-  </programme>
-  <programme start="20260606004300 +0200" stop="20260606023500 +0200" channel="acontra+ CINE">
-    <title lang="es">Nueve vidas (2005)</title>
-    <desc lang="es">Nueve mujeres diferentes entre sí explican de manera cautivadora sus experiencias individuales. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91XIBSY-3pL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260606023500 +0200" stop="20260606041500 +0200" channel="acontra+ CINE">
-    <title lang="es">Orfeo (1950)</title>
-    <desc lang="es">Orfeo, conocido poeta del barrio parisino de Saint-Germain-des-Prés, está obsesionado con la Muerte. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91gieFP4c2L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260606041500 +0200" stop="20260606060800 +0200" channel="acontra+ CINE">
+  <programme start="20260606040800 +0200" stop="20260606060800 +0200" channel="acontra+ CINE">
     <title lang="es">Fast Food Nation (2006)</title>
     <desc lang="es">Basada en el libro de Eric Schlosser. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1uAkKlOQmL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">El día de tu boda (2013)</title>
     <desc lang="es">Leo se enamora de Colette el día de su boda y decide ganarse su corazón. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91zDK4wxcXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260606092300 +0200" stop="20260606114400 +0200" channel="acontra+ CINE">
+    <title lang="es">Secretos y mentiras (1995)</title>
+    <desc lang="es">Un sensible drama donde una mujer busca a su madre. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81VZmcnOdcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260606114400 +0200" stop="20260606132300 +0200" channel="acontra+ CINE">
+    <title lang="es">Miss América (1989)</title>
+    <desc lang="es">Una joven del Sur se apunta en el concurso anual de belleza para resaltar la imagen de su pueblo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81yLQTeQGiL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
