@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260606040800 +0200" stop="20260606060800 +0200" channel="acontra+ CINE">
-    <title lang="es">Fast Food Nation (2006)</title>
-    <desc lang="es">Basada en el libro de Eric Schlosser. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1uAkKlOQmL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260606060800 +0200" stop="20260606074500 +0200" channel="acontra+ CINE">
-    <title lang="es">Dies Irae (1943)</title>
-    <desc lang="es">En un pueblo danés del siglo XVII, una anciana es acusada de brujería. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81zpJq2N50L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260606074500 +0200" stop="20260606092300 +0200" channel="acontra+ CINE">
-    <title lang="es">El día de tu boda (2013)</title>
-    <desc lang="es">Leo se enamora de Colette el día de su boda y decide ganarse su corazón. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zDK4wxcXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260606092300 +0200" stop="20260606114400 +0200" channel="acontra+ CINE">
+  <programme start="20260606094400 +0200" stop="20260606114400 +0200" channel="acontra+ CINE">
     <title lang="es">Secretos y mentiras (1995)</title>
     <desc lang="es">Un sensible drama donde una mujer busca a su madre. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81VZmcnOdcL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">Miss América (1989)</title>
     <desc lang="es">Una joven del Sur se apunta en el concurso anual de belleza para resaltar la imagen de su pueblo. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81yLQTeQGiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260606132300 +0200" stop="20260606144900 +0200" channel="acontra+ CINE">
+    <title lang="es">Arañas 3D (2013)</title>
+    <desc lang="es">Arañas se vuelven gigantes tras choque de estación espacial. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81CnDetRZRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260606144900 +0200" stop="20260606161200 +0200" channel="acontra+ CINE">
+    <title lang="es">Yo acuso (2003)</title>
+    <desc lang="es">Una mujer alega haber sufrido abusos tras ser drogada por el médico que la atendió. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ZB1tQFccL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260606161200 +0200" stop="20260606175900 +0200" channel="acontra+ CINE">
+    <title lang="es">Cuento de primavera (1990)</title>
+    <desc lang="es">Una estudiante de música desea que su padre conozca a su nueva amiga, una maestra de filosofía. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tp9wOoGTL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260606175900 +0200" stop="20260606193400 +0200" channel="acontra+ CINE">
+    <title lang="es">Absolución (1987)</title>
+    <desc lang="es">Un cura debe decidir si quebrantar el secreto de confesión. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/618HEhcNOqL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
