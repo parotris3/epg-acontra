@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260606193900 +0200" stop="20260606213900 +0200" channel="acontra+ CINE">
-    <title lang="es">Ciudad de Dios (2003)</title>
-    <desc lang="es">Basada en el libro de Paulo Lins. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81wZp5Y1eLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260606213900 +0200" stop="20260606234000 +0200" channel="acontra+ CINE">
-    <title lang="es">El piano (1993)</title>
-    <desc lang="es">Ada se queda viuda y viaja con su hija a Nueva Zelanda para un matrimonio concertado. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71hTexxx1xL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260606234000 +0200" stop="20260607010200 +0200" channel="acontra+ CINE">
+  <programme start="20260606230200 +0200" stop="20260607010200 +0200" channel="acontra+ CINE">
     <title lang="es">La decisión (2026)</title>
     <desc lang="es">Sara va a cometer un atentado suicida, pero un vendedor hará que se replantee sus convicciones. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/713kMSbRPpL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Despertando a Ned (1998)</title>
     <desc lang="es">Un pueblo oculta la muerte de Ned, ganador de la lotería, para repartirse el dinero entre ellos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81lSKouKbuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260607042300 +0200" stop="20260607060400 +0200" channel="acontra+ CINE">
+    <title lang="es">El rostro de un ángel (2014)</title>
+    <desc lang="es">Una periodista y un director de documentales investigan a la sospechosa de un asesinato. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71g4+A71w5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260607060400 +0200" stop="20260607074900 +0200" channel="acontra+ CINE">
+    <title lang="es">Llévame a la luna (2012)</title>
+    <desc lang="es">Una mujer se propone eliminar la maldición familiar en la que cada primer matrimonio se divorcia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/813uBwbCaXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260607074900 +0200" stop="20260607093200 +0200" channel="acontra+ CINE">
+    <title lang="es">Una cosa por otra (2021)</title>
+    <desc lang="es">Un fugitivo conoce a una mujer que amenaza con denunciarlo a la policía a menos que mate a su madre. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71GhOMiHeML._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
