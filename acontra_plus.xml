@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260606094400 +0200" stop="20260606114400 +0200" channel="acontra+ CINE">
-    <title lang="es">Secretos y mentiras (1995)</title>
-    <desc lang="es">Un sensible drama donde una mujer busca a su madre. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81VZmcnOdcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260606114400 +0200" stop="20260606132300 +0200" channel="acontra+ CINE">
-    <title lang="es">Miss América (1989)</title>
-    <desc lang="es">Una joven del Sur se apunta en el concurso anual de belleza para resaltar la imagen de su pueblo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81yLQTeQGiL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260606132300 +0200" stop="20260606144900 +0200" channel="acontra+ CINE">
-    <title lang="es">Arañas 3D (2013)</title>
-    <desc lang="es">Arañas se vuelven gigantes tras choque de estación espacial. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81CnDetRZRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260606144900 +0200" stop="20260606161200 +0200" channel="acontra+ CINE">
+  <programme start="20260606141200 +0200" stop="20260606161200 +0200" channel="acontra+ CINE">
     <title lang="es">Yo acuso (2003)</title>
     <desc lang="es">Una mujer alega haber sufrido abusos tras ser drogada por el médico que la atendió. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71ZB1tQFccL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Absolución (1987)</title>
     <desc lang="es">Un cura debe decidir si quebrantar el secreto de confesión. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/618HEhcNOqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260606193400 +0200" stop="20260606213900 +0200" channel="acontra+ CINE">
+    <title lang="es">Ciudad de Dios (2003)</title>
+    <desc lang="es">Basada en el libro de Paulo Lins. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81wZp5Y1eLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260606213900 +0200" stop="20260606234000 +0200" channel="acontra+ CINE">
+    <title lang="es">El piano (1993)</title>
+    <desc lang="es">Ada se queda viuda y viaja con su hija a Nueva Zelanda para un matrimonio concertado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71hTexxx1xL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
