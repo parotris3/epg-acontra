@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260607135600 +0200" stop="20260607155600 +0200" channel="acontra+ CINE">
-    <title lang="es">Le week-end (2013)</title>
-    <desc lang="es">Nick y Meg, a sus 60 años, viajan a París para pasar un fin de semana romántico que reavive su vida. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81A0oV0QixL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260607155600 +0200" stop="20260607180000 +0200" channel="acontra+ CINE">
-    <title lang="es">American Night (2021)</title>
-    <desc lang="es">Un cuadro de Andy Warhol desaparecido reaparece y desencadena una peligrosa reacción en cadena. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1RSx3WyEaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260607180000 +0200" stop="20260607192800 +0200" channel="acontra+ CINE">
-    <title lang="es">Cuerpos ardientes (1991)</title>
-    <desc lang="es">La historia de tres mujeres. En la exuberante y pantanosa ciudad de Bayou La Teche, Luisiana. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1SIPR7Xw7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260607192800 +0200" stop="20260607205600 +0200" channel="acontra+ CINE">
+  <programme start="20260607185600 +0200" stop="20260607205600 +0200" channel="acontra+ CINE">
     <title lang="es">Goon (2011)</title>
     <desc lang="es">Doug Glatt consigue un lugar en un equipo de hockey canadiense de las ligas menores. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81S5SD0d9gL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Caramel (2007)</title>
     <desc lang="es">Cinco mujeres libanesas comparten sus vidas y preocupaciones en un salón de belleza de Beirut. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Svm35LVfL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260607235300 +0200" stop="20260608011800 +0200" channel="acontra+ CINE">
+    <title lang="es">La piedra sagrada (2017)</title>
+    <desc lang="es">Un hombre dispara accidentalmente un dispositivo apocalíptico sumerio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1XwvyLLD+L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260608011800 +0200" stop="20260608024800 +0200" channel="acontra+ CINE">
+    <title lang="es">El último vuelo (2014)</title>
+    <desc lang="es">Marie Vallières de Beaumont, una intrépida aviadora, se propone encontrar a su novio desaparecido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71jGocrVMZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260608024800 +0200" stop="20260608042300 +0200" channel="acontra+ CINE">
+    <title lang="es">Noche real (2015)</title>
+    <desc lang="es">En el Día de la Victoria, las princesas Isabel y Margarita se unen a la celebración de incógnito. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1eJ-vL++eL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
