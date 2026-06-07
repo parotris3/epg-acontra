@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260607185600 +0200" stop="20260607205600 +0200" channel="acontra+ CINE">
-    <title lang="es">Goon (2011)</title>
-    <desc lang="es">Doug Glatt consigue un lugar en un equipo de hockey canadiense de las ligas menores. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81S5SD0d9gL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260607205600 +0200" stop="20260607221700 +0200" channel="acontra+ CINE">
-    <title lang="es">Bloodsucking Bastards (2015)</title>
-    <desc lang="es">Evan, un empleado obediente y sobrecargado de trabajo, descubre que su compañero es un vampiro. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91B4zb3tooL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260607221700 +0200" stop="20260607235300 +0200" channel="acontra+ CINE">
-    <title lang="es">Caramel (2007)</title>
-    <desc lang="es">Cinco mujeres libanesas comparten sus vidas y preocupaciones en un salón de belleza de Beirut. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Svm35LVfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260607235300 +0200" stop="20260608011800 +0200" channel="acontra+ CINE">
+  <programme start="20260607231800 +0200" stop="20260608011800 +0200" channel="acontra+ CINE">
     <title lang="es">La piedra sagrada (2017)</title>
     <desc lang="es">Un hombre dispara accidentalmente un dispositivo apocalíptico sumerio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1XwvyLLD+L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Noche real (2015)</title>
     <desc lang="es">En el Día de la Victoria, las princesas Isabel y Margarita se unen a la celebración de incógnito. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1eJ-vL++eL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260608042300 +0200" stop="20260608060000 +0200" channel="acontra+ CINE">
+    <title lang="es">La horda (2009)</title>
+    <desc lang="es">Un grupo de policías corruptos y criminales despiadados aúnan fuerzas en contra de unos monstruos. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81opcegUrLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260608060000 +0200" stop="20260608075500 +0200" channel="acontra+ CINE">
+    <title lang="es">La mujer zurda (1980)</title>
+    <desc lang="es">Una mujer recién separada pone rumbo a París con su hijo, donde comienzan una nueva vida. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ebmwYoeRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260608075500 +0200" stop="20260608092500 +0200" channel="acontra+ CINE">
+    <title lang="es">Notre Dame (2019)</title>
+    <desc lang="es">La vida de una arquitecta cambia cuando gana la oportunidad de renovar la catedral de Notre Dame. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/819wBQ4-5BL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
