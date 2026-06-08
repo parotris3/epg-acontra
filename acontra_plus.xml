@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260608092200 +0200" stop="20260608112200 +0200" channel="acontra+ CINE">
-    <title lang="es">Salvar o morir (2020)</title>
-    <desc lang="es">Un bombero parisino sacrifica su propia seguridad para salvar a sus compañeros durante un incendio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81aMCbkTScL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260608112200 +0200" stop="20260608123700 +0200" channel="acontra+ CINE">
-    <title lang="es">Ultraje (1950)</title>
-    <desc lang="es">Tras ser abusada sexualmente, Ann Walton huye de casa e intenta rehacer su vida en otra ciudad. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zFZFnaX0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260608123700 +0200" stop="20260608142100 +0200" channel="acontra+ CINE">
-    <title lang="es">Eugénie Grandet (2021)</title>
-    <desc lang="es">Un padre no ve con buenos ojos a las partes que se apresuran a pedir la mano de su hija. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91hAc2jMZUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260608142100 +0200" stop="20260608160200 +0200" channel="acontra+ CINE">
+  <programme start="20260608140200 +0200" stop="20260608160200 +0200" channel="acontra+ CINE">
     <title lang="es">La desaparición de Alice Creed (2010)</title>
     <desc lang="es">Rapto acaba en un juego de codicia, amor, sexo y violencia. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81LBfvDBf-L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">La fiesta (1982)</title>
     <desc lang="es">Vic, a sus 14 años, atraviesa la etapa de sus primeros flirteos y fiestas entre amigas. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81M2qfD7kNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260608193000 +0200" stop="20260608215100 +0200" channel="acontra+ CINE">
+    <title lang="es">La venganza es mía (1979)</title>
+    <desc lang="es">Enokizu es un criminal al que le encanta cometer atrocidades y despiadados crímenes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81+f+z7V-RL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260608215100 +0200" stop="20260608234200 +0200" channel="acontra+ CINE">
+    <title lang="es">Mi noche con Maud (1969)</title>
+    <desc lang="es">Un ingeniero católico trata de resistir las seducciones de una oscura mujer divorciada. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71fF8HWAegL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
