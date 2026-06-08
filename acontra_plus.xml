@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260608040000 +0200" stop="20260608060000 +0200" channel="acontra+ CINE">
-    <title lang="es">La horda (2009)</title>
-    <desc lang="es">Un grupo de policías corruptos y criminales despiadados aúnan fuerzas en contra de unos monstruos. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81opcegUrLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260608060000 +0200" stop="20260608075500 +0200" channel="acontra+ CINE">
-    <title lang="es">La mujer zurda (1980)</title>
-    <desc lang="es">Una mujer recién separada pone rumbo a París con su hijo, donde comienzan una nueva vida. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ebmwYoeRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260608075500 +0200" stop="20260608092500 +0200" channel="acontra+ CINE">
-    <title lang="es">Notre Dame (2019)</title>
-    <desc lang="es">La vida de una arquitecta cambia cuando gana la oportunidad de renovar la catedral de Notre Dame. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/819wBQ4-5BL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260608092500 +0200" stop="20260608112200 +0200" channel="acontra+ CINE">
+  <programme start="20260608092200 +0200" stop="20260608112200 +0200" channel="acontra+ CINE">
     <title lang="es">Salvar o morir (2020)</title>
     <desc lang="es">Un bombero parisino sacrifica su propia seguridad para salvar a sus compañeros durante un incendio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81aMCbkTScL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Eugénie Grandet (2021)</title>
     <desc lang="es">Un padre no ve con buenos ojos a las partes que se apresuran a pedir la mano de su hija. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91hAc2jMZUL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260608142100 +0200" stop="20260608160200 +0200" channel="acontra+ CINE">
+    <title lang="es">La desaparición de Alice Creed (2010)</title>
+    <desc lang="es">Rapto acaba en un juego de codicia, amor, sexo y violencia. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81LBfvDBf-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260608160200 +0200" stop="20260608174100 +0200" channel="acontra+ CINE">
+    <title lang="es">El legado (1979)</title>
+    <desc lang="es">Seis personas llegan a una casa en el campo, pero su tranquilo fin de semana se complicará. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81thiMnpaZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260608174100 +0200" stop="20260608193000 +0200" channel="acontra+ CINE">
+    <title lang="es">La fiesta (1982)</title>
+    <desc lang="es">Vic, a sus 14 años, atraviesa la etapa de sus primeros flirteos y fiestas entre amigas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81M2qfD7kNL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
