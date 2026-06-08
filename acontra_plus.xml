@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260608195100 +0200" stop="20260608215100 +0200" channel="acontra+ CINE">
-    <title lang="es">La venganza es mía (1979)</title>
-    <desc lang="es">Enokizu es un criminal al que le encanta cometer atrocidades y despiadados crímenes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81+f+z7V-RL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260608215100 +0200" stop="20260608234200 +0200" channel="acontra+ CINE">
-    <title lang="es">Mi noche con Maud (1969)</title>
-    <desc lang="es">Un ingeniero católico trata de resistir las seducciones de una oscura mujer divorciada. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71fF8HWAegL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260608234200 +0200" stop="20260609010700 +0200" channel="acontra+ CINE">
+  <programme start="20260608230700 +0200" stop="20260609010700 +0200" channel="acontra+ CINE">
     <title lang="es">Bajo las estrellas de París (2021)</title>
     <desc lang="es">Christine, una sintecho que vive en París, se encuentra a Suli, de 8 años, durante el invierno. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ZMUirTdsL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">El gángster (2012)</title>
     <desc lang="es">Un ex veterano de guerra decide robar bancos para poder mantener a su familia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81EuhLXgwOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260609042400 +0200" stop="20260609061100 +0200" channel="acontra+ CINE">
+    <title lang="es">La Noche de San Lorenzo (2008)</title>
+    <desc lang="es">Durante la Segunda Guerra Mundial, los vecinos de un pueblo toscano huyen a las montañas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71p0zWUMldL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260609061100 +0200" stop="20260609074400 +0200" channel="acontra+ CINE">
+    <title lang="es">La garra de Satán (1971)</title>
+    <desc lang="es">El descubrimiento del cuerpo de un hombre bestia atemoriza a unos niños campesinos en Inglaterra. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81nuSA-K9tL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260609074400 +0200" stop="20260609092400 +0200" channel="acontra+ CINE">
+    <title lang="es">Traveller (1997)</title>
+    <desc lang="es">Tras morir su padre, Pat O'Hara quiere unirse a un grupo de estafadores irlandeses-americanos. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1Vr2YKjJIL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
