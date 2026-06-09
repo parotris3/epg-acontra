@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260609130200 +0200" stop="20260609150200 +0200" channel="acontra+ CINE">
-    <title lang="es">Verano asesino (1985)</title>
-    <desc lang="es">Elle, una joven de 19 años, regresa a su pueblo natal con un oscuro plan de venganza. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91iSUe6b7oL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260609150200 +0200" stop="20260609165000 +0200" channel="acontra+ CINE">
-    <title lang="es">Los girasoles (1970)</title>
-    <desc lang="es">Giovanna se casa con Antonio antes de la guerra, pero él no quiere ir al frente y simula estar loco. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1OT-cPmxeL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260609165000 +0200" stop="20260609181900 +0200" channel="acontra+ CINE">
-    <title lang="es">Juicio de fuego (2008)</title>
-    <desc lang="es">Una mujer bombero decide entrar en el cuerpo de élite de paracaidismo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1tw--Od0TL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260609181900 +0200" stop="20260609201700 +0200" channel="acontra+ CINE">
+  <programme start="20260609181700 +0200" stop="20260609201700 +0200" channel="acontra+ CINE">
     <title lang="es">La novena configuración (1980)</title>
     <desc lang="es">El Coronel Hudson Kane llega para hacerse cargo de una institución psiquiátrica militar. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/614osUZ0gPL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Little Monsters (2019)</title>
     <desc lang="es">Dave se ofrece como voluntario para acompañar a su sobrino en un viaje escolar. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91irhFfgcgL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260609234300 +0200" stop="20260610012000 +0200" channel="acontra+ CINE">
+    <title lang="es">Barbacoa de amigos (2014)</title>
+    <desc lang="es">En su 50 cumpleaños, Antoine tiene una ataque al corazón y decide cambiar su estilo de vida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ZftxIvRIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260610012000 +0200" stop="20260610025000 +0200" channel="acontra+ CINE">
+    <title lang="es">La ronda (1950)</title>
+    <desc lang="es">Viena, 1900. El amor está en el aire, y las parejas van y vienen. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71BHBFA4BqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260610025000 +0200" stop="20260610042100 +0200" channel="acontra+ CINE">
+    <title lang="es">El mejor regalo (2018)</title>
+    <desc lang="es">Sena, una aspirante a diseñadora de moda y sin éxito en el amor, cumple 46 años. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81anZEQ6NtL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
