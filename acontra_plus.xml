@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260609181700 +0200" stop="20260609201700 +0200" channel="acontra+ CINE">
-    <title lang="es">La novena configuración (1980)</title>
-    <desc lang="es">El Coronel Hudson Kane llega para hacerse cargo de una institución psiquiátrica militar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/614osUZ0gPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260609201700 +0200" stop="20260609221300 +0200" channel="acontra+ CINE">
-    <title lang="es">Sophie Scholl: los últimos días (2005)</title>
-    <desc lang="es">Sophie Scholl es una estudiante en Múnich en 1943 encarcelada por la Gestapo durante una misión. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1v8rdAhFYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260609221300 +0200" stop="20260609234300 +0200" channel="acontra+ CINE">
-    <title lang="es">Little Monsters (2019)</title>
-    <desc lang="es">Dave se ofrece como voluntario para acompañar a su sobrino en un viaje escolar. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91irhFfgcgL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260609234300 +0200" stop="20260610012000 +0200" channel="acontra+ CINE">
+  <programme start="20260609232000 +0200" stop="20260610012000 +0200" channel="acontra+ CINE">
     <title lang="es">Barbacoa de amigos (2014)</title>
     <desc lang="es">En su 50 cumpleaños, Antoine tiene una ataque al corazón y decide cambiar su estilo de vida. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ZftxIvRIL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El mejor regalo (2018)</title>
     <desc lang="es">Sena, una aspirante a diseñadora de moda y sin éxito en el amor, cumple 46 años. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81anZEQ6NtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260610042100 +0200" stop="20260610055100 +0200" channel="acontra+ CINE">
+    <title lang="es">Los papeles de Aspern (2019)</title>
+    <desc lang="es">Un editor intenta conseguir los poemas que un poeta escribió a quien fuera su musa y amante. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71pRf7q9NaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260610055100 +0200" stop="20260610072900 +0200" channel="acontra+ CINE">
+    <title lang="es">Los amigos del novio (2006)</title>
+    <desc lang="es">A una semana de casarse con su novia embarazada, Paulie está preocupado por los cambios en su vida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81GHWbBLbmL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260610072900 +0200" stop="20260610085000 +0200" channel="acontra+ CINE">
+    <title lang="es">La mano del diablo (2015)</title>
+    <desc lang="es">Roland, un pintor fracasado, empieza a contar su historia sobre el talismán que cambió su vida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1LUUu78PsL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
