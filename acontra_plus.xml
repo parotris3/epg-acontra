@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260609041100 +0200" stop="20260609061100 +0200" channel="acontra+ CINE">
-    <title lang="es">La Noche de San Lorenzo (2008)</title>
-    <desc lang="es">Durante la Segunda Guerra Mundial, los vecinos de un pueblo toscano huyen a las montañas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71p0zWUMldL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260609061100 +0200" stop="20260609074400 +0200" channel="acontra+ CINE">
-    <title lang="es">La garra de Satán (1971)</title>
-    <desc lang="es">El descubrimiento del cuerpo de un hombre bestia atemoriza a unos niños campesinos en Inglaterra. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nuSA-K9tL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260609074400 +0200" stop="20260609092400 +0200" channel="acontra+ CINE">
-    <title lang="es">Traveller (1997)</title>
-    <desc lang="es">Tras morir su padre, Pat O'Hara quiere unirse a un grupo de estafadores irlandeses-americanos. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Vr2YKjJIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260609092400 +0200" stop="20260609111100 +0200" channel="acontra+ CINE">
+  <programme start="20260609091100 +0200" stop="20260609111100 +0200" channel="acontra+ CINE">
     <title lang="es">The Chosen (1981)</title>
     <desc lang="es">Un judío y el hijo de un rabí hasídico se hacen amigos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/818x1QaWSFL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Verano asesino (1985)</title>
     <desc lang="es">Elle, una joven de 19 años, regresa a su pueblo natal con un oscuro plan de venganza. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91iSUe6b7oL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260609150200 +0200" stop="20260609165000 +0200" channel="acontra+ CINE">
+    <title lang="es">Los girasoles (1970)</title>
+    <desc lang="es">Giovanna se casa con Antonio antes de la guerra, pero él no quiere ir al frente y simula estar loco. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1OT-cPmxeL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260609165000 +0200" stop="20260609181900 +0200" channel="acontra+ CINE">
+    <title lang="es">Juicio de fuego (2008)</title>
+    <desc lang="es">Una mujer bombero decide entrar en el cuerpo de élite de paracaidismo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1tw--Od0TL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
