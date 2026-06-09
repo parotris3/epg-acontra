@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260609091100 +0200" stop="20260609111100 +0200" channel="acontra+ CINE">
-    <title lang="es">The Chosen (1981)</title>
-    <desc lang="es">Un judío y el hijo de un rabí hasídico se hacen amigos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/818x1QaWSFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260609111100 +0200" stop="20260609124900 +0200" channel="acontra+ CINE">
-    <title lang="es">My Beautiful Laundrette (1986)</title>
-    <desc lang="es">Dos jóvenes se unen para restaurar una lavandería. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71PewlESOcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260609124900 +0200" stop="20260609150200 +0200" channel="acontra+ CINE">
+  <programme start="20260609130200 +0200" stop="20260609150200 +0200" channel="acontra+ CINE">
     <title lang="es">Verano asesino (1985)</title>
     <desc lang="es">Elle, una joven de 19 años, regresa a su pueblo natal con un oscuro plan de venganza. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91iSUe6b7oL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Juicio de fuego (2008)</title>
     <desc lang="es">Una mujer bombero decide entrar en el cuerpo de élite de paracaidismo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1tw--Od0TL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260609181900 +0200" stop="20260609201700 +0200" channel="acontra+ CINE">
+    <title lang="es">La novena configuración (1980)</title>
+    <desc lang="es">El Coronel Hudson Kane llega para hacerse cargo de una institución psiquiátrica militar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/614osUZ0gPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260609201700 +0200" stop="20260609221300 +0200" channel="acontra+ CINE">
+    <title lang="es">Sophie Scholl: los últimos días (2005)</title>
+    <desc lang="es">Sophie Scholl es una estudiante en Múnich en 1943 encarcelada por la Gestapo durante una misión. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1v8rdAhFYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260609221300 +0200" stop="20260609234300 +0200" channel="acontra+ CINE">
+    <title lang="es">Little Monsters (2019)</title>
+    <desc lang="es">Dave se ofrece como voluntario para acompañar a su sobrino en un viaje escolar. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91irhFfgcgL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
