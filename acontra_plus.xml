@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260609232000 +0200" stop="20260610012000 +0200" channel="acontra+ CINE">
-    <title lang="es">Barbacoa de amigos (2014)</title>
-    <desc lang="es">En su 50 cumpleaños, Antoine tiene una ataque al corazón y decide cambiar su estilo de vida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ZftxIvRIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260610012000 +0200" stop="20260610025000 +0200" channel="acontra+ CINE">
-    <title lang="es">La ronda (1950)</title>
-    <desc lang="es">Viena, 1900. El amor está en el aire, y las parejas van y vienen. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71BHBFA4BqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260610025000 +0200" stop="20260610042100 +0200" channel="acontra+ CINE">
-    <title lang="es">El mejor regalo (2018)</title>
-    <desc lang="es">Sena, una aspirante a diseñadora de moda y sin éxito en el amor, cumple 46 años. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81anZEQ6NtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260610042100 +0200" stop="20260610055100 +0200" channel="acontra+ CINE">
+  <programme start="20260610035100 +0200" stop="20260610055100 +0200" channel="acontra+ CINE">
     <title lang="es">Los papeles de Aspern (2019)</title>
     <desc lang="es">Un editor intenta conseguir los poemas que un poeta escribió a quien fuera su musa y amante. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71pRf7q9NaL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La mano del diablo (2015)</title>
     <desc lang="es">Roland, un pintor fracasado, empieza a contar su historia sobre el talismán que cambió su vida. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1LUUu78PsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260610085000 +0200" stop="20260610105300 +0200" channel="acontra+ CINE">
+    <title lang="es">Feliz Navidad, Mr. Lawrence (1983)</title>
+    <desc lang="es">Un intenso duelo de voluntades se establece entre comandantes japoneses y prisioneros británicos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1Ece-qw1kL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260610105300 +0200" stop="20260610123400 +0200" channel="acontra+ CINE">
+    <title lang="es">Miss Julie (1999)</title>
+    <desc lang="es">Durante la noche de San Juan, Julie se siente atraída por Jean, un sirviente de carácter fuerte. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81el+nQmgXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260610123400 +0200" stop="20260610140300 +0200" channel="acontra+ CINE">
+    <title lang="es">Please Stand By (2017)</title>
+    <desc lang="es">Una mujer autista huye para participar en una competencia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1ekEBGeSWL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
