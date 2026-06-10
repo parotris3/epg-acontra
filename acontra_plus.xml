@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260610185400 +0200" stop="20260610205400 +0200" channel="acontra+ CINE">
-    <title lang="es">Una noche en Casablanca (1946)</title>
-    <desc lang="es">Tres disparatados amigos, que están en un hotel marroquí, deben enfrentarse a un asesino nazi. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71T8gByfeuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260610205400 +0200" stop="20260610223500 +0200" channel="acontra+ CINE">
-    <title lang="es">La parte de los ángeles (2012)</title>
-    <desc lang="es">Robbie apenas evade la cárcel, se inspira para hallar la forma de salir de una vida sin esperanza. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ExK0oAYLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260610223500 +0200" stop="20260611000300 +0200" channel="acontra+ CINE">
+  <programme start="20260610220300 +0200" stop="20260611000300 +0200" channel="acontra+ CINE">
     <title lang="es">La mirada del amor (2013)</title>
     <desc lang="es">Una mujer se enamora de un hombre que se parece a su esposo fallecido. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91LGJdPU8CL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,20 @@
     <title lang="es">Las ocho campanadas (2003)</title>
     <desc lang="es">Philip Calvert es un agente del servicio secreto naval cuya misión es la de desentrañar un robo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81qMCGYTo5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260611042200 +0200" stop="20260611060600 +0200" channel="acontra+ CINE">
+    <title lang="es">Los seductores (2010)</title>
+    <desc lang="es">Álex y su hermana se dedican a separar parejas, pero empezarán a encontrarse problemas. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ln4OpX+FL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260611060600 +0200" stop="20260611074100 +0200" channel="acontra+ CINE">
+    <title lang="es">Dos vidas en un instante (1998)</title>
+    <desc lang="es">En medio de las crisis, la vida de Helen da un giro y experimenta una realidad alternativa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71gf9K9ZaPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260611074100 +0200" stop="20260611091700 +0200" channel="acontra+ CINE">
+    <title lang="es">Tierra de sospecha (2017)</title>
+    <desc lang="es">Un hombre desaparece en medio de una ola de asesinatos y su hermana intenta encontrarlo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91fPYpH-AoL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
