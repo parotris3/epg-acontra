@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260610035100 +0200" stop="20260610055100 +0200" channel="acontra+ CINE">
-    <title lang="es">Los papeles de Aspern (2019)</title>
-    <desc lang="es">Un editor intenta conseguir los poemas que un poeta escribió a quien fuera su musa y amante. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71pRf7q9NaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260610055100 +0200" stop="20260610072900 +0200" channel="acontra+ CINE">
-    <title lang="es">Los amigos del novio (2006)</title>
-    <desc lang="es">A una semana de casarse con su novia embarazada, Paulie está preocupado por los cambios en su vida. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81GHWbBLbmL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260610072900 +0200" stop="20260610085000 +0200" channel="acontra+ CINE">
-    <title lang="es">La mano del diablo (2015)</title>
-    <desc lang="es">Roland, un pintor fracasado, empieza a contar su historia sobre el talismán que cambió su vida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1LUUu78PsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260610085000 +0200" stop="20260610105300 +0200" channel="acontra+ CINE">
+  <programme start="20260610085300 +0200" stop="20260610105300 +0200" channel="acontra+ CINE">
     <title lang="es">Feliz Navidad, Mr. Lawrence (1983)</title>
     <desc lang="es">Un intenso duelo de voluntades se establece entre comandantes japoneses y prisioneros británicos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1Ece-qw1kL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Please Stand By (2017)</title>
     <desc lang="es">Una mujer autista huye para participar en una competencia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1ekEBGeSWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260610140300 +0200" stop="20260610153400 +0200" channel="acontra+ CINE">
+    <title lang="es">Testigo (2017)</title>
+    <desc lang="es">Duval debe afrontar la brutal mecánica del mundo oculto de los servicios secretos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71etEZ+ZdkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260610153400 +0200" stop="20260610171600 +0200" channel="acontra+ CINE">
+    <title lang="es">Envidia sana (2020)</title>
+    <desc lang="es">La armonía entre dos parejas se rompe cuando Lea les dice que está escribiendo una novela. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81uDdrfBuKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260610171600 +0200" stop="20260610192900 +0200" channel="acontra+ CINE">
+    <title lang="es">Open Range (2003)</title>
+    <desc lang="es">Un grupo de hombres intenta escapar de su pasado guiando ganado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Pc2cUR1nL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
