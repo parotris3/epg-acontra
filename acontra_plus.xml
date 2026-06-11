@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260610220300 +0200" stop="20260611000300 +0200" channel="acontra+ CINE">
-    <title lang="es">La mirada del amor (2013)</title>
-    <desc lang="es">Una mujer se enamora de un hombre que se parece a su esposo fallecido. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91LGJdPU8CL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260611000300 +0200" stop="20260611011400 +0200" channel="acontra+ CINE">
-    <title lang="es">La reina de Nueva York (1937)</title>
-    <desc lang="es">La suerte de un periodista cambia cuando le vende a su editor la trágica historia de una chica. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/910YKxlZQDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260611011400 +0200" stop="20260611024700 +0200" channel="acontra+ CINE">
-    <title lang="es">Life Partners (2014)</title>
-    <desc lang="es">La relación entre dos amigas cambia dramáticamente. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81KbqWM--DL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260611024700 +0200" stop="20260611042200 +0200" channel="acontra+ CINE">
-    <title lang="es">Las ocho campanadas (2003)</title>
-    <desc lang="es">Philip Calvert es un agente del servicio secreto naval cuya misión es la de desentrañar un robo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qMCGYTo5L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260611042200 +0200" stop="20260611060600 +0200" channel="acontra+ CINE">
+  <programme start="20260611040600 +0200" stop="20260611060600 +0200" channel="acontra+ CINE">
     <title lang="es">Los seductores (2010)</title>
     <desc lang="es">Álex y su hermana se dedican a separar parejas, pero empezarán a encontrarse problemas. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ln4OpX+FL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +17,20 @@
     <title lang="es">Tierra de sospecha (2017)</title>
     <desc lang="es">Un hombre desaparece en medio de una ola de asesinatos y su hermana intenta encontrarlo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91fPYpH-AoL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260611091700 +0200" stop="20260611103700 +0200" channel="acontra+ CINE">
+    <title lang="es">Riders (2003)</title>
+    <desc lang="es">Una banda de atracadores con habilidad para los deportes de riesgo planea sus últimos golpes. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81GNmXSk-NL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260611103700 +0200" stop="20260611124300 +0200" channel="acontra+ CINE">
+    <title lang="es">13 asesinos (2010)</title>
+    <desc lang="es">Un oficial llega a un acuerdo con un samurái para que le ayude a acabar con un tirano. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71QqYrnKBwL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260611124300 +0200" stop="20260611142100 +0200" channel="acontra+ CINE">
+    <title lang="es">La lectora (1989)</title>
+    <desc lang="es">Constance es una apasionada lectora que decide dedicarse a leer a domicilio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/41vj4NFX3TL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
