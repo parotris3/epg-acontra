@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260611140200 +0200" stop="20260611160200 +0200" channel="acontra+ CINE">
-    <title lang="es">Secretos de estado (2017)</title>
-    <desc lang="es">Una espía y un terrorista utilizan manipulan personas para intentar alcanzar sus propios objetivos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tB3Pd59XL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260611160200 +0200" stop="20260611175700 +0200" channel="acontra+ CINE">
-    <title lang="es">El abuelo que saltó por la ventana y se largó (2014)</title>
-    <desc lang="es">El día en que va a cumplir 100 años, un anciano se fuga de la residencia en la que vive. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1kKccTNK5L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260611175700 +0200" stop="20260611192500 +0200" channel="acontra+ CINE">
-    <title lang="es">El sureño (1945)</title>
-    <desc lang="es">Un recolector de algodón de Texas busca tener su propia granja y darle una mejor vida a su familia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91+4OenNoUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260611192500 +0200" stop="20260611212100 +0200" channel="acontra+ CINE">
+  <programme start="20260611192100 +0200" stop="20260611212100 +0200" channel="acontra+ CINE">
     <title lang="es">Disparando a perros (2005)</title>
     <desc lang="es">Un profesor ofrece protección a miles de ruandeses que escapan del genocidio en la Ruanda de 1994. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71bv7tLr2dL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Trono de sangre (1957)</title>
     <desc lang="es">Un guerrero samurái tiene un encuentro espiritual y descubre que está destinado a la gloria. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81MOpG+TfFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260611230600 +0200" stop="20260612004800 +0200" channel="acontra+ CINE">
+    <title lang="es">Bailar con un extraño (1985)</title>
+    <desc lang="es">Ruth Ellis trabaja en un sórdido club. Una noche, conoce a un rico y atractivo piloto de carreras. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81sTim8TWNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260612004800 +0200" stop="20260612023500 +0200" channel="acontra+ CINE">
+    <title lang="es">Europa, Europa (1991)</title>
+    <desc lang="es">Salomón Perel Sally es un joven judío polaco que se hace pasar por un huérfano alemán. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81uThRPab5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260612023500 +0200" stop="20260612042200 +0200" channel="acontra+ CINE">
+    <title lang="es">Farinelli: Il Castrato (1994)</title>
+    <desc lang="es">Con tan solo 32 años, Farinelli, célebre "castrato", está en la cumbre del éxito profesional. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8151aO39RaL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
