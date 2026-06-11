@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260611040600 +0200" stop="20260611060600 +0200" channel="acontra+ CINE">
-    <title lang="es">Los seductores (2010)</title>
-    <desc lang="es">Álex y su hermana se dedican a separar parejas, pero empezarán a encontrarse problemas. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ln4OpX+FL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260611060600 +0200" stop="20260611074100 +0200" channel="acontra+ CINE">
-    <title lang="es">Dos vidas en un instante (1998)</title>
-    <desc lang="es">En medio de las crisis, la vida de Helen da un giro y experimenta una realidad alternativa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71gf9K9ZaPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260611074100 +0200" stop="20260611091700 +0200" channel="acontra+ CINE">
-    <title lang="es">Tierra de sospecha (2017)</title>
-    <desc lang="es">Un hombre desaparece en medio de una ola de asesinatos y su hermana intenta encontrarlo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91fPYpH-AoL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260611091700 +0200" stop="20260611103700 +0200" channel="acontra+ CINE">
+  <programme start="20260611083700 +0200" stop="20260611103700 +0200" channel="acontra+ CINE">
     <title lang="es">Riders (2003)</title>
     <desc lang="es">Una banda de atracadores con habilidad para los deportes de riesgo planea sus últimos golpes. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81GNmXSk-NL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La lectora (1989)</title>
     <desc lang="es">Constance es una apasionada lectora que decide dedicarse a leer a domicilio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/41vj4NFX3TL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260611142100 +0200" stop="20260611160200 +0200" channel="acontra+ CINE">
+    <title lang="es">Secretos de estado (2017)</title>
+    <desc lang="es">Una espía y un terrorista utilizan manipulan personas para intentar alcanzar sus propios objetivos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tB3Pd59XL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260611160200 +0200" stop="20260611175700 +0200" channel="acontra+ CINE">
+    <title lang="es">El abuelo que saltó por la ventana y se largó (2014)</title>
+    <desc lang="es">El día en que va a cumplir 100 años, un anciano se fuga de la residencia en la que vive. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1kKccTNK5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260611175700 +0200" stop="20260611192500 +0200" channel="acontra+ CINE">
+    <title lang="es">El sureño (1945)</title>
+    <desc lang="es">Un recolector de algodón de Texas busca tener su propia granja y darle una mejor vida a su familia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91+4OenNoUL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
