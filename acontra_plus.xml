@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260611083700 +0200" stop="20260611103700 +0200" channel="acontra+ CINE">
-    <title lang="es">Riders (2003)</title>
-    <desc lang="es">Una banda de atracadores con habilidad para los deportes de riesgo planea sus últimos golpes. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81GNmXSk-NL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260611103700 +0200" stop="20260611124300 +0200" channel="acontra+ CINE">
-    <title lang="es">13 asesinos (2010)</title>
-    <desc lang="es">Un oficial llega a un acuerdo con un samurái para que le ayude a acabar con un tirano. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71QqYrnKBwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260611124300 +0200" stop="20260611142100 +0200" channel="acontra+ CINE">
-    <title lang="es">La lectora (1989)</title>
-    <desc lang="es">Constance es una apasionada lectora que decide dedicarse a leer a domicilio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/41vj4NFX3TL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260611142100 +0200" stop="20260611160200 +0200" channel="acontra+ CINE">
+  <programme start="20260611140200 +0200" stop="20260611160200 +0200" channel="acontra+ CINE">
     <title lang="es">Secretos de estado (2017)</title>
     <desc lang="es">Una espía y un terrorista utilizan manipulan personas para intentar alcanzar sus propios objetivos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81tB3Pd59XL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">El sureño (1945)</title>
     <desc lang="es">Un recolector de algodón de Texas busca tener su propia granja y darle una mejor vida a su familia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91+4OenNoUL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260611192500 +0200" stop="20260611212100 +0200" channel="acontra+ CINE">
+    <title lang="es">Disparando a perros (2005)</title>
+    <desc lang="es">Un profesor ofrece protección a miles de ruandeses que escapan del genocidio en la Ruanda de 1994. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71bv7tLr2dL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260611212100 +0200" stop="20260611230600 +0200" channel="acontra+ CINE">
+    <title lang="es">Trono de sangre (1957)</title>
+    <desc lang="es">Un guerrero samurái tiene un encuentro espiritual y descubre que está destinado a la gloria. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81MOpG+TfFL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
