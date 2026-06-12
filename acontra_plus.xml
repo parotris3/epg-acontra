@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260612141100 +0200" stop="20260612161100 +0200" channel="acontra+ CINE">
-    <title lang="es">El coro (2014)</title>
-    <desc lang="es">Las estrictas e inspiradoras lecciones de un maestro despertarán en un joven el amor por la música. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Uiayj-0kL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260612161100 +0200" stop="20260612182100 +0200" channel="acontra+ CINE">
-    <title lang="es">La gran comilona (1974)</title>
-    <desc lang="es">Cuatro amigos se reúnen en una mansión con la idea de suicidarse comiendo sin tregua. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1EVv2su3fL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260612182100 +0200" stop="20260612201300 +0200" channel="acontra+ CINE">
+  <programme start="20260612181300 +0200" stop="20260612201300 +0200" channel="acontra+ CINE">
     <title lang="es">Las Diabólicas (1955)</title>
     <desc lang="es">La mujer y el amante del director de un colegio ponen fin a la tiranía del hombre que comparten. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1i3cYW6luL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Juzgado a la italiana (1956)</title>
     <desc lang="es">El magistrado Del Russo preside cuatro casos diferentes que se le presentan en un solo día. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81FlY6AjR4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260612234600 +0200" stop="20260613014400 +0200" channel="acontra+ CINE">
+    <title lang="es">El secuestro de Alfred Heineken (2011)</title>
+    <desc lang="es">Heineken propietario de la multinacional cervecera fue secuestrado cuando salía de una sede. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Fhej4KTOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260613014400 +0200" stop="20260613040100 +0200" channel="acontra+ CINE">
+    <title lang="es">Regreso a Howards End (1992)</title>
+    <desc lang="es">Dos hermanas cultas e independientes hacen amistad con la próspera y convencional familia Wilcox. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81021vjbDVL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
