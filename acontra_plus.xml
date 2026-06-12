@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260612091500 +0200" stop="20260612111500 +0200" channel="acontra+ CINE">
-    <title lang="es">Quiero ser italiano (2017)</title>
-    <desc lang="es">Para poder salir adelante en Francia, un argelino musulmán se hace pasar por un italiano. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71u4XxPOYmL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260612111500 +0200" stop="20260612124600 +0200" channel="acontra+ CINE">
-    <title lang="es">Rabia (1977)</title>
-    <desc lang="es">Una joven desarrolla un gusto especial por la sangre humana tras someterse a una operación. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71vjXi0bcBL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260612124600 +0200" stop="20260612142800 +0200" channel="acontra+ CINE">
-    <title lang="es">Mister Johnson (1990)</title>
-    <desc lang="es">En 1923, un africano educado y ambicioso ve que no encaja entre los nativos y colonizadores. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ZwxjcMwCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260612142800 +0200" stop="20260612161100 +0200" channel="acontra+ CINE">
+  <programme start="20260612141100 +0200" stop="20260612161100 +0200" channel="acontra+ CINE">
     <title lang="es">El coro (2014)</title>
     <desc lang="es">Las estrictas e inspiradoras lecciones de un maestro despertarán en un joven el amor por la música. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Uiayj-0kL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">La gran comilona (1974)</title>
     <desc lang="es">Cuatro amigos se reúnen en una mansión con la idea de suicidarse comiendo sin tregua. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1EVv2su3fL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260612182100 +0200" stop="20260612201300 +0200" channel="acontra+ CINE">
+    <title lang="es">Las Diabólicas (1955)</title>
+    <desc lang="es">La mujer y el amante del director de un colegio ponen fin a la tiranía del hombre que comparten. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1i3cYW6luL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260612201300 +0200" stop="20260612220500 +0200" channel="acontra+ CINE">
+    <title lang="es">Una bolsa de canicas (2017)</title>
+    <desc lang="es">Dos hermanos judíos huyen a través de Francia durante la ocupación alemana. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81n0p3c73LL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260612220500 +0200" stop="20260612234600 +0200" channel="acontra+ CINE">
+    <title lang="es">Juzgado a la italiana (1956)</title>
+    <desc lang="es">El magistrado Del Russo preside cuatro casos diferentes que se le presentan en un solo día. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81FlY6AjR4L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
