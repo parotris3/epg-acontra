@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260611224800 +0200" stop="20260612004800 +0200" channel="acontra+ CINE">
-    <title lang="es">Bailar con un extraño (1985)</title>
-    <desc lang="es">Ruth Ellis trabaja en un sórdido club. Una noche, conoce a un rico y atractivo piloto de carreras. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81sTim8TWNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260612004800 +0200" stop="20260612023500 +0200" channel="acontra+ CINE">
-    <title lang="es">Europa, Europa (1991)</title>
-    <desc lang="es">Salomón Perel Sally es un joven judío polaco que se hace pasar por un huérfano alemán. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uThRPab5L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260612023500 +0200" stop="20260612042200 +0200" channel="acontra+ CINE">
-    <title lang="es">Farinelli: Il Castrato (1994)</title>
-    <desc lang="es">Con tan solo 32 años, Farinelli, célebre "castrato", está en la cumbre del éxito profesional. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8151aO39RaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260612042200 +0200" stop="20260612054900 +0200" channel="acontra+ CINE">
+  <programme start="20260612034900 +0200" stop="20260612054900 +0200" channel="acontra+ CINE">
     <title lang="es">Los signos del Apocalipsis (2014)</title>
     <desc lang="es">Un científico poco convencional trata de descifrar símbolos para evitar la destrucción del planeta. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1ESCsb+JKL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Adiós, felicidad</title>
     <desc lang="es">Cuatro hermanos se reencuentran por última vez para rendirle un último homenaje a su padre. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1fX27r6b4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260612093300 +0200" stop="20260612111500 +0200" channel="acontra+ CINE">
+    <title lang="es">Quiero ser italiano (2017)</title>
+    <desc lang="es">Para poder salir adelante en Francia, un argelino musulmán se hace pasar por un italiano. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71u4XxPOYmL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260612111500 +0200" stop="20260612124600 +0200" channel="acontra+ CINE">
+    <title lang="es">Rabia (1977)</title>
+    <desc lang="es">Una joven desarrolla un gusto especial por la sangre humana tras someterse a una operación. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71vjXi0bcBL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260612124600 +0200" stop="20260612142800 +0200" channel="acontra+ CINE">
+    <title lang="es">Mister Johnson (1990)</title>
+    <desc lang="es">En 1923, un africano educado y ambicioso ve que no encaja entre los nativos y colonizadores. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ZwxjcMwCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
