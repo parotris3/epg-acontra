@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260612181300 +0200" stop="20260612201300 +0200" channel="acontra+ CINE">
-    <title lang="es">Las Diabólicas (1955)</title>
-    <desc lang="es">La mujer y el amante del director de un colegio ponen fin a la tiranía del hombre que comparten. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1i3cYW6luL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260612201300 +0200" stop="20260612220500 +0200" channel="acontra+ CINE">
-    <title lang="es">Una bolsa de canicas (2017)</title>
-    <desc lang="es">Dos hermanos judíos huyen a través de Francia durante la ocupación alemana. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81n0p3c73LL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260612220500 +0200" stop="20260612234600 +0200" channel="acontra+ CINE">
-    <title lang="es">Juzgado a la italiana (1956)</title>
-    <desc lang="es">El magistrado Del Russo preside cuatro casos diferentes que se le presentan en un solo día. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81FlY6AjR4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260612234600 +0200" stop="20260613014400 +0200" channel="acontra+ CINE">
+  <programme start="20260612234400 +0200" stop="20260613014400 +0200" channel="acontra+ CINE">
     <title lang="es">El secuestro de Alfred Heineken (2011)</title>
     <desc lang="es">Heineken propietario de la multinacional cervecera fue secuestrado cuando salía de una sede. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Fhej4KTOL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Regreso a Howards End (1992)</title>
     <desc lang="es">Dos hermanas cultas e independientes hacen amistad con la próspera y convencional familia Wilcox. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81021vjbDVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260613040100 +0200" stop="20260613053000 +0200" channel="acontra+ CINE">
+    <title lang="es">Mandíbulas letales (2015)</title>
+    <desc lang="es">Una policía y un experto en escualos investigan una serie de extraños ataques de tiburones. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71v5DWIM60L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260613053000 +0200" stop="20260613070800 +0200" channel="acontra+ CINE">
+    <title lang="es">Déjate llevar (2018)</title>
+    <desc lang="es">Elías es un psicoanalista freudiano que necesita adelgazar y que conoce a una entrenadora personal. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81fznH0hqcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260613070800 +0200" stop="20260613090600 +0200" channel="acontra+ CINE">
+    <title lang="es">Un soplo en el corazón (1971)</title>
+    <desc lang="es">Cuando a Laurent, de 15 años, le diagnostican un soplo, su madre le acompaña a un balneario. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/919fu+CNL5L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
