@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260612034900 +0200" stop="20260612054900 +0200" channel="acontra+ CINE">
-    <title lang="es">Los signos del Apocalipsis (2014)</title>
-    <desc lang="es">Un científico poco convencional trata de descifrar símbolos para evitar la destrucción del planeta. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1ESCsb+JKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260612054900 +0200" stop="20260612075000 +0200" channel="acontra+ CINE">
-    <title lang="es">Madres e hijas (2010)</title>
-    <desc lang="es">Tres mujeres, Karen, Elizabeth y Lucy, comparten un objetivo común: adoptar a un hijo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8165KRQ-0PL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260612075000 +0200" stop="20260612093300 +0200" channel="acontra+ CINE">
-    <title lang="es">Adiós, felicidad</title>
-    <desc lang="es">Cuatro hermanos se reencuentran por última vez para rendirle un último homenaje a su padre. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1fX27r6b4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260612093300 +0200" stop="20260612111500 +0200" channel="acontra+ CINE">
+  <programme start="20260612091500 +0200" stop="20260612111500 +0200" channel="acontra+ CINE">
     <title lang="es">Quiero ser italiano (2017)</title>
     <desc lang="es">Para poder salir adelante en Francia, un argelino musulmán se hace pasar por un italiano. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71u4XxPOYmL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Mister Johnson (1990)</title>
     <desc lang="es">En 1923, un africano educado y ambicioso ve que no encaja entre los nativos y colonizadores. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71ZwxjcMwCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260612142800 +0200" stop="20260612161100 +0200" channel="acontra+ CINE">
+    <title lang="es">El coro (2014)</title>
+    <desc lang="es">Las estrictas e inspiradoras lecciones de un maestro despertarán en un joven el amor por la música. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Uiayj-0kL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260612161100 +0200" stop="20260612182100 +0200" channel="acontra+ CINE">
+    <title lang="es">La gran comilona (1974)</title>
+    <desc lang="es">Cuatro amigos se reúnen en una mansión con la idea de suicidarse comiendo sin tregua. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1EVv2su3fL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
