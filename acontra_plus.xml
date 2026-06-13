@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260613033000 +0200" stop="20260613053000 +0200" channel="acontra+ CINE">
-    <title lang="es">Mandíbulas letales (2015)</title>
-    <desc lang="es">Una policía y un experto en escualos investigan una serie de extraños ataques de tiburones. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71v5DWIM60L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260613053000 +0200" stop="20260613070800 +0200" channel="acontra+ CINE">
-    <title lang="es">Déjate llevar (2018)</title>
-    <desc lang="es">Elías es un psicoanalista freudiano que necesita adelgazar y que conoce a una entrenadora personal. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81fznH0hqcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260613070800 +0200" stop="20260613090600 +0200" channel="acontra+ CINE">
-    <title lang="es">Un soplo en el corazón (1971)</title>
-    <desc lang="es">Cuando a Laurent, de 15 años, le diagnostican un soplo, su madre le acompaña a un balneario. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/919fu+CNL5L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260613090600 +0200" stop="20260613104800 +0200" channel="acontra+ CINE">
+  <programme start="20260613084800 +0200" stop="20260613104800 +0200" channel="acontra+ CINE">
     <title lang="es">Ídolos, mentiras y rock & roll (1997)</title>
     <desc lang="es">Un joven inmigrante húngaro intenta adaptarse a la escuela y a la cultura americana de los años 60. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/71URI2-SMXL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">La vida de Galileo (2025)</title>
     <desc lang="es">Las teorías de Galileo Galilei le granjearon el rechazo de las poderosas autoridades eclesiásticas. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/91FI7srPpyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260613130700 +0200" stop="20260613151100 +0200" channel="acontra+ CINE">
+    <title lang="es">Desayuno en Plutón (2005)</title>
+    <desc lang="es">Patrick, un joven trans, sobrevive en un ambiente hostil gracias a su ingenio y su perseverancia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/810J0xbCEWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260613151100 +0200" stop="20260613170000 +0200" channel="acontra+ CINE">
+    <title lang="es">Me casé con un boludo</title>
+    <desc lang="es">Florencia se da cuenta de que se casó con un idiota. Él intentará recuperarla con un guionista. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71rVwQe6GOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260613170000 +0200" stop="20260613181200 +0200" channel="acontra+ CINE">
+    <title lang="es">Adrenalina</title>
+    <desc lang="es">Durante unas vacaciones en Europa del Este, la hija de una agente del FBI es secuestrada. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qNKG3BZZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
