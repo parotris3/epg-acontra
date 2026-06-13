@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260612234400 +0200" stop="20260613014400 +0200" channel="acontra+ CINE">
-    <title lang="es">El secuestro de Alfred Heineken (2011)</title>
-    <desc lang="es">Heineken propietario de la multinacional cervecera fue secuestrado cuando salía de una sede. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Fhej4KTOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260613014400 +0200" stop="20260613040100 +0200" channel="acontra+ CINE">
-    <title lang="es">Regreso a Howards End (1992)</title>
-    <desc lang="es">Dos hermanas cultas e independientes hacen amistad con la próspera y convencional familia Wilcox. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81021vjbDVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260613040100 +0200" stop="20260613053000 +0200" channel="acontra+ CINE">
+  <programme start="20260613033000 +0200" stop="20260613053000 +0200" channel="acontra+ CINE">
     <title lang="es">Mandíbulas letales (2015)</title>
     <desc lang="es">Una policía y un experto en escualos investigan una serie de extraños ataques de tiburones. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71v5DWIM60L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Un soplo en el corazón (1971)</title>
     <desc lang="es">Cuando a Laurent, de 15 años, le diagnostican un soplo, su madre le acompaña a un balneario. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/919fu+CNL5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260613090600 +0200" stop="20260613104800 +0200" channel="acontra+ CINE">
+    <title lang="es">Ídolos, mentiras y rock & roll (1997)</title>
+    <desc lang="es">Un joven inmigrante húngaro intenta adaptarse a la escuela y a la cultura americana de los años 60. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/71URI2-SMXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260613104800 +0200" stop="20260613130700 +0200" channel="acontra+ CINE">
+    <title lang="es">La vida de Galileo (2025)</title>
+    <desc lang="es">Las teorías de Galileo Galilei le granjearon el rechazo de las poderosas autoridades eclesiásticas. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91FI7srPpyL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
