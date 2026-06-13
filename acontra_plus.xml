@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260613131100 +0200" stop="20260613151100 +0200" channel="acontra+ CINE">
-    <title lang="es">Desayuno en Plutón (2005)</title>
-    <desc lang="es">Patrick, un joven trans, sobrevive en un ambiente hostil gracias a su ingenio y su perseverancia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/810J0xbCEWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260613151100 +0200" stop="20260613170000 +0200" channel="acontra+ CINE">
-    <title lang="es">Me casé con un boludo</title>
-    <desc lang="es">Florencia se da cuenta de que se casó con un idiota. Él intentará recuperarla con un guionista. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71rVwQe6GOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260613170000 +0200" stop="20260613181200 +0200" channel="acontra+ CINE">
-    <title lang="es">Adrenalina</title>
-    <desc lang="es">Durante unas vacaciones en Europa del Este, la hija de una agente del FBI es secuestrada. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qNKG3BZZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260613181200 +0200" stop="20260613195400 +0200" channel="acontra+ CINE">
-    <title lang="es">Los limoneros (2008)</title>
-    <desc lang="es">Salma, una viuda palestina, defiende sus limoneros frente a las fuerzas de seguridad israelíes. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/818VZluvhoL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260613195400 +0200" stop="20260613212800 +0200" channel="acontra+ CINE">
+  <programme start="20260613192800 +0200" stop="20260613212800 +0200" channel="acontra+ CINE">
     <title lang="es">Tsotsi (2005)</title>
     <desc lang="es">Un ladrón sudafricano cuida al bebé de una mujer a la que disparó cuando esta viajaba en coche. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/C1skyL60iYL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +17,15 @@
     <title lang="es">The Gift (2015)</title>
     <desc lang="es">Un viejo conocido amenaza la felicidad de un matrimonio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/717a8vrAlSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260614004200 +0200" stop="20260614020900 +0200" channel="acontra+ CINE">
+    <title lang="es">Punto de no retorno (2008)</title>
+    <desc lang="es">Un científico sube a un avión con la tecnología de un experimento sobre viajes en el tiempo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A14MvFznsVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260614020900 +0200" stop="20260614040100 +0200" channel="acontra+ CINE">
+    <title lang="es">Nadia, mariposa (2021)</title>
+    <desc lang="es">A los 23 años, Nadia, campeona olímpica de natación, toma la controvertida decisión de retirarse. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71YCqu8eGJL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
