@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260613192800 +0200" stop="20260613212800 +0200" channel="acontra+ CINE">
-    <title lang="es">Tsotsi (2005)</title>
-    <desc lang="es">Un ladrón sudafricano cuida al bebé de una mujer a la que disparó cuando esta viajaba en coche. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/C1skyL60iYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260613212800 +0200" stop="20260613225800 +0200" channel="acontra+ CINE">
-    <title lang="es">Invasión robótica (2006)</title>
-    <desc lang="es">Un avión con robots militares se estrella en una isla desierta y los Navy Seals deben actuar. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1NIzcm0jDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260613225800 +0200" stop="20260614004200 +0200" channel="acontra+ CINE">
+  <programme start="20260613224200 +0200" stop="20260614004200 +0200" channel="acontra+ CINE">
     <title lang="es">The Gift (2015)</title>
     <desc lang="es">Un viejo conocido amenaza la felicidad de un matrimonio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/717a8vrAlSL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Nadia, mariposa (2021)</title>
     <desc lang="es">A los 23 años, Nadia, campeona olímpica de natación, toma la controvertida decisión de retirarse. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71YCqu8eGJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260614040100 +0200" stop="20260614055800 +0200" channel="acontra+ CINE">
+    <title lang="es">Lullaby (2014)</title>
+    <desc lang="es">Un hombre recibe la noticia de que su padre ha decidido desconectarse del soporte vital. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81CqWEI58fL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260614055800 +0200" stop="20260614072600 +0200" channel="acontra+ CINE">
+    <title lang="es">Twin Dragons (1992)</title>
+    <desc lang="es">Dos gemelos idénticos separados poco después de nacer, se reencuentran años después. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81mPSuY5TqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260614072600 +0200" stop="20260614090200 +0200" channel="acontra+ CINE">
+    <title lang="es">La mujer casada (1965)</title>
+    <desc lang="es">Un ensayo psicológico y una crítica de la posición de la mujer en la sociedad moderna. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Gd8kl6v1L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
