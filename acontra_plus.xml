@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260614191700 +0200" stop="20260614211700 +0200" channel="acontra+ CINE">
-    <title lang="es">Elvira Madigan (1967)</title>
-    <desc lang="es">Una joven equilibrista y un oficial casado se enamoran perdidamente y deciden abandonarlo todo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/712uVLv2tWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260614211700 +0200" stop="20260614225800 +0200" channel="acontra+ CINE">
-    <title lang="es">Four Lions (2010)</title>
-    <desc lang="es">Cuatro musulmanes intentan realizar, sin éxito, actos de terrorismo en Inglaterra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81HPccFYNSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260614225800 +0200" stop="20260615004100 +0200" channel="acontra+ CINE">
+  <programme start="20260614224100 +0200" stop="20260615004100 +0200" channel="acontra+ CINE">
     <title lang="es">Exótica (1994)</title>
     <desc lang="es">Un solitario inspector de Hacienda acude cada noche al club de baile erótico Exótica. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/B166go0R7zL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">Fanny (1961)</title>
     <desc lang="es">Marius abandona a Fanny deseoso de conocer mundo, aunque ignora que está embarazada. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81WrIjDy2YL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260615061400 +0200" stop="20260615075900 +0200" channel="acontra+ CINE">
+    <title lang="es">Un enredo para dos (1980)</title>
+    <desc lang="es">Un agente de la CIA jubilado escribe sus memorias y la agencia hace todo lo posible por detenerlo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/710lKDvTGRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260615075900 +0200" stop="20260615102600 +0200" channel="acontra+ CINE">
+    <title lang="es">Romanzo criminale (2005)</title>
+    <desc lang="es">Una banda de delincuentes asesina a un hombre poderoso y se involucra en el tráfico de drogas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8193TrysWXL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
