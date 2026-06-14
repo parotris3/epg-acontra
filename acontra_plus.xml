@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260614140700 +0200" stop="20260614160700 +0200" channel="acontra+ CINE">
-    <title lang="es">Más allá del deber (2001)</title>
-    <desc lang="es">Un regimiento escocés, durante la Segunda Guerra, debió construir la vía ferroviaria de la muerte. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81P1jHaw-RL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260614160700 +0200" stop="20260614175100 +0200" channel="acontra+ CINE">
-    <title lang="es">French Cancan (1955)</title>
-    <desc lang="es">Danglard es un productor de espectáculos que desea volver a poner de moda el cancán. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qmVKnEy3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260614175100 +0200" stop="20260614195000 +0200" channel="acontra+ CINE">
-    <title lang="es">Oro (1974)</title>
-    <desc lang="es">El gerente de unas minas de Sudáfrica trama un plan para subir el precio del oro en el mercado. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81PzgJJMnvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260614195000 +0200" stop="20260614211700 +0200" channel="acontra+ CINE">
+  <programme start="20260614191700 +0200" stop="20260614211700 +0200" channel="acontra+ CINE">
     <title lang="es">Elvira Madigan (1967)</title>
     <desc lang="es">Una joven equilibrista y un oficial casado se enamoran perdidamente y deciden abandonarlo todo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/712uVLv2tWL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Exótica (1994)</title>
     <desc lang="es">Un solitario inspector de Hacienda acude cada noche al club de baile erótico Exótica. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/B166go0R7zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260615004100 +0200" stop="20260615021400 +0200" channel="acontra+ CINE">
+    <title lang="es">Staten Island (2009)</title>
+    <desc lang="es">Bajo la sombra de Manhattan, las vidas de tres desconocidos se cruzan en Staten Island. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91egPGOTljL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260615021400 +0200" stop="20260615040000 +0200" channel="acontra+ CINE">
+    <title lang="es">Sangre sabia (1979)</title>
+    <desc lang="es">Un joven sureño, ambicioso, pero sin educación, decide convertirse en predicador. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81cnW2JYytL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260615040000 +0200" stop="20260615061400 +0200" channel="acontra+ CINE">
+    <title lang="es">Fanny (1961)</title>
+    <desc lang="es">Marius abandona a Fanny deseoso de conocer mundo, aunque ignora que está embarazada. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81WrIjDy2YL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
