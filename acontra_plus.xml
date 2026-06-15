@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260615041400 +0200" stop="20260615061400 +0200" channel="acontra+ CINE">
-    <title lang="es">Fanny (1961)</title>
-    <desc lang="es">Marius abandona a Fanny deseoso de conocer mundo, aunque ignora que está embarazada. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81WrIjDy2YL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260615061400 +0200" stop="20260615075900 +0200" channel="acontra+ CINE">
-    <title lang="es">Un enredo para dos (1980)</title>
-    <desc lang="es">Un agente de la CIA jubilado escribe sus memorias y la agencia hace todo lo posible por detenerlo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/710lKDvTGRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260615075900 +0200" stop="20260615102600 +0200" channel="acontra+ CINE">
+  <programme start="20260615082600 +0200" stop="20260615102600 +0200" channel="acontra+ CINE">
     <title lang="es">Romanzo criminale (2005)</title>
     <desc lang="es">Una banda de delincuentes asesina a un hombre poderoso y se involucra en el tráfico de drogas. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/8193TrysWXL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Los cien pasos (2000)</title>
     <desc lang="es">Un activista político cuya familia está vinculada a la mafia denuncia el crimen organizado. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71fIjNsS4-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260615135100 +0200" stop="20260615152000 +0200" channel="acontra+ CINE">
+    <title lang="es">Como en un espejo (1961)</title>
+    <desc lang="es">Karin pierde el contacto con la realidad a causa de la esquizofrenia que padece. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81nB1w59ZQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260615152000 +0200" stop="20260615170800 +0200" channel="acontra+ CINE">
+    <title lang="es">Una chica perfecta (2011)</title>
+    <desc lang="es">Dos padres buscan de manera desesperada a su hija desaparecida. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81kXG7WEJvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260615170800 +0200" stop="20260615184900 +0200" channel="acontra+ CINE">
+    <title lang="es">Super Mario Bros. (1993)</title>
+    <desc lang="es">Mario y Luigi descubren un mundo paralelo poblado por los descendientes de los dinosaurios. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81B0uZ9WZCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
