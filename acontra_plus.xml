@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260615181100 +0200" stop="20260615201100 +0200" channel="acontra+ CINE">
-    <title lang="es">Aceleración máxima (2019)</title>
-    <desc lang="es">Un mafioso secuestra al hijo pequeño de sus asistente. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91cereOs8xL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260615201100 +0200" stop="20260615215000 +0200" channel="acontra+ CINE">
-    <title lang="es">Ondine (2009)</title>
-    <desc lang="es">Un pescador irlandés descubre a una mujer en sus redes. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81+IxXZ2pvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260615215000 +0200" stop="20260615232800 +0200" channel="acontra+ CINE">
-    <title lang="es">Perversidad (1945)</title>
-    <desc lang="es">Un hombre con talento para la pintura es explotado por una mujer y su novio sin escrúpulos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81sCHck-WNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260615232800 +0200" stop="20260616003700 +0200" channel="acontra+ CINE">
+  <programme start="20260615223700 +0200" stop="20260616003700 +0200" channel="acontra+ CINE">
     <title lang="es">El caserón de las sombras (1932)</title>
     <desc lang="es">Debido a una tormenta, unos viajeros se ven obligados a refugiarse en un viejo caserón. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71KVPyfH4OL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +22,15 @@
     <title lang="es">Modigliani (2005)</title>
     <desc lang="es">La historia jamás contada de la ácida rivalidad entre Picasso y Modigliani. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81r817NqNIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260616060800 +0200" stop="20260616073900 +0200" channel="acontra+ CINE">
+    <title lang="es">Mea Culpa (2014)</title>
+    <desc lang="es">Un policía lo pierde todo en su vida después de un accidente que causó dos víctimas mortales. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/918qMZP-K9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260616073900 +0200" stop="20260616093200 +0200" channel="acontra+ CINE">
+    <title lang="es">Macbeth (2015)</title>
+    <desc lang="es">Un hombre de la nobleza sube al trono escocés. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71jK0pNXjjL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
