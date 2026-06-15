@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260615132000 +0200" stop="20260615152000 +0200" channel="acontra+ CINE">
-    <title lang="es">Como en un espejo (1961)</title>
-    <desc lang="es">Karin pierde el contacto con la realidad a causa de la esquizofrenia que padece. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nB1w59ZQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260615152000 +0200" stop="20260615170800 +0200" channel="acontra+ CINE">
-    <title lang="es">Una chica perfecta (2011)</title>
-    <desc lang="es">Dos padres buscan de manera desesperada a su hija desaparecida. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81kXG7WEJvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260615170800 +0200" stop="20260615184900 +0200" channel="acontra+ CINE">
-    <title lang="es">Super Mario Bros. (1993)</title>
-    <desc lang="es">Mario y Luigi descubren un mundo paralelo poblado por los descendientes de los dinosaurios. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81B0uZ9WZCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260615184900 +0200" stop="20260615201100 +0200" channel="acontra+ CINE">
+  <programme start="20260615181100 +0200" stop="20260615201100 +0200" channel="acontra+ CINE">
     <title lang="es">Aceleración máxima (2019)</title>
     <desc lang="es">Un mafioso secuestra al hijo pequeño de sus asistente. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91cereOs8xL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,25 @@
     <title lang="es">Perversidad (1945)</title>
     <desc lang="es">Un hombre con talento para la pintura es explotado por una mujer y su novio sin escrúpulos. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81sCHck-WNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260615232800 +0200" stop="20260616003700 +0200" channel="acontra+ CINE">
+    <title lang="es">El caserón de las sombras (1932)</title>
+    <desc lang="es">Debido a una tormenta, unos viajeros se ven obligados a refugiarse en un viejo caserón. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71KVPyfH4OL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260616003700 +0200" stop="20260616021300 +0200" channel="acontra+ CINE">
+    <title lang="es">La Chinoise (1969)</title>
+    <desc lang="es">París, 1967. Un grupo de estudiantes franceses empieza a pensar en la forma de cambiar el mundo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91xFWfprssL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260616021300 +0200" stop="20260616040000 +0200" channel="acontra+ CINE">
+    <title lang="es">Miedo súbito (1952)</title>
+    <desc lang="es">La vida de Myra se desmorona cuando escucha cómo su marido Lester planea matarla. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A17tuF3-SsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260616040000 +0200" stop="20260616060800 +0200" channel="acontra+ CINE">
+    <title lang="es">Modigliani (2005)</title>
+    <desc lang="es">La historia jamás contada de la ácida rivalidad entre Picasso y Modigliani. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81r817NqNIL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
