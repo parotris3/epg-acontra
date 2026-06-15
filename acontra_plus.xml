@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260615082600 +0200" stop="20260615102600 +0200" channel="acontra+ CINE">
-    <title lang="es">Romanzo criminale (2005)</title>
-    <desc lang="es">Una banda de delincuentes asesina a un hombre poderoso y se involucra en el tráfico de drogas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8193TrysWXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260615102600 +0200" stop="20260615120300 +0200" channel="acontra+ CINE">
-    <title lang="es">El placer (1953)</title>
-    <desc lang="es">Un hombre que oculta su edad, un viaje al campo y un pintor ilustran tres historias sobre el placer. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81OVO5JCtKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260615120300 +0200" stop="20260615135100 +0200" channel="acontra+ CINE">
-    <title lang="es">Los cien pasos (2000)</title>
-    <desc lang="es">Un activista político cuya familia está vinculada a la mafia denuncia el crimen organizado. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71fIjNsS4-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260615135100 +0200" stop="20260615152000 +0200" channel="acontra+ CINE">
+  <programme start="20260615132000 +0200" stop="20260615152000 +0200" channel="acontra+ CINE">
     <title lang="es">Como en un espejo (1961)</title>
     <desc lang="es">Karin pierde el contacto con la realidad a causa de la esquizofrenia que padece. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81nB1w59ZQL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Super Mario Bros. (1993)</title>
     <desc lang="es">Mario y Luigi descubren un mundo paralelo poblado por los descendientes de los dinosaurios. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81B0uZ9WZCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260615184900 +0200" stop="20260615201100 +0200" channel="acontra+ CINE">
+    <title lang="es">Aceleración máxima (2019)</title>
+    <desc lang="es">Un mafioso secuestra al hijo pequeño de sus asistente. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91cereOs8xL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260615201100 +0200" stop="20260615215000 +0200" channel="acontra+ CINE">
+    <title lang="es">Ondine (2009)</title>
+    <desc lang="es">Un pescador irlandés descubre a una mujer en sus redes. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81+IxXZ2pvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260615215000 +0200" stop="20260615232800 +0200" channel="acontra+ CINE">
+    <title lang="es">Perversidad (1945)</title>
+    <desc lang="es">Un hombre con talento para la pintura es explotado por una mujer y su novio sin escrúpulos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81sCHck-WNL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
