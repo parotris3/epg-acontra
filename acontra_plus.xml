@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260616130800 +0200" stop="20260616150800 +0200" channel="acontra+ CINE">
-    <title lang="es">Manual de la buena esposa (2020)</title>
-    <desc lang="es">Una escuela de hogar se encarga de capacitar a sus estudiantes para que sean esposas modelo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81GtGBEHRyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260616150800 +0200" stop="20260616164300 +0200" channel="acontra+ CINE">
-    <title lang="es">Ciudad del crimen</title>
-    <desc lang="es">Un ex-boxeador que regenta un club descubre que dos de sus bailarinas han sido asesinadas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1OtJlIvFrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260616164300 +0200" stop="20260616181900 +0200" channel="acontra+ CINE">
-    <title lang="es">Doble Contratiempo (2001)</title>
-    <desc lang="es">Un agente de policía intenta reordenar su vida mientras ocurren extraños sucesos en su edificio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Xp5dqrn1L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260616181900 +0200" stop="20260616195000 +0200" channel="acontra+ CINE">
-    <title lang="es">Ascensor para el Cadalso (1958)</title>
-    <desc lang="es">Julien es el amante de la mujer de su jefe. Ambos deciden planear el asesinato del marido. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BqT+c2ZvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260616195000 +0200" stop="20260616211200 +0200" channel="acontra+ CINE">
+  <programme start="20260616191200 +0200" stop="20260616211200 +0200" channel="acontra+ CINE">
     <title lang="es">11:14 Destino fatal (2003)</title>
     <desc lang="es">A las 11:14 de la mañana de un mismo día suceden simultáneamente dos accidentes automovilísticos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91b87S6oVxL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +17,15 @@
     <title lang="es">Palabras suaves (1985)</title>
     <desc lang="es">Connie Wyatt es una chica de quince años de espíritu libre que vuelve locos a los chicos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1CMMnYpAcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260617001400 +0200" stop="20260617020500 +0200" channel="acontra+ CINE">
+    <title lang="es">Los profesores de Saint-Denis (2019)</title>
+    <desc lang="es">Samia tendrá que lidiar con los problemas de disciplina y la realidad social de la escuela. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-2mCfCkLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260617020500 +0200" stop="20260617040100 +0200" channel="acontra+ CINE">
+    <title lang="es">Saint Jack (1979)</title>
+    <desc lang="es">Jack se enfrentará a un nuevo inspector cuando este quiere revisar las cuentas de su burdel. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81zoGQKfTzL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
