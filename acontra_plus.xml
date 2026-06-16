@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260615223700 +0200" stop="20260616003700 +0200" channel="acontra+ CINE">
-    <title lang="es">El caserón de las sombras (1932)</title>
-    <desc lang="es">Debido a una tormenta, unos viajeros se ven obligados a refugiarse en un viejo caserón. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71KVPyfH4OL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260616003700 +0200" stop="20260616021300 +0200" channel="acontra+ CINE">
-    <title lang="es">La Chinoise (1969)</title>
-    <desc lang="es">París, 1967. Un grupo de estudiantes franceses empieza a pensar en la forma de cambiar el mundo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91xFWfprssL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260616021300 +0200" stop="20260616040000 +0200" channel="acontra+ CINE">
-    <title lang="es">Miedo súbito (1952)</title>
-    <desc lang="es">La vida de Myra se desmorona cuando escucha cómo su marido Lester planea matarla. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A17tuF3-SsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260616040000 +0200" stop="20260616060800 +0200" channel="acontra+ CINE">
+  <programme start="20260616040800 +0200" stop="20260616060800 +0200" channel="acontra+ CINE">
     <title lang="es">Modigliani (2005)</title>
     <desc lang="es">La historia jamás contada de la ácida rivalidad entre Picasso y Modigliani. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81r817NqNIL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Macbeth (2015)</title>
     <desc lang="es">Un hombre de la nobleza sube al trono escocés. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71jK0pNXjjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260616093200 +0200" stop="20260616112400 +0200" channel="acontra+ CINE">
+    <title lang="es">Todos los animales pequeños (1998)</title>
+    <desc lang="es">Bobby, un joven discapacitado psíquico, decide huir de su padrastro a través de la campiña inglesa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91nvNVgFCVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260616112400 +0200" stop="20260616131800 +0200" channel="acontra+ CINE">
+    <title lang="es">La hierba errante (1959)</title>
+    <desc lang="es">El director de una compañía de teatro llega al pueblo donde vive su hijo no reconocido. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tYPNPnoNL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
