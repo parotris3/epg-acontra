@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260616092400 +0200" stop="20260616112400 +0200" channel="acontra+ CINE">
-    <title lang="es">Todos los animales pequeños (1998)</title>
-    <desc lang="es">Bobby, un joven discapacitado psíquico, decide huir de su padrastro a través de la campiña inglesa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91nvNVgFCVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260616112400 +0200" stop="20260616131800 +0200" channel="acontra+ CINE">
-    <title lang="es">La hierba errante (1959)</title>
-    <desc lang="es">El director de una compañía de teatro llega al pueblo donde vive su hijo no reconocido. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tYPNPnoNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260616131800 +0200" stop="20260616150800 +0200" channel="acontra+ CINE">
+  <programme start="20260616130800 +0200" stop="20260616150800 +0200" channel="acontra+ CINE">
     <title lang="es">Manual de la buena esposa (2020)</title>
     <desc lang="es">Una escuela de hogar se encarga de capacitar a sus estudiantes para que sean esposas modelo. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81GtGBEHRyL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,25 @@
     <title lang="es">Doble Contratiempo (2001)</title>
     <desc lang="es">Un agente de policía intenta reordenar su vida mientras ocurren extraños sucesos en su edificio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Xp5dqrn1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260616181900 +0200" stop="20260616195000 +0200" channel="acontra+ CINE">
+    <title lang="es">Ascensor para el Cadalso (1958)</title>
+    <desc lang="es">Julien es el amante de la mujer de su jefe. Ambos deciden planear el asesinato del marido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81BqT+c2ZvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260616195000 +0200" stop="20260616211200 +0200" channel="acontra+ CINE">
+    <title lang="es">11:14 Destino fatal (2003)</title>
+    <desc lang="es">A las 11:14 de la mañana de un mismo día suceden simultáneamente dos accidentes automovilísticos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91b87S6oVxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260616211200 +0200" stop="20260616224300 +0200" channel="acontra+ CINE">
+    <title lang="es">El señor de las moscas (1990)</title>
+    <desc lang="es">Los supervivientes a un accidente de avión militar tendrán que sobrevivir en una isla. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81a1hgGIvjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260616224300 +0200" stop="20260617001400 +0200" channel="acontra+ CINE">
+    <title lang="es">Palabras suaves (1985)</title>
+    <desc lang="es">Connie Wyatt es una chica de quince años de espíritu libre que vuelve locos a los chicos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1CMMnYpAcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
