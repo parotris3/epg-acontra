@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260616191200 +0200" stop="20260616211200 +0200" channel="acontra+ CINE">
-    <title lang="es">11:14 Destino fatal (2003)</title>
-    <desc lang="es">A las 11:14 de la mañana de un mismo día suceden simultáneamente dos accidentes automovilísticos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91b87S6oVxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260616211200 +0200" stop="20260616224300 +0200" channel="acontra+ CINE">
-    <title lang="es">El señor de las moscas (1990)</title>
-    <desc lang="es">Los supervivientes a un accidente de avión militar tendrán que sobrevivir en una isla. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81a1hgGIvjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260616224300 +0200" stop="20260617001400 +0200" channel="acontra+ CINE">
+  <programme start="20260616221400 +0200" stop="20260617001400 +0200" channel="acontra+ CINE">
     <title lang="es">Palabras suaves (1985)</title>
     <desc lang="es">Connie Wyatt es una chica de quince años de espíritu libre que vuelve locos a los chicos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1CMMnYpAcL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Saint Jack (1979)</title>
     <desc lang="es">Jack se enfrentará a un nuevo inspector cuando este quiere revisar las cuentas de su burdel. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81zoGQKfTzL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260617040100 +0200" stop="20260617053500 +0200" channel="acontra+ CINE">
+    <title lang="es">Testigo mudo (1996)</title>
+    <desc lang="es">Billy Hughes, una americana que trabaja en Rusia, es testigo de un asesinato en un plató de cine. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71n9KAvmIsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260617053500 +0200" stop="20260617072500 +0200" channel="acontra+ CINE">
+    <title lang="es">Fuerzas especiales (2011)</title>
+    <desc lang="es">Afganistán, una periodista es capturada por los Talibanes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81wD-+H9LpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260617072500 +0200" stop="20260617100000 +0200" channel="acontra+ CINE">
+    <title lang="es">Un profeta (2009)</title>
+    <desc lang="es">Malik, un chico de apenas 19 años que no sabe ni leer y escribir, entra en la cárcel. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81d4Py0pFYL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
