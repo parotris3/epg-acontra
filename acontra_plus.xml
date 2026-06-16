@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260616040800 +0200" stop="20260616060800 +0200" channel="acontra+ CINE">
-    <title lang="es">Modigliani (2005)</title>
-    <desc lang="es">La historia jamás contada de la ácida rivalidad entre Picasso y Modigliani. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81r817NqNIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260616060800 +0200" stop="20260616073900 +0200" channel="acontra+ CINE">
-    <title lang="es">Mea Culpa (2014)</title>
-    <desc lang="es">Un policía lo pierde todo en su vida después de un accidente que causó dos víctimas mortales. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/918qMZP-K9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260616073900 +0200" stop="20260616093200 +0200" channel="acontra+ CINE">
-    <title lang="es">Macbeth (2015)</title>
-    <desc lang="es">Un hombre de la nobleza sube al trono escocés. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71jK0pNXjjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260616093200 +0200" stop="20260616112400 +0200" channel="acontra+ CINE">
+  <programme start="20260616092400 +0200" stop="20260616112400 +0200" channel="acontra+ CINE">
     <title lang="es">Todos los animales pequeños (1998)</title>
     <desc lang="es">Bobby, un joven discapacitado psíquico, decide huir de su padrastro a través de la campiña inglesa. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91nvNVgFCVL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">La hierba errante (1959)</title>
     <desc lang="es">El director de una compañía de teatro llega al pueblo donde vive su hijo no reconocido. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/81tYPNPnoNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260616131800 +0200" stop="20260616150800 +0200" channel="acontra+ CINE">
+    <title lang="es">Manual de la buena esposa (2020)</title>
+    <desc lang="es">Una escuela de hogar se encarga de capacitar a sus estudiantes para que sean esposas modelo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81GtGBEHRyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260616150800 +0200" stop="20260616164300 +0200" channel="acontra+ CINE">
+    <title lang="es">Ciudad del crimen</title>
+    <desc lang="es">Un ex-boxeador que regenta un club descubre que dos de sus bailarinas han sido asesinadas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1OtJlIvFrL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260616164300 +0200" stop="20260616181900 +0200" channel="acontra+ CINE">
+    <title lang="es">Doble Contratiempo (2001)</title>
+    <desc lang="es">Un agente de policía intenta reordenar su vida mientras ocurren extraños sucesos en su edificio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Xp5dqrn1L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
