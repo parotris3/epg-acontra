@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260617100400 +0200" stop="20260617120400 +0200" channel="acontra+ CINE">
-    <title lang="es">Otoño Tardío (1960)</title>
-    <desc lang="es">Una mujer viuda trata de casar a su hija con la ayuda de tres amigos de su difunto marido. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91IXcF-IzCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260617120400 +0200" stop="20260617135400 +0200" channel="acontra+ CINE">
-    <title lang="es">La música del silencio (2017)</title>
-    <desc lang="es">Amos Bardi es un joven que padece ceguera y que posee un gran talento para el canto. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81teHVb2TuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260617135400 +0200" stop="20260617154600 +0200" channel="acontra+ CINE">
+  <programme start="20260617134600 +0200" stop="20260617154600 +0200" channel="acontra+ CINE">
     <title lang="es">Antes de la Revolución (1964)</title>
     <desc lang="es">Fabrizio intenta conciliar su origen burgués con su pertenencia al Partido Comunista Italiano. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91few9fDydL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">La sala de baile (1984)</title>
     <desc lang="es">Ettore Scola narra la historia de Europa de los últimos 50 años comprimiéndola en un salón de baile. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/813CAMpLW9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260617191500 +0200" stop="20260617205300 +0200" channel="acontra+ CINE">
+    <title lang="es">Mi vida como un perro (1987)</title>
+    <desc lang="es">Agridulce viaje de la infancia a la adolescencia que tiene que recorrer un niño sueco de 12 años. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91EciWOY9KL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260617205300 +0200" stop="20260617222000 +0200" channel="acontra+ CINE">
+    <title lang="es">Bichos raros (2007)</title>
+    <desc lang="es">Dos inadaptados se conocen en una fiesta de disfraces y descubren que tienen mucho en común. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91jYTr8aPEL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260617222000 +0200" stop="20260617234700 +0200" channel="acontra+ CINE">
+    <title lang="es">Bajo Cero (2006)</title>
+    <desc lang="es">Un grupo de alpinistas debe evitar que unos mercenarios utilicen una destructiva arma. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1F0SjuOWRL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
