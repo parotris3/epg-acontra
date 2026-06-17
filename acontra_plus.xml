@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260617185300 +0200" stop="20260617205300 +0200" channel="acontra+ CINE">
-    <title lang="es">Mi vida como un perro (1987)</title>
-    <desc lang="es">Agridulce viaje de la infancia a la adolescencia que tiene que recorrer un niño sueco de 12 años. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91EciWOY9KL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260617205300 +0200" stop="20260617222000 +0200" channel="acontra+ CINE">
-    <title lang="es">Bichos raros (2007)</title>
-    <desc lang="es">Dos inadaptados se conocen en una fiesta de disfraces y descubren que tienen mucho en común. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91jYTr8aPEL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260617222000 +0200" stop="20260617234700 +0200" channel="acontra+ CINE">
-    <title lang="es">Bajo Cero (2006)</title>
-    <desc lang="es">Un grupo de alpinistas debe evitar que unos mercenarios utilicen una destructiva arma. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1F0SjuOWRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260617234700 +0200" stop="20260618012000 +0200" channel="acontra+ CINE">
+  <programme start="20260617232000 +0200" stop="20260618012000 +0200" channel="acontra+ CINE">
     <title lang="es">Orlando (1993)</title>
     <desc lang="es">El noble Orlando es condenado por la reina Isabel I a permanecer eternamente joven. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/816iNv+M1YL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Van Gogh (1992)</title>
     <desc lang="es">La película de los últimos meses de la vida y el arte del pintor Vincent Van Gogh en París. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91bPQ3prf8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260618040100 +0200" stop="20260618055900 +0200" channel="acontra+ CINE">
+    <title lang="es">Angel (2007)</title>
+    <desc lang="es">Inglaterra, 1910. Ángel Deverell, una joven de origen humilde, trata de escalar socialmente. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81shyQSUPuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260618055900 +0200" stop="20260618072400 +0200" channel="acontra+ CINE">
+    <title lang="es">Rashomon (1950)</title>
+    <desc lang="es">Siglo XII, Melancólica radiografía de la naturaleza humana. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71wyXb0sZML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260618072400 +0200" stop="20260618091200 +0200" channel="acontra+ CINE">
+    <title lang="es">The Lawnmower Man (1992)</title>
+    <desc lang="es">Un jardinero se vuelve un terror de tecnología avanzada. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81xF4UqUoGL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
