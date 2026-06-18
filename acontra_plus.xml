@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260618142100 +0200" stop="20260618162100 +0200" channel="acontra+ CINE">
-    <title lang="es">Tortura (1944)</title>
-    <desc lang="es">Calígula, un profesor sádico, está obsesionado con Bertha, la encargada de un estanco. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71eELV6GEPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260618162100 +0200" stop="20260618175400 +0200" channel="acontra+ CINE">
-    <title lang="es">Juntos, nada más (2007)</title>
-    <desc lang="es">Un cocinero, una dibujante y un aristócrata solitario deberán aprender a convivir. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81IK+avmNdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260618175400 +0200" stop="20260618192400 +0200" channel="acontra+ CINE">
-    <title lang="es">El secreto de la mansión (2010)</title>
-    <desc lang="es">Una familia se muda a una casa de campo que esconde un secreto terrible. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71rtu-pqPVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260618192400 +0200" stop="20260618211500 +0200" channel="acontra+ CINE">
+  <programme start="20260618191500 +0200" stop="20260618211500 +0200" channel="acontra+ CINE">
     <title lang="es">El fotógrafo de Minamata (2020)</title>
     <desc lang="es">W. Eugne Smith, fotógrafo de guerra, regresa a Japón para documentar el envenenamiento por mercurio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Y8Sd-EGgL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Scanners (1981)</title>
     <desc lang="es">Solo 237 personas en el mundo son seres humanos con poderes. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81stBqphNAL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260619003600 +0200" stop="20260619021500 +0200" channel="acontra+ CINE">
+    <title lang="es">Adorable seductor (1989)</title>
+    <desc lang="es">El nuevo miembro de una compañía de teatro se enfrenta a un director bullicioso. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81eXQTzyLjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260619021500 +0200" stop="20260619040500 +0200" channel="acontra+ CINE">
+    <title lang="es">Charada (1963)</title>
+    <desc lang="es">Comedia de intriga donde una mujer investiga la muerte de su marido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81G+eBujYYL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
