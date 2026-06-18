@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260618191500 +0200" stop="20260618211500 +0200" channel="acontra+ CINE">
-    <title lang="es">El fotógrafo de Minamata (2020)</title>
-    <desc lang="es">W. Eugne Smith, fotógrafo de guerra, regresa a Japón para documentar el envenenamiento por mercurio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Y8Sd-EGgL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260618211500 +0200" stop="20260618225300 +0200" channel="acontra+ CINE">
-    <title lang="es">El gato y el canario (1979)</title>
-    <desc lang="es">La gran herencia de una mujer la convierte en el objetivo de un misterioso asesino. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WU8UPlK6L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260618225300 +0200" stop="20260619003600 +0200" channel="acontra+ CINE">
+  <programme start="20260618223600 +0200" stop="20260619003600 +0200" channel="acontra+ CINE">
     <title lang="es">Scanners (1981)</title>
     <desc lang="es">Solo 237 personas en el mundo son seres humanos con poderes. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81stBqphNAL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Charada (1963)</title>
     <desc lang="es">Comedia de intriga donde una mujer investiga la muerte de su marido. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81G+eBujYYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260619040500 +0200" stop="20260619054700 +0200" channel="acontra+ CINE">
+    <title lang="es">Cal (1989)</title>
+    <desc lang="es">En Irlanda del Norte, un joven católico es sospechoso en el asesinato de un policía protestante. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81T3UBe8n8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260619054700 +0200" stop="20260619074200 +0200" channel="acontra+ CINE">
+    <title lang="es">Barrabás (2025)</title>
+    <desc lang="es">Una visión de la muerte y resurrección de Cristo, a través de los ojos de Barrabás. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71AkjH+oCXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260619074200 +0200" stop="20260619091500 +0200" channel="acontra+ CINE">
+    <title lang="es">Lawnmower Man 2: Jobe's War (1996)</title>
+    <desc lang="es">Un villano de la realidad virtual planea controlar al mundo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8105XNJ3boL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
