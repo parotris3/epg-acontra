@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260619182800 +0200" stop="20260619202800 +0200" channel="acontra+ CINE">
-    <title lang="es">Los signos del Apocalipsis (2014)</title>
-    <desc lang="es">Un científico poco convencional trata de descifrar símbolos para evitar la destrucción del planeta. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1ESCsb+JKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260619202800 +0200" stop="20260619220200 +0200" channel="acontra+ CINE">
-    <title lang="es">Último día en Marte (2013)</title>
-    <desc lang="es">Bacteria alienígena transforma a los que infecta en zombis. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81WhrEFAFuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260619220200 +0200" stop="20260619233200 +0200" channel="acontra+ CINE">
-    <title lang="es">Avalancha (1978)</title>
-    <desc lang="es">Los huéspedes de un balneario se ven amenazados por un desastre natural que los deja atrapados. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/812rAPQ24AL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260619233200 +0200" stop="20260620014100 +0200" channel="acontra+ CINE">
+  <programme start="20260619234100 +0200" stop="20260620014100 +0200" channel="acontra+ CINE">
     <title lang="es">Madame Marguerite (2015)</title>
     <desc lang="es">Una mujer se propone cantar ópera delante de un gran público a pesar de desafinar terriblemente. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81nyw5jz0uL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Madame Bovary (1991)</title>
     <desc lang="es">Emma, cansada de su matrimonio con Charles Bovary, buscará consuelo en relaciones extraconyugales. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71ARpmyQPkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260620040400 +0200" stop="20260620051600 +0200" channel="acontra+ CINE">
+    <title lang="es">Historia de un vecindario (1947)</title>
+    <desc lang="es">En el Japón de la postguerra, un hombre encuentra a un niño perdido y lo lleva a su casa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-A8YQPsnL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260620051600 +0200" stop="20260620064700 +0200" channel="acontra+ CINE">
+    <title lang="es">La infancia de Iván (1963)</title>
+    <desc lang="es">Iván, un niño ruso cuyos padres murieron tras la invasión nazi, espía a los alemanes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81EtCa22FeL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260620064700 +0200" stop="20260620083200 +0200" channel="acontra+ CINE">
+    <title lang="es">Adiós, muchachos (1987)</title>
+    <desc lang="es">Una escuela católica protege a un niño judío, escondiendo su verdadera identidad. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71LC8Btr4AL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
