@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260619085200 +0200" stop="20260619105200 +0200" channel="acontra+ CINE">
-    <title lang="es">Mujeres contra hombres (2011)</title>
-    <desc lang="es">Historia de varias parejas sobre la guerra de sexos y la búsqueda desesperada de la persona ideal. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71GwVcxsZxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260619105200 +0200" stop="20260619123900 +0200" channel="acontra+ CINE">
-    <title lang="es">Herida (1992)</title>
-    <desc lang="es">Peligrosa aventura de amor y sexo entre un político casado y la prometida de su hijo. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71oQ1wnlNSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260619123900 +0200" stop="20260619152100 +0200" channel="acontra+ CINE">
+  <programme start="20260619132100 +0200" stop="20260619152100 +0200" channel="acontra+ CINE">
     <title lang="es">Lo que el día debe a la noche (2012)</title>
     <desc lang="es">Un niño ve cómo se pone a prueba su amistad con sus amigos cuando una joven llega al pueblo. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/910jaGl7Z3L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Pawn Sacrifice (2014)</title>
     <desc lang="es">El ajedrecista Bobby Fischer compite contra un soviético. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/816y1HZz1AL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260619190200 +0200" stop="20260619202800 +0200" channel="acontra+ CINE">
+    <title lang="es">Los signos del Apocalipsis (2014)</title>
+    <desc lang="es">Un científico poco convencional trata de descifrar símbolos para evitar la destrucción del planeta. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1ESCsb+JKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260619202800 +0200" stop="20260619220200 +0200" channel="acontra+ CINE">
+    <title lang="es">Último día en Marte (2013)</title>
+    <desc lang="es">Bacteria alienígena transforma a los que infecta en zombis. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81WhrEFAFuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260619220200 +0200" stop="20260619233200 +0200" channel="acontra+ CINE">
+    <title lang="es">Avalancha (1978)</title>
+    <desc lang="es">Los huéspedes de un balneario se ven amenazados por un desastre natural que los deja atrapados. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/812rAPQ24AL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
