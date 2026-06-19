@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260619132100 +0200" stop="20260619152100 +0200" channel="acontra+ CINE">
-    <title lang="es">Lo que el día debe a la noche (2012)</title>
-    <desc lang="es">Un niño ve cómo se pone a prueba su amistad con sus amigos cuando una joven llega al pueblo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/910jaGl7Z3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260619152100 +0200" stop="20260619170700 +0200" channel="acontra+ CINE">
-    <title lang="es">Gigolo (2024)</title>
-    <desc lang="es">Tras la Primera Guerra Mundial, un hombre regresa a Berlín y decide convertirse en "gigoló". | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71hraIcbBVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260619170700 +0200" stop="20260619190200 +0200" channel="acontra+ CINE">
-    <title lang="es">Pawn Sacrifice (2014)</title>
-    <desc lang="es">El ajedrecista Bobby Fischer compite contra un soviético. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/816y1HZz1AL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260619190200 +0200" stop="20260619202800 +0200" channel="acontra+ CINE">
+  <programme start="20260619182800 +0200" stop="20260619202800 +0200" channel="acontra+ CINE">
     <title lang="es">Los signos del Apocalipsis (2014)</title>
     <desc lang="es">Un científico poco convencional trata de descifrar símbolos para evitar la destrucción del planeta. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1ESCsb+JKL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Avalancha (1978)</title>
     <desc lang="es">Los huéspedes de un balneario se ven amenazados por un desastre natural que los deja atrapados. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/812rAPQ24AL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260619233200 +0200" stop="20260620014100 +0200" channel="acontra+ CINE">
+    <title lang="es">Madame Marguerite (2015)</title>
+    <desc lang="es">Una mujer se propone cantar ópera delante de un gran público a pesar de desafinar terriblemente. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81nyw5jz0uL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260620014100 +0200" stop="20260620040400 +0200" channel="acontra+ CINE">
+    <title lang="es">Madame Bovary (1991)</title>
+    <desc lang="es">Emma, cansada de su matrimonio con Charles Bovary, buscará consuelo en relaciones extraconyugales. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ARpmyQPkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
