@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260620080900 +0200" stop="20260620100900 +0200" channel="acontra+ CINE">
-    <title lang="es">La madre del mal (2007)</title>
-    <desc lang="es">Sarah se convierte en la última esperanza para salvar al mundo de una bruja maligna. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71xbAA4o58L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260620100900 +0200" stop="20260620114600 +0200" channel="acontra+ CINE">
-    <title lang="es">La rueda de la maravilla (2017)</title>
-    <desc lang="es">La vida de cuatro personajes en la Nueva York de los 50. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1KN54-lOPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260620114600 +0200" stop="20260620131900 +0200" channel="acontra+ CINE">
-    <title lang="es">The Angriest Man in Brooklyn (2014)</title>
-    <desc lang="es">Un hombre infeliz se entera de que va a morir en 90 minutos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91hgkg7e05L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260620131900 +0200" stop="20260620151700 +0200" channel="acontra+ CINE">
+  <programme start="20260620131700 +0200" stop="20260620151700 +0200" channel="acontra+ CINE">
     <title lang="es">Norman, el hombre que lo conseguía todo (2016)</title>
     <desc lang="es">Norman conoce a un joven político que cambiará su vida tres años después para bien y para mal. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81rnT24IdkL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Sin vuelta atrás (1998)</title>
     <desc lang="es">Tras salir de la cárcel, Joey se va a vivir con su hermano Tommy y su mujer a Staten Island. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/B1rt9pK1GHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260620183000 +0200" stop="20260620201300 +0200" channel="acontra+ CINE">
+    <title lang="es">Lucky Luke (2009)</title>
+    <desc lang="es">El vaquero Lucky Luke regresa a su pueblo natal, Daisy Town, para instaurar de nuevo la paz. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81uqKlxpNsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260620201300 +0200" stop="20260620220100 +0200" channel="acontra+ CINE">
+    <title lang="es">Hombres contra mujeres (2010)</title>
+    <desc lang="es">Cuatro historias de pareja, amor y desamor en las que se aborda el problema de la guerra de sexos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Vl5ixvOYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260620220100 +0200" stop="20260620235000 +0200" channel="acontra+ CINE">
+    <title lang="es">Antes del anochecer (2013)</title>
+    <desc lang="es">Jesse y Céline se encuentran de nuevo en Grecia. Han pasado nueve años desde su último encuentro. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81L897QoI-L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
