@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260620181300 +0200" stop="20260620201300 +0200" channel="acontra+ CINE">
-    <title lang="es">Lucky Luke (2009)</title>
-    <desc lang="es">El vaquero Lucky Luke regresa a su pueblo natal, Daisy Town, para instaurar de nuevo la paz. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uqKlxpNsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260620201300 +0200" stop="20260620220100 +0200" channel="acontra+ CINE">
-    <title lang="es">Hombres contra mujeres (2010)</title>
-    <desc lang="es">Cuatro historias de pareja, amor y desamor en las que se aborda el problema de la guerra de sexos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Vl5ixvOYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260620220100 +0200" stop="20260620235000 +0200" channel="acontra+ CINE">
-    <title lang="es">Antes del anochecer (2013)</title>
-    <desc lang="es">Jesse y Céline se encuentran de nuevo en Grecia. Han pasado nueve años desde su último encuentro. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81L897QoI-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260620235000 +0200" stop="20260621012500 +0200" channel="acontra+ CINE">
+  <programme start="20260620232500 +0200" stop="20260621012500 +0200" channel="acontra+ CINE">
     <title lang="es">Banda aparte (2003)</title>
     <desc lang="es">Arthur y Franz adoran el cine negro americano y su sueño es llegar a ser como los gánsteres. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91np+eX01bL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Miedo y deseo (1953)</title>
     <desc lang="es">Cuatro soldados norteamericanos quedan atrapados y perdidos detrás de las líneas enemigas. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81x01UnP1TL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260621040700 +0200" stop="20260621053800 +0200" channel="acontra+ CINE">
+    <title lang="es">Las Marismas (2008)</title>
+    <desc lang="es">Erlendur debe investigar la muerte violenta de un hombre mayor, junto al que encuentra una foto. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/817vcZf2-XL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260621053800 +0200" stop="20260621065500 +0200" channel="acontra+ CINE">
+    <title lang="es">Más allá de la duda (1956)</title>
+    <desc lang="es">Un escritor intenta demostrar la deficiencia de las leyes y la ineficacia de la policía. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Oc-S15fdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260621065500 +0200" stop="20260621081600 +0200" channel="acontra+ CINE">
+    <title lang="es">Dame 10 razones (2006)</title>
+    <desc lang="es">Un actor se adentra en un supermercado de un barrio obrero para investigar sobre su personaje. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81m7-duJJZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
