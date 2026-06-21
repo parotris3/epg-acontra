@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260621091200 +0200" stop="20260621111200 +0200" channel="acontra+ CINE">
-    <title lang="es">Asalto a la comisaría del distrito 13 (1976)</title>
-    <desc lang="es">Un policía de Los Ángeles recibe su primer destino en una comisaría que está siendo trasladada. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81oSJqNa7iL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260621111200 +0200" stop="20260621125200 +0200" channel="acontra+ CINE">
-    <title lang="es">Mejor otro día (2014)</title>
-    <desc lang="es">En Londres, durante la noche de fin de año, cuatro desconocidos coinciden para lanzarse al vacío. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BOSXet0mL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260621125200 +0200" stop="20260621141400 +0200" channel="acontra+ CINE">
-    <title lang="es">Indigenous (2014)</title>
-    <desc lang="es">Un grupo de amigos viaja a Panamá para relajarse y allí se encuentran con su peor pesadilla. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tGnRUOrJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260621141400 +0200" stop="20260621161100 +0200" channel="acontra+ CINE">
+  <programme start="20260621141100 +0200" stop="20260621161100 +0200" channel="acontra+ CINE">
     <title lang="es">Enamórate de mí</title>
     <desc lang="es">Cuando Michael muere, cree que está libre de las ansiedades de la búsqueda del amor verdadero. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91uM1CTU7eL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Un ángel en mi mesa (1991)</title>
     <desc lang="es">Cinta biográfica sobre la escritora Janet Frame, quien casi fue víctima de una lobotomía. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1FHg-vfEtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260621201400 +0200" stop="20260621215400 +0200" channel="acontra+ CINE">
+    <title lang="es">Un rostro de mujer (1941)</title>
+    <desc lang="es">Una mujer en juicio por un asesinato revela su pasado antes de haberse sometido a una cirugía. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91OdDsCcpVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260621215400 +0200" stop="20260621234900 +0200" channel="acontra+ CINE">
+    <title lang="es">Soñadores (2000)</title>
+    <desc lang="es">Isabelle, Theo y Matthew tratan de conocerse mutuamente explorando emociones y erotismo. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81gj-r-5MuL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
