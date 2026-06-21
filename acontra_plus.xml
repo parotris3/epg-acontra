@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260621141100 +0200" stop="20260621161100 +0200" channel="acontra+ CINE">
-    <title lang="es">Enamórate de mí</title>
-    <desc lang="es">Cuando Michael muere, cree que está libre de las ansiedades de la búsqueda del amor verdadero. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91uM1CTU7eL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260621161100 +0200" stop="20260621174200 +0200" channel="acontra+ CINE">
-    <title lang="es">Nuestro último verano en Escocia (2014)</title>
-    <desc lang="es">Una pareja recién separada con hijos viaja a Escocia para el cumpleaños del abuelo enfermo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ZdTEM4w9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260621174200 +0200" stop="20260621201400 +0200" channel="acontra+ CINE">
+  <programme start="20260621181400 +0200" stop="20260621201400 +0200" channel="acontra+ CINE">
     <title lang="es">Un ángel en mi mesa (1991)</title>
     <desc lang="es">Cinta biográfica sobre la escritora Janet Frame, quien casi fue víctima de una lobotomía. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1FHg-vfEtL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Soñadores (2000)</title>
     <desc lang="es">Isabelle, Theo y Matthew tratan de conocerse mutuamente explorando emociones y erotismo. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81gj-r-5MuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260621234900 +0200" stop="20260622012600 +0200" channel="acontra+ CINE">
+    <title lang="es">Trabajo clandestino (1982)</title>
+    <desc lang="es">Nowak y su equipo de albañiles polacos llegan a Londres para trabajar clandestinamente en una casa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Vef6-ewhL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260622012600 +0200" stop="20260622024800 +0200" channel="acontra+ CINE">
+    <title lang="es">Supervivientes de Los Andes</title>
+    <desc lang="es">Un avión con 45 pasajeros se estrella en Los Andes. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/811U24Djs8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260622024800 +0200" stop="20260622041100 +0200" channel="acontra+ CINE">
+    <title lang="es">The Addiction (1995)</title>
+    <desc lang="es">Una joven intenta comprender su nueva vida tras ser convertida en vampiro en un ataque. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71hyHt1yFiL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
