@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260622034400 +0200" stop="20260622054400 +0200" channel="acontra+ CINE">
-    <title lang="es">Sweet Virginia (2017)</title>
-    <desc lang="es">Un antiguo campeón de rodeo cae en una espiral de secretos y violencia. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1kZccXxddL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260622054400 +0200" stop="20260622075000 +0200" channel="acontra+ CINE">
-    <title lang="es">Nostalgia (1983)</title>
-    <desc lang="es">Un escritor ruso viaja a Italia para investigar la vida de un compositor ruso que estudió allí. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/912DRKglhmL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260622075000 +0200" stop="20260622094600 +0200" channel="acontra+ CINE">
-    <title lang="es">La voz de la luna (1990)</title>
-    <desc lang="es">Un conspiranoico y su amigo poeta viven una aventura onírica en la llanura del Po. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91ml1q898YL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260622094600 +0200" stop="20260622113100 +0200" channel="acontra+ CINE">
+  <programme start="20260622093100 +0200" stop="20260622113100 +0200" channel="acontra+ CINE">
     <title lang="es">Encuentro en la noche (1952)</title>
     <desc lang="es">Tras diez años de ausencia, Mae Doyle vuelve a su pueblo natal, una pequeña población pesquera. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81zo2eSNOcL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Bajo el volcán (1984)</title>
     <desc lang="es">Geoffrey Firmin, un diplomático inglés deprimido que se retira al alcohol para consolarse. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91MGFHg1p3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260622144200 +0200" stop="20260622161900 +0200" channel="acontra+ CINE">
+    <title lang="es">El rostro (1975)</title>
+    <desc lang="es">El hipnotizador y mago Vogler y su mujer están siendo desafiados por los escépticos locales. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Lo+2uo-4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260622161900 +0200" stop="20260622175100 +0200" channel="acontra+ CINE">
+    <title lang="es">Cromosoma 3 (1979)</title>
+    <desc lang="es">El psiquiatra Hal Raglen inventa una terapia especial para tratar psicópatas, la somatización. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71AmspXCoFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260622175100 +0200" stop="20260622200000 +0200" channel="acontra+ CINE">
+    <title lang="es">Bullhead (2011)</title>
+    <desc lang="es">Jacky Vanmarsenille es abordado por un veterinario sin escrúpulos para hacer negocios sucios. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/712XNuWfUCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
