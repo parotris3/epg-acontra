@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260623083400 +0200" stop="20260623103400 +0200" channel="acontra+ CINE">
-    <title lang="es">El pecado del padre Mouret</title>
-    <desc lang="es">Serge Mouret, un devoto párroco, sufre una pérdida de memoria. Una joven enfermera lo cuida. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71VCRO62IML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260623103400 +0200" stop="20260623120500 +0200" channel="acontra+ CINE">
-    <title lang="es">El silencio (2002)</title>
-    <desc lang="es">Dos hermanas, Ester y Anna, y el hijo de una de ellas viajan en tren a un país en guerra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/812c7vMBQQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260623120500 +0200" stop="20260623133600 +0200" channel="acontra+ CINE">
-    <title lang="es">Otro país (1985)</title>
-    <desc lang="es">En los años 30, dos jóvenes entablan amistad en un colegio británico de clase alta. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/9182KTodawL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260623133600 +0200" stop="20260623151600 +0200" channel="acontra+ CINE">
+  <programme start="20260623131600 +0200" stop="20260623151600 +0200" channel="acontra+ CINE">
     <title lang="es">Tasmania (2009)</title>
     <desc lang="es">Ocho convictos escapan de la brutal cárcel de Macquarie Harbour en busca de la libertad. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Gwz6EXmbL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Rufufú da el golpe (1959)</title>
     <desc lang="es">Un milanés convence a Pepe y a sus amigos para ir a Milán para robar el furgón de las quinielas. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/71uBR3dN43L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260623183100 +0200" stop="20260623195100 +0200" channel="acontra+ CINE">
+    <title lang="es">La matanza de Texas (1974)</title>
+    <desc lang="es">Un grupo de jóvenes son atacados con sierras y otras herramientas mortales por seres dementes. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71VJFqz66zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260623195100 +0200" stop="20260623211600 +0200" channel="acontra+ CINE">
+    <title lang="es">The Penthouse</title>
+    <desc lang="es">La vida de una pareja se convierte en una pesadilla cuando un sospechoso de asesinato los acecha. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91H6hzcC5sL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260623211600 +0200" stop="20260623232800 +0200" channel="acontra+ CINE">
+    <title lang="es">Ocho y medio (1963)</title>
+    <desc lang="es">Un director de cine atraviesa una crisis de creatividad. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81arxyacWlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
