@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260623035600 +0200" stop="20260623055600 +0200" channel="acontra+ CINE">
-    <title lang="es">Churchill (2017)</title>
-    <desc lang="es">Churchill se opone a los generales estadounidenses antes del desembarco de Normandía. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91SzqtuzYwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260623055600 +0200" stop="20260623071800 +0200" channel="acontra+ CINE">
-    <title lang="es">Deal (2008)</title>
-    <desc lang="es">Un exjugador de póker transmite toda su sabiduría a un estudiante universitario. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zLQrEfMQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260623071800 +0200" stop="20260623090000 +0200" channel="acontra+ CINE">
-    <title lang="es">Los malditos (1947)</title>
-    <desc lang="es">En 1945, varios nazis viajan a Oslo para embarcarse en un submarino rumbo a Sudamérica. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91YWiad1LKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260623090000 +0200" stop="20260623103400 +0200" channel="acontra+ CINE">
+  <programme start="20260623083400 +0200" stop="20260623103400 +0200" channel="acontra+ CINE">
     <title lang="es">El pecado del padre Mouret</title>
     <desc lang="es">Serge Mouret, un devoto párroco, sufre una pérdida de memoria. Una joven enfermera lo cuida. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71VCRO62IML._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Otro país (1985)</title>
     <desc lang="es">En los años 30, dos jóvenes entablan amistad en un colegio británico de clase alta. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/9182KTodawL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260623133600 +0200" stop="20260623151600 +0200" channel="acontra+ CINE">
+    <title lang="es">Tasmania (2009)</title>
+    <desc lang="es">Ocho convictos escapan de la brutal cárcel de Macquarie Harbour en busca de la libertad. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Gwz6EXmbL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260623151600 +0200" stop="20260623164900 +0200" channel="acontra+ CINE">
+    <title lang="es">Todo el mundo gana (1990)</title>
+    <desc lang="es">Una mujer contrata a un detective privado para demostrar la inocencia de un joven. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/61cz0V1R8zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260623164900 +0200" stop="20260623183100 +0200" channel="acontra+ CINE">
+    <title lang="es">Rufufú da el golpe (1959)</title>
+    <desc lang="es">Un milanés convence a Pepe y a sus amigos para ir a Milán para robar el furgón de las quinielas. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/71uBR3dN43L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
