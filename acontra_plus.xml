@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260622231200 +0200" stop="20260623011200 +0200" channel="acontra+ CINE">
-    <title lang="es">Aurora boreal (2007)</title>
-    <desc lang="es">Rebeca regresará a su ciudad natal dispuesta a encontrar al asesino del hermano de su amiga. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91r+VRPqJxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260623011200 +0200" stop="20260623024500 +0200" channel="acontra+ CINE">
-    <title lang="es">Un Plan Para Enamorarse (2011)</title>
-    <desc lang="es">Una consejera matrimonial recién casada descubre que sus padres se van a divorciar. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71gP16ib9fL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260623024500 +0200" stop="20260623041100 +0200" channel="acontra+ CINE">
-    <title lang="es">Blanco perfecto (Downrange) (2018)</title>
-    <desc lang="es">Seis amigos se quedan tirados en la carretera y se convierten en el objetivo de un francotirador. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nEFH7nABL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260623041100 +0200" stop="20260623055600 +0200" channel="acontra+ CINE">
+  <programme start="20260623035600 +0200" stop="20260623055600 +0200" channel="acontra+ CINE">
     <title lang="es">Churchill (2017)</title>
     <desc lang="es">Churchill se opone a los generales estadounidenses antes del desembarco de Normandía. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91SzqtuzYwL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Los malditos (1947)</title>
     <desc lang="es">En 1945, varios nazis viajan a Oslo para embarcarse en un submarino rumbo a Sudamérica. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91YWiad1LKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260623090000 +0200" stop="20260623103400 +0200" channel="acontra+ CINE">
+    <title lang="es">El pecado del padre Mouret</title>
+    <desc lang="es">Serge Mouret, un devoto párroco, sufre una pérdida de memoria. Una joven enfermera lo cuida. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71VCRO62IML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260623103400 +0200" stop="20260623120500 +0200" channel="acontra+ CINE">
+    <title lang="es">El silencio (2002)</title>
+    <desc lang="es">Dos hermanas, Ester y Anna, y el hijo de una de ellas viajan en tren a un país en guerra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/812c7vMBQQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260623120500 +0200" stop="20260623133600 +0200" channel="acontra+ CINE">
+    <title lang="es">Otro país (1985)</title>
+    <desc lang="es">En los años 30, dos jóvenes entablan amistad en un colegio británico de clase alta. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/9182KTodawL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
