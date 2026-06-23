@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260623191600 +0200" stop="20260623211600 +0200" channel="acontra+ CINE">
-    <title lang="es">The Penthouse</title>
-    <desc lang="es">La vida de una pareja se convierte en una pesadilla cuando un sospechoso de asesinato los acecha. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91H6hzcC5sL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260623211600 +0200" stop="20260623232800 +0200" channel="acontra+ CINE">
-    <title lang="es">Ocho y medio (1963)</title>
-    <desc lang="es">Un director de cine atraviesa una crisis de creatividad. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81arxyacWlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260623232800 +0200" stop="20260624005200 +0200" channel="acontra+ CINE">
+  <programme start="20260623225200 +0200" stop="20260624005200 +0200" channel="acontra+ CINE">
     <title lang="es">The Jack in the Box (2019)</title>
     <desc lang="es">Los amigos de Casey empiezan a morir cuando llega una antigua caja con un muñeco dentro. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91yN378qD9L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">El festín de Babette (1987)</title>
     <desc lang="es">Una criada francesa gana la lotería y usa el dinero para preparar un banquete. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71OVFlkg-RL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260624040700 +0200" stop="20260624054000 +0200" channel="acontra+ CINE">
+    <title lang="es">El diablo, probablemente (1978)</title>
+    <desc lang="es">Un hombre intenta en vano con política, religión y psicoanálisis entender a la sociedad. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tlgl9XK8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260624054000 +0200" stop="20260624071300 +0200" channel="acontra+ CINE">
+    <title lang="es">Rescate en Nueva York (2006)</title>
+    <desc lang="es">Un hombre trata de encontrar a su hermana secuestrada en medio de una guerra entre la mafia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Z3bXCwlnL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260624071300 +0200" stop="20260624085200 +0200" channel="acontra+ CINE">
+    <title lang="es">El bello Sergio (1959)</title>
+    <desc lang="es">Un hombre vuelve a su ciudad natal y descubre que su mejor amigo se ha convertido en alcohólico. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71al89vV8gL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
