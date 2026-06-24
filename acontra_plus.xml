@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260624144700 +0200" stop="20260624164700 +0200" channel="acontra+ CINE">
-    <title lang="es">El Skylab (2011)</title>
-    <desc lang="es">Julio de 1979. Albertine, de diez años, y sus familiares se reúnen en una casa de Bretaña. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ccAm5Q3PL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260624164700 +0200" stop="20260624183300 +0200" channel="acontra+ CINE">
-    <title lang="es">Dominio inminente (1991)</title>
-    <desc lang="es">El camarada polaco Jozef Burski, acostumbrado a los lujos, ve cómo sus privilegios se acaban. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91lwMk2yZGL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260624183300 +0200" stop="20260624202200 +0200" channel="acontra+ CINE">
+  <programme start="20260624182200 +0200" stop="20260624202200 +0200" channel="acontra+ CINE">
     <title lang="es">Fedora (1980)</title>
     <desc lang="es">A base de flashbacks, recorremos la vida de Fedora, una famosa actriz que muere atropellada. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81h-3V4uDLL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">El amor de Swann (1984)</title>
     <desc lang="es">La apasionada historia de amor de Swann, un aristócrata, con la bella prostituta Odette de Crécy. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71WNSPx7jcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260624233800 +0200" stop="20260625010400 +0200" channel="acontra+ CINE">
+    <title lang="es">Experimento Filadelfia (2012)</title>
+    <desc lang="es">Dos oficiales que participan en un experimento militar de alto secreto son trasladados a 1984. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A12HWWNktUL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260625010400 +0200" stop="20260625022900 +0200" channel="acontra+ CINE">
+    <title lang="es">Escóndete y tiembla (1988)</title>
+    <desc lang="es">Viajeros son objetivos de una familia de psicópatas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91hlpnJKfWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260625022900 +0200" stop="20260625041000 +0200" channel="acontra+ CINE">
+    <title lang="es">No soy un asesino (1967)</title>
+    <desc lang="es">Acusado de asesinato, un sheriff deberá demostrar su inocencia. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81nf1aYhQnL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
