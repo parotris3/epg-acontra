@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260623225200 +0200" stop="20260624005200 +0200" channel="acontra+ CINE">
-    <title lang="es">The Jack in the Box (2019)</title>
-    <desc lang="es">Los amigos de Casey empiezan a morir cuando llega una antigua caja con un muñeco dentro. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91yN378qD9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260624005200 +0200" stop="20260624022800 +0200" channel="acontra+ CINE">
-    <title lang="es">Al azar, Baltasar (1966)</title>
-    <desc lang="es">Baltasar es un burro que vive feliz en un pueblo francés, hasta que es comprado por la joven Marie. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91kXDMFyBkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260624022800 +0200" stop="20260624040700 +0200" channel="acontra+ CINE">
-    <title lang="es">El festín de Babette (1987)</title>
-    <desc lang="es">Una criada francesa gana la lotería y usa el dinero para preparar un banquete. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71OVFlkg-RL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260624040700 +0200" stop="20260624054000 +0200" channel="acontra+ CINE">
+  <programme start="20260624034000 +0200" stop="20260624054000 +0200" channel="acontra+ CINE">
     <title lang="es">El diablo, probablemente (1978)</title>
     <desc lang="es">Un hombre intenta en vano con política, religión y psicoanálisis entender a la sociedad. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81tlgl9XK8L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El bello Sergio (1959)</title>
     <desc lang="es">Un hombre vuelve a su ciudad natal y descubre que su mejor amigo se ha convertido en alcohólico. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71al89vV8gL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260624085200 +0200" stop="20260624103100 +0200" channel="acontra+ CINE">
+    <title lang="es">Doctor Terror (1965)</title>
+    <desc lang="es">Cinco viajeros de un tren se entretienen con relatos de vampiros, lobos y cosas extrañas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81+12c+bvlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260624103100 +0200" stop="20260624115300 +0200" channel="acontra+ CINE">
+    <title lang="es">El hombre orquesta (1970)</title>
+    <desc lang="es">Un director de un ballet femenino hace lo posible para que sus bailarinas encuentren marido. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71XmK2jrJ-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260624115300 +0200" stop="20260624132300 +0200" channel="acontra+ CINE">
+    <title lang="es">Aprendiendo a conducir (2014)</title>
+    <desc lang="es">Una escritora y un taxista indio se alejan de sus problemas durante las clases de conducción. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tu3xFypWL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
