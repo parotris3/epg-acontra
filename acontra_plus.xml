@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260624083100 +0200" stop="20260624103100 +0200" channel="acontra+ CINE">
-    <title lang="es">Doctor Terror (1965)</title>
-    <desc lang="es">Cinco viajeros de un tren se entretienen con relatos de vampiros, lobos y cosas extrañas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81+12c+bvlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260624103100 +0200" stop="20260624115300 +0200" channel="acontra+ CINE">
-    <title lang="es">El hombre orquesta (1970)</title>
-    <desc lang="es">Un director de un ballet femenino hace lo posible para que sus bailarinas encuentren marido. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71XmK2jrJ-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260624115300 +0200" stop="20260624132300 +0200" channel="acontra+ CINE">
-    <title lang="es">Aprendiendo a conducir (2014)</title>
-    <desc lang="es">Una escritora y un taxista indio se alejan de sus problemas durante las clases de conducción. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tu3xFypWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260624132300 +0200" stop="20260624145300 +0200" channel="acontra+ CINE">
-    <title lang="es">Buenos días (1959)</title>
-    <desc lang="es">Dos niños de los años 50 juran guardar silencio hasta que sus padres les compren un televisor. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71GiINqPEtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260624145300 +0200" stop="20260624164700 +0200" channel="acontra+ CINE">
+  <programme start="20260624144700 +0200" stop="20260624164700 +0200" channel="acontra+ CINE">
     <title lang="es">El Skylab (2011)</title>
     <desc lang="es">Julio de 1979. Albertine, de diez años, y sus familiares se reúnen en una casa de Bretaña. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ccAm5Q3PL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +12,20 @@
     <title lang="es">Dominio inminente (1991)</title>
     <desc lang="es">El camarada polaco Jozef Burski, acostumbrado a los lujos, ve cómo sus privilegios se acaban. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91lwMk2yZGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260624183300 +0200" stop="20260624202200 +0200" channel="acontra+ CINE">
+    <title lang="es">Fedora (1980)</title>
+    <desc lang="es">A base de flashbacks, recorremos la vida de Fedora, una famosa actriz que muere atropellada. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81h-3V4uDLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260624202200 +0200" stop="20260624214700 +0200" channel="acontra+ CINE">
+    <title lang="es">Adiós a las armas (1932)</title>
+    <desc lang="es">El chofer de una ambulancia y una enfermera se enamoran en Italia durante la Primera Guerra Mundial. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81A20FiWj2L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260624214700 +0200" stop="20260624233800 +0200" channel="acontra+ CINE">
+    <title lang="es">El amor de Swann (1984)</title>
+    <desc lang="es">La apasionada historia de amor de Swann, un aristócrata, con la bella prostituta Odette de Crécy. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71WNSPx7jcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
