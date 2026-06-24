@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260624034000 +0200" stop="20260624054000 +0200" channel="acontra+ CINE">
-    <title lang="es">El diablo, probablemente (1978)</title>
-    <desc lang="es">Un hombre intenta en vano con política, religión y psicoanálisis entender a la sociedad. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tlgl9XK8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260624054000 +0200" stop="20260624071300 +0200" channel="acontra+ CINE">
-    <title lang="es">Rescate en Nueva York (2006)</title>
-    <desc lang="es">Un hombre trata de encontrar a su hermana secuestrada en medio de una guerra entre la mafia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Z3bXCwlnL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260624071300 +0200" stop="20260624085200 +0200" channel="acontra+ CINE">
-    <title lang="es">El bello Sergio (1959)</title>
-    <desc lang="es">Un hombre vuelve a su ciudad natal y descubre que su mejor amigo se ha convertido en alcohólico. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71al89vV8gL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260624085200 +0200" stop="20260624103100 +0200" channel="acontra+ CINE">
+  <programme start="20260624083100 +0200" stop="20260624103100 +0200" channel="acontra+ CINE">
     <title lang="es">Doctor Terror (1965)</title>
     <desc lang="es">Cinco viajeros de un tren se entretienen con relatos de vampiros, lobos y cosas extrañas. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81+12c+bvlL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Aprendiendo a conducir (2014)</title>
     <desc lang="es">Una escritora y un taxista indio se alejan de sus problemas durante las clases de conducción. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81tu3xFypWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260624132300 +0200" stop="20260624145300 +0200" channel="acontra+ CINE">
+    <title lang="es">Buenos días (1959)</title>
+    <desc lang="es">Dos niños de los años 50 juran guardar silencio hasta que sus padres les compren un televisor. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71GiINqPEtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260624145300 +0200" stop="20260624164700 +0200" channel="acontra+ CINE">
+    <title lang="es">El Skylab (2011)</title>
+    <desc lang="es">Julio de 1979. Albertine, de diez años, y sus familiares se reúnen en una casa de Bretaña. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ccAm5Q3PL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260624164700 +0200" stop="20260624183300 +0200" channel="acontra+ CINE">
+    <title lang="es">Dominio inminente (1991)</title>
+    <desc lang="es">El camarada polaco Jozef Burski, acostumbrado a los lujos, ve cómo sus privilegios se acaban. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91lwMk2yZGL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
