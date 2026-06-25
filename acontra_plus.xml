@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260624230400 +0200" stop="20260625010400 +0200" channel="acontra+ CINE">
-    <title lang="es">Experimento Filadelfia (2012)</title>
-    <desc lang="es">Dos oficiales que participan en un experimento militar de alto secreto son trasladados a 1984. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A12HWWNktUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260625010400 +0200" stop="20260625022900 +0200" channel="acontra+ CINE">
-    <title lang="es">Escóndete y tiembla (1988)</title>
-    <desc lang="es">Viajeros son objetivos de una familia de psicópatas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91hlpnJKfWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260625022900 +0200" stop="20260625041000 +0200" channel="acontra+ CINE">
-    <title lang="es">No soy un asesino (1967)</title>
-    <desc lang="es">Acusado de asesinato, un sheriff deberá demostrar su inocencia. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nf1aYhQnL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260625041000 +0200" stop="20260625060900 +0200" channel="acontra+ CINE">
+  <programme start="20260625040900 +0200" stop="20260625060900 +0200" channel="acontra+ CINE">
     <title lang="es">Esperemos que sea mujer (1988)</title>
     <desc lang="es">Elena vive en una granja en la Toscana, separada de su marido y con sus parientes femeninas. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1RB8VWD04L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Rabbit Hole (2010)</title>
     <desc lang="es">Basada en la obra de David Lindsay-Abaire. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71n2M0NPlaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260625092300 +0200" stop="20260625104300 +0200" channel="acontra+ CINE">
+    <title lang="es">Slumber: El demonio del sueño (2017)</title>
+    <desc lang="es">Una doctora lucha contra un demonio que ataca a las personas mientras duermen. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91GqSQHjZkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260625104300 +0200" stop="20260625121200 +0200" channel="acontra+ CINE">
+    <title lang="es">Sorgo rojo (1989)</title>
+    <desc lang="es">En la China de la década de 1930, una joven es enviada por su padre a casarse con un hombre enfermo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71vjhf6CsDL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260625121200 +0200" stop="20260625142100 +0200" channel="acontra+ CINE">
+    <title lang="es">La ciudad de la alegría (1992)</title>
+    <desc lang="es">En la ciudad de Calcuta, dos personas muy diferentes encuentran comprensión la una en la otra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81vWESbKG4L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
