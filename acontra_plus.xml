@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260625084300 +0200" stop="20260625104300 +0200" channel="acontra+ CINE">
-    <title lang="es">Slumber: El demonio del sueño (2017)</title>
-    <desc lang="es">Una doctora lucha contra un demonio que ataca a las personas mientras duermen. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91GqSQHjZkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260625104300 +0200" stop="20260625121200 +0200" channel="acontra+ CINE">
-    <title lang="es">Sorgo rojo (1989)</title>
-    <desc lang="es">En la China de la década de 1930, una joven es enviada por su padre a casarse con un hombre enfermo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71vjhf6CsDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260625121200 +0200" stop="20260625142100 +0200" channel="acontra+ CINE">
-    <title lang="es">La ciudad de la alegría (1992)</title>
-    <desc lang="es">En la ciudad de Calcuta, dos personas muy diferentes encuentran comprensión la una en la otra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81vWESbKG4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260625142100 +0200" stop="20260625160800 +0200" channel="acontra+ CINE">
+  <programme start="20260625140800 +0200" stop="20260625160800 +0200" channel="acontra+ CINE">
     <title lang="es">Principiantes (1986)</title>
     <desc lang="es">Un fotógrafo se enamora locamente de una chica que quiere ser diseñadora de moda. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81USLUz2mlL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Senso (1954)</title>
     <desc lang="es">Venecia, 1866. Livia, una bella aristócrata italiana, vive un romance con el teniente Franz Mahler. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91RRRFhbw0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260625195800 +0200" stop="20260625214500 +0200" channel="acontra+ CINE">
+    <title lang="es">Yatterman (2009)</title>
+    <desc lang="es">Gan, Ai y su fiel perro robot gigante tratarán de evitar que Doronjo se haga con una piedra mágica. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81pol7ZTJZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260625214500 +0200" stop="20260625231000 +0200" channel="acontra+ CINE">
+    <title lang="es">Los ojos sin rostro (1960)</title>
+    <desc lang="es">Un brillante cirujano rapta chicas para utilizar su piel y así reconstruir la belleza de su hija. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8194+Gl+upL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
