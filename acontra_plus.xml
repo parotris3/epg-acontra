@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260625040900 +0200" stop="20260625060900 +0200" channel="acontra+ CINE">
-    <title lang="es">Esperemos que sea mujer (1988)</title>
-    <desc lang="es">Elena vive en una granja en la Toscana, separada de su marido y con sus parientes femeninas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1RB8VWD04L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260625060900 +0200" stop="20260625075500 +0200" channel="acontra+ CINE">
-    <title lang="es">Tres solteros y un biberón (1986)</title>
-    <desc lang="es">Tres amigos solteros se encuentran un paquete en la puerta de su casa que contiene a una niña. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/817Q6tWqkGL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260625075500 +0200" stop="20260625092300 +0200" channel="acontra+ CINE">
-    <title lang="es">Rabbit Hole (2010)</title>
-    <desc lang="es">Basada en la obra de David Lindsay-Abaire. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71n2M0NPlaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260625092300 +0200" stop="20260625104300 +0200" channel="acontra+ CINE">
+  <programme start="20260625084300 +0200" stop="20260625104300 +0200" channel="acontra+ CINE">
     <title lang="es">Slumber: El demonio del sueño (2017)</title>
     <desc lang="es">Una doctora lucha contra un demonio que ataca a las personas mientras duermen. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91GqSQHjZkL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La ciudad de la alegría (1992)</title>
     <desc lang="es">En la ciudad de Calcuta, dos personas muy diferentes encuentran comprensión la una en la otra. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81vWESbKG4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260625142100 +0200" stop="20260625160800 +0200" channel="acontra+ CINE">
+    <title lang="es">Principiantes (1986)</title>
+    <desc lang="es">Un fotógrafo se enamora locamente de una chica que quiere ser diseñadora de moda. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81USLUz2mlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260625160800 +0200" stop="20260625180000 +0200" channel="acontra+ CINE">
+    <title lang="es">Uno tras otro (2014)</title>
+    <desc lang="es">Cuando su hijo muere de sobredosis, Nils, convencido de que ha sido asesinado, quiere venganza. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81K2F-fI2sL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260625180000 +0200" stop="20260625195800 +0200" channel="acontra+ CINE">
+    <title lang="es">Senso (1954)</title>
+    <desc lang="es">Venecia, 1866. Livia, una bella aristócrata italiana, vive un romance con el teniente Franz Mahler. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91RRRFhbw0L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
