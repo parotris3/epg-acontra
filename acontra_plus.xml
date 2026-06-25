@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260625140800 +0200" stop="20260625160800 +0200" channel="acontra+ CINE">
-    <title lang="es">Principiantes (1986)</title>
-    <desc lang="es">Un fotógrafo se enamora locamente de una chica que quiere ser diseñadora de moda. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81USLUz2mlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260625160800 +0200" stop="20260625180000 +0200" channel="acontra+ CINE">
-    <title lang="es">Uno tras otro (2014)</title>
-    <desc lang="es">Cuando su hijo muere de sobredosis, Nils, convencido de que ha sido asesinado, quiere venganza. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81K2F-fI2sL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260625180000 +0200" stop="20260625195800 +0200" channel="acontra+ CINE">
-    <title lang="es">Senso (1954)</title>
-    <desc lang="es">Venecia, 1866. Livia, una bella aristócrata italiana, vive un romance con el teniente Franz Mahler. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91RRRFhbw0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260625195800 +0200" stop="20260625214500 +0200" channel="acontra+ CINE">
+  <programme start="20260625194500 +0200" stop="20260625214500 +0200" channel="acontra+ CINE">
     <title lang="es">Yatterman (2009)</title>
     <desc lang="es">Gan, Ai y su fiel perro robot gigante tratarán de evitar que Doronjo se haga con una piedra mágica. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81pol7ZTJZL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Los ojos sin rostro (1960)</title>
     <desc lang="es">Un brillante cirujano rapta chicas para utilizar su piel y así reconstruir la belleza de su hija. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/8194+Gl+upL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260625231000 +0200" stop="20260626010900 +0200" channel="acontra+ CINE">
+    <title lang="es">Juntos (2003)</title>
+    <desc lang="es">Un joven prodigio del violín y su padre se mudan a Pekín en busca de un maestro. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91UcJguueIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260626010900 +0200" stop="20260626023400 +0200" channel="acontra+ CINE">
+    <title lang="es">Sucedió mañana (1944)</title>
+    <desc lang="es">En sus bodas de oro, Larry y Sylvia narran a su familia un suceso muy extraño del pasado. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81GpqLoyBML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260626023400 +0200" stop="20260626040600 +0200" channel="acontra+ CINE">
+    <title lang="es">The Point Men: En el punto de mira (2001)</title>
+    <desc lang="es">Un agente secreto del Mossad israelí debe atrapar a un peligroso terrorista. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71dpu8snIHL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
