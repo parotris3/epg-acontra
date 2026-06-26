@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260626084100 +0200" stop="20260626104100 +0200" channel="acontra+ CINE">
-    <title lang="es">Vatel (2000)</title>
-    <desc lang="es">La vida de palacio de un mayordomo en la corte de Luis XIV. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/814OqpwnpFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260626104100 +0200" stop="20260626121500 +0200" channel="acontra+ CINE">
-    <title lang="es">La hija perfecta (2007)</title>
-    <desc lang="es">Sarah conoce a Paul y parece que ha encontrado a su alma gemela, pero pronto la situación empeora. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1PTfSTA2NL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260626121500 +0200" stop="20260626140000 +0200" channel="acontra+ CINE">
-    <title lang="es">Un golpe de suerte (2005)</title>
-    <desc lang="es">Paul Barnell encuentra un cadáver y decide usarlo para cobrar una póliza del seguro de vida. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81sbsHvJpCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260626140000 +0200" stop="20260626154700 +0200" channel="acontra+ CINE">
+  <programme start="20260626134700 +0200" stop="20260626154700 +0200" channel="acontra+ CINE">
     <title lang="es">Housebound (2014)</title>
     <desc lang="es">Una aspirante a ladrona es remitida a la custodia de su madre distanciada. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81HHDEtoTXL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Suspiria (1977)</title>
     <desc lang="es">Una bailarina de Nueva York se inscribe en una academia de danza embrujada. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/B1hAy5lxJRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260626193700 +0200" stop="20260626212200 +0200" channel="acontra+ CINE">
+    <title lang="es">El dossier 51 (2021)</title>
+    <desc lang="es">Dominique Auphal es un diplomático francés que acepta un cargo de responsabilidad. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81XvzsFvNAL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260626212200 +0200" stop="20260626235400 +0200" channel="acontra+ CINE">
+    <title lang="es">Maria Chapdelaine (2021)</title>
+    <desc lang="es">La hija de un granjero se enfrenta a una difícil elección entre tres pretendientes muy diferentes. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1+kMZBWj7L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
