@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260625230900 +0200" stop="20260626010900 +0200" channel="acontra+ CINE">
-    <title lang="es">Juntos (2003)</title>
-    <desc lang="es">Un joven prodigio del violín y su padre se mudan a Pekín en busca de un maestro. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91UcJguueIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260626010900 +0200" stop="20260626023400 +0200" channel="acontra+ CINE">
-    <title lang="es">Sucedió mañana (1944)</title>
-    <desc lang="es">En sus bodas de oro, Larry y Sylvia narran a su familia un suceso muy extraño del pasado. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81GpqLoyBML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260626023400 +0200" stop="20260626040600 +0200" channel="acontra+ CINE">
-    <title lang="es">The Point Men: En el punto de mira (2001)</title>
-    <desc lang="es">Un agente secreto del Mossad israelí debe atrapar a un peligroso terrorista. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71dpu8snIHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260626040600 +0200" stop="20260626054000 +0200" channel="acontra+ CINE">
+  <programme start="20260626034000 +0200" stop="20260626054000 +0200" channel="acontra+ CINE">
     <title lang="es">The Last Five Years (2014)</title>
     <desc lang="es">Basada en la obra musical de Jason Robert Brown. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81dfDfoXLCL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Pauline en la playa (1983)</title>
     <desc lang="es">Pauline es una adolescente que pasa un verano con su prima Marion en busca de romance. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91HGjNRrcDL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260626090300 +0200" stop="20260626104100 +0200" channel="acontra+ CINE">
+    <title lang="es">Vatel (2000)</title>
+    <desc lang="es">La vida de palacio de un mayordomo en la corte de Luis XIV. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/814OqpwnpFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260626104100 +0200" stop="20260626121500 +0200" channel="acontra+ CINE">
+    <title lang="es">La hija perfecta (2007)</title>
+    <desc lang="es">Sarah conoce a Paul y parece que ha encontrado a su alma gemela, pero pronto la situación empeora. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1PTfSTA2NL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260626121500 +0200" stop="20260626140000 +0200" channel="acontra+ CINE">
+    <title lang="es">Un golpe de suerte (2005)</title>
+    <desc lang="es">Paul Barnell encuentra un cadáver y decide usarlo para cobrar una póliza del seguro de vida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81sbsHvJpCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
