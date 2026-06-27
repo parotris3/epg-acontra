@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260627134400 +0200" stop="20260627154400 +0200" channel="acontra+ CINE">
-    <title lang="es">El cuerpo y el látigo (1963)</title>
-    <desc lang="es">El espíritu de un sádico aristócrata vuelve para seguir aterrorizando a su familia. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91MbcUjcA0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260627154400 +0200" stop="20260627173100 +0200" channel="acontra+ CINE">
-    <title lang="es">Un Tipo Genial (1983)</title>
-    <desc lang="es">El representante de una compañía de petróleos quiere comprar un pueblecito pesquero escocés. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Xhp6oX1mL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260627173100 +0200" stop="20260627191500 +0200" channel="acontra+ CINE">
-    <title lang="es">Week-end (2005)</title>
-    <desc lang="es">El matrimonio Durand se queda atrapado en un atasco y por ello viven experiencias desconcertantes. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71sTqayjxdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260627191500 +0200" stop="20260627220200 +0200" channel="acontra+ CINE">
+  <programme start="20260627200200 +0200" stop="20260627220200 +0200" channel="acontra+ CINE">
     <title lang="es">El idiota (1951)</title>
     <desc lang="es">Un soldado condenado a muerte por crímenes de guerra, se salva de ser fusilado en el último momento. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Z8IZ9HTdL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,15 @@
     <title lang="es">Date el piro, vampiro (2024)</title>
     <desc lang="es">Cuando el hermano de Matt se convierte en vampiro en Dublín, debe salvarlo o matarlo. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1BLq0Ld+hL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260627234200 +0200" stop="20260628021700 +0200" channel="acontra+ CINE">
+    <title lang="es">Stalker (1981)</title>
+    <desc lang="es">Tres hombres del futuro buscan un cuarto secreto que cumple los deseos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91CWA5+x90L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260628021700 +0200" stop="20260628040200 +0200" channel="acontra+ CINE">
+    <title lang="es">Primavera tardía (1949)</title>
+    <desc lang="es">Noriko vive con su padre viudo y cuida de él, pero ya va siendo muy mayor para permanecer soltera. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/817LyByUZ6L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
