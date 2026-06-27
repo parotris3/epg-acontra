@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260627035800 +0200" stop="20260627055800 +0200" channel="acontra+ CINE">
-    <title lang="es">Dos mujeres (2017)</title>
-    <desc lang="es">Claire, una apasionada y estricta matrona, conoce a la amante de su difunto padre. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91RakOdlovL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260627055800 +0200" stop="20260627074900 +0200" channel="acontra+ CINE">
-    <title lang="es">The Sea of Trees (2015)</title>
-    <desc lang="es">Un estadounidense y un japonés se conocen en un bosque. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BFJfGFeZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260627074900 +0200" stop="20260627092900 +0200" channel="acontra+ CINE">
-    <title lang="es">Pasión por las letras (2016)</title>
-    <desc lang="es">Maxwell Perkins desarrolla una amistad con Thomas Wolfe. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Ludfflu0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260627092900 +0200" stop="20260627111200 +0200" channel="acontra+ CINE">
+  <programme start="20260627091200 +0200" stop="20260627111200 +0200" channel="acontra+ CINE">
     <title lang="es">El cartero (y Pablo Neruda) (1994)</title>
     <desc lang="es">Historia de amistad donde el poeta Neruda enseña a un cartero como conquistar a una mujer. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81xsV1Ds8lL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">The Guest (2014)</title>
     <desc lang="es">El exmarine David entra en la familia Peterson hasta que se dan cuenta de que no es lo que aparenta. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91yqoHlJH2L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260627142100 +0200" stop="20260627154400 +0200" channel="acontra+ CINE">
+    <title lang="es">El cuerpo y el látigo (1963)</title>
+    <desc lang="es">El espíritu de un sádico aristócrata vuelve para seguir aterrorizando a su familia. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91MbcUjcA0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260627154400 +0200" stop="20260627173100 +0200" channel="acontra+ CINE">
+    <title lang="es">Un Tipo Genial (1983)</title>
+    <desc lang="es">El representante de una compañía de petróleos quiere comprar un pueblecito pesquero escocés. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Xhp6oX1mL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260627173100 +0200" stop="20260627191500 +0200" channel="acontra+ CINE">
+    <title lang="es">Week-end (2005)</title>
+    <desc lang="es">El matrimonio Durand se queda atrapado en un atasco y por ello viven experiencias desconcertantes. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71sTqayjxdL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
