@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260626234800 +0200" stop="20260627014800 +0200" channel="acontra+ CINE">
-    <title lang="es">El señor de las bestias (1983)</title>
-    <desc lang="es">Dar, el príncipe guerrero, necesita salvar al amor de su vida, Kiri, ahora prisionera de un rey. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WflJhW96L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260627014800 +0200" stop="20260627040100 +0200" channel="acontra+ CINE">
-    <title lang="es">El cielo protector (1990)</title>
-    <desc lang="es">Una pareja neoyorquina hace un viaje al norte de África en un intento de reparar su matrimonio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91biKRsKAwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260627040100 +0200" stop="20260627055800 +0200" channel="acontra+ CINE">
+  <programme start="20260627035800 +0200" stop="20260627055800 +0200" channel="acontra+ CINE">
     <title lang="es">Dos mujeres (2017)</title>
     <desc lang="es">Claire, una apasionada y estricta matrona, conoce a la amante de su difunto padre. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91RakOdlovL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Pasión por las letras (2016)</title>
     <desc lang="es">Maxwell Perkins desarrolla una amistad con Thomas Wolfe. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Ludfflu0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260627092900 +0200" stop="20260627111200 +0200" channel="acontra+ CINE">
+    <title lang="es">El cartero (y Pablo Neruda) (1994)</title>
+    <desc lang="es">Historia de amistad donde el poeta Neruda enseña a un cartero como conquistar a una mujer. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81xsV1Ds8lL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260627111200 +0200" stop="20260627124500 +0200" channel="acontra+ CINE">
+    <title lang="es">Cuando se acaba (2017)</title>
+    <desc lang="es">La relación de Will y Anna cambia por terceras personas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91H7-OWuwyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260627124500 +0200" stop="20260627142100 +0200" channel="acontra+ CINE">
+    <title lang="es">The Guest (2014)</title>
+    <desc lang="es">El exmarine David entra en la familia Peterson hasta que se dan cuenta de que no es lo que aparenta. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91yqoHlJH2L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
