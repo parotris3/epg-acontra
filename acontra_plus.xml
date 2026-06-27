@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260627200200 +0200" stop="20260627220200 +0200" channel="acontra+ CINE">
-    <title lang="es">El idiota (1951)</title>
-    <desc lang="es">Un soldado condenado a muerte por crímenes de guerra, se salva de ser fusilado en el último momento. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Z8IZ9HTdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260627220200 +0200" stop="20260627234200 +0200" channel="acontra+ CINE">
-    <title lang="es">Date el piro, vampiro (2024)</title>
-    <desc lang="es">Cuando el hermano de Matt se convierte en vampiro en Dublín, debe salvarlo o matarlo. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1BLq0Ld+hL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260627234200 +0200" stop="20260628021700 +0200" channel="acontra+ CINE">
+  <programme start="20260628001700 +0200" stop="20260628021700 +0200" channel="acontra+ CINE">
     <title lang="es">Stalker (1981)</title>
     <desc lang="es">Tres hombres del futuro buscan un cuarto secreto que cumple los deseos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91CWA5+x90L._UR1920,1080_FMpng_.jpg"/>
@@ -22,5 +12,20 @@
     <title lang="es">Primavera tardía (1949)</title>
     <desc lang="es">Noriko vive con su padre viudo y cuida de él, pero ya va siendo muy mayor para permanecer soltera. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/817LyByUZ6L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260628040200 +0200" stop="20260628055900 +0200" channel="acontra+ CINE">
+    <title lang="es">Nueva vida en Nueva York (2013)</title>
+    <desc lang="es">Xavier es un escritor de 40 años que no ha sentado la cabeza y va a Nueva York a encontrar su lugar. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qkrxjYFTL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260628055900 +0200" stop="20260628073100 +0200" channel="acontra+ CINE">
+    <title lang="es">Frank y el robot (2012)</title>
+    <desc lang="es">Un excriminal utiliza robots para robar nuevamente. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/712WibFxd0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260628073100 +0200" stop="20260628094600 +0200" channel="acontra+ CINE">
+    <title lang="es">En un lugar de África (2003)</title>
+    <desc lang="es">Temiendo la persecución nazi, un abogado judío arregla la huida de su mujer y su hija a Kenya. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71QI7a0twgL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
