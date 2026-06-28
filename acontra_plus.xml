@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260628104000 +0200" stop="20260628124000 +0200" channel="acontra+ CINE">
-    <title lang="es">Las mejores intenciones (1993)</title>
-    <desc lang="es">La historia de amor de Los Bergman, quienes lucharon contra el rígido sistema de clases dominante. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71r6TqHsM0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260628124000 +0200" stop="20260628141900 +0200" channel="acontra+ CINE">
-    <title lang="es">14 días, 12 noches (2021)</title>
-    <desc lang="es">Isabel vuelve a Vietnam un año después de la trágica muerte de su hija Clara. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/918nQDfInWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260628141900 +0200" stop="20260628155400 +0200" channel="acontra+ CINE">
+  <programme start="20260628135400 +0200" stop="20260628155400 +0200" channel="acontra+ CINE">
     <title lang="es">Habitación verde (2015)</title>
     <desc lang="es">Unos neonazis quieren matar a unos músicos. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/9163gYcEEDL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Kim Novak nunca estuvo aquí (2012)</title>
     <desc lang="es">Henry comienza unas idílicas vacaciones en el campo hasta que ocurre un terrible incidente. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Rx9R4K4hL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260628185800 +0200" stop="20260628204900 +0200" channel="acontra+ CINE">
+    <title lang="es">Tamara Drewe (2010)</title>
+    <desc lang="es">Tamara Drewe, una joven periodista, regresa a su pueblo natal de la campiña inglesa. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81YZ6DxdZ1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260628204900 +0200" stop="20260628222200 +0200" channel="acontra+ CINE">
+    <title lang="es">El séptimo sello (1956)</title>
+    <desc lang="es">Una alegoría del intento del ser humano por entender su destino y los misterios de la muerte. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/716CWrZG5-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260628222200 +0200" stop="20260629002000 +0200" channel="acontra+ CINE">
+    <title lang="es">Estación zombie (2016)</title>
+    <desc lang="es">Los pasajeros de un tren luchan por sobrevivir a un virus. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1VO3KLrRNL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
