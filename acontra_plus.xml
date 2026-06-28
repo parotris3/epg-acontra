@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260628135400 +0200" stop="20260628155400 +0200" channel="acontra+ CINE">
-    <title lang="es">Habitación verde (2015)</title>
-    <desc lang="es">Unos neonazis quieren matar a unos músicos. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/9163gYcEEDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260628155400 +0200" stop="20260628172600 +0200" channel="acontra+ CINE">
-    <title lang="es">The Salvation (2014)</title>
-    <desc lang="es">Un inmigrante danés en Estados Unidos se venga del asesinato de su mujer e hijo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Vfrel5kfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260628172600 +0200" stop="20260628185800 +0200" channel="acontra+ CINE">
-    <title lang="es">Kim Novak nunca estuvo aquí (2012)</title>
-    <desc lang="es">Henry comienza unas idílicas vacaciones en el campo hasta que ocurre un terrible incidente. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Rx9R4K4hL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260628185800 +0200" stop="20260628204900 +0200" channel="acontra+ CINE">
+  <programme start="20260628184900 +0200" stop="20260628204900 +0200" channel="acontra+ CINE">
     <title lang="es">Tamara Drewe (2010)</title>
     <desc lang="es">Tamara Drewe, una joven periodista, regresa a su pueblo natal de la campiña inglesa. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81YZ6DxdZ1L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Estación zombie (2016)</title>
     <desc lang="es">Los pasajeros de un tren luchan por sobrevivir a un virus. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1VO3KLrRNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260629002000 +0200" stop="20260629023200 +0200" channel="acontra+ CINE">
+    <title lang="es">La flauta mágica (1975)</title>
+    <desc lang="es">El príncipe Tamino busca rescatar a la princesa Pamina, secuestrada por un hechicero. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91rFoIZIBaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260629023200 +0200" stop="20260629040200 +0200" channel="acontra+ CINE">
+    <title lang="es">La pequeña princesa (1939)</title>
+    <desc lang="es">La hija de un oficial del ejército desaparecido tiene que trabajar como sirvienta para sobrevivir. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91xia6F8eQL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
