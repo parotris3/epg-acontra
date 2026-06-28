@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260628184900 +0200" stop="20260628204900 +0200" channel="acontra+ CINE">
-    <title lang="es">Tamara Drewe (2010)</title>
-    <desc lang="es">Tamara Drewe, una joven periodista, regresa a su pueblo natal de la campiña inglesa. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81YZ6DxdZ1L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260628204900 +0200" stop="20260628222200 +0200" channel="acontra+ CINE">
-    <title lang="es">El séptimo sello (1956)</title>
-    <desc lang="es">Una alegoría del intento del ser humano por entender su destino y los misterios de la muerte. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/716CWrZG5-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260628222200 +0200" stop="20260629002000 +0200" channel="acontra+ CINE">
+  <programme start="20260628222000 +0200" stop="20260629002000 +0200" channel="acontra+ CINE">
     <title lang="es">Estación zombie (2016)</title>
     <desc lang="es">Los pasajeros de un tren luchan por sobrevivir a un virus. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1VO3KLrRNL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">La pequeña princesa (1939)</title>
     <desc lang="es">La hija de un oficial del ejército desaparecido tiene que trabajar como sirvienta para sobrevivir. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91xia6F8eQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260629040200 +0200" stop="20260629053700 +0200" channel="acontra+ CINE">
+    <title lang="es">600 kilos de oro puro (2010)</title>
+    <desc lang="es">Aventureros roban una mina de oro en la Guyana, pero deben aterrizar de emergencia en plena jungla. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81EGNcaSulL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260629053700 +0200" stop="20260629071000 +0200" channel="acontra+ CINE">
+    <title lang="es">Funerarias S.A. (2002)</title>
+    <desc lang="es">La esposa de un político y el dueño de una funeraria deciden fingir la muerte de ella y huir juntos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/813PviWr4dL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260629071000 +0200" stop="20260629090300 +0200" channel="acontra+ CINE">
+    <title lang="es">Good Morning Babilonia (1987)</title>
+    <desc lang="es">Dos hermanos italianos buscan éxito como diseñadores de escenario en Estados Unidos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81+9mNV048L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
