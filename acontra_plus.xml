@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260629181500 +0200" stop="20260629201500 +0200" channel="acontra+ CINE">
-    <title lang="es">Nada (2022)</title>
-    <desc lang="es">Cuando Pierre Anthon comienza el octavo grado, no le ve sentido a la vida y se muda a un árbol. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Vrpm8h3cL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260629201500 +0200" stop="20260629220800 +0200" channel="acontra+ CINE">
-    <title lang="es">El dulce porvenir (1997)</title>
-    <desc lang="es">Un abogado va a un pequeño pueblo que sufre las secuelas del accidente de un autobús escolar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71-Vxuw0sKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260629220800 +0200" stop="20260630000100 +0200" channel="acontra+ CINE">
+  <programme start="20260629220100 +0200" stop="20260630000100 +0200" channel="acontra+ CINE">
     <title lang="es">Byzantium (2012)</title>
     <desc lang="es">Dos vampiresas que huyen de otros vampiros se refugian en una comunidad británica junto al mar. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91pz7+eAfkL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Pie de página (2011)</title>
     <desc lang="es">Comedia irónica sobre la competitividad, la lealtad, el amor y las relaciones entre padre e hijo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81BbzEwRiVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260630040100 +0200" stop="20260630053500 +0200" channel="acontra+ CINE">
+    <title lang="es">Welcome Home (2018)</title>
+    <desc lang="es">Un hombre manipula a una pareja vecina porque ve que su relación está deteriorada. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81wKMUYaEvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260630053500 +0200" stop="20260630070000 +0200" channel="acontra+ CINE">
+    <title lang="es">Toni (2014)</title>
+    <desc lang="es">Toni, un inmigrante italiano que trabaja en el sur de Francia, se enamora de una mujer local. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-0Dtqa25L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260630070000 +0200" stop="20260630082800 +0200" channel="acontra+ CINE">
+    <title lang="es">Fresas salvajes (1959)</title>
+    <desc lang="es">El profesor Borg reflexiona sobre los placeres y fracasos de su propia vida en un viaje. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/912DmnSVQ3L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
