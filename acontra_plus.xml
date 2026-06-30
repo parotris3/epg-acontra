@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260630185900 +0200" stop="20260630205900 +0200" channel="acontra+ CINE">
-    <title lang="es">La delicadeza (2011)</title>
-    <desc lang="es">El amor vuelve a llamar a la puerta de Nathalie, tras perder a su amado, en un compañero de trabajo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71YqDG7BGWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260630205900 +0200" stop="20260630223600 +0200" channel="acontra+ CINE">
-    <title lang="es">Pasión (1993)</title>
-    <desc lang="es">Un hombre recién divorciado conoce a una viuda y comienzan una historia de amor. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81rbTrvq8qL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260630223600 +0200" stop="20260701002200 +0200" channel="acontra+ CINE">
+  <programme start="20260630222200 +0200" stop="20260701002200 +0200" channel="acontra+ CINE">
     <title lang="es">Mr. Wain (2022)</title>
     <desc lang="es">Louis Wain comenzó a pintar las imágenes de gatos que lo hicieron mundialmente famoso. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81s187kzmYL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Cartas a Roxane (2018)</title>
     <desc lang="es">Edmond Rostand conoce a Constantín Coquelin que acepta interpretar Cyrano de Bergerac. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/814tsVpTvyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260701040200 +0200" stop="20260701052500 +0200" channel="acontra+ CINE">
+    <title lang="es">Deal (2008)</title>
+    <desc lang="es">Un exjugador de póker transmite toda su sabiduría a un estudiante universitario. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91zLQrEfMQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260701052500 +0200" stop="20260701070800 +0200" channel="acontra+ CINE">
+    <title lang="es">The Gift (2015)</title>
+    <desc lang="es">Un viejo conocido amenaza la felicidad de un matrimonio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/717a8vrAlSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260701070800 +0200" stop="20260701082600 +0200" channel="acontra+ CINE">
+    <title lang="es">El padre es abuelo (1951)</title>
+    <desc lang="es">Un padre ve interrumpida su tranquilidad cuando recibe la noticia de que va a ser abuelo. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81LkISzhNZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
