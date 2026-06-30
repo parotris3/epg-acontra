@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260629220100 +0200" stop="20260630000100 +0200" channel="acontra+ CINE">
-    <title lang="es">Byzantium (2012)</title>
-    <desc lang="es">Dos vampiresas que huyen de otros vampiros se refugian en una comunidad británica junto al mar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91pz7+eAfkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260630000100 +0200" stop="20260630021500 +0200" channel="acontra+ CINE">
-    <title lang="es">Crónica de una mentira (2009)</title>
-    <desc lang="es">Un estafador se hace pasar por un jefe de obra engañando a todo un pueblo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71eZ8Qi7n+L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260630021500 +0200" stop="20260630040100 +0200" channel="acontra+ CINE">
-    <title lang="es">Pie de página (2011)</title>
-    <desc lang="es">Comedia irónica sobre la competitividad, la lealtad, el amor y las relaciones entre padre e hijo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BbzEwRiVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260630040100 +0200" stop="20260630053500 +0200" channel="acontra+ CINE">
+  <programme start="20260630033500 +0200" stop="20260630053500 +0200" channel="acontra+ CINE">
     <title lang="es">Welcome Home (2018)</title>
     <desc lang="es">Un hombre manipula a una pareja vecina porque ve que su relación está deteriorada. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81wKMUYaEvL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Fresas salvajes (1959)</title>
     <desc lang="es">El profesor Borg reflexiona sobre los placeres y fracasos de su propia vida en un viaje. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/912DmnSVQ3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260630082800 +0200" stop="20260630095200 +0200" channel="acontra+ CINE">
+    <title lang="es">Si Dios quiere (2015)</title>
+    <desc lang="es">Un cardiólogo ateo y déspota se queda estupefacto cuando su hijo anuncia que quiere ser cura. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Tta569noL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260630095200 +0200" stop="20260630111800 +0200" channel="acontra+ CINE">
+    <title lang="es">Taxi Express (1998)</title>
+    <desc lang="es">Un taxista y un policía deberán detener a unos criminales. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81amQ9VvKIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260630111800 +0200" stop="20260630131400 +0200" channel="acontra+ CINE">
+    <title lang="es">Mi amigo Mr. Morgan (2013)</title>
+    <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
