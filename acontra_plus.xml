@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260630091800 +0200" stop="20260630111800 +0200" channel="acontra+ CINE">
-    <title lang="es">Taxi Express (1998)</title>
-    <desc lang="es">Un taxista y un policía deberán detener a unos criminales. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81amQ9VvKIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260630111800 +0200" stop="20260630131400 +0200" channel="acontra+ CINE">
-    <title lang="es">Mi amigo Mr. Morgan (2013)</title>
-    <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260630131400 +0200" stop="20260630152900 +0200" channel="acontra+ CINE">
+  <programme start="20260630132900 +0200" stop="20260630152900 +0200" channel="acontra+ CINE">
     <title lang="es">Conexión Marsella (2014)</title>
     <desc lang="es">Un joven magistrado es destinado a combatir la lucha contra el crimen organizado. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81-LZi-Jm3L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Cuento de Verano (1996)</title>
     <desc lang="es">Mientras aguarda a su novia, Gaspard se siente atraído por otras dos mujeres en sus vacaciones. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/719p7wpkgOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260630191000 +0200" stop="20260630205900 +0200" channel="acontra+ CINE">
+    <title lang="es">La delicadeza (2011)</title>
+    <desc lang="es">El amor vuelve a llamar a la puerta de Nathalie, tras perder a su amado, en un compañero de trabajo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71YqDG7BGWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260630205900 +0200" stop="20260630223600 +0200" channel="acontra+ CINE">
+    <title lang="es">Pasión (1993)</title>
+    <desc lang="es">Un hombre recién divorciado conoce a una viuda y comienzan una historia de amor. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81rbTrvq8qL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260630223600 +0200" stop="20260701002200 +0200" channel="acontra+ CINE">
+    <title lang="es">Mr. Wain (2022)</title>
+    <desc lang="es">Louis Wain comenzó a pintar las imágenes de gatos que lo hicieron mundialmente famoso. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81s187kzmYL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
