@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260630033500 +0200" stop="20260630053500 +0200" channel="acontra+ CINE">
-    <title lang="es">Welcome Home (2018)</title>
-    <desc lang="es">Un hombre manipula a una pareja vecina porque ve que su relación está deteriorada. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81wKMUYaEvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260630053500 +0200" stop="20260630070000 +0200" channel="acontra+ CINE">
-    <title lang="es">Toni (2014)</title>
-    <desc lang="es">Toni, un inmigrante italiano que trabaja en el sur de Francia, se enamora de una mujer local. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-0Dtqa25L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260630070000 +0200" stop="20260630082800 +0200" channel="acontra+ CINE">
-    <title lang="es">Fresas salvajes (1959)</title>
-    <desc lang="es">El profesor Borg reflexiona sobre los placeres y fracasos de su propia vida en un viaje. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/912DmnSVQ3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260630082800 +0200" stop="20260630095200 +0200" channel="acontra+ CINE">
-    <title lang="es">Si Dios quiere (2015)</title>
-    <desc lang="es">Un cardiólogo ateo y déspota se queda estupefacto cuando su hijo anuncia que quiere ser cura. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Tta569noL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260630095200 +0200" stop="20260630111800 +0200" channel="acontra+ CINE">
+  <programme start="20260630091800 +0200" stop="20260630111800 +0200" channel="acontra+ CINE">
     <title lang="es">Taxi Express (1998)</title>
     <desc lang="es">Un taxista y un policía deberán detener a unos criminales. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81amQ9VvKIL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +12,20 @@
     <title lang="es">Mi amigo Mr. Morgan (2013)</title>
     <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260630131400 +0200" stop="20260630152900 +0200" channel="acontra+ CINE">
+    <title lang="es">Conexión Marsella (2014)</title>
+    <desc lang="es">Un joven magistrado es destinado a combatir la lucha contra el crimen organizado. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-LZi-Jm3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260630152900 +0200" stop="20260630171600 +0200" channel="acontra+ CINE">
+    <title lang="es">Culpable sin rostro (conducta indecorosa) (2018)</title>
+    <desc lang="es">Un soldado británico trasladado a la India contra su voluntad comienza a rebelarse. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91kPrF3vm8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260630171600 +0200" stop="20260630191000 +0200" channel="acontra+ CINE">
+    <title lang="es">Cuento de Verano (1996)</title>
+    <desc lang="es">Mientras aguarda a su novia, Gaspard se siente atraído por otras dos mujeres en sus vacaciones. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/719p7wpkgOL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
