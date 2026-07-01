@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260701032500 +0200" stop="20260701052500 +0200" channel="acontra+ CINE">
-    <title lang="es">Deal (2008)</title>
-    <desc lang="es">Un exjugador de póker transmite toda su sabiduría a un estudiante universitario. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zLQrEfMQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260701052500 +0200" stop="20260701070800 +0200" channel="acontra+ CINE">
-    <title lang="es">The Gift (2015)</title>
-    <desc lang="es">Un viejo conocido amenaza la felicidad de un matrimonio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/717a8vrAlSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260701070800 +0200" stop="20260701082600 +0200" channel="acontra+ CINE">
-    <title lang="es">El padre es abuelo (1951)</title>
-    <desc lang="es">Un padre ve interrumpida su tranquilidad cuando recibe la noticia de que va a ser abuelo. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81LkISzhNZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260701082600 +0200" stop="20260701100000 +0200" channel="acontra+ CINE">
-    <title lang="es">Último día en Marte (2013)</title>
-    <desc lang="es">Bacteria alienígena transforma a los que infecta en zombis. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81WhrEFAFuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260701100000 +0200" stop="20260701115400 +0200" channel="acontra+ CINE">
+  <programme start="20260701095400 +0200" stop="20260701115400 +0200" channel="acontra+ CINE">
     <title lang="es">Fast Food Nation (2006)</title>
     <desc lang="es">Basada en el libro de Eric Schlosser. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1uAkKlOQmL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +12,20 @@
     <title lang="es">El collar rojo (2019)</title>
     <desc lang="es">En una aldea francesa azotada por el calor del verano de 1919, un perro no para de ladrar. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81gjqsqToNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260701131700 +0200" stop="20260701150500 +0200" channel="acontra+ CINE">
+    <title lang="es">Hombres contra mujeres (2010)</title>
+    <desc lang="es">Cuatro historias de pareja, amor y desamor en las que se aborda el problema de la guerra de sexos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Vl5ixvOYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260701150500 +0200" stop="20260701165600 +0200" channel="acontra+ CINE">
+    <title lang="es">La sala de baile (1984)</title>
+    <desc lang="es">Ettore Scola narra la historia de Europa de los últimos 50 años comprimiéndola en un salón de baile. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/813CAMpLW9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260701165600 +0200" stop="20260701183400 +0200" channel="acontra+ CINE">
+    <title lang="es">My Beautiful Laundrette (1986)</title>
+    <desc lang="es">Dos jóvenes se unen para restaurar una lavandería. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71PewlESOcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
