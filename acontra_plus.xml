@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260630222200 +0200" stop="20260701002200 +0200" channel="acontra+ CINE">
-    <title lang="es">Mr. Wain (2022)</title>
-    <desc lang="es">Louis Wain comenzó a pintar las imágenes de gatos que lo hicieron mundialmente famoso. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81s187kzmYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260701002200 +0200" stop="20260701020900 +0200" channel="acontra+ CINE">
-    <title lang="es">De latir mi corazón se ha parado (2005)</title>
-    <desc lang="es">Tom debe elegir entre seguir el sórdido negocio de su padre o convertirse en pianista como su madre. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81SLJ3sPFuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260701020900 +0200" stop="20260701040200 +0200" channel="acontra+ CINE">
-    <title lang="es">Cartas a Roxane (2018)</title>
-    <desc lang="es">Edmond Rostand conoce a Constantín Coquelin que acepta interpretar Cyrano de Bergerac. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/814tsVpTvyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260701040200 +0200" stop="20260701052500 +0200" channel="acontra+ CINE">
+  <programme start="20260701032500 +0200" stop="20260701052500 +0200" channel="acontra+ CINE">
     <title lang="es">Deal (2008)</title>
     <desc lang="es">Un exjugador de póker transmite toda su sabiduría a un estudiante universitario. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91zLQrEfMQL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El padre es abuelo (1951)</title>
     <desc lang="es">Un padre ve interrumpida su tranquilidad cuando recibe la noticia de que va a ser abuelo. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81LkISzhNZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260701082600 +0200" stop="20260701100000 +0200" channel="acontra+ CINE">
+    <title lang="es">Último día en Marte (2013)</title>
+    <desc lang="es">Bacteria alienígena transforma a los que infecta en zombis. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81WhrEFAFuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260701100000 +0200" stop="20260701115400 +0200" channel="acontra+ CINE">
+    <title lang="es">Fast Food Nation (2006)</title>
+    <desc lang="es">Basada en el libro de Eric Schlosser. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1uAkKlOQmL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260701115400 +0200" stop="20260701131700 +0200" channel="acontra+ CINE">
+    <title lang="es">El collar rojo (2019)</title>
+    <desc lang="es">En una aldea francesa azotada por el calor del verano de 1919, un perro no para de ladrar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81gjqsqToNL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
