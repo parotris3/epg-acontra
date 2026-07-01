@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260701130500 +0200" stop="20260701150500 +0200" channel="acontra+ CINE">
-    <title lang="es">Hombres contra mujeres (2010)</title>
-    <desc lang="es">Cuatro historias de pareja, amor y desamor en las que se aborda el problema de la guerra de sexos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Vl5ixvOYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260701150500 +0200" stop="20260701165600 +0200" channel="acontra+ CINE">
-    <title lang="es">La sala de baile (1984)</title>
-    <desc lang="es">Ettore Scola narra la historia de Europa de los últimos 50 años comprimiéndola en un salón de baile. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/813CAMpLW9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260701165600 +0200" stop="20260701183400 +0200" channel="acontra+ CINE">
-    <title lang="es">My Beautiful Laundrette (1986)</title>
-    <desc lang="es">Dos jóvenes se unen para restaurar una lavandería. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71PewlESOcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260701183400 +0200" stop="20260701200500 +0200" channel="acontra+ CINE">
+  <programme start="20260701180500 +0200" stop="20260701200500 +0200" channel="acontra+ CINE">
     <title lang="es">La infancia de Iván (1963)</title>
     <desc lang="es">Iván, un niño ruso cuyos padres murieron tras la invasión nazi, espía a los alemanes. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81EtCa22FeL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Ojos Negros (1987)</title>
     <desc lang="es">Romano, un hombre italiano, rememora un apasionado romance con una chica rusa llamada Anna. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/91xMn34dyHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260701234500 +0200" stop="20260702010900 +0200" channel="acontra+ CINE">
+    <title lang="es">Si Dios quiere (2015)</title>
+    <desc lang="es">Un cardiólogo ateo y déspota se queda estupefacto cuando su hijo anuncia que quiere ser cura. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Tta569noL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260702010900 +0200" stop="20260702023700 +0200" channel="acontra+ CINE">
+    <title lang="es">El sureño (1945)</title>
+    <desc lang="es">Un recolector de algodón de Texas busca tener su propia granja y darle una mejor vida a su familia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91+4OenNoUL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260702023700 +0200" stop="20260702040100 +0200" channel="acontra+ CINE">
+    <title lang="es">11:14 Destino fatal (2003)</title>
+    <desc lang="es">A las 11:14 de la mañana de un mismo día suceden simultáneamente dos accidentes automovilísticos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91b87S6oVxL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
