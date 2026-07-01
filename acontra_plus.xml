@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260701095400 +0200" stop="20260701115400 +0200" channel="acontra+ CINE">
-    <title lang="es">Fast Food Nation (2006)</title>
-    <desc lang="es">Basada en el libro de Eric Schlosser. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1uAkKlOQmL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260701115400 +0200" stop="20260701131700 +0200" channel="acontra+ CINE">
-    <title lang="es">El collar rojo (2019)</title>
-    <desc lang="es">En una aldea francesa azotada por el calor del verano de 1919, un perro no para de ladrar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81gjqsqToNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260701131700 +0200" stop="20260701150500 +0200" channel="acontra+ CINE">
+  <programme start="20260701130500 +0200" stop="20260701150500 +0200" channel="acontra+ CINE">
     <title lang="es">Hombres contra mujeres (2010)</title>
     <desc lang="es">Cuatro historias de pareja, amor y desamor en las que se aborda el problema de la guerra de sexos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Vl5ixvOYL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">My Beautiful Laundrette (1986)</title>
     <desc lang="es">Dos jóvenes se unen para restaurar una lavandería. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71PewlESOcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260701183400 +0200" stop="20260701200500 +0200" channel="acontra+ CINE">
+    <title lang="es">La infancia de Iván (1963)</title>
+    <desc lang="es">Iván, un niño ruso cuyos padres murieron tras la invasión nazi, espía a los alemanes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81EtCa22FeL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260701200500 +0200" stop="20260701214800 +0200" channel="acontra+ CINE">
+    <title lang="es">Cal (1989)</title>
+    <desc lang="es">En Irlanda del Norte, un joven católico es sospechoso en el asesinato de un policía protestante. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81T3UBe8n8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260701214800 +0200" stop="20260701234500 +0200" channel="acontra+ CINE">
+    <title lang="es">Ojos Negros (1987)</title>
+    <desc lang="es">Romano, un hombre italiano, rememora un apasionado romance con una chica rusa llamada Anna. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91xMn34dyHL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
