@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260702035500 +0200" stop="20260702055500 +0200" channel="acontra+ CINE">
-    <title lang="es">13 minutos para matar a Hitler (2015)</title>
-    <desc lang="es">Georg Elser pudo haber cambiado el rumbo de la historia de haber contado con trece minutos más. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Nrgxbf4VL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260702055500 +0200" stop="20260702073200 +0200" channel="acontra+ CINE">
-    <title lang="es">Dies Irae (1943)</title>
-    <desc lang="es">En un pueblo danés del siglo XVII, una anciana es acusada de brujería. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81zpJq2N50L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260702073200 +0200" stop="20260702094600 +0200" channel="acontra+ CINE">
-    <title lang="es">Francesco (1989)</title>
-    <desc lang="es">Tras la muerte de San Francisco de Asís, sus amigos más cercanos hablan de la vida del santo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81oU1qjZcsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260702094600 +0200" stop="20260702112100 +0200" channel="acontra+ CINE">
+  <programme start="20260702092100 +0200" stop="20260702112100 +0200" channel="acontra+ CINE">
     <title lang="es">La mujer casada (1965)</title>
     <desc lang="es">Un ensayo psicológico y una crítica de la posición de la mujer en la sociedad moderna. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Gd8kl6v1L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Cartas a Roxane (2018)</title>
     <desc lang="es">Edmond Rostand conoce a Constantín Coquelin que acepta interpretar Cyrano de Bergerac. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/814tsVpTvyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260702143000 +0200" stop="20260702161000 +0200" channel="acontra+ CINE">
+    <title lang="es">Perdidos en el Pacífico (2015)</title>
+    <desc lang="es">Sin comida, agua, ni esperanza de rescate, unos soldados navegan sin rumbo tras un accidente. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91elM7CEYmL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260702161000 +0200" stop="20260702180100 +0200" channel="acontra+ CINE">
+    <title lang="es">Tamara Drewe (2010)</title>
+    <desc lang="es">Tamara Drewe, una joven periodista, regresa a su pueblo natal de la campiña inglesa. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81YZ6DxdZ1L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
