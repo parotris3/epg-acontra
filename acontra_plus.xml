@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260702092100 +0200" stop="20260702112100 +0200" channel="acontra+ CINE">
-    <title lang="es">La mujer casada (1965)</title>
-    <desc lang="es">Un ensayo psicológico y una crítica de la posición de la mujer en la sociedad moderna. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Gd8kl6v1L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260702112100 +0200" stop="20260702123800 +0200" channel="acontra+ CINE">
-    <title lang="es">Más allá de la duda (1956)</title>
-    <desc lang="es">Un escritor intenta demostrar la deficiencia de las leyes y la ineficacia de la policía. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Oc-S15fdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260702123800 +0200" stop="20260702143000 +0200" channel="acontra+ CINE">
-    <title lang="es">Cartas a Roxane (2018)</title>
-    <desc lang="es">Edmond Rostand conoce a Constantín Coquelin que acepta interpretar Cyrano de Bergerac. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/814tsVpTvyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260702143000 +0200" stop="20260702161000 +0200" channel="acontra+ CINE">
+  <programme start="20260702141000 +0200" stop="20260702161000 +0200" channel="acontra+ CINE">
     <title lang="es">Perdidos en el Pacífico (2015)</title>
     <desc lang="es">Sin comida, agua, ni esperanza de rescate, unos soldados navegan sin rumbo tras un accidente. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91elM7CEYmL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">Tamara Drewe (2010)</title>
     <desc lang="es">Tamara Drewe, una joven periodista, regresa a su pueblo natal de la campiña inglesa. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81YZ6DxdZ1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260702180100 +0200" stop="20260702193500 +0200" channel="acontra+ CINE">
+    <title lang="es">Un verano con Mónica (1955)</title>
+    <desc lang="es">Dos adolescentes se enamoran y dejan todo para emprender un viaje juntos en barco. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81X33-oJfLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260702193500 +0200" stop="20260702210700 +0200" channel="acontra+ CINE">
+    <title lang="es">No mires atrás (2010)</title>
+    <desc lang="es">El inspector Sanzio investiga la violenta muerte de una adolescente en un paraje montañoso italiano. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81G3YyAkyfL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260702210700 +0200" stop="20260702224700 +0200" channel="acontra+ CINE">
+    <title lang="es">Mejor otro día (2014)</title>
+    <desc lang="es">En Londres, durante la noche de fin de año, cuatro desconocidos coinciden para lanzarse al vacío. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81BOSXet0mL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260702224700 +0200" stop="20260703004800 +0200" channel="acontra+ CINE">
+    <title lang="es">Madres e hijas (2010)</title>
+    <desc lang="es">Tres mujeres, Karen, Elizabeth y Lucy, comparten un objetivo común: adoptar a un hijo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8165KRQ-0PL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
