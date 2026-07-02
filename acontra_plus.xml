@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260702190700 +0200" stop="20260702210700 +0200" channel="acontra+ CINE">
-    <title lang="es">No mires atrás (2010)</title>
-    <desc lang="es">El inspector Sanzio investiga la violenta muerte de una adolescente en un paraje montañoso italiano. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81G3YyAkyfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260702210700 +0200" stop="20260702224700 +0200" channel="acontra+ CINE">
-    <title lang="es">Mejor otro día (2014)</title>
-    <desc lang="es">En Londres, durante la noche de fin de año, cuatro desconocidos coinciden para lanzarse al vacío. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BOSXet0mL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260702224700 +0200" stop="20260703004800 +0200" channel="acontra+ CINE">
+  <programme start="20260702224800 +0200" stop="20260703004800 +0200" channel="acontra+ CINE">
     <title lang="es">Madres e hijas (2010)</title>
     <desc lang="es">Tres mujeres, Karen, Elizabeth y Lucy, comparten un objetivo común: adoptar a un hijo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/8165KRQ-0PL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">El Rey de Nueva York (1990)</title>
     <desc lang="es">Un capo de la droga psicótico decide al dejar la prisión compartir sus ganancias con los pobres. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81e8X4Con+L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260703040800 +0200" stop="20260703055600 +0200" channel="acontra+ CINE">
+    <title lang="es">Una llamada perdida (2003)</title>
+    <desc lang="es">Una joven ve cómo sus amigos mueren uno a uno víctimas de una extraña maldición. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81RmNuQznoL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260703055600 +0200" stop="20260703073600 +0200" channel="acontra+ CINE">
+    <title lang="es">Llamada perdida final</title>
+    <desc lang="es">Una niña acosada por sus compañeros de clase inicia su venganza enviando una perturbadora imagen. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/811pr77f+pL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260703073600 +0200" stop="20260703091700 +0200" channel="acontra+ CINE">
+    <title lang="es">Un condenado a muerte se ha escapado (1956)</title>
+    <desc lang="es">En 1943, un soldado de la Resistencia francesa es arrestado y encerrado en el Fuerte Montjuic. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91CfviYQcvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
