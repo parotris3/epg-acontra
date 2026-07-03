@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260703180200 +0200" stop="20260703200200 +0200" channel="acontra+ CINE">
-    <title lang="es">El infierno bajo tierra (2009)</title>
-    <desc lang="es">Un equipo científico ocupa una estación de perforación abandonada en el desierto del Sahara. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71mk-wkBfPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260703200200 +0200" stop="20260703213200 +0200" channel="acontra+ CINE">
-    <title lang="es">El señor de las moscas (1990)</title>
-    <desc lang="es">Los supervivientes a un accidente de avión militar tendrán que sobrevivir en una isla. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81a1hgGIvjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260703213200 +0200" stop="20260703224300 +0200" channel="acontra+ CINE">
-    <title lang="es">La reina de Nueva York (1937)</title>
-    <desc lang="es">La suerte de un periodista cambia cuando le vende a su editor la trágica historia de una chica. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/910YKxlZQDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260703224300 +0200" stop="20260704004200 +0200" channel="acontra+ CINE">
+  <programme start="20260703224200 +0200" stop="20260704004200 +0200" channel="acontra+ CINE">
     <title lang="es">El año que dejamos de jugar (2019)</title>
     <desc lang="es">Anna y su familia de origen judío deben ir de Berlín tras el ascenso de Hitler. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81RzywxeukL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Todos los animales pequeños (1998)</title>
     <desc lang="es">Bobby, un joven discapacitado psíquico, decide huir de su padrastro a través de la campiña inglesa. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91nvNVgFCVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260704041300 +0200" stop="20260704054900 +0200" channel="acontra+ CINE">
+    <title lang="es">Staten Island (2009)</title>
+    <desc lang="es">Bajo la sombra de Manhattan, las vidas de tres desconocidos se cruzan en Staten Island. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91egPGOTljL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260704054900 +0200" stop="20260704072500 +0200" channel="acontra+ CINE">
+    <title lang="es">Zazie en el metro (1960)</title>
+    <desc lang="es">Zazie, una niña de doce años, llega a París con una cosa en mente: viajar en metro. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91XvQNXaO9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260704072500 +0200" stop="20260704090400 +0200" channel="acontra+ CINE">
+    <title lang="es">La madre del mal (2007)</title>
+    <desc lang="es">Sarah se convierte en la última esperanza para salvar al mundo de una bruja maligna. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71xbAA4o58L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
