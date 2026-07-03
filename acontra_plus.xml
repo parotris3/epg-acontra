@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260703144000 +0200" stop="20260703164000 +0200" channel="acontra+ CINE">
-    <title lang="es">Bellísima (1981)</title>
-    <desc lang="es">Madalena Cecconi hace todo lo posible para que su hija María se convierta en una estrella de cine. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-sgxXyzTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260703164000 +0200" stop="20260703183900 +0200" channel="acontra+ CINE">
-    <title lang="es">Angel (2007)</title>
-    <desc lang="es">Inglaterra, 1910. Ángel Deverell, una joven de origen humilde, trata de escalar socialmente. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81shyQSUPuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260703183900 +0200" stop="20260703200200 +0200" channel="acontra+ CINE">
+  <programme start="20260703180200 +0200" stop="20260703200200 +0200" channel="acontra+ CINE">
     <title lang="es">El infierno bajo tierra (2009)</title>
     <desc lang="es">Un equipo científico ocupa una estación de perforación abandonada en el desierto del Sahara. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71mk-wkBfPL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">El año que dejamos de jugar (2019)</title>
     <desc lang="es">Anna y su familia de origen judío deben ir de Berlín tras el ascenso de Hitler. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81RzywxeukL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260704004200 +0200" stop="20260704021900 +0200" channel="acontra+ CINE">
+    <title lang="es">La horda (2009)</title>
+    <desc lang="es">Un grupo de policías corruptos y criminales despiadados aúnan fuerzas en contra de unos monstruos. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81opcegUrLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260704021900 +0200" stop="20260704041300 +0200" channel="acontra+ CINE">
+    <title lang="es">Todos los animales pequeños (1998)</title>
+    <desc lang="es">Bobby, un joven discapacitado psíquico, decide huir de su padrastro a través de la campiña inglesa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91nvNVgFCVL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
