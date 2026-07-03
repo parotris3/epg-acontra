@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260703083600 +0200" stop="20260703103600 +0200" channel="acontra+ CINE">
-    <title lang="es">Willow Creek (2014)</title>
-    <desc lang="es">Una pareja se adentra en el bosque en busca de una foto que demuestre la existencia del Pie Grande. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71QKxQmk0OL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260703103600 +0200" stop="20260703123700 +0200" channel="acontra+ CINE">
-    <title lang="es">El piano (1993)</title>
-    <desc lang="es">Ada se queda viuda y viaja con su hija a Nueva Zelanda para un matrimonio concertado. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71hTexxx1xL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260703123700 +0200" stop="20260703145000 +0200" channel="acontra+ CINE">
-    <title lang="es">Harakiri (1962)</title>
-    <desc lang="es">En el Japón de 1630, abundan los samuráis que han perdido su sentido de propósito. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91YkEs3n9sL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260703145000 +0200" stop="20260703164000 +0200" channel="acontra+ CINE">
+  <programme start="20260703144000 +0200" stop="20260703164000 +0200" channel="acontra+ CINE">
     <title lang="es">Bellísima (1981)</title>
     <desc lang="es">Madalena Cecconi hace todo lo posible para que su hija María se convierta en una estrella de cine. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81-sgxXyzTL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">Angel (2007)</title>
     <desc lang="es">Inglaterra, 1910. Ángel Deverell, una joven de origen humilde, trata de escalar socialmente. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81shyQSUPuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260703183900 +0200" stop="20260703200200 +0200" channel="acontra+ CINE">
+    <title lang="es">El infierno bajo tierra (2009)</title>
+    <desc lang="es">Un equipo científico ocupa una estación de perforación abandonada en el desierto del Sahara. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71mk-wkBfPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260703200200 +0200" stop="20260703213200 +0200" channel="acontra+ CINE">
+    <title lang="es">El señor de las moscas (1990)</title>
+    <desc lang="es">Los supervivientes a un accidente de avión militar tendrán que sobrevivir en una isla. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81a1hgGIvjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260703213200 +0200" stop="20260703224300 +0200" channel="acontra+ CINE">
+    <title lang="es">La reina de Nueva York (1937)</title>
+    <desc lang="es">La suerte de un periodista cambia cuando le vende a su editor la trágica historia de una chica. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/910YKxlZQDL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260703224300 +0200" stop="20260704004200 +0200" channel="acontra+ CINE">
+    <title lang="es">El año que dejamos de jugar (2019)</title>
+    <desc lang="es">Anna y su familia de origen judío deben ir de Berlín tras el ascenso de Hitler. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81RzywxeukL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
