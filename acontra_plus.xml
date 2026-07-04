@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260704085400 +0200" stop="20260704105400 +0200" channel="acontra+ CINE">
-    <title lang="es">The Lawnmower Man (1992)</title>
-    <desc lang="es">Un jardinero se vuelve un terror de tecnología avanzada. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81xF4UqUoGL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260704105400 +0200" stop="20260704122700 +0200" channel="acontra+ CINE">
-    <title lang="es">Lawnmower Man 2: Jobe's War (1996)</title>
-    <desc lang="es">Un villano de la realidad virtual planea controlar al mundo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8105XNJ3boL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260704122700 +0200" stop="20260704135900 +0200" channel="acontra+ CINE">
-    <title lang="es">Semilla de crisantemo (1990)</title>
-    <desc lang="es">En la China rural, un hombre mayor compra a Ju Dou, una joven campesina. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81SKH9+LbUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260704135900 +0200" stop="20260704154600 +0200" channel="acontra+ CINE">
+  <programme start="20260704134600 +0200" stop="20260704154600 +0200" channel="acontra+ CINE">
     <title lang="es">Campeón de campeones (2005)</title>
     <desc lang="es">Un exconvicto intenta hacerse un sitio en el boxeo profesional. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/915euSGuKoL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Cleo de 5 a 7 (1963)</title>
     <desc lang="es">Cléo deambula, angustiada, mientras aguarda los resultados de un análisis médico. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81K289K2nQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260704184700 +0200" stop="20260704204400 +0200" channel="acontra+ CINE">
+    <title lang="es">El manantial (2001)</title>
+    <desc lang="es">La rivalidad entre dos familias encuentra su cauce. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81YmyIr+LdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260704204400 +0200" stop="20260704220400 +0200" channel="acontra+ CINE">
+    <title lang="es">La cena de los idiotas (1998)</title>
+    <desc lang="es">Un francés adinerado mantiene un certamen semanal para ver quién trae como invitado al mayor idiota. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ALhSuqkiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260704220400 +0200" stop="20260704235700 +0200" channel="acontra+ CINE">
+    <title lang="es">Girlhood (2014)</title>
+    <desc lang="es">Marieme es una chica de los suburbios de París que se une a una banda callejera femenina. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91jo3kwvZxL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
