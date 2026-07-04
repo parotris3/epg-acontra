@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260704134600 +0200" stop="20260704154600 +0200" channel="acontra+ CINE">
-    <title lang="es">Campeón de campeones (2005)</title>
-    <desc lang="es">Un exconvicto intenta hacerse un sitio en el boxeo profesional. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/915euSGuKoL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260704154600 +0200" stop="20260704171700 +0200" channel="acontra+ CINE">
-    <title lang="es">Asalto a la comisaría del distrito 13 (1976)</title>
-    <desc lang="es">Un policía de Los Ángeles recibe su primer destino en una comisaría que está siendo trasladada. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81oSJqNa7iL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260704171700 +0200" stop="20260704184700 +0200" channel="acontra+ CINE">
-    <title lang="es">Cleo de 5 a 7 (1963)</title>
-    <desc lang="es">Cléo deambula, angustiada, mientras aguarda los resultados de un análisis médico. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81K289K2nQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260704184700 +0200" stop="20260704204400 +0200" channel="acontra+ CINE">
+  <programme start="20260704184400 +0200" stop="20260704204400 +0200" channel="acontra+ CINE">
     <title lang="es">El manantial (2001)</title>
     <desc lang="es">La rivalidad entre dos familias encuentra su cauce. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81YmyIr+LdL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Girlhood (2014)</title>
     <desc lang="es">Marieme es una chica de los suburbios de París que se une a una banda callejera femenina. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91jo3kwvZxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260704235700 +0200" stop="20260705015200 +0200" channel="acontra+ CINE">
+    <title lang="es">Vania en la calle 42 (1994)</title>
+    <desc lang="es">En los noventa, André Gregory montó unas representaciones privadas de la obra "Tío Vania" de Chéjov. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81d8v6E967L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260705015200 +0200" stop="20260705040000 +0200" channel="acontra+ CINE">
+    <title lang="es">Nostalgia (1983)</title>
+    <desc lang="es">Un escritor ruso viaja a Italia para investigar la vida de un compositor ruso que estudió allí. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/912DRKglhmL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260705040000 +0200" stop="20260705055900 +0200" channel="acontra+ CINE">
+    <title lang="es">Oro (1974)</title>
+    <desc lang="es">El gerente de unas minas de Sudáfrica trama un plan para subir el precio del oro en el mercado. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81PzgJJMnvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
