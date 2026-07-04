@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260704184400 +0200" stop="20260704204400 +0200" channel="acontra+ CINE">
-    <title lang="es">El manantial (2001)</title>
-    <desc lang="es">La rivalidad entre dos familias encuentra su cauce. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81YmyIr+LdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260704204400 +0200" stop="20260704220400 +0200" channel="acontra+ CINE">
-    <title lang="es">La cena de los idiotas (1998)</title>
-    <desc lang="es">Un francés adinerado mantiene un certamen semanal para ver quién trae como invitado al mayor idiota. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ALhSuqkiL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260704220400 +0200" stop="20260704235700 +0200" channel="acontra+ CINE">
-    <title lang="es">Girlhood (2014)</title>
-    <desc lang="es">Marieme es una chica de los suburbios de París que se une a una banda callejera femenina. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91jo3kwvZxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260704235700 +0200" stop="20260705015200 +0200" channel="acontra+ CINE">
+  <programme start="20260704235200 +0200" stop="20260705015200 +0200" channel="acontra+ CINE">
     <title lang="es">Vania en la calle 42 (1994)</title>
     <desc lang="es">En los noventa, André Gregory montó unas representaciones privadas de la obra "Tío Vania" de Chéjov. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81d8v6E967L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Oro (1974)</title>
     <desc lang="es">El gerente de unas minas de Sudáfrica trama un plan para subir el precio del oro en el mercado. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81PzgJJMnvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260705055900 +0200" stop="20260705073700 +0200" channel="acontra+ CINE">
+    <title lang="es">Soltera a los 40 (2014)</title>
+    <desc lang="es">La vida de Ave María Mulligan se pone patas arriba cuando descubre un secreto familiar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91xlVzV85AL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260705073700 +0200" stop="20260705090200 +0200" channel="acontra+ CINE">
+    <title lang="es">The Penthouse</title>
+    <desc lang="es">La vida de una pareja se convierte en una pesadilla cuando un sospechoso de asesinato los acecha. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91H6hzcC5sL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
