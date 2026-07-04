@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260704034900 +0200" stop="20260704054900 +0200" channel="acontra+ CINE">
-    <title lang="es">Staten Island (2009)</title>
-    <desc lang="es">Bajo la sombra de Manhattan, las vidas de tres desconocidos se cruzan en Staten Island. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91egPGOTljL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260704054900 +0200" stop="20260704072500 +0200" channel="acontra+ CINE">
-    <title lang="es">Zazie en el metro (1960)</title>
-    <desc lang="es">Zazie, una niña de doce años, llega a París con una cosa en mente: viajar en metro. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91XvQNXaO9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260704072500 +0200" stop="20260704090400 +0200" channel="acontra+ CINE">
-    <title lang="es">La madre del mal (2007)</title>
-    <desc lang="es">Sarah se convierte en la última esperanza para salvar al mundo de una bruja maligna. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71xbAA4o58L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260704090400 +0200" stop="20260704105400 +0200" channel="acontra+ CINE">
+  <programme start="20260704085400 +0200" stop="20260704105400 +0200" channel="acontra+ CINE">
     <title lang="es">The Lawnmower Man (1992)</title>
     <desc lang="es">Un jardinero se vuelve un terror de tecnología avanzada. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81xF4UqUoGL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Semilla de crisantemo (1990)</title>
     <desc lang="es">En la China rural, un hombre mayor compra a Ju Dou, una joven campesina. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81SKH9+LbUL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260704135900 +0200" stop="20260704154600 +0200" channel="acontra+ CINE">
+    <title lang="es">Campeón de campeones (2005)</title>
+    <desc lang="es">Un exconvicto intenta hacerse un sitio en el boxeo profesional. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/915euSGuKoL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260704154600 +0200" stop="20260704171700 +0200" channel="acontra+ CINE">
+    <title lang="es">Asalto a la comisaría del distrito 13 (1976)</title>
+    <desc lang="es">Un policía de Los Ángeles recibe su primer destino en una comisaría que está siendo trasladada. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81oSJqNa7iL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260704171700 +0200" stop="20260704184700 +0200" channel="acontra+ CINE">
+    <title lang="es">Cleo de 5 a 7 (1963)</title>
+    <desc lang="es">Cléo deambula, angustiada, mientras aguarda los resultados de un análisis médico. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81K289K2nQL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
