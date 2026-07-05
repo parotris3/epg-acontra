@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260704235200 +0200" stop="20260705015200 +0200" channel="acontra+ CINE">
-    <title lang="es">Vania en la calle 42 (1994)</title>
-    <desc lang="es">En los noventa, André Gregory montó unas representaciones privadas de la obra "Tío Vania" de Chéjov. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81d8v6E967L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260705015200 +0200" stop="20260705040000 +0200" channel="acontra+ CINE">
-    <title lang="es">Nostalgia (1983)</title>
-    <desc lang="es">Un escritor ruso viaja a Italia para investigar la vida de un compositor ruso que estudió allí. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/912DRKglhmL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260705040000 +0200" stop="20260705055900 +0200" channel="acontra+ CINE">
+  <programme start="20260705035900 +0200" stop="20260705055900 +0200" channel="acontra+ CINE">
     <title lang="es">Oro (1974)</title>
     <desc lang="es">El gerente de unas minas de Sudáfrica trama un plan para subir el precio del oro en el mercado. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81PzgJJMnvL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">The Penthouse</title>
     <desc lang="es">La vida de una pareja se convierte en una pesadilla cuando un sospechoso de asesinato los acecha. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91H6hzcC5sL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260705090200 +0200" stop="20260705103500 +0200" channel="acontra+ CINE">
+    <title lang="es">Cuando se acaba (2017)</title>
+    <desc lang="es">La relación de Will y Anna cambia por terceras personas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91H7-OWuwyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260705103500 +0200" stop="20260705122100 +0200" channel="acontra+ CINE">
+    <title lang="es">Dominio inminente (1991)</title>
+    <desc lang="es">El camarada polaco Jozef Burski, acostumbrado a los lujos, ve cómo sus privilegios se acaban. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91lwMk2yZGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260705122100 +0200" stop="20260705140200 +0200" channel="acontra+ CINE">
+    <title lang="es">La parte de los ángeles (2012)</title>
+    <desc lang="es">Robbie apenas evade la cárcel, se inspira para hallar la forma de salir de una vida sin esperanza. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ExK0oAYLL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
