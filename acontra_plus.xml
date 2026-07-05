@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260705083500 +0200" stop="20260705103500 +0200" channel="acontra+ CINE">
-    <title lang="es">Cuando se acaba (2017)</title>
-    <desc lang="es">La relación de Will y Anna cambia por terceras personas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91H7-OWuwyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260705103500 +0200" stop="20260705122100 +0200" channel="acontra+ CINE">
-    <title lang="es">Dominio inminente (1991)</title>
-    <desc lang="es">El camarada polaco Jozef Burski, acostumbrado a los lujos, ve cómo sus privilegios se acaban. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91lwMk2yZGL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260705122100 +0200" stop="20260705140200 +0200" channel="acontra+ CINE">
-    <title lang="es">La parte de los ángeles (2012)</title>
-    <desc lang="es">Robbie apenas evade la cárcel, se inspira para hallar la forma de salir de una vida sin esperanza. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ExK0oAYLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260705140200 +0200" stop="20260705154800 +0200" channel="acontra+ CINE">
+  <programme start="20260705134800 +0200" stop="20260705154800 +0200" channel="acontra+ CINE">
     <title lang="es">Gigolo (2024)</title>
     <desc lang="es">Tras la Primera Guerra Mundial, un hombre regresa a Berlín y decide convertirse en "gigoló". | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71hraIcbBVL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El escándalo Ted Kennedy (2017)</title>
     <desc lang="es">Al salir de una fiesta en 1969, el senador Ted Kennedy y su acompañante sufren un accidente. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71I96M5i2VL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260705190700 +0200" stop="20260705204200 +0200" channel="acontra+ CINE">
+    <title lang="es">Dos vidas en un instante (1998)</title>
+    <desc lang="es">En medio de las crisis, la vida de Helen da un giro y experimenta una realidad alternativa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71gf9K9ZaPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260705204200 +0200" stop="20260705222400 +0200" channel="acontra+ CINE">
+    <title lang="es">Bailar con un extraño (1985)</title>
+    <desc lang="es">Ruth Ellis trabaja en un sórdido club. Una noche, conoce a un rico y atractivo piloto de carreras. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81sTim8TWNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260705222400 +0200" stop="20260705235500 +0200" channel="acontra+ CINE">
+    <title lang="es">Palabras suaves (1985)</title>
+    <desc lang="es">Connie Wyatt es una chica de quince años de espíritu libre que vuelve locos a los chicos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1CMMnYpAcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
