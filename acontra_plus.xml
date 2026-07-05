@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260705035900 +0200" stop="20260705055900 +0200" channel="acontra+ CINE">
-    <title lang="es">Oro (1974)</title>
-    <desc lang="es">El gerente de unas minas de Sudáfrica trama un plan para subir el precio del oro en el mercado. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81PzgJJMnvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260705055900 +0200" stop="20260705073700 +0200" channel="acontra+ CINE">
-    <title lang="es">Soltera a los 40 (2014)</title>
-    <desc lang="es">La vida de Ave María Mulligan se pone patas arriba cuando descubre un secreto familiar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91xlVzV85AL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260705073700 +0200" stop="20260705090200 +0200" channel="acontra+ CINE">
-    <title lang="es">The Penthouse</title>
-    <desc lang="es">La vida de una pareja se convierte en una pesadilla cuando un sospechoso de asesinato los acecha. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91H6hzcC5sL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260705090200 +0200" stop="20260705103500 +0200" channel="acontra+ CINE">
+  <programme start="20260705083500 +0200" stop="20260705103500 +0200" channel="acontra+ CINE">
     <title lang="es">Cuando se acaba (2017)</title>
     <desc lang="es">La relación de Will y Anna cambia por terceras personas. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91H7-OWuwyL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La parte de los ángeles (2012)</title>
     <desc lang="es">Robbie apenas evade la cárcel, se inspira para hallar la forma de salir de una vida sin esperanza. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71ExK0oAYLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260705140200 +0200" stop="20260705154800 +0200" channel="acontra+ CINE">
+    <title lang="es">Gigolo (2024)</title>
+    <desc lang="es">Tras la Primera Guerra Mundial, un hombre regresa a Berlín y decide convertirse en "gigoló". | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71hraIcbBVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260705154800 +0200" stop="20260705172000 +0200" channel="acontra+ CINE">
+    <title lang="es">Un Plan Para Enamorarse (2011)</title>
+    <desc lang="es">Una consejera matrimonial recién casada descubre que sus padres se van a divorciar. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71gP16ib9fL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260705172000 +0200" stop="20260705190700 +0200" channel="acontra+ CINE">
+    <title lang="es">El escándalo Ted Kennedy (2017)</title>
+    <desc lang="es">Al salir de una fiesta en 1969, el senador Ted Kennedy y su acompañante sufren un accidente. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71I96M5i2VL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
