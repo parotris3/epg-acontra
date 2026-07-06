@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260705235200 +0200" stop="20260706015200 +0200" channel="acontra+ CINE">
-    <title lang="es">La voz de la luna (1990)</title>
-    <desc lang="es">Un conspiranoico y su amigo poeta viven una aventura onírica en la llanura del Po. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91ml1q898YL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260706015200 +0200" stop="20260706040100 +0200" channel="acontra+ CINE">
-    <title lang="es">Madame Marguerite (2015)</title>
-    <desc lang="es">Una mujer se propone cantar ópera delante de un gran público a pesar de desafinar terriblemente. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nyw5jz0uL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260706040100 +0200" stop="20260706054300 +0200" channel="acontra+ CINE">
+  <programme start="20260706034300 +0200" stop="20260706054300 +0200" channel="acontra+ CINE">
     <title lang="es">Los limoneros (2008)</title>
     <desc lang="es">Salma, una viuda palestina, defiende sus limoneros frente a las fuerzas de seguridad israelíes. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/818VZluvhoL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">14 días, 12 noches (2021)</title>
     <desc lang="es">Isabel vuelve a Vietnam un año después de la trágica muerte de su hija Clara. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/918nQDfInWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260706091600 +0200" stop="20260706110700 +0200" channel="acontra+ CINE">
+    <title lang="es">La música del silencio (2017)</title>
+    <desc lang="es">Amos Bardi es un joven que padece ceguera y que posee un gran talento para el canto. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81teHVb2TuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260706110700 +0200" stop="20260706124600 +0200" channel="acontra+ CINE">
+    <title lang="es">71 fragmentos de una cronología del azar</title>
+    <desc lang="es">Fragmentos separados por cortes de pantalla en negro describen las vidas de varias personas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/916aQRjTMpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260706124600 +0200" stop="20260706143300 +0200" channel="acontra+ CINE">
+    <title lang="es">Cuento de primavera (1990)</title>
+    <desc lang="es">Una estudiante de música desea que su padre conozca a su nueva amiga, una maestra de filosofía. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tp9wOoGTL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
