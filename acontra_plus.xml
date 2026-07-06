@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260706142000 +0200" stop="20260706162000 +0200" channel="acontra+ CINE">
-    <title lang="es">Culpable sin rostro (conducta indecorosa) (2018)</title>
-    <desc lang="es">Un soldado británico trasladado a la India contra su voluntad comienza a rebelarse. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91kPrF3vm8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260706162000 +0200" stop="20260706180000 +0200" channel="acontra+ CINE">
-    <title lang="es">El grito de la lechuza (2010)</title>
-    <desc lang="es">Un joven arquitecto, deprimido y en proceso de divorcio, se muda a una pequeña comunidad. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71eILbXT65L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260706180000 +0200" stop="20260706200300 +0200" channel="acontra+ CINE">
+  <programme start="20260706180300 +0200" stop="20260706200300 +0200" channel="acontra+ CINE">
     <title lang="es">Feliz Navidad, Mr. Lawrence (1983)</title>
     <desc lang="es">Un intenso duelo de voluntades se establece entre comandantes japoneses y prisioneros británicos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1Ece-qw1kL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">La rodilla de Clara (1971)</title>
     <desc lang="es">Un diplomático a punto de casarse se obsesiona con una parte particular de la anatomía de una mujer. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71ZMw3uHxdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260706235800 +0200" stop="20260707012400 +0200" channel="acontra+ CINE">
+    <title lang="es">Kamikaze (1989)</title>
+    <desc lang="es">Un científico huraño inventa un arma que le permite asesinar a la gente a través de las cámaras. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8144aOLDqTL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260707012400 +0200" stop="20260707030200 +0200" channel="acontra+ CINE">
+    <title lang="es">Fortunata (2024)</title>
+    <desc lang="es">Fortunata intenta abrir su propio salón de belleza para poder separarse de su marido alcohólico. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81delV5A5oL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260707030200 +0200" stop="20260707040100 +0200" channel="acontra+ CINE">
+    <title lang="es">Miedo y deseo (1953)</title>
+    <desc lang="es">Cuatro soldados norteamericanos quedan atrapados y perdidos detrás de las líneas enemigas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81x01UnP1TL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
