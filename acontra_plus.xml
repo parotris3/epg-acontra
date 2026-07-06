@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260706180300 +0200" stop="20260706200300 +0200" channel="acontra+ CINE">
-    <title lang="es">Feliz Navidad, Mr. Lawrence (1983)</title>
-    <desc lang="es">Un intenso duelo de voluntades se establece entre comandantes japoneses y prisioneros británicos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Ece-qw1kL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260706200300 +0200" stop="20260706221300 +0200" channel="acontra+ CINE">
-    <title lang="es">La gran comilona (1974)</title>
-    <desc lang="es">Cuatro amigos se reúnen en una mansión con la idea de suicidarse comiendo sin tregua. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1EVv2su3fL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260706221300 +0200" stop="20260706235800 +0200" channel="acontra+ CINE">
-    <title lang="es">La rodilla de Clara (1971)</title>
-    <desc lang="es">Un diplomático a punto de casarse se obsesiona con una parte particular de la anatomía de una mujer. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ZMw3uHxdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260706235800 +0200" stop="20260707012400 +0200" channel="acontra+ CINE">
+  <programme start="20260706232400 +0200" stop="20260707012400 +0200" channel="acontra+ CINE">
     <title lang="es">Kamikaze (1989)</title>
     <desc lang="es">Un científico huraño inventa un arma que le permite asesinar a la gente a través de las cámaras. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/8144aOLDqTL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Miedo y deseo (1953)</title>
     <desc lang="es">Cuatro soldados norteamericanos quedan atrapados y perdidos detrás de las líneas enemigas. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81x01UnP1TL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260707040100 +0200" stop="20260707053700 +0200" channel="acontra+ CINE">
+    <title lang="es">El guardia (2011)</title>
+    <desc lang="es">Dos agentes de policía descubren que sus exsuperiores están involucrados en un caso de corrupción. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81QiXuZLC8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260707053700 +0200" stop="20260707074800 +0200" channel="acontra+ CINE">
+    <title lang="es">Cuentos de Tokio (1953)</title>
+    <desc lang="es">Una pareja de ancianos pasa la noche en casa de su nuera, la cual muestra más interés que sus hijos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81sgTI5N65L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260707074800 +0200" stop="20260707093700 +0200" channel="acontra+ CINE">
+    <title lang="es">Antes del anochecer (2013)</title>
+    <desc lang="es">Jesse y Céline se encuentran de nuevo en Grecia. Han pasado nueve años desde su último encuentro. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81L897QoI-L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
