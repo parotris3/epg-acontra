@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260707190600 +0200" stop="20260707210600 +0200" channel="acontra+ CINE">
-    <title lang="es">Rufufú da el golpe (1959)</title>
-    <desc lang="es">Un milanés convence a Pepe y a sus amigos para ir a Milán para robar el furgón de las quinielas. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/71uBR3dN43L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260707210600 +0200" stop="20260707223300 +0200" channel="acontra+ CINE">
-    <title lang="es">Punto de no retorno (2008)</title>
-    <desc lang="es">Un científico sube a un avión con la tecnología de un experimento sobre viajes en el tiempo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A14MvFznsVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260707223300 +0200" stop="20260708001400 +0200" channel="acontra+ CINE">
+  <programme start="20260707221400 +0200" stop="20260708001400 +0200" channel="acontra+ CINE">
     <title lang="es">La resurrección de los muertos (2016)</title>
     <desc lang="es">La resurrección de los muertos influye en la vida de una ciudad francesa que los volverá a acoger. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71AiAFn8TNL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Los profesores de Saint-Denis (2019)</title>
     <desc lang="es">Samia tendrá que lidiar con los problemas de disciplina y la realidad social de la escuela. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81-2mCfCkLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260708040500 +0200" stop="20260708054400 +0200" channel="acontra+ CINE">
+    <title lang="es">Ondine (2009)</title>
+    <desc lang="es">Un pescador irlandés descubre a una mujer en sus redes. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81+IxXZ2pvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260708054400 +0200" stop="20260708071500 +0200" channel="acontra+ CINE">
+    <title lang="es">Love Bite (2012)</title>
+    <desc lang="es">Jaime descubre que la única forma de estar a salvo de un hombre lobo es teniendo sexo. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81B5h7R964L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260708071500 +0200" stop="20260708084500 +0200" channel="acontra+ CINE">
+    <title lang="es">La pequeña princesa (1939)</title>
+    <desc lang="es">La hija de un oficial del ejército desaparecido tiene que trabajar como sirvienta para sobrevivir. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91xia6F8eQL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
