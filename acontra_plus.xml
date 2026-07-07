@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260707033700 +0200" stop="20260707053700 +0200" channel="acontra+ CINE">
-    <title lang="es">El guardia (2011)</title>
-    <desc lang="es">Dos agentes de policía descubren que sus exsuperiores están involucrados en un caso de corrupción. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81QiXuZLC8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260707053700 +0200" stop="20260707074800 +0200" channel="acontra+ CINE">
-    <title lang="es">Cuentos de Tokio (1953)</title>
-    <desc lang="es">Una pareja de ancianos pasa la noche en casa de su nuera, la cual muestra más interés que sus hijos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81sgTI5N65L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260707074800 +0200" stop="20260707093700 +0200" channel="acontra+ CINE">
-    <title lang="es">Antes del anochecer (2013)</title>
-    <desc lang="es">Jesse y Céline se encuentran de nuevo en Grecia. Han pasado nueve años desde su último encuentro. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81L897QoI-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260707093700 +0200" stop="20260707110600 +0200" channel="acontra+ CINE">
+  <programme start="20260707090600 +0200" stop="20260707110600 +0200" channel="acontra+ CINE">
     <title lang="es">12 catástrofes (2012)</title>
     <desc lang="es">Una amenazadora estrella negra aparece en el cielo aterrorizando a los habitantes de La Tierra. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1xorFXI7PL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Juntos, nada más (2007)</title>
     <desc lang="es">Un cocinero, una dibujante y un aristócrata solitario deberán aprender a convivir. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81IK+avmNdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260707142500 +0200" stop="20260707161300 +0200" channel="acontra+ CINE">
+    <title lang="es">Machete Kills (2013)</title>
+    <desc lang="es">Machete va tras un traficante de armas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1zKwzF56cL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260707161300 +0200" stop="20260707175000 +0200" channel="acontra+ CINE">
+    <title lang="es">Trabajo clandestino (1982)</title>
+    <desc lang="es">Nowak y su equipo de albañiles polacos llegan a Londres para trabajar clandestinamente en una casa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Vef6-ewhL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260707175000 +0200" stop="20260707192400 +0200" channel="acontra+ CINE">
+    <title lang="es">Vivarium (2019)</title>
+    <desc lang="es">Una joven pareja visita una inmobiliaria para comprar una casa donde se quedarán atrapados. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/914D3Ssc3AL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
