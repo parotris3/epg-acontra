@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260707141300 +0200" stop="20260707161300 +0200" channel="acontra+ CINE">
-    <title lang="es">Machete Kills (2013)</title>
-    <desc lang="es">Machete va tras un traficante de armas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1zKwzF56cL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260707161300 +0200" stop="20260707175000 +0200" channel="acontra+ CINE">
-    <title lang="es">Trabajo clandestino (1982)</title>
-    <desc lang="es">Nowak y su equipo de albañiles polacos llegan a Londres para trabajar clandestinamente en una casa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Vef6-ewhL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260707175000 +0200" stop="20260707192400 +0200" channel="acontra+ CINE">
-    <title lang="es">Vivarium (2019)</title>
-    <desc lang="es">Una joven pareja visita una inmobiliaria para comprar una casa donde se quedarán atrapados. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/914D3Ssc3AL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260707192400 +0200" stop="20260707210600 +0200" channel="acontra+ CINE">
+  <programme start="20260707190600 +0200" stop="20260707210600 +0200" channel="acontra+ CINE">
     <title lang="es">Rufufú da el golpe (1959)</title>
     <desc lang="es">Un milanés convence a Pepe y a sus amigos para ir a Milán para robar el furgón de las quinielas. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/71uBR3dN43L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">La resurrección de los muertos (2016)</title>
     <desc lang="es">La resurrección de los muertos influye en la vida de una ciudad francesa que los volverá a acoger. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71AiAFn8TNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260708001400 +0200" stop="20260708021200 +0200" channel="acontra+ CINE">
+    <title lang="es">La novena configuración (1980)</title>
+    <desc lang="es">El Coronel Hudson Kane llega para hacerse cargo de una institución psiquiátrica militar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/614osUZ0gPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260708021200 +0200" stop="20260708040500 +0200" channel="acontra+ CINE">
+    <title lang="es">Los profesores de Saint-Denis (2019)</title>
+    <desc lang="es">Samia tendrá que lidiar con los problemas de disciplina y la realidad social de la escuela. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-2mCfCkLL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
