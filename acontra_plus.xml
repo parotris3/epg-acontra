@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260707221400 +0200" stop="20260708001400 +0200" channel="acontra+ CINE">
-    <title lang="es">La resurrección de los muertos (2016)</title>
-    <desc lang="es">La resurrección de los muertos influye en la vida de una ciudad francesa que los volverá a acoger. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71AiAFn8TNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260708001400 +0200" stop="20260708021200 +0200" channel="acontra+ CINE">
-    <title lang="es">La novena configuración (1980)</title>
-    <desc lang="es">El Coronel Hudson Kane llega para hacerse cargo de una institución psiquiátrica militar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/614osUZ0gPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260708021200 +0200" stop="20260708040500 +0200" channel="acontra+ CINE">
-    <title lang="es">Los profesores de Saint-Denis (2019)</title>
-    <desc lang="es">Samia tendrá que lidiar con los problemas de disciplina y la realidad social de la escuela. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-2mCfCkLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260708040500 +0200" stop="20260708054400 +0200" channel="acontra+ CINE">
+  <programme start="20260708034400 +0200" stop="20260708054400 +0200" channel="acontra+ CINE">
     <title lang="es">Ondine (2009)</title>
     <desc lang="es">Un pescador irlandés descubre a una mujer en sus redes. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81+IxXZ2pvL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La pequeña princesa (1939)</title>
     <desc lang="es">La hija de un oficial del ejército desaparecido tiene que trabajar como sirvienta para sobrevivir. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91xia6F8eQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260708084500 +0200" stop="20260708104100 +0200" channel="acontra+ CINE">
+    <title lang="es">Enamórate de mí</title>
+    <desc lang="es">Cuando Michael muere, cree que está libre de las ansiedades de la búsqueda del amor verdadero. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91uM1CTU7eL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260708104100 +0200" stop="20260708121500 +0200" channel="acontra+ CINE">
+    <title lang="es">El séptimo sello (1956)</title>
+    <desc lang="es">Una alegoría del intento del ser humano por entender su destino y los misterios de la muerte. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/716CWrZG5-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260708121500 +0200" stop="20260708140100 +0200" channel="acontra+ CINE">
+    <title lang="es">El extraordinario viaje de T.S. Spivet (2013)</title>
+    <desc lang="es">T.S. Spivet es un genio de diez años, con un gran talento para los inventos, que vive en un rancho. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81j3C0+TMYL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
