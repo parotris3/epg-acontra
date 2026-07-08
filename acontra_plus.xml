@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260708034400 +0200" stop="20260708054400 +0200" channel="acontra+ CINE">
-    <title lang="es">Ondine (2009)</title>
-    <desc lang="es">Un pescador irlandés descubre a una mujer en sus redes. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81+IxXZ2pvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260708054400 +0200" stop="20260708071500 +0200" channel="acontra+ CINE">
-    <title lang="es">Love Bite (2012)</title>
-    <desc lang="es">Jaime descubre que la única forma de estar a salvo de un hombre lobo es teniendo sexo. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81B5h7R964L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260708071500 +0200" stop="20260708084500 +0200" channel="acontra+ CINE">
-    <title lang="es">La pequeña princesa (1939)</title>
-    <desc lang="es">La hija de un oficial del ejército desaparecido tiene que trabajar como sirvienta para sobrevivir. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91xia6F8eQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260708084500 +0200" stop="20260708104100 +0200" channel="acontra+ CINE">
+  <programme start="20260708084100 +0200" stop="20260708104100 +0200" channel="acontra+ CINE">
     <title lang="es">Enamórate de mí</title>
     <desc lang="es">Cuando Michael muere, cree que está libre de las ansiedades de la búsqueda del amor verdadero. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91uM1CTU7eL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">El extraordinario viaje de T.S. Spivet (2013)</title>
     <desc lang="es">T.S. Spivet es un genio de diez años, con un gran talento para los inventos, que vive en un rancho. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81j3C0+TMYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260708140100 +0200" stop="20260708155100 +0200" channel="acontra+ CINE">
+    <title lang="es">Naked Lunch (1991)</title>
+    <desc lang="es">Un exterminador alucina y mata a su mujer. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81+5fi71yYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260708155100 +0200" stop="20260708180700 +0200" channel="acontra+ CINE">
+    <title lang="es">Danton (2020)</title>
+    <desc lang="es">Cuando Robespierre establece el régimen de terror, Georges Danton regresa para confrontarlo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81LJzCJ85+L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
