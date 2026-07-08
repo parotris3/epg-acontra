@@ -3,12 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260708201500 +0200" stop="20260708221500 +0200" channel="acontra+ CINE">
-    <title lang="es">Becket (1964)</title>
-    <desc lang="es">Enrique II Plantagenet, rey de Inglaterra, y Thomas Becket se enfrentan violentamente. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91DlKcfPiZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260708221500 +0200" stop="20260709000700 +0200" channel="acontra+ CINE">
+  <programme start="20260708220700 +0200" stop="20260709000700 +0200" channel="acontra+ CINE">
     <title lang="es">Antes de la Revolución (1964)</title>
     <desc lang="es">Fabrizio intenta conciliar su origen burgués con su pertenencia al Partido Comunista Italiano. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91few9fDydL._UR1920,1080_FMpng_.jpg"/>
@@ -22,5 +17,20 @@
     <title lang="es">Ciudad de Dios (2003)</title>
     <desc lang="es">Basada en el libro de Paulo Lins. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81wZp5Y1eLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260709040800 +0200" stop="20260709054600 +0200" channel="acontra+ CINE">
+    <title lang="es">Buffalo Soldiers (2001)</title>
+    <desc lang="es">Un soldado condenado se las arregla para organizar una operación de mercado negro. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91RAMxXH5HL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260709054600 +0200" stop="20260709073800 +0200" channel="acontra+ CINE">
+    <title lang="es">Callejón sin salida (1966)</title>
+    <desc lang="es">Dos fugitivos se esconden en un castillo medieval habitado por una pareja muy excéntrica. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71uV+LXDfLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260709073800 +0200" stop="20260709093200 +0200" channel="acontra+ CINE">
+    <title lang="es">El Skylab (2011)</title>
+    <desc lang="es">Julio de 1979. Albertine, de diez años, y sus familiares se reúnen en una casa de Bretaña. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ccAm5Q3PL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
