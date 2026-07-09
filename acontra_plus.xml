@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260709034600 +0200" stop="20260709054600 +0200" channel="acontra+ CINE">
-    <title lang="es">Buffalo Soldiers (2001)</title>
-    <desc lang="es">Un soldado condenado se las arregla para organizar una operación de mercado negro. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91RAMxXH5HL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260709054600 +0200" stop="20260709073800 +0200" channel="acontra+ CINE">
-    <title lang="es">Callejón sin salida (1966)</title>
-    <desc lang="es">Dos fugitivos se esconden en un castillo medieval habitado por una pareja muy excéntrica. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71uV+LXDfLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260709073800 +0200" stop="20260709093200 +0200" channel="acontra+ CINE">
-    <title lang="es">El Skylab (2011)</title>
-    <desc lang="es">Julio de 1979. Albertine, de diez años, y sus familiares se reúnen en una casa de Bretaña. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ccAm5Q3PL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260709093200 +0200" stop="20260709110900 +0200" channel="acontra+ CINE">
+  <programme start="20260709090900 +0200" stop="20260709110900 +0200" channel="acontra+ CINE">
     <title lang="es">JCVD (2008)</title>
     <desc lang="es">Van Damme no pasa por un gran momento: sin trabajo y a punto de perder la custodia de su hija. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1pNYm7xglL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Otoño Tardío (1960)</title>
     <desc lang="es">Una mujer viuda trata de casar a su hija con la ayuda de tres amigos de su difunto marido. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91IXcF-IzCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260709150100 +0200" stop="20260709163600 +0200" channel="acontra+ CINE">
+    <title lang="es">Tierra de sospecha (2017)</title>
+    <desc lang="es">Un hombre desaparece en medio de una ola de asesinatos y su hermana intenta encontrarlo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91fPYpH-AoL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260709163600 +0200" stop="20260709180600 +0200" channel="acontra+ CINE">
+    <title lang="es">Los mejores amigos del mundo (2010)</title>
+    <desc lang="es">Un fin de semana al aire libre con sus mejores amigos, los realmente queridos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91EQMpQFeIL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
