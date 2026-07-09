@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260709130100 +0200" stop="20260709150100 +0200" channel="acontra+ CINE">
-    <title lang="es">Otoño Tardío (1960)</title>
-    <desc lang="es">Una mujer viuda trata de casar a su hija con la ayuda de tres amigos de su difunto marido. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91IXcF-IzCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260709150100 +0200" stop="20260709163600 +0200" channel="acontra+ CINE">
-    <title lang="es">Tierra de sospecha (2017)</title>
-    <desc lang="es">Un hombre desaparece en medio de una ola de asesinatos y su hermana intenta encontrarlo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91fPYpH-AoL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260709163600 +0200" stop="20260709180600 +0200" channel="acontra+ CINE">
-    <title lang="es">Los mejores amigos del mundo (2010)</title>
-    <desc lang="es">Un fin de semana al aire libre con sus mejores amigos, los realmente queridos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91EQMpQFeIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260709180600 +0200" stop="20260709200900 +0200" channel="acontra+ CINE">
+  <programme start="20260709180900 +0200" stop="20260709200900 +0200" channel="acontra+ CINE">
     <title lang="es">Great Expectations (2012)</title>
     <desc lang="es">Basada en la novela de Charles Dickens. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1CCHqpqbeL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El rayo verde (1986)</title>
     <desc lang="es">Delphine es una joven parisina que trata de recuperarse de una ruptura reciente. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81fcd9fiYlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260709231300 +0200" stop="20260710005500 +0200" channel="acontra+ CINE">
+    <title lang="es">Four Lions (2010)</title>
+    <desc lang="es">Cuatro musulmanes intentan realizar, sin éxito, actos de terrorismo en Inglaterra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81HPccFYNSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260710005500 +0200" stop="20260710022800 +0200" channel="acontra+ CINE">
+    <title lang="es">Le week-end (2013)</title>
+    <desc lang="es">Nick y Meg, a sus 60 años, viajan a París para pasar un fin de semana romántico que reavive su vida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81A0oV0QixL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260710022800 +0200" stop="20260710041000 +0200" channel="acontra+ CINE">
+    <title lang="es">Los panzers de la muerte (1988)</title>
+    <desc lang="es">En 1942, Adolf Hitler da a sus tropas la orden de no retroceder y oponer una resistencia fanática. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81uPYLrwyUL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
