@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260708220700 +0200" stop="20260709000700 +0200" channel="acontra+ CINE">
-    <title lang="es">Antes de la Revolución (1964)</title>
-    <desc lang="es">Fabrizio intenta conciliar su origen burgués con su pertenencia al Partido Comunista Italiano. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91few9fDydL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260709000700 +0200" stop="20260709020200 +0200" channel="acontra+ CINE">
-    <title lang="es">Barrabás (2025)</title>
-    <desc lang="es">Una visión de la muerte y resurrección de Cristo, a través de los ojos de Barrabás. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71AkjH+oCXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260709020200 +0200" stop="20260709040800 +0200" channel="acontra+ CINE">
-    <title lang="es">Ciudad de Dios (2003)</title>
-    <desc lang="es">Basada en el libro de Paulo Lins. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81wZp5Y1eLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260709040800 +0200" stop="20260709054600 +0200" channel="acontra+ CINE">
+  <programme start="20260709034600 +0200" stop="20260709054600 +0200" channel="acontra+ CINE">
     <title lang="es">Buffalo Soldiers (2001)</title>
     <desc lang="es">Un soldado condenado se las arregla para organizar una operación de mercado negro. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91RAMxXH5HL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El Skylab (2011)</title>
     <desc lang="es">Julio de 1979. Albertine, de diez años, y sus familiares se reúnen en una casa de Bretaña. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ccAm5Q3PL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260709093200 +0200" stop="20260709110900 +0200" channel="acontra+ CINE">
+    <title lang="es">JCVD (2008)</title>
+    <desc lang="es">Van Damme no pasa por un gran momento: sin trabajo y a punto de perder la custodia de su hija. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1pNYm7xglL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260709110900 +0200" stop="20260709125700 +0200" channel="acontra+ CINE">
+    <title lang="es">Los cien pasos (2000)</title>
+    <desc lang="es">Un activista político cuya familia está vinculada a la mafia denuncia el crimen organizado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71fIjNsS4-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260709125700 +0200" stop="20260709150100 +0200" channel="acontra+ CINE">
+    <title lang="es">Otoño Tardío (1960)</title>
+    <desc lang="es">Una mujer viuda trata de casar a su hija con la ayuda de tres amigos de su difunto marido. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91IXcF-IzCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
