@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260710140300 +0200" stop="20260710160300 +0200" channel="acontra+ CINE">
-    <title lang="es">Lullaby (2014)</title>
-    <desc lang="es">Un hombre recibe la noticia de que su padre ha decidido desconectarse del soporte vital. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81CqWEI58fL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260710160300 +0200" stop="20260710183700 +0200" channel="acontra+ CINE">
-    <title lang="es">El salario del miedo (1953)</title>
-    <desc lang="es">Cuatro conductores tienen que llevar dos camiones con nitroglicerina a través de terreno inhóspito. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zW3okns0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260710183700 +0200" stop="20260710202100 +0200" channel="acontra+ CINE">
+  <programme start="20260710182100 +0200" stop="20260710202100 +0200" channel="acontra+ CINE">
     <title lang="es">Eugénie Grandet (2021)</title>
     <desc lang="es">Un padre no ve con buenos ojos a las partes que se apresuran a pedir la mano de su hija. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91hAc2jMZUL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,25 @@
     <title lang="es">La perrera (2010)</title>
     <desc lang="es">Tres criminales enfrentan a unos prisioneros brutales en una prisión. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1zsOc+xR0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260710233700 +0200" stop="20260711014200 +0200" channel="acontra+ CINE">
+    <title lang="es">Tom & Viv (1994)</title>
+    <desc lang="es">Historia del matrimonio fallido entre T.S. Eliot y su esposa enferma. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81UTnu5cYvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260711014200 +0200" stop="20260711023900 +0200" channel="acontra+ CINE">
+    <title lang="es">Siete ocasiones (1925)</title>
+    <desc lang="es">James necesita casarse antes de cumplir 27 años para recibir la herencia de su abuelo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71FzQnNfdKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260711023900 +0200" stop="20260711035800 +0200" channel="acontra+ CINE">
+    <title lang="es">Ángel de venganza (1981)</title>
+    <desc lang="es">Una joven sordomuda que ha sido violada recorre las calles de Nueva York en busca de venganza. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qVPfjBNiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260711035800 +0200" stop="20260711052400 +0200" channel="acontra+ CINE">
+    <title lang="es">Bajo las estrellas de París (2021)</title>
+    <desc lang="es">Christine, una sintecho que vive en París, se encuentra a Suli, de 8 años, durante el invierno. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ZMUirTdsL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
