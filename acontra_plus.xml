@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260709225500 +0200" stop="20260710005500 +0200" channel="acontra+ CINE">
-    <title lang="es">Four Lions (2010)</title>
-    <desc lang="es">Cuatro musulmanes intentan realizar, sin éxito, actos de terrorismo en Inglaterra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81HPccFYNSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260710005500 +0200" stop="20260710022800 +0200" channel="acontra+ CINE">
-    <title lang="es">Le week-end (2013)</title>
-    <desc lang="es">Nick y Meg, a sus 60 años, viajan a París para pasar un fin de semana romántico que reavive su vida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81A0oV0QixL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260710022800 +0200" stop="20260710041000 +0200" channel="acontra+ CINE">
-    <title lang="es">Los panzers de la muerte (1988)</title>
-    <desc lang="es">En 1942, Adolf Hitler da a sus tropas la orden de no retroceder y oponer una resistencia fanática. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uPYLrwyUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260710041000 +0200" stop="20260710053600 +0200" channel="acontra+ CINE">
+  <programme start="20260710033600 +0200" stop="20260710053600 +0200" channel="acontra+ CINE">
     <title lang="es">Yo acuso (2003)</title>
     <desc lang="es">Una mujer alega haber sufrido abusos tras ser drogada por el médico que la atendió. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71ZB1tQFccL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Perversidad (1945)</title>
     <desc lang="es">Un hombre con talento para la pintura es explotado por una mujer y su novio sin escrúpulos. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81sCHck-WNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260710084600 +0200" stop="20260710101900 +0200" channel="acontra+ CINE">
+    <title lang="es">Turbo Kid (2015)</title>
+    <desc lang="es">En un mundo apocalíptico, un joven y solitario huérfano vaga por el desierto con su bicicleta BMX. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Xa0BHGcgL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260710101900 +0200" stop="20260710123300 +0200" channel="acontra+ CINE">
+    <title lang="es">Verano asesino (1985)</title>
+    <desc lang="es">Elle, una joven de 19 años, regresa a su pueblo natal con un oscuro plan de venganza. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91iSUe6b7oL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260710123300 +0200" stop="20260710140600 +0200" channel="acontra+ CINE">
+    <title lang="es">Ártico (2018)</title>
+    <desc lang="es">Un hombre aprende a sobrevivir en medio del Ártico después de que su avión se estrelle. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91TPEQy3KRL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
