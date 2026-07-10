@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260710182100 +0200" stop="20260710202100 +0200" channel="acontra+ CINE">
-    <title lang="es">Eugénie Grandet (2021)</title>
-    <desc lang="es">Un padre no ve con buenos ojos a las partes que se apresuran a pedir la mano de su hija. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91hAc2jMZUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260710202100 +0200" stop="20260710221000 +0200" channel="acontra+ CINE">
-    <title lang="es">La delicadeza (2011)</title>
-    <desc lang="es">El amor vuelve a llamar a la puerta de Nathalie, tras perder a su amado, en un compañero de trabajo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71YqDG7BGWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260710221000 +0200" stop="20260710233700 +0200" channel="acontra+ CINE">
-    <title lang="es">La perrera (2010)</title>
-    <desc lang="es">Tres criminales enfrentan a unos prisioneros brutales en una prisión. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1zsOc+xR0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260710233700 +0200" stop="20260711014200 +0200" channel="acontra+ CINE">
+  <programme start="20260710234200 +0200" stop="20260711014200 +0200" channel="acontra+ CINE">
     <title lang="es">Tom & Viv (1994)</title>
     <desc lang="es">Historia del matrimonio fallido entre T.S. Eliot y su esposa enferma. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81UTnu5cYvL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +22,15 @@
     <title lang="es">Bajo las estrellas de París (2021)</title>
     <desc lang="es">Christine, una sintecho que vive en París, se encuentra a Suli, de 8 años, durante el invierno. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ZMUirTdsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260711052400 +0200" stop="20260711065400 +0200" channel="acontra+ CINE">
+    <title lang="es">EL fin del mundo (2013)</title>
+    <desc lang="es">Dos hombres que trabajan en un videoclub deberán salvar a la humanidad en un momento apocalíptico. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qAtoiymgL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260711065400 +0200" stop="20260711081600 +0200" channel="acontra+ CINE">
+    <title lang="es">El hombre orquesta (1970)</title>
+    <desc lang="es">Un director de un ballet femenino hace lo posible para que sus bailarinas encuentren marido. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71XmK2jrJ-L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
