@@ -3,34 +3,29 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260710033600 +0200" stop="20260710053600 +0200" channel="acontra+ CINE">
-    <title lang="es">Yo acuso (2003)</title>
-    <desc lang="es">Una mujer alega haber sufrido abusos tras ser drogada por el médico que la atendió. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ZB1tQFccL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260710140300 +0200" stop="20260710160300 +0200" channel="acontra+ CINE">
+    <title lang="es">Lullaby (2014)</title>
+    <desc lang="es">Un hombre recibe la noticia de que su padre ha decidido desconectarse del soporte vital. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81CqWEI58fL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260710053600 +0200" stop="20260710070700 +0200" channel="acontra+ CINE">
-    <title lang="es">Nada (2022)</title>
-    <desc lang="es">Cuando Pierre Anthon comienza el octavo grado, no le ve sentido a la vida y se muda a un árbol. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Vrpm8h3cL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260710160300 +0200" stop="20260710183700 +0200" channel="acontra+ CINE">
+    <title lang="es">El salario del miedo (1953)</title>
+    <desc lang="es">Cuatro conductores tienen que llevar dos camiones con nitroglicerina a través de terreno inhóspito. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91zW3okns0L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260710070700 +0200" stop="20260710084600 +0200" channel="acontra+ CINE">
-    <title lang="es">Perversidad (1945)</title>
-    <desc lang="es">Un hombre con talento para la pintura es explotado por una mujer y su novio sin escrúpulos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81sCHck-WNL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260710183700 +0200" stop="20260710202100 +0200" channel="acontra+ CINE">
+    <title lang="es">Eugénie Grandet (2021)</title>
+    <desc lang="es">Un padre no ve con buenos ojos a las partes que se apresuran a pedir la mano de su hija. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91hAc2jMZUL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260710084600 +0200" stop="20260710101900 +0200" channel="acontra+ CINE">
-    <title lang="es">Turbo Kid (2015)</title>
-    <desc lang="es">En un mundo apocalíptico, un joven y solitario huérfano vaga por el desierto con su bicicleta BMX. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Xa0BHGcgL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260710202100 +0200" stop="20260710221000 +0200" channel="acontra+ CINE">
+    <title lang="es">La delicadeza (2011)</title>
+    <desc lang="es">El amor vuelve a llamar a la puerta de Nathalie, tras perder a su amado, en un compañero de trabajo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71YqDG7BGWL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260710101900 +0200" stop="20260710123300 +0200" channel="acontra+ CINE">
-    <title lang="es">Verano asesino (1985)</title>
-    <desc lang="es">Elle, una joven de 19 años, regresa a su pueblo natal con un oscuro plan de venganza. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91iSUe6b7oL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260710123300 +0200" stop="20260710140600 +0200" channel="acontra+ CINE">
-    <title lang="es">Ártico (2018)</title>
-    <desc lang="es">Un hombre aprende a sobrevivir en medio del Ártico después de que su avión se estrelle. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91TPEQy3KRL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260710221000 +0200" stop="20260710233700 +0200" channel="acontra+ CINE">
+    <title lang="es">La perrera (2010)</title>
+    <desc lang="es">Tres criminales enfrentan a unos prisioneros brutales en una prisión. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1zsOc+xR0L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
