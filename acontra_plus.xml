@@ -3,21 +3,6 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260711080500 +0200" stop="20260711100500 +0200" channel="acontra+ CINE">
-    <title lang="es">Insignificance (1985)</title>
-    <desc lang="es">Albert Einstein charla con Marilyn Monroe sobre la teoría de la relatividad, el sexo y la política. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/712jQUN3uVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260711100500 +0200" stop="20260711113800 +0200" channel="acontra+ CINE">
-    <title lang="es">El señor Manglehorn (2014)</title>
-    <desc lang="es">Una empleada de un banco intenta cambiar a hombre huraño que vive recluido en su casa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BWNMU3SJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260711113800 +0200" stop="20260711133500 +0200" channel="acontra+ CINE">
-    <title lang="es">La anguila (1997)</title>
-    <desc lang="es">Takuro Yamashita sale en libertad condicional tras haber matado a su esposa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81zRh+SlX7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260711133500 +0200" stop="20260711153500 +0200" channel="acontra+ CINE">
     <title lang="es">Mi cena con Andre (1981)</title>
     <desc lang="es">Durante una cena, dos actores y dramaturgos abordan los grandes temas de la existencia. | Edad: 13+</desc>
@@ -32,5 +17,20 @@
     <title lang="es">Sin techo ni ley (1991)</title>
     <desc lang="es">Mona era una nómada, autoestopista y pasó sus últimos días caminando por las carreteras. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91igR0qpfHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260711184200 +0200" stop="20260711210400 +0200" channel="acontra+ CINE">
+    <title lang="es">Secretos y mentiras (1995)</title>
+    <desc lang="es">Un sensible drama donde una mujer busca a su madre. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81VZmcnOdcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260711210400 +0200" stop="20260711223600 +0200" channel="acontra+ CINE">
+    <title lang="es">Zazie en el metro (1960)</title>
+    <desc lang="es">Zazie, una niña de doce años, llega a París con una cosa en mente: viajar en metro. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91XvQNXaO9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260711223600 +0200" stop="20260712001800 +0200" channel="acontra+ CINE">
+    <title lang="es">Un verano inolvidable (2020)</title>
+    <desc lang="es">Tras la muerte de su padre, tres hermanas deben mantener a flote la granja de caballos familiar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Y9mfKN2uL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
