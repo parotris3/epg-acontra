@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260711032400 +0200" stop="20260711052400 +0200" channel="acontra+ CINE">
-    <title lang="es">Bajo las estrellas de París (2021)</title>
-    <desc lang="es">Christine, una sintecho que vive en París, se encuentra a Suli, de 8 años, durante el invierno. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ZMUirTdsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260711052400 +0200" stop="20260711065400 +0200" channel="acontra+ CINE">
-    <title lang="es">EL fin del mundo (2013)</title>
-    <desc lang="es">Dos hombres que trabajan en un videoclub deberán salvar a la humanidad en un momento apocalíptico. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qAtoiymgL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260711065400 +0200" stop="20260711081600 +0200" channel="acontra+ CINE">
-    <title lang="es">El hombre orquesta (1970)</title>
-    <desc lang="es">Un director de un ballet femenino hace lo posible para que sus bailarinas encuentren marido. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71XmK2jrJ-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260711081600 +0200" stop="20260711100500 +0200" channel="acontra+ CINE">
+  <programme start="20260711080500 +0200" stop="20260711100500 +0200" channel="acontra+ CINE">
     <title lang="es">Insignificance (1985)</title>
     <desc lang="es">Albert Einstein charla con Marilyn Monroe sobre la teoría de la relatividad, el sexo y la política. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/712jQUN3uVL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La anguila (1997)</title>
     <desc lang="es">Takuro Yamashita sale en libertad condicional tras haber matado a su esposa. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81zRh+SlX7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260711133500 +0200" stop="20260711153500 +0200" channel="acontra+ CINE">
+    <title lang="es">Mi cena con Andre (1981)</title>
+    <desc lang="es">Durante una cena, dos actores y dramaturgos abordan los grandes temas de la existencia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1+nEcy5x7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260711153500 +0200" stop="20260711170000 +0200" channel="acontra+ CINE">
+    <title lang="es">Rashomon (1950)</title>
+    <desc lang="es">Siglo XII, Melancólica radiografía de la naturaleza humana. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71wyXb0sZML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260711170000 +0200" stop="20260711184200 +0200" channel="acontra+ CINE">
+    <title lang="es">Sin techo ni ley (1991)</title>
+    <desc lang="es">Mona era una nómada, autoestopista y pasó sus últimos días caminando por las carreteras. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91igR0qpfHL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
