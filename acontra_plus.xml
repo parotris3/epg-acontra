@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260711133500 +0200" stop="20260711153500 +0200" channel="acontra+ CINE">
-    <title lang="es">Mi cena con Andre (1981)</title>
-    <desc lang="es">Durante una cena, dos actores y dramaturgos abordan los grandes temas de la existencia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1+nEcy5x7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260711153500 +0200" stop="20260711170000 +0200" channel="acontra+ CINE">
-    <title lang="es">Rashomon (1950)</title>
-    <desc lang="es">Siglo XII, Melancólica radiografía de la naturaleza humana. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71wyXb0sZML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260711170000 +0200" stop="20260711184200 +0200" channel="acontra+ CINE">
-    <title lang="es">Sin techo ni ley (1991)</title>
-    <desc lang="es">Mona era una nómada, autoestopista y pasó sus últimos días caminando por las carreteras. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91igR0qpfHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260711184200 +0200" stop="20260711210400 +0200" channel="acontra+ CINE">
+  <programme start="20260711190400 +0200" stop="20260711210400 +0200" channel="acontra+ CINE">
     <title lang="es">Secretos y mentiras (1995)</title>
     <desc lang="es">Un sensible drama donde una mujer busca a su madre. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81VZmcnOdcL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Un verano inolvidable (2020)</title>
     <desc lang="es">Tras la muerte de su padre, tres hermanas deben mantener a flote la granja de caballos familiar. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Y9mfKN2uL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260712001800 +0200" stop="20260712014600 +0200" channel="acontra+ CINE">
+    <title lang="es">Sorgo rojo (1989)</title>
+    <desc lang="es">En la China de la década de 1930, una joven es enviada por su padre a casarse con un hombre enfermo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71vjhf6CsDL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260712014600 +0200" stop="20260712035600 +0200" channel="acontra+ CINE">
+    <title lang="es">Stonewall (2015)</title>
+    <desc lang="es">Stonewall se convirtió en el punto de partida de los derechos de los homosexuales en Nueva York. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91bmUydEiYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260712035600 +0200" stop="20260712053600 +0200" channel="acontra+ CINE">
+    <title lang="es">Regreso a Hope Gap (2019)</title>
+    <desc lang="es">Una pareja se separa tras décadas de matrimonio y lucha con las consecuencias emocionales. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81HP+Cse7hL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
