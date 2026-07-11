@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260711190400 +0200" stop="20260711210400 +0200" channel="acontra+ CINE">
-    <title lang="es">Secretos y mentiras (1995)</title>
-    <desc lang="es">Un sensible drama donde una mujer busca a su madre. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81VZmcnOdcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260711210400 +0200" stop="20260711223600 +0200" channel="acontra+ CINE">
-    <title lang="es">Zazie en el metro (1960)</title>
-    <desc lang="es">Zazie, una niña de doce años, llega a París con una cosa en mente: viajar en metro. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91XvQNXaO9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260711223600 +0200" stop="20260712001800 +0200" channel="acontra+ CINE">
+  <programme start="20260711221800 +0200" stop="20260712001800 +0200" channel="acontra+ CINE">
     <title lang="es">Un verano inolvidable (2020)</title>
     <desc lang="es">Tras la muerte de su padre, tres hermanas deben mantener a flote la granja de caballos familiar. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Y9mfKN2uL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">Regreso a Hope Gap (2019)</title>
     <desc lang="es">Una pareja se separa tras décadas de matrimonio y lucha con las consecuencias emocionales. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81HP+Cse7hL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260712053600 +0200" stop="20260712072700 +0200" channel="acontra+ CINE">
+    <title lang="es">Sobre ruedas (2018)</title>
+    <desc lang="es">Un empresario de éxito y mujeriego empedernido finge ser discapacitado para seducir a una joven. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71+29jLNvnL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260712072700 +0200" stop="20260712092600 +0200" channel="acontra+ CINE">
+    <title lang="es">The Brave (1998)</title>
+    <desc lang="es">Un misterioso personaje le hace una siniestra oferta a un humilde padre de familia. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Pj3qqPZJL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
