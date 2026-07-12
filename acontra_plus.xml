@@ -3,34 +3,34 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260712131000 +0200" stop="20260712151000 +0200" channel="acontra+ CINE">
-    <title lang="es">Papá está en viaje de negocios (1985)</title>
-    <desc lang="es">Un niño crece viendo cómo su padre tiene múltiples problemas políticos en los años 50 en Yugoslavia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/913GrwMD37L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260712151000 +0200" stop="20260712170700 +0200" channel="acontra+ CINE">
-    <title lang="es">Nueva vida en Nueva York (2013)</title>
-    <desc lang="es">Xavier es un escritor de 40 años que no ha sentado la cabeza y va a Nueva York a encontrar su lugar. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qkrxjYFTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260712170700 +0200" stop="20260712190000 +0200" channel="acontra+ CINE">
-    <title lang="es">Más allá del deber (2001)</title>
-    <desc lang="es">Un regimiento escocés, durante la Segunda Guerra, debió construir la vía ferroviaria de la muerte. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81P1jHaw-RL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260712190000 +0200" stop="20260712204300 +0200" channel="acontra+ CINE">
-    <title lang="es">Los asesinos de la luna de miel (1970)</title>
-    <desc lang="es">Martha Beck y su novio Ray Fernández se dedican a estafar y asesinar a mujeres ricas y solitarias. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ucXlfED7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260712204300 +0200" stop="20260712223200 +0200" channel="acontra+ CINE">
-    <title lang="es">La venganza de un soldado</title>
-    <desc lang="es">Frank Morgan regresa de Vietnam y ayuda a una joven a luchar en una revolución centroamericana. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tMWga1XFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260712223200 +0200" stop="20260713001600 +0200" channel="acontra+ CINE">
+  <programme start="20260712221600 +0200" stop="20260713001600 +0200" channel="acontra+ CINE">
     <title lang="es">Week-end (2005)</title>
     <desc lang="es">El matrimonio Durand se queda atrapado en un atasco y por ello viven experiencias desconcertantes. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71sTqayjxdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260713001600 +0200" stop="20260713021400 +0200" channel="acontra+ CINE">
+    <title lang="es">Un soplo en el corazón (1971)</title>
+    <desc lang="es">Cuando a Laurent, de 15 años, le diagnostican un soplo, su madre le acompaña a un balneario. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/919fu+CNL5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260713021400 +0200" stop="20260713040100 +0200" channel="acontra+ CINE">
+    <title lang="es">Tres solteros y un biberón (1986)</title>
+    <desc lang="es">Tres amigos solteros se encuentran un paquete en la puerta de su casa que contiene a una niña. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/817Q6tWqkGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260713040100 +0200" stop="20260713054100 +0200" channel="acontra+ CINE">
+    <title lang="es">El descenso (2005)</title>
+    <desc lang="es">Seis exploradoras descubren a unos depredadores hambrientos. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/C11NtGAMC7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260713054100 +0200" stop="20260713073500 +0200" channel="acontra+ CINE">
+    <title lang="es">Sección especial</title>
+    <desc lang="es">En la Francia ocupada, un oficial alemán es asesinado por un grupo de jóvenes insurgentes. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71yJ2Ob6BfL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260713073500 +0200" stop="20260713092500 +0200" channel="acontra+ CINE">
+    <title lang="es">La fiesta (1982)</title>
+    <desc lang="es">Vic, a sus 14 años, atraviesa la etapa de sus primeros flirteos y fiestas entre amigas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81M2qfD7kNL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
