@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260713182000 +0200" stop="20260713202000 +0200" channel="acontra+ CINE">
-    <title lang="es">Despertando a Ned (1998)</title>
-    <desc lang="es">Un pueblo oculta la muerte de Ned, ganador de la lotería, para repartirse el dinero entre ellos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81lSKouKbuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260713202000 +0200" stop="20260713222800 +0200" channel="acontra+ CINE">
-    <title lang="es">Bullhead (2011)</title>
-    <desc lang="es">Jacky Vanmarsenille es abordado por un veterinario sin escrúpulos para hacer negocios sucios. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/712XNuWfUCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260713222800 +0200" stop="20260714002300 +0200" channel="acontra+ CINE">
+  <programme start="20260713222300 +0200" stop="20260714002300 +0200" channel="acontra+ CINE">
     <title lang="es">Bright Star (2009)</title>
     <desc lang="es">El romance de tres años entre el poeta John Keats y Fanny Brawne cerca del final de su vida. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1zxyQnUk9L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">La ciudad de la alegría (1992)</title>
     <desc lang="es">En la ciudad de Calcuta, dos personas muy diferentes encuentran comprensión la una en la otra. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81vWESbKG4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260714040300 +0200" stop="20260714053100 +0200" channel="acontra+ CINE">
+    <title lang="es">La bestia bajo el asfalto (1980)</title>
+    <desc lang="es">En Chicago aparece un cocodrilo de un tamaño gigante que sale de sus cloacas. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/816cOdDJ9CL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260714053100 +0200" stop="20260714070000 +0200" channel="acontra+ CINE">
+    <title lang="es">La ronda (1950)</title>
+    <desc lang="es">Viena, 1900. El amor está en el aire, y las parejas van y vienen. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71BHBFA4BqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260714070000 +0200" stop="20260714084900 +0200" channel="acontra+ CINE">
+    <title lang="es">Manual de la buena esposa (2020)</title>
+    <desc lang="es">Una escuela de hogar se encarga de capacitar a sus estudiantes para que sean esposas modelo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81GtGBEHRyL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
