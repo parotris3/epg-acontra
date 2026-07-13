@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260713034100 +0200" stop="20260713054100 +0200" channel="acontra+ CINE">
-    <title lang="es">El descenso (2005)</title>
-    <desc lang="es">Seis exploradoras descubren a unos depredadores hambrientos. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/C11NtGAMC7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260713054100 +0200" stop="20260713073500 +0200" channel="acontra+ CINE">
-    <title lang="es">Sección especial</title>
-    <desc lang="es">En la Francia ocupada, un oficial alemán es asesinado por un grupo de jóvenes insurgentes. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71yJ2Ob6BfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260713073500 +0200" stop="20260713092500 +0200" channel="acontra+ CINE">
-    <title lang="es">La fiesta (1982)</title>
-    <desc lang="es">Vic, a sus 14 años, atraviesa la etapa de sus primeros flirteos y fiestas entre amigas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81M2qfD7kNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260713092500 +0200" stop="20260713110000 +0200" channel="acontra+ CINE">
+  <programme start="20260713090000 +0200" stop="20260713110000 +0200" channel="acontra+ CINE">
     <title lang="es">Habitación verde (2015)</title>
     <desc lang="es">Unos neonazis quieren matar a unos músicos. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/9163gYcEEDL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">El león del desierto (1980)</title>
     <desc lang="es">Un líder libio rebelde se enfrenta a las tropas italianas de Mussolini. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1CzYjsJAUL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260713152100 +0200" stop="20260713165800 +0200" channel="acontra+ CINE">
+    <title lang="es">El rostro (1975)</title>
+    <desc lang="es">El hipnotizador y mago Vogler y su mujer están siendo desafiados por los escépticos locales. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Lo+2uo-4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260713165800 +0200" stop="20260713184900 +0200" channel="acontra+ CINE">
+    <title lang="es">The Sea of Trees (2015)</title>
+    <desc lang="es">Un estadounidense y un japonés se conocen en un bosque. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81BFJfGFeZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
