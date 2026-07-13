@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260713132100 +0200" stop="20260713152100 +0200" channel="acontra+ CINE">
-    <title lang="es">El león del desierto (1980)</title>
-    <desc lang="es">Un líder libio rebelde se enfrenta a las tropas italianas de Mussolini. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1CzYjsJAUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260713152100 +0200" stop="20260713165800 +0200" channel="acontra+ CINE">
-    <title lang="es">El rostro (1975)</title>
-    <desc lang="es">El hipnotizador y mago Vogler y su mujer están siendo desafiados por los escépticos locales. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Lo+2uo-4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260713165800 +0200" stop="20260713184900 +0200" channel="acontra+ CINE">
-    <title lang="es">The Sea of Trees (2015)</title>
-    <desc lang="es">Un estadounidense y un japonés se conocen en un bosque. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BFJfGFeZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260713184900 +0200" stop="20260713202000 +0200" channel="acontra+ CINE">
+  <programme start="20260713182000 +0200" stop="20260713202000 +0200" channel="acontra+ CINE">
     <title lang="es">Despertando a Ned (1998)</title>
     <desc lang="es">Un pueblo oculta la muerte de Ned, ganador de la lotería, para repartirse el dinero entre ellos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81lSKouKbuL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Bright Star (2009)</title>
     <desc lang="es">El romance de tres años entre el poeta John Keats y Fanny Brawne cerca del final de su vida. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1zxyQnUk9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260714002300 +0200" stop="20260714015200 +0200" channel="acontra+ CINE">
+    <title lang="es">Aprendiendo a conducir (2014)</title>
+    <desc lang="es">Una escritora y un taxista indio se alejan de sus problemas durante las clases de conducción. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tu3xFypWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260714015200 +0200" stop="20260714040300 +0200" channel="acontra+ CINE">
+    <title lang="es">La ciudad de la alegría (1992)</title>
+    <desc lang="es">En la ciudad de Calcuta, dos personas muy diferentes encuentran comprensión la una en la otra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81vWESbKG4L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
