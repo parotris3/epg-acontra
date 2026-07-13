@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260713090000 +0200" stop="20260713110000 +0200" channel="acontra+ CINE">
-    <title lang="es">Habitación verde (2015)</title>
-    <desc lang="es">Unos neonazis quieren matar a unos músicos. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/9163gYcEEDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260713110000 +0200" stop="20260713124400 +0200" channel="acontra+ CINE">
-    <title lang="es">Encuentro en la noche (1952)</title>
-    <desc lang="es">Tras diez años de ausencia, Mae Doyle vuelve a su pueblo natal, una pequeña población pesquera. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81zo2eSNOcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260713124400 +0200" stop="20260713152100 +0200" channel="acontra+ CINE">
+  <programme start="20260713132100 +0200" stop="20260713152100 +0200" channel="acontra+ CINE">
     <title lang="es">El león del desierto (1980)</title>
     <desc lang="es">Un líder libio rebelde se enfrenta a las tropas italianas de Mussolini. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1CzYjsJAUL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">The Sea of Trees (2015)</title>
     <desc lang="es">Un estadounidense y un japonés se conocen en un bosque. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81BFJfGFeZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260713184900 +0200" stop="20260713202000 +0200" channel="acontra+ CINE">
+    <title lang="es">Despertando a Ned (1998)</title>
+    <desc lang="es">Un pueblo oculta la muerte de Ned, ganador de la lotería, para repartirse el dinero entre ellos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81lSKouKbuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260713202000 +0200" stop="20260713222800 +0200" channel="acontra+ CINE">
+    <title lang="es">Bullhead (2011)</title>
+    <desc lang="es">Jacky Vanmarsenille es abordado por un veterinario sin escrúpulos para hacer negocios sucios. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/712XNuWfUCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260713222800 +0200" stop="20260714002300 +0200" channel="acontra+ CINE">
+    <title lang="es">Bright Star (2009)</title>
+    <desc lang="es">El romance de tres años entre el poeta John Keats y Fanny Brawne cerca del final de su vida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1zxyQnUk9L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
