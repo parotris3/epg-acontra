@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260713222300 +0200" stop="20260714002300 +0200" channel="acontra+ CINE">
-    <title lang="es">Bright Star (2009)</title>
-    <desc lang="es">El romance de tres años entre el poeta John Keats y Fanny Brawne cerca del final de su vida. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1zxyQnUk9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260714002300 +0200" stop="20260714015200 +0200" channel="acontra+ CINE">
-    <title lang="es">Aprendiendo a conducir (2014)</title>
-    <desc lang="es">Una escritora y un taxista indio se alejan de sus problemas durante las clases de conducción. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tu3xFypWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260714015200 +0200" stop="20260714040300 +0200" channel="acontra+ CINE">
-    <title lang="es">La ciudad de la alegría (1992)</title>
-    <desc lang="es">En la ciudad de Calcuta, dos personas muy diferentes encuentran comprensión la una en la otra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81vWESbKG4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260714040300 +0200" stop="20260714053100 +0200" channel="acontra+ CINE">
+  <programme start="20260714033100 +0200" stop="20260714053100 +0200" channel="acontra+ CINE">
     <title lang="es">La bestia bajo el asfalto (1980)</title>
     <desc lang="es">En Chicago aparece un cocodrilo de un tamaño gigante que sale de sus cloacas. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/816cOdDJ9CL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Manual de la buena esposa (2020)</title>
     <desc lang="es">Una escuela de hogar se encarga de capacitar a sus estudiantes para que sean esposas modelo. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81GtGBEHRyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260714084900 +0200" stop="20260714102700 +0200" channel="acontra+ CINE">
+    <title lang="es">Misión País Vasco (2021)</title>
+    <desc lang="es">Una comercial parisina debe ir al País Vasco francés por razones profesionales. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91zwLJAme4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260714102700 +0200" stop="20260714124000 +0200" channel="acontra+ CINE">
+    <title lang="es">Open Range (2003)</title>
+    <desc lang="es">Un grupo de hombres intenta escapar de su pasado guiando ganado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Pc2cUR1nL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260714124000 +0200" stop="20260714151400 +0200" channel="acontra+ CINE">
+    <title lang="es">Pequeñas mentiras sin importancia (2010)</title>
+    <desc lang="es">Un matrimonio invita a un grupo de amigos a su casa de la playa, pero un amigo no puede asistir. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Ci1eiig8L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
