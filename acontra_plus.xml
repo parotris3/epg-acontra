@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260714131400 +0200" stop="20260714151400 +0200" channel="acontra+ CINE">
-    <title lang="es">Pequeñas mentiras sin importancia (2010)</title>
-    <desc lang="es">Un matrimonio invita a un grupo de amigos a su casa de la playa, pero un amigo no puede asistir. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Ci1eiig8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260714151400 +0200" stop="20260714174100 +0200" channel="acontra+ CINE">
-    <title lang="es">Quemado por el sol (1994)</title>
-    <desc lang="es">La aparición de un hombre perturba la existencia de un héroe de la Revolución Soviética. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71qHPt+eWxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260714174100 +0200" stop="20260714191300 +0200" channel="acontra+ CINE">
-    <title lang="es">Sueños eléctricos (1984)</title>
-    <desc lang="es">Un arquitecto y su ordenador, que ha cobrado vida propia, pelearán por el amor de su vecina. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/818fKOqBghL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260714191300 +0200" stop="20260714204500 +0200" channel="acontra+ CINE">
+  <programme start="20260714184500 +0200" stop="20260714204500 +0200" channel="acontra+ CINE">
     <title lang="es">Testigo mudo (1996)</title>
     <desc lang="es">Billy Hughes, una americana que trabaja en Rusia, es testigo de un asesinato en un plató de cine. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71n9KAvmIsL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Dog Soldiers (2002)</title>
     <desc lang="es">Unos soldados ingleses lucharán por sus vidas al enfrentarse a unas agresivas y extrañas bestias. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/918fYN7V4wL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260714235000 +0200" stop="20260715013200 +0200" channel="acontra+ CINE">
+    <title lang="es">Adiós, felicidad</title>
+    <desc lang="es">Cuatro hermanos se reencuentran por última vez para rendirle un último homenaje a su padre. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1fX27r6b4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260715013200 +0200" stop="20260715040100 +0200" channel="acontra+ CINE">
+    <title lang="es">Romanzo criminale (2005)</title>
+    <desc lang="es">Una banda de delincuentes asesina a un hombre poderoso y se involucra en el tráfico de drogas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8193TrysWXL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
