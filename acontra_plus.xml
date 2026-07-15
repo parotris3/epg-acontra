@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260715080600 +0200" stop="20260715100600 +0200" channel="acontra+ CINE">
-    <title lang="es">El placer (1953)</title>
-    <desc lang="es">Un hombre que oculta su edad, un viaje al campo y un pintor ilustran tres historias sobre el placer. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81OVO5JCtKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260715100600 +0200" stop="20260715115400 +0200" channel="acontra+ CINE">
-    <title lang="es">Consejo de guerra (1980)</title>
-    <desc lang="es">Australianos que luchan por Inglaterra en la Guerra de los Bóer se enfrentan a un consejo de guerra. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91MYLrjr-ML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260715115400 +0200" stop="20260715135900 +0200" channel="acontra+ CINE">
-    <title lang="es">13 asesinos (2010)</title>
-    <desc lang="es">Un oficial llega a un acuerdo con un samurái para que le ayude a acabar con un tirano. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71QqYrnKBwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260715135900 +0200" stop="20260715153300 +0200" channel="acontra+ CINE">
+  <programme start="20260715133300 +0200" stop="20260715153300 +0200" channel="acontra+ CINE">
     <title lang="es">El pecado del padre Mouret</title>
     <desc lang="es">Serge Mouret, un devoto párroco, sufre una pérdida de memoria. Una joven enfermera lo cuida. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71VCRO62IML._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Medidas extremas (2017)</title>
     <desc lang="es">Un hombre está dispuesto a todo con tal de sacar a su hija del mundo de las drogas y los hurtos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/915YbrZlfKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260715185000 +0200" stop="20260715202000 +0200" channel="acontra+ CINE">
+    <title lang="es">Little Monsters (2019)</title>
+    <desc lang="es">Dave se ofrece como voluntario para acompañar a su sobrino en un viaje escolar. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91irhFfgcgL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260715202000 +0200" stop="20260715215300 +0200" channel="acontra+ CINE">
+    <title lang="es">Noche real (2015)</title>
+    <desc lang="es">En el Día de la Victoria, las princesas Isabel y Margarita se unen a la celebración de incógnito. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1eJ-vL++eL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260715215300 +0200" stop="20260715233000 +0200" channel="acontra+ CINE">
+    <title lang="es">La Chinoise (1969)</title>
+    <desc lang="es">París, 1967. Un grupo de estudiantes franceses empieza a pensar en la forma de cambiar el mundo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91xFWfprssL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
