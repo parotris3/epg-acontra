@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260715182000 +0200" stop="20260715202000 +0200" channel="acontra+ CINE">
-    <title lang="es">Little Monsters (2019)</title>
-    <desc lang="es">Dave se ofrece como voluntario para acompañar a su sobrino en un viaje escolar. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91irhFfgcgL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260715202000 +0200" stop="20260715215300 +0200" channel="acontra+ CINE">
-    <title lang="es">Noche real (2015)</title>
-    <desc lang="es">En el Día de la Victoria, las princesas Isabel y Margarita se unen a la celebración de incógnito. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1eJ-vL++eL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260715215300 +0200" stop="20260715233000 +0200" channel="acontra+ CINE">
-    <title lang="es">La Chinoise (1969)</title>
-    <desc lang="es">París, 1967. Un grupo de estudiantes franceses empieza a pensar en la forma de cambiar el mundo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91xFWfprssL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260715233000 +0200" stop="20260716010700 +0200" channel="acontra+ CINE">
+  <programme start="20260715230700 +0200" stop="20260716010700 +0200" channel="acontra+ CINE">
     <title lang="es">Oxford Blues (1984)</title>
     <desc lang="es">Un americano que anda tras la chica de sus sueños amenaza la tradición de la Universidad de Oxford. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91t7glRFKjL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Rescate en Nueva York (2006)</title>
     <desc lang="es">Un hombre trata de encontrar a su hermana secuestrada en medio de una guerra entre la mafia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Z3bXCwlnL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260716040900 +0200" stop="20260716055600 +0200" channel="acontra+ CINE">
+    <title lang="es">Principiantes (1986)</title>
+    <desc lang="es">Un fotógrafo se enamora locamente de una chica que quiere ser diseñadora de moda. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81USLUz2mlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260716055600 +0200" stop="20260716071700 +0200" channel="acontra+ CINE">
+    <title lang="es">La mano del diablo (2015)</title>
+    <desc lang="es">Roland, un pintor fracasado, empieza a contar su historia sobre el talismán que cambió su vida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1LUUu78PsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260716071700 +0200" stop="20260716091000 +0200" channel="acontra+ CINE">
+    <title lang="es">La gran seducción (2013)</title>
+    <desc lang="es">Los habitantes del pueblo costero canadiense de Tickel Cove necesitan un médico. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ZWzJlAK2L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
