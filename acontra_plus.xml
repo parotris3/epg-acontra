@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260716142700 +0200" stop="20260716162700 +0200" channel="acontra+ CINE">
-    <title lang="es">El fotógrafo de Minamata (2020)</title>
-    <desc lang="es">W. Eugne Smith, fotógrafo de guerra, regresa a Japón para documentar el envenenamiento por mercurio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Y8Sd-EGgL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260716162700 +0200" stop="20260716181200 +0200" channel="acontra+ CINE">
-    <title lang="es">El dossier 51 (2021)</title>
-    <desc lang="es">Dominique Auphal es un diplomático francés que acepta un cargo de responsabilidad. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81XvzsFvNAL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260716181200 +0200" stop="20260716194100 +0200" channel="acontra+ CINE">
-    <title lang="es">Cuerpos ardientes (1991)</title>
-    <desc lang="es">La historia de tres mujeres. En la exuberante y pantanosa ciudad de Bayou La Teche, Luisiana. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1SIPR7Xw7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260716194100 +0200" stop="20260716211500 +0200" channel="acontra+ CINE">
+  <programme start="20260716191500 +0200" stop="20260716211500 +0200" channel="acontra+ CINE">
     <title lang="es">Ciudad del crimen</title>
     <desc lang="es">Un ex-boxeador que regenta un club descubre que dos de sus bailarinas han sido asesinadas. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1OtJlIvFrL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Disparando a perros (2005)</title>
     <desc lang="es">Un profesor ofrece protección a miles de ruandeses que escapan del genocidio en la Ruanda de 1994. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71bv7tLr2dL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260716231100 +0200" stop="20260717004100 +0200" channel="acontra+ CINE">
+    <title lang="es">El mejor regalo (2018)</title>
+    <desc lang="es">Sena, una aspirante a diseñadora de moda y sin éxito en el amor, cumple 46 años. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81anZEQ6NtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260717004100 +0200" stop="20260717021200 +0200" channel="acontra+ CINE">
+    <title lang="es">El último vuelo (2014)</title>
+    <desc lang="es">Marie Vallières de Beaumont, una intrépida aviadora, se propone encontrar a su novio desaparecido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71jGocrVMZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260717021200 +0200" stop="20260717040600 +0200" channel="acontra+ CINE">
+    <title lang="es">Las Diabólicas (1955)</title>
+    <desc lang="es">La mujer y el amante del director de un colegio ponen fin a la tiranía del hombre que comparten. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1i3cYW6luL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
