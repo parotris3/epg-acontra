@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260716191500 +0200" stop="20260716211500 +0200" channel="acontra+ CINE">
-    <title lang="es">Ciudad del crimen</title>
-    <desc lang="es">Un ex-boxeador que regenta un club descubre que dos de sus bailarinas han sido asesinadas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1OtJlIvFrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260716211500 +0200" stop="20260716231100 +0200" channel="acontra+ CINE">
-    <title lang="es">Disparando a perros (2005)</title>
-    <desc lang="es">Un profesor ofrece protección a miles de ruandeses que escapan del genocidio en la Ruanda de 1994. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71bv7tLr2dL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260716231100 +0200" stop="20260717004100 +0200" channel="acontra+ CINE">
+  <programme start="20260716224100 +0200" stop="20260717004100 +0200" channel="acontra+ CINE">
     <title lang="es">El mejor regalo (2018)</title>
     <desc lang="es">Sena, una aspirante a diseñadora de moda y sin éxito en el amor, cumple 46 años. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81anZEQ6NtL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Las Diabólicas (1955)</title>
     <desc lang="es">La mujer y el amante del director de un colegio ponen fin a la tiranía del hombre que comparten. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1i3cYW6luL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260717040600 +0200" stop="20260717060500 +0200" channel="acontra+ CINE">
+    <title lang="es">La linterna roja (1991)</title>
+    <desc lang="es">China, años 20. Una joven accede a ser concubina de un hombre acaudalado que ya tiene tres esposas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81mKZ-18XaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260717060500 +0200" stop="20260717073400 +0200" channel="acontra+ CINE">
+    <title lang="es">Jane en busca de la ciudad perdida (1988)</title>
+    <desc lang="es">África 1940. Tanto los nazis como los británicos tratan de localizar la ciudad perdida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/912VzzWFthL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260717073400 +0200" stop="20260717090100 +0200" channel="acontra+ CINE">
+    <title lang="es">El silencio del mar (2012)</title>
+    <desc lang="es">Un oficial alemán, cultivado y francófilo, es el huésped impuesto en un hogar francés. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/71fMGZzJLRL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
