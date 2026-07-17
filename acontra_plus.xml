@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260717192100 +0200" stop="20260717212100 +0200" channel="acontra+ CINE">
-    <title lang="es">Conexión Marsella (2014)</title>
-    <desc lang="es">Un joven magistrado es destinado a combatir la lucha contra el crimen organizado. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-LZi-Jm3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260717212100 +0200" stop="20260717224600 +0200" channel="acontra+ CINE">
-    <title lang="es">Sexy Beast (2000)</title>
-    <desc lang="es">Gal Dove se planteará regresar al mundo criminal cuando su antiguo socio, Don Logan, se lo propone. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81dP7k-3QgL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260717224600 +0200" stop="20260718001100 +0200" channel="acontra+ CINE">
+  <programme start="20260717221100 +0200" stop="20260718001100 +0200" channel="acontra+ CINE">
     <title lang="es">Quisiera que alguien me esperara en algún lugar (2019)</title>
     <desc lang="es">Aurora va a celebrar su 70 cumpleaños en la casa familiar rodeada de sus cuatro hijos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1eP+jFstkL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Stalingrado (1992)</title>
     <desc lang="es">Musical que muestra los horrores de la guerra a través de las vicisitudes de unos soldados alemanes. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91sIMlEM6zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260718040700 +0200" stop="20260718060400 +0200" channel="acontra+ CINE">
+    <title lang="es">Salvar o morir (2020)</title>
+    <desc lang="es">Un bombero parisino sacrifica su propia seguridad para salvar a sus compañeros durante un incendio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81aMCbkTScL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260718060400 +0200" stop="20260718073900 +0200" channel="acontra+ CINE">
+    <title lang="es">Profesor Lazhar (2011)</title>
+    <desc lang="es">Bachir Lazhar, un inmigrante argelino, se ofrece como sustituto de un maestro. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/815c9swPh1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260718073900 +0200" stop="20260718092000 +0200" channel="acontra+ CINE">
+    <title lang="es">Nosotras las mujeres</title>
+    <desc lang="es">Retrato de la vida privada de cinco grandes actrices, que se interpretan a sí mismas. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81s+DfMebeL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
