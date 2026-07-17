@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260717040500 +0200" stop="20260717060500 +0200" channel="acontra+ CINE">
-    <title lang="es">La linterna roja (1991)</title>
-    <desc lang="es">China, años 20. Una joven accede a ser concubina de un hombre acaudalado que ya tiene tres esposas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81mKZ-18XaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260717060500 +0200" stop="20260717073400 +0200" channel="acontra+ CINE">
-    <title lang="es">Jane en busca de la ciudad perdida (1988)</title>
-    <desc lang="es">África 1940. Tanto los nazis como los británicos tratan de localizar la ciudad perdida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/912VzzWFthL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260717073400 +0200" stop="20260717090100 +0200" channel="acontra+ CINE">
-    <title lang="es">El silencio del mar (2012)</title>
-    <desc lang="es">Un oficial alemán, cultivado y francófilo, es el huésped impuesto en un hogar francés. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/71fMGZzJLRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260717090100 +0200" stop="20260717104000 +0200" channel="acontra+ CINE">
+  <programme start="20260717084000 +0200" stop="20260717104000 +0200" channel="acontra+ CINE">
     <title lang="es">Vatel (2000)</title>
     <desc lang="es">La vida de palacio de un mayordomo en la corte de Luis XIV. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/814OqpwnpFL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El gato y el canario (1979)</title>
     <desc lang="es">La gran herencia de una mujer la convierte en el objetivo de un misterioso asesino. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91WU8UPlK6L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260717132900 +0200" stop="20260717151300 +0200" channel="acontra+ CINE">
+    <title lang="es">El cartero (y Pablo Neruda) (1994)</title>
+    <desc lang="es">Historia de amistad donde el poeta Neruda enseña a un cartero como conquistar a una mujer. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81xsV1Ds8lL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260717151300 +0200" stop="20260717171100 +0200" channel="acontra+ CINE">
+    <title lang="es">Detective Dee y el misterio de la llama fantasma (2010)</title>
+    <desc lang="es">Wu, la primera emperatriz de la China, reclama la ayuda de Di Renjie para resolver un misterio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81QvE9VDVqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260717171100 +0200" stop="20260717190500 +0200" channel="acontra+ CINE">
+    <title lang="es">Soñadores (2000)</title>
+    <desc lang="es">Isabelle, Theo y Matthew tratan de conocerse mutuamente explorando emociones y erotismo. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81gj-r-5MuL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
