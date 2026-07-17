@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260716224100 +0200" stop="20260717004100 +0200" channel="acontra+ CINE">
-    <title lang="es">El mejor regalo (2018)</title>
-    <desc lang="es">Sena, una aspirante a diseñadora de moda y sin éxito en el amor, cumple 46 años. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81anZEQ6NtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260717004100 +0200" stop="20260717021200 +0200" channel="acontra+ CINE">
-    <title lang="es">El último vuelo (2014)</title>
-    <desc lang="es">Marie Vallières de Beaumont, una intrépida aviadora, se propone encontrar a su novio desaparecido. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71jGocrVMZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260717021200 +0200" stop="20260717040600 +0200" channel="acontra+ CINE">
-    <title lang="es">Las Diabólicas (1955)</title>
-    <desc lang="es">La mujer y el amante del director de un colegio ponen fin a la tiranía del hombre que comparten. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1i3cYW6luL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260717040600 +0200" stop="20260717060500 +0200" channel="acontra+ CINE">
+  <programme start="20260717040500 +0200" stop="20260717060500 +0200" channel="acontra+ CINE">
     <title lang="es">La linterna roja (1991)</title>
     <desc lang="es">China, años 20. Una joven accede a ser concubina de un hombre acaudalado que ya tiene tres esposas. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81mKZ-18XaL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El silencio del mar (2012)</title>
     <desc lang="es">Un oficial alemán, cultivado y francófilo, es el huésped impuesto en un hogar francés. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/71fMGZzJLRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260717090100 +0200" stop="20260717104000 +0200" channel="acontra+ CINE">
+    <title lang="es">Vatel (2000)</title>
+    <desc lang="es">La vida de palacio de un mayordomo en la corte de Luis XIV. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/814OqpwnpFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260717104000 +0200" stop="20260717115100 +0200" channel="acontra+ CINE">
+    <title lang="es">El pan nuestro de cada día (1934)</title>
+    <desc lang="es">Durante la crisis de 1929, una joven pareja abandona la ciudad y explota una granja abandonada. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81CZCGswxtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260717115100 +0200" stop="20260717132900 +0200" channel="acontra+ CINE">
+    <title lang="es">El gato y el canario (1979)</title>
+    <desc lang="es">La gran herencia de una mujer la convierte en el objetivo de un misterioso asesino. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91WU8UPlK6L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
