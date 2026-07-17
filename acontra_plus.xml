@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260717131300 +0200" stop="20260717151300 +0200" channel="acontra+ CINE">
-    <title lang="es">El cartero (y Pablo Neruda) (1994)</title>
-    <desc lang="es">Historia de amistad donde el poeta Neruda enseña a un cartero como conquistar a una mujer. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81xsV1Ds8lL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260717151300 +0200" stop="20260717171100 +0200" channel="acontra+ CINE">
-    <title lang="es">Detective Dee y el misterio de la llama fantasma (2010)</title>
-    <desc lang="es">Wu, la primera emperatriz de la China, reclama la ayuda de Di Renjie para resolver un misterio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81QvE9VDVqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260717171100 +0200" stop="20260717190500 +0200" channel="acontra+ CINE">
-    <title lang="es">Soñadores (2000)</title>
-    <desc lang="es">Isabelle, Theo y Matthew tratan de conocerse mutuamente explorando emociones y erotismo. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81gj-r-5MuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260717190500 +0200" stop="20260717212100 +0200" channel="acontra+ CINE">
+  <programme start="20260717192100 +0200" stop="20260717212100 +0200" channel="acontra+ CINE">
     <title lang="es">Conexión Marsella (2014)</title>
     <desc lang="es">Un joven magistrado es destinado a combatir la lucha contra el crimen organizado. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81-LZi-Jm3L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Quisiera que alguien me esperara en algún lugar (2019)</title>
     <desc lang="es">Aurora va a celebrar su 70 cumpleaños en la casa familiar rodeada de sus cuatro hijos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1eP+jFstkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260718001100 +0200" stop="20260718014700 +0200" channel="acontra+ CINE">
+    <title lang="es">Teniente corrupto (1992)</title>
+    <desc lang="es">Un policía corrupto queda a cargo del caso de una monja que ha sufrido una múltiple violación. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91djjNBTzxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260718014700 +0200" stop="20260718040700 +0200" channel="acontra+ CINE">
+    <title lang="es">Stalingrado (1992)</title>
+    <desc lang="es">Musical que muestra los horrores de la guerra a través de las vicisitudes de unos soldados alemanes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91sIMlEM6zL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
