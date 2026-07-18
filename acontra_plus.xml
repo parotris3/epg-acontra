@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260717221100 +0200" stop="20260718001100 +0200" channel="acontra+ CINE">
-    <title lang="es">Quisiera que alguien me esperara en algún lugar (2019)</title>
-    <desc lang="es">Aurora va a celebrar su 70 cumpleaños en la casa familiar rodeada de sus cuatro hijos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1eP+jFstkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260718001100 +0200" stop="20260718014700 +0200" channel="acontra+ CINE">
-    <title lang="es">Teniente corrupto (1992)</title>
-    <desc lang="es">Un policía corrupto queda a cargo del caso de una monja que ha sufrido una múltiple violación. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91djjNBTzxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260718014700 +0200" stop="20260718040700 +0200" channel="acontra+ CINE">
-    <title lang="es">Stalingrado (1992)</title>
-    <desc lang="es">Musical que muestra los horrores de la guerra a través de las vicisitudes de unos soldados alemanes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91sIMlEM6zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260718040700 +0200" stop="20260718060400 +0200" channel="acontra+ CINE">
+  <programme start="20260718040400 +0200" stop="20260718060400 +0200" channel="acontra+ CINE">
     <title lang="es">Salvar o morir (2020)</title>
     <desc lang="es">Un bombero parisino sacrifica su propia seguridad para salvar a sus compañeros durante un incendio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81aMCbkTScL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Nosotras las mujeres</title>
     <desc lang="es">Retrato de la vida privada de cinco grandes actrices, que se interpretan a sí mismas. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81s+DfMebeL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260718092000 +0200" stop="20260718120200 +0200" channel="acontra+ CINE">
+    <title lang="es">Lo que el día debe a la noche (2012)</title>
+    <desc lang="es">Un niño ve cómo se pone a prueba su amistad con sus amigos cuando una joven llega al pueblo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/910jaGl7Z3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260718120200 +0200" stop="20260718141400 +0200" channel="acontra+ CINE">
+    <title lang="es">La flauta mágica (1975)</title>
+    <desc lang="es">El príncipe Tamino busca rescatar a la princesa Pamina, secuestrada por un hechicero. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91rFoIZIBaL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
