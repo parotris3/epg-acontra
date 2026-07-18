@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260718100200 +0200" stop="20260718120200 +0200" channel="acontra+ CINE">
-    <title lang="es">Lo que el día debe a la noche (2012)</title>
-    <desc lang="es">Un niño ve cómo se pone a prueba su amistad con sus amigos cuando una joven llega al pueblo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/910jaGl7Z3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260718120200 +0200" stop="20260718141400 +0200" channel="acontra+ CINE">
-    <title lang="es">La flauta mágica (1975)</title>
-    <desc lang="es">El príncipe Tamino busca rescatar a la princesa Pamina, secuestrada por un hechicero. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/91rFoIZIBaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260718141400 +0200" stop="20260718160700 +0200" channel="acontra+ CINE">
+  <programme start="20260718140700 +0200" stop="20260718160700 +0200" channel="acontra+ CINE">
     <title lang="es">Gertrud (1964)</title>
     <desc lang="es">Gertrud busca el amor absoluto, pero sus relaciones se ven siempre abocadas al fracaso. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71lbHLum9eL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">El monarca rojo (2006)</title>
     <desc lang="es">Stalin firma sentencias de muerte mientras su lugarteniente Beria persigue mujeres. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91oiheQFAAL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260718194500 +0200" stop="20260718213700 +0200" channel="acontra+ CINE">
+    <title lang="es">El arpa birmana (1956)</title>
+    <desc lang="es">Año 1945. Un soldado nipón que toca el arpa queda horrorizado por la destrucción que le rodea. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Rnk3BU0CL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260718213700 +0200" stop="20260718225200 +0200" channel="acontra+ CINE">
+    <title lang="es">Ultraje (1950)</title>
+    <desc lang="es">Tras ser abusada sexualmente, Ann Walton huye de casa e intenta rehacer su vida en otra ciudad. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91zFZFnaX0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260718225200 +0200" stop="20260719002600 +0200" channel="acontra+ CINE">
+    <title lang="es">Profesor en Groenlandia (2019)</title>
+    <desc lang="es">Anders deja Dinamarca por un puesto de profesor en Groenlandia y debe adaptarse a su nueva vida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81or1sSV4zL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
