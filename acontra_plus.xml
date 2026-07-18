@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260718140700 +0200" stop="20260718160700 +0200" channel="acontra+ CINE">
-    <title lang="es">Gertrud (1964)</title>
-    <desc lang="es">Gertrud busca el amor absoluto, pero sus relaciones se ven siempre abocadas al fracaso. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71lbHLum9eL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260718160700 +0200" stop="20260718180000 +0200" channel="acontra+ CINE">
-    <title lang="es">El tiempo del lobo</title>
-    <desc lang="es">Anna y su familia descubren que su casa de campo ha sido ocupada por otra familia. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91AG38UD0fL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260718180000 +0200" stop="20260718194500 +0200" channel="acontra+ CINE">
-    <title lang="es">El monarca rojo (2006)</title>
-    <desc lang="es">Stalin firma sentencias de muerte mientras su lugarteniente Beria persigue mujeres. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91oiheQFAAL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260718194500 +0200" stop="20260718213700 +0200" channel="acontra+ CINE">
+  <programme start="20260718193700 +0200" stop="20260718213700 +0200" channel="acontra+ CINE">
     <title lang="es">El arpa birmana (1956)</title>
     <desc lang="es">Año 1945. Un soldado nipón que toca el arpa queda horrorizado por la destrucción que le rodea. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Rnk3BU0CL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Profesor en Groenlandia (2019)</title>
     <desc lang="es">Anders deja Dinamarca por un puesto de profesor en Groenlandia y debe adaptarse a su nueva vida. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81or1sSV4zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260719002600 +0200" stop="20260719021400 +0200" channel="acontra+ CINE">
+    <title lang="es">Un hombre en el tejado (1976)</title>
+    <desc lang="es">El teniente de la policía Nyman es brutalmente asesinado en un hospital de Estocolmo. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81mr4InncSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260719021400 +0200" stop="20260719041300 +0200" channel="acontra+ CINE">
+    <title lang="es">Norman, el hombre que lo conseguía todo (2016)</title>
+    <desc lang="es">Norman conoce a un joven político que cambiará su vida tres años después para bien y para mal. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81rnT24IdkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
