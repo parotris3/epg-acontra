@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260718193700 +0200" stop="20260718213700 +0200" channel="acontra+ CINE">
-    <title lang="es">El arpa birmana (1956)</title>
-    <desc lang="es">Año 1945. Un soldado nipón que toca el arpa queda horrorizado por la destrucción que le rodea. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Rnk3BU0CL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260718213700 +0200" stop="20260718225200 +0200" channel="acontra+ CINE">
-    <title lang="es">Ultraje (1950)</title>
-    <desc lang="es">Tras ser abusada sexualmente, Ann Walton huye de casa e intenta rehacer su vida en otra ciudad. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zFZFnaX0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260718225200 +0200" stop="20260719002600 +0200" channel="acontra+ CINE">
+  <programme start="20260718222600 +0200" stop="20260719002600 +0200" channel="acontra+ CINE">
     <title lang="es">Profesor en Groenlandia (2019)</title>
     <desc lang="es">Anders deja Dinamarca por un puesto de profesor en Groenlandia y debe adaptarse a su nueva vida. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81or1sSV4zL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Norman, el hombre que lo conseguía todo (2016)</title>
     <desc lang="es">Norman conoce a un joven político que cambiará su vida tres años después para bien y para mal. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81rnT24IdkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260719041300 +0200" stop="20260719053800 +0200" channel="acontra+ CINE">
+    <title lang="es">Sucedió mañana (1944)</title>
+    <desc lang="es">En sus bodas de oro, Larry y Sylvia narran a su familia un suceso muy extraño del pasado. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81GpqLoyBML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260719053800 +0200" stop="20260719070800 +0200" channel="acontra+ CINE">
+    <title lang="es">Este coche es una ruina (1988)</title>
+    <desc lang="es">Gerald se compra un Jaguar nuevo, y al instante se convierte en su nuevo amor. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91tcvCHxZtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260719070800 +0200" stop="20260719084100 +0200" channel="acontra+ CINE">
+    <title lang="es">El último pasajero (2013)</title>
+    <desc lang="es">Los frenos de un tren han sido saboteados por un sociópata. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81dfjgkDIdL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
