@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260719033800 +0200" stop="20260719053800 +0200" channel="acontra+ CINE">
-    <title lang="es">Sucedió mañana (1944)</title>
-    <desc lang="es">En sus bodas de oro, Larry y Sylvia narran a su familia un suceso muy extraño del pasado. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81GpqLoyBML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260719053800 +0200" stop="20260719070800 +0200" channel="acontra+ CINE">
-    <title lang="es">Este coche es una ruina (1988)</title>
-    <desc lang="es">Gerald se compra un Jaguar nuevo, y al instante se convierte en su nuevo amor. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91tcvCHxZtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260719070800 +0200" stop="20260719084100 +0200" channel="acontra+ CINE">
-    <title lang="es">El último pasajero (2013)</title>
-    <desc lang="es">Los frenos de un tren han sido saboteados por un sociópata. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81dfjgkDIdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260719084100 +0200" stop="20260719101400 +0200" channel="acontra+ CINE">
+  <programme start="20260719081400 +0200" stop="20260719101400 +0200" channel="acontra+ CINE">
     <title lang="es">El hombre de la máscara de acero (2002)</title>
     <desc lang="es">Tras sufrir un accidente de tráfico, un científico americano es capturado por los rusos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91iVMO8jAyL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El amor de Swann (1984)</title>
     <desc lang="es">La apasionada historia de amor de Swann, un aristócrata, con la bella prostituta Odette de Crécy. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71WNSPx7jcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260719135800 +0200" stop="20260719154700 +0200" channel="acontra+ CINE">
+    <title lang="es">Diálogo de carmelitas (2011)</title>
+    <desc lang="es">En plena Revolución Francesa, la joven Blanche de la Force decide ingresar en un convento. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91fSPpdNqdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260719154700 +0200" stop="20260719173200 +0200" channel="acontra+ CINE">
+    <title lang="es">Churchill (2017)</title>
+    <desc lang="es">Churchill se opone a los generales estadounidenses antes del desembarco de Normandía. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91SzqtuzYwL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260719173200 +0200" stop="20260719191600 +0200" channel="acontra+ CINE">
+    <title lang="es">Asher (2018)</title>
+    <desc lang="es">La irrupción de una mujer en la vida de un sicario provoca que el asesino intente cambiar de vida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A19nCE6n+jL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
