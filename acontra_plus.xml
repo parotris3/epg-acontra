@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260719134700 +0200" stop="20260719154700 +0200" channel="acontra+ CINE">
-    <title lang="es">Diálogo de carmelitas (2011)</title>
-    <desc lang="es">En plena Revolución Francesa, la joven Blanche de la Force decide ingresar en un convento. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91fSPpdNqdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260719154700 +0200" stop="20260719173200 +0200" channel="acontra+ CINE">
-    <title lang="es">Churchill (2017)</title>
-    <desc lang="es">Churchill se opone a los generales estadounidenses antes del desembarco de Normandía. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91SzqtuzYwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260719173200 +0200" stop="20260719191600 +0200" channel="acontra+ CINE">
-    <title lang="es">Asher (2018)</title>
-    <desc lang="es">La irrupción de una mujer en la vida de un sicario provoca que el asesino intente cambiar de vida. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A19nCE6n+jL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260719191600 +0200" stop="20260719205200 +0200" channel="acontra+ CINE">
+  <programme start="20260719185200 +0200" stop="20260719205200 +0200" channel="acontra+ CINE">
     <title lang="es">Absolución (1987)</title>
     <desc lang="es">Un cura debe decidir si quebrantar el secreto de confesión. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/618HEhcNOqL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Déjate llevar (2018)</title>
     <desc lang="es">Elías es un psicoanalista freudiano que necesita adelgazar y que conoce a una entrenadora personal. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81fznH0hqcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260720001100 +0200" stop="20260720020400 +0200" channel="acontra+ CINE">
+    <title lang="es">Byzantium (2012)</title>
+    <desc lang="es">Dos vampiresas que huyen de otros vampiros se refugian en una comunidad británica junto al mar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91pz7+eAfkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260720020400 +0200" stop="20260720042400 +0200" channel="acontra+ CINE">
+    <title lang="es">Caso Murer: el carnicero de Vilnius (2021)</title>
+    <desc lang="es">Año 1963. Franz Murer, oficial austríaco de las SS, se enfrenta a un juicio de diez días. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/814oQwKA-IL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
