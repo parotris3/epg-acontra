@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260718222600 +0200" stop="20260719002600 +0200" channel="acontra+ CINE">
-    <title lang="es">Profesor en Groenlandia (2019)</title>
-    <desc lang="es">Anders deja Dinamarca por un puesto de profesor en Groenlandia y debe adaptarse a su nueva vida. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81or1sSV4zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260719002600 +0200" stop="20260719021400 +0200" channel="acontra+ CINE">
-    <title lang="es">Un hombre en el tejado (1976)</title>
-    <desc lang="es">El teniente de la policía Nyman es brutalmente asesinado en un hospital de Estocolmo. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81mr4InncSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260719021400 +0200" stop="20260719041300 +0200" channel="acontra+ CINE">
-    <title lang="es">Norman, el hombre que lo conseguía todo (2016)</title>
-    <desc lang="es">Norman conoce a un joven político que cambiará su vida tres años después para bien y para mal. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81rnT24IdkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260719041300 +0200" stop="20260719053800 +0200" channel="acontra+ CINE">
+  <programme start="20260719033800 +0200" stop="20260719053800 +0200" channel="acontra+ CINE">
     <title lang="es">Sucedió mañana (1944)</title>
     <desc lang="es">En sus bodas de oro, Larry y Sylvia narran a su familia un suceso muy extraño del pasado. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81GpqLoyBML._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El último pasajero (2013)</title>
     <desc lang="es">Los frenos de un tren han sido saboteados por un sociópata. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81dfjgkDIdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260719084100 +0200" stop="20260719101400 +0200" channel="acontra+ CINE">
+    <title lang="es">El hombre de la máscara de acero (2002)</title>
+    <desc lang="es">Tras sufrir un accidente de tráfico, un científico americano es capturado por los rusos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91iVMO8jAyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260719101400 +0200" stop="20260719120700 +0200" channel="acontra+ CINE">
+    <title lang="es">El dulce porvenir (1997)</title>
+    <desc lang="es">Un abogado va a un pequeño pueblo que sufre las secuelas del accidente de un autobús escolar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71-Vxuw0sKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260719120700 +0200" stop="20260719135800 +0200" channel="acontra+ CINE">
+    <title lang="es">El amor de Swann (1984)</title>
+    <desc lang="es">La apasionada historia de amor de Swann, un aristócrata, con la bella prostituta Odette de Crécy. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71WNSPx7jcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
