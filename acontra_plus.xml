@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260719081400 +0200" stop="20260719101400 +0200" channel="acontra+ CINE">
-    <title lang="es">El hombre de la máscara de acero (2002)</title>
-    <desc lang="es">Tras sufrir un accidente de tráfico, un científico americano es capturado por los rusos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91iVMO8jAyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260719101400 +0200" stop="20260719120700 +0200" channel="acontra+ CINE">
-    <title lang="es">El dulce porvenir (1997)</title>
-    <desc lang="es">Un abogado va a un pequeño pueblo que sufre las secuelas del accidente de un autobús escolar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71-Vxuw0sKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260719120700 +0200" stop="20260719135800 +0200" channel="acontra+ CINE">
-    <title lang="es">El amor de Swann (1984)</title>
-    <desc lang="es">La apasionada historia de amor de Swann, un aristócrata, con la bella prostituta Odette de Crécy. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71WNSPx7jcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260719135800 +0200" stop="20260719154700 +0200" channel="acontra+ CINE">
+  <programme start="20260719134700 +0200" stop="20260719154700 +0200" channel="acontra+ CINE">
     <title lang="es">Diálogo de carmelitas (2011)</title>
     <desc lang="es">En plena Revolución Francesa, la joven Blanche de la Force decide ingresar en un convento. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91fSPpdNqdL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Asher (2018)</title>
     <desc lang="es">La irrupción de una mujer en la vida de un sicario provoca que el asesino intente cambiar de vida. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A19nCE6n+jL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260719191600 +0200" stop="20260719205200 +0200" channel="acontra+ CINE">
+    <title lang="es">Absolución (1987)</title>
+    <desc lang="es">Un cura debe decidir si quebrantar el secreto de confesión. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/618HEhcNOqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260719205200 +0200" stop="20260719223300 +0200" channel="acontra+ CINE">
+    <title lang="es">Blood and Wine (1996)</title>
+    <desc lang="es">Un traficante de vinos pobre planea robar joyas de cliente. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ehsCHcjHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260719223300 +0200" stop="20260720001100 +0200" channel="acontra+ CINE">
+    <title lang="es">Déjate llevar (2018)</title>
+    <desc lang="es">Elías es un psicoanalista freudiano que necesita adelgazar y que conoce a una entrenadora personal. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81fznH0hqcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
