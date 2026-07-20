@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260720041100 +0200" stop="20260720061100 +0200" channel="acontra+ CINE">
-    <title lang="es">Yatterman (2009)</title>
-    <desc lang="es">Gan, Ai y su fiel perro robot gigante tratarán de evitar que Doronjo se haga con una piedra mágica. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81pol7ZTJZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260720061100 +0200" stop="20260720073600 +0200" channel="acontra+ CINE">
-    <title lang="es">Kamikaze (1989)</title>
-    <desc lang="es">Un científico huraño inventa un arma que le permite asesinar a la gente a través de las cámaras. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8144aOLDqTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260720073600 +0200" stop="20260720102000 +0200" channel="acontra+ CINE">
+  <programme start="20260720082000 +0200" stop="20260720102000 +0200" channel="acontra+ CINE">
     <title lang="es">Tess (1979)</title>
     <desc lang="es">La hija de un humilde granjero es víctima de las aspiraciones de su familia y de su propia belleza. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91RxeM8Up8L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">La hora del lobo (1968)</title>
     <desc lang="es">Un artista sufre un colapso emocional y cree que está provocado por una secta. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81jv89mWZ3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260720132500 +0200" stop="20260720144900 +0200" channel="acontra+ CINE">
+    <title lang="es">Josie (2017)</title>
+    <desc lang="es">Un hombre solitario se hace amigo de una estudiante, lo que genera suspicacias entre sus vecinos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81SUld6UADL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260720144900 +0200" stop="20260720162100 +0200" channel="acontra+ CINE">
+    <title lang="es">Hunger (2009)</title>
+    <desc lang="es">Cuando expones tu cuerpo a las más extremas condiciones, las consecuencias son imprevisibles. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71gByKTRNSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260720162100 +0200" stop="20260720181000 +0200" channel="acontra+ CINE">
+    <title lang="es">Fuerzas especiales (2011)</title>
+    <desc lang="es">Afganistán, una periodista es capturada por los Talibanes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81wD-+H9LpL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
