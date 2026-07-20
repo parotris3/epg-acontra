@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260720142100 +0200" stop="20260720162100 +0200" channel="acontra+ CINE">
-    <title lang="es">Hunger (2009)</title>
-    <desc lang="es">Cuando expones tu cuerpo a las más extremas condiciones, las consecuencias son imprevisibles. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71gByKTRNSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260720162100 +0200" stop="20260720181000 +0200" channel="acontra+ CINE">
-    <title lang="es">Fuerzas especiales (2011)</title>
-    <desc lang="es">Afganistán, una periodista es capturada por los Talibanes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81wD-+H9LpL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260720181000 +0200" stop="20260720193600 +0200" channel="acontra+ CINE">
-    <title lang="es">Enrique IV (2014)</title>
-    <desc lang="es">En una fiesta de disfraces, un hombre disfrazado de Enrique IV de Alemania se golpea la cabeza. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A116kxGgaXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260720193600 +0200" stop="20260720210100 +0200" channel="acontra+ CINE">
+  <programme start="20260720190100 +0200" stop="20260720210100 +0200" channel="acontra+ CINE">
     <title lang="es">La piedra sagrada (2017)</title>
     <desc lang="es">Un hombre dispara accidentalmente un dispositivo apocalíptico sumerio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1XwvyLLD+L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Caché (2005)</title>
     <desc lang="es">Un crítico literario de televisión comienza a recibir inquietantes paquetes con vídeos suyos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71l9y149-cL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260721002600 +0200" stop="20260721022000 +0200" channel="acontra+ CINE">
+    <title lang="es">Cuento de Invierno (2015)</title>
+    <desc lang="es">El recuerdo del hombre que amó invade a una joven madre y le impide enamorarse. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-IFBUjqlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260721022000 +0200" stop="20260721040600 +0200" channel="acontra+ CINE">
+    <title lang="es">Adiós, muchachos (1987)</title>
+    <desc lang="es">Una escuela católica protege a un niño judío, escondiendo su verdadera identidad. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71LC8Btr4AL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
