@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260720190100 +0200" stop="20260720210100 +0200" channel="acontra+ CINE">
-    <title lang="es">La piedra sagrada (2017)</title>
-    <desc lang="es">Un hombre dispara accidentalmente un dispositivo apocalíptico sumerio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1XwvyLLD+L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260720210100 +0200" stop="20260720223300 +0200" channel="acontra+ CINE">
-    <title lang="es">Él (1987)</title>
-    <desc lang="es">Francisco Galván de Montemayor se queda prendado de una joven mientras asiste a misa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/61zQyr8U3NL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260720223300 +0200" stop="20260721002600 +0200" channel="acontra+ CINE">
+  <programme start="20260720222600 +0200" stop="20260721002600 +0200" channel="acontra+ CINE">
     <title lang="es">Caché (2005)</title>
     <desc lang="es">Un crítico literario de televisión comienza a recibir inquietantes paquetes con vídeos suyos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71l9y149-cL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Adiós, muchachos (1987)</title>
     <desc lang="es">Una escuela católica protege a un niño judío, escondiendo su verdadera identidad. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71LC8Btr4AL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260721040600 +0200" stop="20260721054900 +0200" channel="acontra+ CINE">
+    <title lang="es">El espejo (1975)</title>
+    <desc lang="es">Alekséi habla con su esposa sobre su situación actual y los motivos por los que se han distanciado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/918hJRIVn7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260721054900 +0200" stop="20260721073700 +0200" channel="acontra+ CINE">
+    <title lang="es">La duda de Darwin (2009)</title>
+    <desc lang="es">Darwin se encontrará con una sociedad reacia al cambio cuando publique su teoría de la evolución. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91lZCeCPcAL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260721073700 +0200" stop="20260721103100 +0200" channel="acontra+ CINE">
+    <title lang="es">Las mejores intenciones (1993)</title>
+    <desc lang="es">La historia de amor de Los Bergman, quienes lucharon contra el rígido sistema de clases dominante. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71r6TqHsM0L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
