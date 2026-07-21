@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260721034900 +0200" stop="20260721054900 +0200" channel="acontra+ CINE">
-    <title lang="es">El espejo (1975)</title>
-    <desc lang="es">Alekséi habla con su esposa sobre su situación actual y los motivos por los que se han distanciado. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/918hJRIVn7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260721054900 +0200" stop="20260721073700 +0200" channel="acontra+ CINE">
-    <title lang="es">La duda de Darwin (2009)</title>
-    <desc lang="es">Darwin se encontrará con una sociedad reacia al cambio cuando publique su teoría de la evolución. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91lZCeCPcAL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260721073700 +0200" stop="20260721103100 +0200" channel="acontra+ CINE">
+  <programme start="20260721083100 +0200" stop="20260721103100 +0200" channel="acontra+ CINE">
     <title lang="es">Las mejores intenciones (1993)</title>
     <desc lang="es">La historia de amor de Los Bergman, quienes lucharon contra el rígido sistema de clases dominante. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71r6TqHsM0L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Al azar, Baltasar (1966)</title>
     <desc lang="es">Baltasar es un burro que vive feliz en un pueblo francés, hasta que es comprado por la joven Marie. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91kXDMFyBkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260721134100 +0200" stop="20260721151400 +0200" channel="acontra+ CINE">
+    <title lang="es">La hija perfecta (2007)</title>
+    <desc lang="es">Sarah conoce a Paul y parece que ha encontrado a su alma gemela, pero pronto la situación empeora. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1PTfSTA2NL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260721151400 +0200" stop="20260721165800 +0200" channel="acontra+ CINE">
+    <title lang="es">Lucky Luke (2009)</title>
+    <desc lang="es">El vaquero Lucky Luke regresa a su pueblo natal, Daisy Town, para instaurar de nuevo la paz. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81uqKlxpNsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260721165800 +0200" stop="20260721182800 +0200" channel="acontra+ CINE">
+    <title lang="es">Otro país (1985)</title>
+    <desc lang="es">En los años 30, dos jóvenes entablan amistad en un colegio británico de clase alta. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/9182KTodawL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
