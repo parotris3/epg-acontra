@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260721131400 +0200" stop="20260721151400 +0200" channel="acontra+ CINE">
-    <title lang="es">La hija perfecta (2007)</title>
-    <desc lang="es">Sarah conoce a Paul y parece que ha encontrado a su alma gemela, pero pronto la situación empeora. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1PTfSTA2NL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260721151400 +0200" stop="20260721165800 +0200" channel="acontra+ CINE">
-    <title lang="es">Lucky Luke (2009)</title>
-    <desc lang="es">El vaquero Lucky Luke regresa a su pueblo natal, Daisy Town, para instaurar de nuevo la paz. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uqKlxpNsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260721165800 +0200" stop="20260721182800 +0200" channel="acontra+ CINE">
-    <title lang="es">Otro país (1985)</title>
-    <desc lang="es">En los años 30, dos jóvenes entablan amistad en un colegio británico de clase alta. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/9182KTodawL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260721182800 +0200" stop="20260721200900 +0200" channel="acontra+ CINE">
+  <programme start="20260721180900 +0200" stop="20260721200900 +0200" channel="acontra+ CINE">
     <title lang="es">Miss Julie (1999)</title>
     <desc lang="es">Durante la noche de San Juan, Julie se siente atraída por Jean, un sirviente de carácter fuerte. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81el+nQmgXL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Oldboy (2003)</title>
     <desc lang="es">Tras ser liberado, un hombre de negocios intenta averiguar la causa de su secuestro hace 15 años. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91piJMJIOkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260721235000 +0200" stop="20260722013800 +0200" channel="acontra+ CINE">
+    <title lang="es">Una chica perfecta (2011)</title>
+    <desc lang="es">Dos padres buscan de manera desesperada a su hija desaparecida. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81kXG7WEJvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260722013800 +0200" stop="20260722040600 +0200" channel="acontra+ CINE">
+    <title lang="es">Una familia de Tokio (2013)</title>
+    <desc lang="es">Una pareja de ancianos que vive en una pequeña isla viaja a Tokio para visitar a sus tres hijos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81koP10hlfL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
