@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260721083100 +0200" stop="20260721103100 +0200" channel="acontra+ CINE">
-    <title lang="es">Las mejores intenciones (1993)</title>
-    <desc lang="es">La historia de amor de Los Bergman, quienes lucharon contra el rígido sistema de clases dominante. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71r6TqHsM0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260721103100 +0200" stop="20260721120600 +0200" channel="acontra+ CINE">
-    <title lang="es">Hydra (2009)</title>
-    <desc lang="es">Una compañía organiza cacerías humanas para los hombres más ricos del mundo. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91HlXRYC4PL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260721120600 +0200" stop="20260721134100 +0200" channel="acontra+ CINE">
-    <title lang="es">Al azar, Baltasar (1966)</title>
-    <desc lang="es">Baltasar es un burro que vive feliz en un pueblo francés, hasta que es comprado por la joven Marie. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91kXDMFyBkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260721134100 +0200" stop="20260721151400 +0200" channel="acontra+ CINE">
+  <programme start="20260721131400 +0200" stop="20260721151400 +0200" channel="acontra+ CINE">
     <title lang="es">La hija perfecta (2007)</title>
     <desc lang="es">Sarah conoce a Paul y parece que ha encontrado a su alma gemela, pero pronto la situación empeora. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1PTfSTA2NL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Otro país (1985)</title>
     <desc lang="es">En los años 30, dos jóvenes entablan amistad en un colegio británico de clase alta. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/9182KTodawL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260721182800 +0200" stop="20260721200900 +0200" channel="acontra+ CINE">
+    <title lang="es">Miss Julie (1999)</title>
+    <desc lang="es">Durante la noche de San Juan, Julie se siente atraída por Jean, un sirviente de carácter fuerte. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81el+nQmgXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260721200900 +0200" stop="20260721215500 +0200" channel="acontra+ CINE">
+    <title lang="es">Sonrisas de una noche de verano (1955)</title>
+    <desc lang="es">Varias parejas con líos amorosos coinciden en una casa de campo durante un fin de semana. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81HE78Vn9jL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260721215500 +0200" stop="20260721235000 +0200" channel="acontra+ CINE">
+    <title lang="es">Oldboy (2003)</title>
+    <desc lang="es">Tras ser liberado, un hombre de negocios intenta averiguar la causa de su secuestro hace 15 años. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91piJMJIOkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
