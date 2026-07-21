@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260720222600 +0200" stop="20260721002600 +0200" channel="acontra+ CINE">
-    <title lang="es">Caché (2005)</title>
-    <desc lang="es">Un crítico literario de televisión comienza a recibir inquietantes paquetes con vídeos suyos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71l9y149-cL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260721002600 +0200" stop="20260721022000 +0200" channel="acontra+ CINE">
-    <title lang="es">Cuento de Invierno (2015)</title>
-    <desc lang="es">El recuerdo del hombre que amó invade a una joven madre y le impide enamorarse. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-IFBUjqlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260721022000 +0200" stop="20260721040600 +0200" channel="acontra+ CINE">
-    <title lang="es">Adiós, muchachos (1987)</title>
-    <desc lang="es">Una escuela católica protege a un niño judío, escondiendo su verdadera identidad. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71LC8Btr4AL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260721040600 +0200" stop="20260721054900 +0200" channel="acontra+ CINE">
+  <programme start="20260721034900 +0200" stop="20260721054900 +0200" channel="acontra+ CINE">
     <title lang="es">El espejo (1975)</title>
     <desc lang="es">Alekséi habla con su esposa sobre su situación actual y los motivos por los que se han distanciado. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/918hJRIVn7L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Las mejores intenciones (1993)</title>
     <desc lang="es">La historia de amor de Los Bergman, quienes lucharon contra el rígido sistema de clases dominante. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71r6TqHsM0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260721103100 +0200" stop="20260721120600 +0200" channel="acontra+ CINE">
+    <title lang="es">Hydra (2009)</title>
+    <desc lang="es">Una compañía organiza cacerías humanas para los hombres más ricos del mundo. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91HlXRYC4PL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260721120600 +0200" stop="20260721134100 +0200" channel="acontra+ CINE">
+    <title lang="es">Al azar, Baltasar (1966)</title>
+    <desc lang="es">Baltasar es un burro que vive feliz en un pueblo francés, hasta que es comprado por la joven Marie. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91kXDMFyBkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
