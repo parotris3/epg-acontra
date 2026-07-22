@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260722191500 +0200" stop="20260722211500 +0200" channel="acontra+ CINE">
-    <title lang="es">El proyecto supermente (2017)</title>
-    <desc lang="es">Algo sucede en Los Ángeles; la tierra ha comenzado a temblar y los edificios se vienen abajo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WroaoxMzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260722211500 +0200" stop="20260722222400 +0200" channel="acontra+ CINE">
-    <title lang="es">El caserón de las sombras (1932)</title>
-    <desc lang="es">Debido a una tormenta, unos viajeros se ven obligados a refugiarse en un viejo caserón. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71KVPyfH4OL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260722222400 +0200" stop="20260723000300 +0200" channel="acontra+ CINE">
+  <programme start="20260722220300 +0200" stop="20260723000300 +0200" channel="acontra+ CINE">
     <title lang="es">El festín de Babette (1987)</title>
     <desc lang="es">Una criada francesa gana la lotería y usa el dinero para preparar un banquete. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71OVFlkg-RL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Los Buddenbrook (2008)</title>
     <desc lang="es">Los Buddenbrooks es la adaptación cinematográfica de la novela de Thomas Mann. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ZbMAcazML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260723040700 +0200" stop="20260723054900 +0200" channel="acontra+ CINE">
+    <title lang="es">La regla del juego (1939)</title>
+    <desc lang="es">Ilustración de clásico de Jean Renoir acerca de las reglas sociales y sexuales que separan a clases. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91ZzBu2bdRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260723054900 +0200" stop="20260723073000 +0200" channel="acontra+ CINE">
+    <title lang="es">Ídolos, mentiras y rock & roll (1997)</title>
+    <desc lang="es">Un joven inmigrante húngaro intenta adaptarse a la escuela y a la cultura americana de los años 60. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/71URI2-SMXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260723073000 +0200" stop="20260723085700 +0200" channel="acontra+ CINE">
+    <title lang="es">Elvira Madigan (1967)</title>
+    <desc lang="es">Una joven equilibrista y un oficial casado se enamoran perdidamente y deciden abandonarlo todo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/712uVLv2tWL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
