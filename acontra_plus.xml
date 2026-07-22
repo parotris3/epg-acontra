@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260722090800 +0200" stop="20260722110800 +0200" channel="acontra+ CINE">
-    <title lang="es">Paraíso (2013)</title>
-    <desc lang="es">Annika Bengtzon trata de reconstruir su vida tras la violenta muerte de su prometido. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81UESgMWduL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260722110800 +0200" stop="20260722130700 +0200" channel="acontra+ CINE">
-    <title lang="es">Salyut-7, héroes en el espacio (2017)</title>
-    <desc lang="es">Dos astronautas soviéticos ponen de nuevo en funcionamiento la estación espacial Salyut 7. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Ukc29h3wL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260722130700 +0200" stop="20260722144500 +0200" channel="acontra+ CINE">
-    <title lang="es">Miss América (1989)</title>
-    <desc lang="es">Una joven del Sur se apunta en el concurso anual de belleza para resaltar la imagen de su pueblo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81yLQTeQGiL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260722144500 +0200" stop="20260722162000 +0200" channel="acontra+ CINE">
+  <programme start="20260722142000 +0200" stop="20260722162000 +0200" channel="acontra+ CINE">
     <title lang="es">Las ocho campanadas (2003)</title>
     <desc lang="es">Philip Calvert es un agente del servicio secreto naval cuya misión es la de desentrañar un robo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81qMCGYTo5L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">Housebound (2014)</title>
     <desc lang="es">Una aspirante a ladrona es remitida a la custodia de su madre distanciada. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81HHDEtoTXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260722180600 +0200" stop="20260722194700 +0200" channel="acontra+ CINE">
+    <title lang="es">Éxito a cualquier precio (1992)</title>
+    <desc lang="es">Un grupo de maliciosos vendedores de inmuebles lucha por sobrevivir en una economía en crisis. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Q-9MYBdRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260722194700 +0200" stop="20260722211500 +0200" channel="acontra+ CINE">
+    <title lang="es">El proyecto supermente (2017)</title>
+    <desc lang="es">Algo sucede en Los Ángeles; la tierra ha comenzado a temblar y los edificios se vienen abajo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91WroaoxMzL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260722211500 +0200" stop="20260722222400 +0200" channel="acontra+ CINE">
+    <title lang="es">El caserón de las sombras (1932)</title>
+    <desc lang="es">Debido a una tormenta, unos viajeros se ven obligados a refugiarse en un viejo caserón. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71KVPyfH4OL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260722222400 +0200" stop="20260723000300 +0200" channel="acontra+ CINE">
+    <title lang="es">El festín de Babette (1987)</title>
+    <desc lang="es">Una criada francesa gana la lotería y usa el dinero para preparar un banquete. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71OVFlkg-RL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
