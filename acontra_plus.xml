@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260722032000 +0200" stop="20260722052000 +0200" channel="acontra+ CINE">
-    <title lang="es">Castores zombies (2014)</title>
-    <desc lang="es">Unos universitarios son atacados por unos castores zombis. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/819U50ILkrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260722052000 +0200" stop="20260722075500 +0200" channel="acontra+ CINE">
-    <title lang="es">Un profeta (2009)</title>
-    <desc lang="es">Malik, un chico de apenas 19 años que no sabe ni leer y escribir, entra en la cárcel. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81d4Py0pFYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260722075500 +0200" stop="20260722091700 +0200" channel="acontra+ CINE">
-    <title lang="es">The Addiction (1995)</title>
-    <desc lang="es">Una joven intenta comprender su nueva vida tras ser convertida en vampiro en un ataque. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71hyHt1yFiL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260722091700 +0200" stop="20260722110800 +0200" channel="acontra+ CINE">
+  <programme start="20260722090800 +0200" stop="20260722110800 +0200" channel="acontra+ CINE">
     <title lang="es">Paraíso (2013)</title>
     <desc lang="es">Annika Bengtzon trata de reconstruir su vida tras la violenta muerte de su prometido. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81UESgMWduL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Salyut-7, héroes en el espacio (2017)</title>
     <desc lang="es">Dos astronautas soviéticos ponen de nuevo en funcionamiento la estación espacial Salyut 7. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1Ukc29h3wL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260722130700 +0200" stop="20260722144500 +0200" channel="acontra+ CINE">
+    <title lang="es">Miss América (1989)</title>
+    <desc lang="es">Una joven del Sur se apunta en el concurso anual de belleza para resaltar la imagen de su pueblo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81yLQTeQGiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260722144500 +0200" stop="20260722162000 +0200" channel="acontra+ CINE">
+    <title lang="es">Las ocho campanadas (2003)</title>
+    <desc lang="es">Philip Calvert es un agente del servicio secreto naval cuya misión es la de desentrañar un robo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qMCGYTo5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260722162000 +0200" stop="20260722180600 +0200" channel="acontra+ CINE">
+    <title lang="es">Housebound (2014)</title>
+    <desc lang="es">Una aspirante a ladrona es remitida a la custodia de su madre distanciada. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81HHDEtoTXL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
