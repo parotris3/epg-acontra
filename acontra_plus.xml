@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260723034900 +0200" stop="20260723054900 +0200" channel="acontra+ CINE">
-    <title lang="es">La regla del juego (1939)</title>
-    <desc lang="es">Ilustración de clásico de Jean Renoir acerca de las reglas sociales y sexuales que separan a clases. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91ZzBu2bdRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260723054900 +0200" stop="20260723073000 +0200" channel="acontra+ CINE">
-    <title lang="es">Ídolos, mentiras y rock & roll (1997)</title>
-    <desc lang="es">Un joven inmigrante húngaro intenta adaptarse a la escuela y a la cultura americana de los años 60. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/71URI2-SMXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260723073000 +0200" stop="20260723085700 +0200" channel="acontra+ CINE">
-    <title lang="es">Elvira Madigan (1967)</title>
-    <desc lang="es">Una joven equilibrista y un oficial casado se enamoran perdidamente y deciden abandonarlo todo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/712uVLv2tWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260723085700 +0200" stop="20260723103800 +0200" channel="acontra+ CINE">
+  <programme start="20260723083800 +0200" stop="20260723103800 +0200" channel="acontra+ CINE">
     <title lang="es">El gángster (2012)</title>
     <desc lang="es">Un ex veterano de guerra decide robar bancos para poder mantener a su familia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81EuhLXgwOL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Algo celosa (2020)</title>
     <desc lang="es">Una mujer divorciada y profesora de francés comienza a sentir celos de su hija de 18 años. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A17d+USpfJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260723142400 +0200" stop="20260723161300 +0200" channel="acontra+ CINE">
+    <title lang="es">Charada (1963)</title>
+    <desc lang="es">Comedia de intriga donde una mujer investiga la muerte de su marido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81G+eBujYYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260723161300 +0200" stop="20260723181000 +0200" channel="acontra+ CINE">
+    <title lang="es">Dos mujeres (2017)</title>
+    <desc lang="es">Claire, una apasionada y estricta matrona, conoce a la amante de su difunto padre. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91RakOdlovL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
