@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260723083800 +0200" stop="20260723103800 +0200" channel="acontra+ CINE">
-    <title lang="es">El gángster (2012)</title>
-    <desc lang="es">Un ex veterano de guerra decide robar bancos para poder mantener a su familia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81EuhLXgwOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260723103800 +0200" stop="20260723123700 +0200" channel="acontra+ CINE">
-    <title lang="es">Dinero fácil (2010)</title>
-    <desc lang="es">Tres criminales se unen para conseguir un objetivo común: vengarse del gran capo Radovan. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1hkAaQa6JL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260723123700 +0200" stop="20260723142400 +0200" channel="acontra+ CINE">
-    <title lang="es">Algo celosa (2020)</title>
-    <desc lang="es">Una mujer divorciada y profesora de francés comienza a sentir celos de su hija de 18 años. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A17d+USpfJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260723142400 +0200" stop="20260723161300 +0200" channel="acontra+ CINE">
+  <programme start="20260723141300 +0200" stop="20260723161300 +0200" channel="acontra+ CINE">
     <title lang="es">Charada (1963)</title>
     <desc lang="es">Comedia de intriga donde una mujer investiga la muerte de su marido. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81G+eBujYYL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Dos mujeres (2017)</title>
     <desc lang="es">Claire, una apasionada y estricta matrona, conoce a la amante de su difunto padre. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91RakOdlovL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260723181000 +0200" stop="20260723200800 +0200" channel="acontra+ CINE">
+    <title lang="es">El secuestro de Alfred Heineken (2011)</title>
+    <desc lang="es">Heineken propietario de la multinacional cervecera fue secuestrado cuando salía de una sede. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Fhej4KTOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260723200800 +0200" stop="20260723222200 +0200" channel="acontra+ CINE">
+    <title lang="es">Fanny (1961)</title>
+    <desc lang="es">Marius abandona a Fanny deseoso de conocer mundo, aunque ignora que está embarazada. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81WrIjDy2YL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260723222200 +0200" stop="20260723235700 +0200" channel="acontra+ CINE">
+    <title lang="es">Caramel (2007)</title>
+    <desc lang="es">Cinco mujeres libanesas comparten sus vidas y preocupaciones en un salón de belleza de Beirut. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Svm35LVfL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
