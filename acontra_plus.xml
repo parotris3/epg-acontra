@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260723141300 +0200" stop="20260723161300 +0200" channel="acontra+ CINE">
-    <title lang="es">Charada (1963)</title>
-    <desc lang="es">Comedia de intriga donde una mujer investiga la muerte de su marido. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81G+eBujYYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260723161300 +0200" stop="20260723181000 +0200" channel="acontra+ CINE">
-    <title lang="es">Dos mujeres (2017)</title>
-    <desc lang="es">Claire, una apasionada y estricta matrona, conoce a la amante de su difunto padre. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91RakOdlovL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260723181000 +0200" stop="20260723200800 +0200" channel="acontra+ CINE">
+  <programme start="20260723180800 +0200" stop="20260723200800 +0200" channel="acontra+ CINE">
     <title lang="es">El secuestro de Alfred Heineken (2011)</title>
     <desc lang="es">Heineken propietario de la multinacional cervecera fue secuestrado cuando salía de una sede. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Fhej4KTOL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Caramel (2007)</title>
     <desc lang="es">Cinco mujeres libanesas comparten sus vidas y preocupaciones en un salón de belleza de Beirut. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Svm35LVfL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260723235700 +0200" stop="20260724013300 +0200" channel="acontra+ CINE">
+    <title lang="es">Buenas noches mamá (2014)</title>
+    <desc lang="es">Cuando una madre regresa de una cirugía plástica sus hijos no saben si es una impostora. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/61pk8FT-etL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260724013300 +0200" stop="20260724023900 +0200" channel="acontra+ CINE">
+    <title lang="es">Locos del aire (1939)</title>
+    <desc lang="es">Ollie y su amigo deciden alistarse en el ejército para olvidar un desamor. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81D5fmE6xzL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260724023900 +0200" stop="20260724040900 +0200" channel="acontra+ CINE">
+    <title lang="es">La senda de la esperanza</title>
+    <desc lang="es">Tres mujeres, que se encuentran alojadas en una pensión de Roma, comparten un mismo sueño. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1r2kgbrXwL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
