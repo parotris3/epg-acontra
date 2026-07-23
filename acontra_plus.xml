@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260722220300 +0200" stop="20260723000300 +0200" channel="acontra+ CINE">
-    <title lang="es">El festín de Babette (1987)</title>
-    <desc lang="es">Una criada francesa gana la lotería y usa el dinero para preparar un banquete. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71OVFlkg-RL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260723000300 +0200" stop="20260723014100 +0200" channel="acontra+ CINE">
-    <title lang="es">Barbacoa de amigos (2014)</title>
-    <desc lang="es">En su 50 cumpleaños, Antoine tiene una ataque al corazón y decide cambiar su estilo de vida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ZftxIvRIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260723014100 +0200" stop="20260723040700 +0200" channel="acontra+ CINE">
-    <title lang="es">Los Buddenbrook (2008)</title>
-    <desc lang="es">Los Buddenbrooks es la adaptación cinematográfica de la novela de Thomas Mann. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ZbMAcazML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260723040700 +0200" stop="20260723054900 +0200" channel="acontra+ CINE">
+  <programme start="20260723034900 +0200" stop="20260723054900 +0200" channel="acontra+ CINE">
     <title lang="es">La regla del juego (1939)</title>
     <desc lang="es">Ilustración de clásico de Jean Renoir acerca de las reglas sociales y sexuales que separan a clases. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91ZzBu2bdRL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Elvira Madigan (1967)</title>
     <desc lang="es">Una joven equilibrista y un oficial casado se enamoran perdidamente y deciden abandonarlo todo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/712uVLv2tWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260723085700 +0200" stop="20260723103800 +0200" channel="acontra+ CINE">
+    <title lang="es">El gángster (2012)</title>
+    <desc lang="es">Un ex veterano de guerra decide robar bancos para poder mantener a su familia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81EuhLXgwOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260723103800 +0200" stop="20260723123700 +0200" channel="acontra+ CINE">
+    <title lang="es">Dinero fácil (2010)</title>
+    <desc lang="es">Tres criminales se unen para conseguir un objetivo común: vengarse del gran capo Radovan. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1hkAaQa6JL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260723123700 +0200" stop="20260723142400 +0200" channel="acontra+ CINE">
+    <title lang="es">Algo celosa (2020)</title>
+    <desc lang="es">Una mujer divorciada y profesora de francés comienza a sentir celos de su hija de 18 años. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A17d+USpfJL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
