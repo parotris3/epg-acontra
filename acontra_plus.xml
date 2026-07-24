@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260724091200 +0200" stop="20260724111200 +0200" channel="acontra+ CINE">
-    <title lang="es">Buscando la perfección (2019)</title>
-    <desc lang="es">En 1984, John McEnroe pierde la gran final del Roland Garros contra Ivan Lendl. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91vPU5eJPXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260724111200 +0200" stop="20260724124900 +0200" channel="acontra+ CINE">
-    <title lang="es">House at the End of the Street (2012)</title>
-    <desc lang="es">Madre e hija se mudan junto a la escena de un homicidio. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/818BZtzxqZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260724124900 +0200" stop="20260724144400 +0200" channel="acontra+ CINE">
-    <title lang="es">La mujer zurda (1980)</title>
-    <desc lang="es">Una mujer recién separada pone rumbo a París con su hijo, donde comienzan una nueva vida. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ebmwYoeRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260724144400 +0200" stop="20260724165900 +0200" channel="acontra+ CINE">
+  <programme start="20260724145900 +0200" stop="20260724165900 +0200" channel="acontra+ CINE">
     <title lang="es">Los verdugos también mueren (1943)</title>
     <desc lang="es">En mayo de 1942 murió víctima de un atentado Reinhard Heydrich, jefe del gobierno nazi de Praga. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81uWRbWALrL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Mi noche con Maud (1969)</title>
     <desc lang="es">Un ingeniero católico trata de resistir las seducciones de una oscura mujer divorciada. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71fF8HWAegL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260724185000 +0200" stop="20260724204500 +0200" channel="acontra+ CINE">
+    <title lang="es">Muriel (El tiempo de un retorno) (1963)</title>
+    <desc lang="es">Helène se reencuentra con su amor de juventud y descubre que ya no tienen nada en común. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91pf6WLH5zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260724204500 +0200" stop="20260724224300 +0200" channel="acontra+ CINE">
+    <title lang="es">Senso (1954)</title>
+    <desc lang="es">Venecia, 1866. Livia, una bella aristócrata italiana, vive un romance con el teniente Franz Mahler. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91RRRFhbw0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260724224300 +0200" stop="20260725005400 +0200" channel="acontra+ CINE">
+    <title lang="es">El último bailarín de Mao (2009)</title>
+    <desc lang="es">Basado en la autobiografía de la estrella de ballet Li Cunxin y su lucha para vivir en los EEUU. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/acontra_CINE_16x9._UR1920,1080_FMpng_.png"/>
   </programme>
 </tv>
