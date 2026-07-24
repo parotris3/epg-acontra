@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260723233300 +0200" stop="20260724013300 +0200" channel="acontra+ CINE">
-    <title lang="es">Buenas noches mamá (2014)</title>
-    <desc lang="es">Cuando una madre regresa de una cirugía plástica sus hijos no saben si es una impostora. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/61pk8FT-etL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260724013300 +0200" stop="20260724023900 +0200" channel="acontra+ CINE">
-    <title lang="es">Locos del aire (1939)</title>
-    <desc lang="es">Ollie y su amigo deciden alistarse en el ejército para olvidar un desamor. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81D5fmE6xzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260724023900 +0200" stop="20260724040900 +0200" channel="acontra+ CINE">
-    <title lang="es">La senda de la esperanza</title>
-    <desc lang="es">Tres mujeres, que se encuentran alojadas en una pensión de Roma, comparten un mismo sueño. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1r2kgbrXwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260724040900 +0200" stop="20260724060300 +0200" channel="acontra+ CINE">
+  <programme start="20260724040300 +0200" stop="20260724060300 +0200" channel="acontra+ CINE">
     <title lang="es">La hierba errante (1959)</title>
     <desc lang="es">El director de una compañía de teatro llega al pueblo donde vive su hijo no reconocido. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/81tYPNPnoNL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">De la vida de las marionetas (2003)</title>
     <desc lang="es">Peter Egerman viola y estrangula a una prostituta debido a la frustración por su matrimonio fallido. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91dUCyb19QL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260724093800 +0200" stop="20260724111200 +0200" channel="acontra+ CINE">
+    <title lang="es">Buscando la perfección (2019)</title>
+    <desc lang="es">En 1984, John McEnroe pierde la gran final del Roland Garros contra Ivan Lendl. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91vPU5eJPXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260724111200 +0200" stop="20260724124900 +0200" channel="acontra+ CINE">
+    <title lang="es">House at the End of the Street (2012)</title>
+    <desc lang="es">Madre e hija se mudan junto a la escena de un homicidio. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/818BZtzxqZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260724124900 +0200" stop="20260724144400 +0200" channel="acontra+ CINE">
+    <title lang="es">La mujer zurda (1980)</title>
+    <desc lang="es">Una mujer recién separada pone rumbo a París con su hijo, donde comienzan una nueva vida. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ebmwYoeRL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
