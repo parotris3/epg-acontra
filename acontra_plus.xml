@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260724145900 +0200" stop="20260724165900 +0200" channel="acontra+ CINE">
-    <title lang="es">Los verdugos también mueren (1943)</title>
-    <desc lang="es">En mayo de 1942 murió víctima de un atentado Reinhard Heydrich, jefe del gobierno nazi de Praga. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uWRbWALrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260724165900 +0200" stop="20260724185000 +0200" channel="acontra+ CINE">
-    <title lang="es">Mi noche con Maud (1969)</title>
-    <desc lang="es">Un ingeniero católico trata de resistir las seducciones de una oscura mujer divorciada. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71fF8HWAegL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260724185000 +0200" stop="20260724204500 +0200" channel="acontra+ CINE">
+  <programme start="20260724184500 +0200" stop="20260724204500 +0200" channel="acontra+ CINE">
     <title lang="es">Muriel (El tiempo de un retorno) (1963)</title>
     <desc lang="es">Helène se reencuentra con su amor de juventud y descubre que ya no tienen nada en común. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91pf6WLH5zL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">El último bailarín de Mao (2009)</title>
     <desc lang="es">Basado en la autobiografía de la estrella de ballet Li Cunxin y su lucha para vivir en los EEUU. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/acontra_CINE_16x9._UR1920,1080_FMpng_.png"/>
+  </programme>
+  <programme start="20260725005400 +0200" stop="20260725021700 +0200" channel="acontra+ CINE">
+    <title lang="es">Yo acuso (2003)</title>
+    <desc lang="es">Una mujer alega haber sufrido abusos tras ser drogada por el médico que la atendió. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ZB1tQFccL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260725021700 +0200" stop="20260725042200 +0200" channel="acontra+ CINE">
+    <title lang="es">Pandora y el holandés errante (1951)</title>
+    <desc lang="es">Un capitán holandés agobiado por maldiciones eternas encuentra su salvación en una mujer americana. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A121cQI7dQL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
