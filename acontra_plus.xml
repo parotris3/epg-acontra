@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260724184500 +0200" stop="20260724204500 +0200" channel="acontra+ CINE">
-    <title lang="es">Muriel (El tiempo de un retorno) (1963)</title>
-    <desc lang="es">Helène se reencuentra con su amor de juventud y descubre que ya no tienen nada en común. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91pf6WLH5zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260724204500 +0200" stop="20260724224300 +0200" channel="acontra+ CINE">
-    <title lang="es">Senso (1954)</title>
-    <desc lang="es">Venecia, 1866. Livia, una bella aristócrata italiana, vive un romance con el teniente Franz Mahler. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91RRRFhbw0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260724224300 +0200" stop="20260725005400 +0200" channel="acontra+ CINE">
+  <programme start="20260724225400 +0200" stop="20260725005400 +0200" channel="acontra+ CINE">
     <title lang="es">El último bailarín de Mao (2009)</title>
     <desc lang="es">Basado en la autobiografía de la estrella de ballet Li Cunxin y su lucha para vivir en los EEUU. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/acontra_CINE_16x9._UR1920,1080_FMpng_.png"/>
@@ -27,5 +17,20 @@
     <title lang="es">Pandora y el holandés errante (1951)</title>
     <desc lang="es">Un capitán holandés agobiado por maldiciones eternas encuentra su salvación en una mujer americana. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A121cQI7dQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260725042200 +0200" stop="20260725060500 +0200" channel="acontra+ CINE">
+    <title lang="es">Pasiones en Kenia (1988)</title>
+    <desc lang="es">Una colonia británica en Kenia se escandaliza por una relación adúltera que conduce a un homicidio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81FV1QRGKuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260725060500 +0200" stop="20260725075700 +0200" channel="acontra+ CINE">
+    <title lang="es">Nueve vidas (2005)</title>
+    <desc lang="es">Nueve mujeres diferentes entre sí explican de manera cautivadora sus experiencias individuales. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91XIBSY-3pL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260725075700 +0200" stop="20260725092300 +0200" channel="acontra+ CINE">
+    <title lang="es">Los signos del Apocalipsis (2014)</title>
+    <desc lang="es">Un científico poco convencional trata de descifrar símbolos para evitar la destrucción del planeta. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1ESCsb+JKL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
