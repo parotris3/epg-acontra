@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260725131900 +0200" stop="20260725151900 +0200" channel="acontra+ CINE">
-    <title lang="es">El valle oscuro (2015)</title>
-    <desc lang="es">Poco antes de que comience el duro invierno, un forastero llega a caballo hasta un aislado pueblo. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/912lwrLUgoL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260725151900 +0200" stop="20260725165500 +0200" channel="acontra+ CINE">
-    <title lang="es">El mundo resplandeciente (2021)</title>
-    <desc lang="es">Una mujer se ve arrastrada a una dimensión alternativa en la que su hermana podría seguir viva. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81SRmqiK87L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260725165500 +0200" stop="20260725185800 +0200" channel="acontra+ CINE">
-    <title lang="es">Desayuno en Plutón (2005)</title>
-    <desc lang="es">Patrick, un joven trans, sobrevive en un ambiente hostil gracias a su ingenio y su perseverancia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/810J0xbCEWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260725185800 +0200" stop="20260725204600 +0200" channel="acontra+ CINE">
+  <programme start="20260725184600 +0200" stop="20260725204600 +0200" channel="acontra+ CINE">
     <title lang="es">Bajo el volcán (1984)</title>
     <desc lang="es">Geoffrey Firmin, un diplomático inglés deprimido que se retira al alcohol para consolarse. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91MGFHg1p3L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Amityville: El origen (2018)</title>
     <desc lang="es">Una noche de 1974, Ronald DeFeo Jr. cogió un rifle y asesinó a toda su familia mientras dormía. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Gicw6tMYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260726000400 +0200" stop="20260726021000 +0200" channel="acontra+ CINE">
+    <title lang="es">Nostalgia (1983)</title>
+    <desc lang="es">Un escritor ruso viaja a Italia para investigar la vida de un compositor ruso que estudió allí. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/912DRKglhmL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260726021000 +0200" stop="20260726040200 +0200" channel="acontra+ CINE">
+    <title lang="es">La Madre Teresa (2003)</title>
+    <desc lang="es">Una monja dedica su vida a ayudar a los pobres. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/71jK-GYTo7L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
