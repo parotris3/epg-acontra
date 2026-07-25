@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260724225400 +0200" stop="20260725005400 +0200" channel="acontra+ CINE">
-    <title lang="es">El último bailarín de Mao (2009)</title>
-    <desc lang="es">Basado en la autobiografía de la estrella de ballet Li Cunxin y su lucha para vivir en los EEUU. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/acontra_CINE_16x9._UR1920,1080_FMpng_.png"/>
-  </programme>
-  <programme start="20260725005400 +0200" stop="20260725021700 +0200" channel="acontra+ CINE">
-    <title lang="es">Yo acuso (2003)</title>
-    <desc lang="es">Una mujer alega haber sufrido abusos tras ser drogada por el médico que la atendió. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ZB1tQFccL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260725021700 +0200" stop="20260725042200 +0200" channel="acontra+ CINE">
-    <title lang="es">Pandora y el holandés errante (1951)</title>
-    <desc lang="es">Un capitán holandés agobiado por maldiciones eternas encuentra su salvación en una mujer americana. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A121cQI7dQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260725042200 +0200" stop="20260725060500 +0200" channel="acontra+ CINE">
+  <programme start="20260725040500 +0200" stop="20260725060500 +0200" channel="acontra+ CINE">
     <title lang="es">Pasiones en Kenia (1988)</title>
     <desc lang="es">Una colonia británica en Kenia se escandaliza por una relación adúltera que conduce a un homicidio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81FV1QRGKuL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Los signos del Apocalipsis (2014)</title>
     <desc lang="es">Un científico poco convencional trata de descifrar símbolos para evitar la destrucción del planeta. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1ESCsb+JKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260725092300 +0200" stop="20260725110800 +0200" channel="acontra+ CINE">
+    <title lang="es">Llévame a la luna (2012)</title>
+    <desc lang="es">Una mujer se propone eliminar la maldición familiar en la que cada primer matrimonio se divorcia. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/813uBwbCaXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260725110800 +0200" stop="20260725132900 +0200" channel="acontra+ CINE">
+    <title lang="es">La venganza es mía (1979)</title>
+    <desc lang="es">Enokizu es un criminal al que le encanta cometer atrocidades y despiadados crímenes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81+f+z7V-RL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
