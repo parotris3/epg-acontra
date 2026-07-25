@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260725040500 +0200" stop="20260725060500 +0200" channel="acontra+ CINE">
-    <title lang="es">Pasiones en Kenia (1988)</title>
-    <desc lang="es">Una colonia británica en Kenia se escandaliza por una relación adúltera que conduce a un homicidio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81FV1QRGKuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260725060500 +0200" stop="20260725075700 +0200" channel="acontra+ CINE">
-    <title lang="es">Nueve vidas (2005)</title>
-    <desc lang="es">Nueve mujeres diferentes entre sí explican de manera cautivadora sus experiencias individuales. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91XIBSY-3pL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260725075700 +0200" stop="20260725092300 +0200" channel="acontra+ CINE">
-    <title lang="es">Los signos del Apocalipsis (2014)</title>
-    <desc lang="es">Un científico poco convencional trata de descifrar símbolos para evitar la destrucción del planeta. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1ESCsb+JKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260725092300 +0200" stop="20260725110800 +0200" channel="acontra+ CINE">
+  <programme start="20260725090800 +0200" stop="20260725110800 +0200" channel="acontra+ CINE">
     <title lang="es">Llévame a la luna (2012)</title>
     <desc lang="es">Una mujer se propone eliminar la maldición familiar en la que cada primer matrimonio se divorcia. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/813uBwbCaXL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">La venganza es mía (1979)</title>
     <desc lang="es">Enokizu es un criminal al que le encanta cometer atrocidades y despiadados crímenes. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81+f+z7V-RL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260725132900 +0200" stop="20260725151900 +0200" channel="acontra+ CINE">
+    <title lang="es">El valle oscuro (2015)</title>
+    <desc lang="es">Poco antes de que comience el duro invierno, un forastero llega a caballo hasta un aislado pueblo. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/912lwrLUgoL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260725151900 +0200" stop="20260725165500 +0200" channel="acontra+ CINE">
+    <title lang="es">El mundo resplandeciente (2021)</title>
+    <desc lang="es">Una mujer se ve arrastrada a una dimensión alternativa en la que su hermana podría seguir viva. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81SRmqiK87L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260725165500 +0200" stop="20260725185800 +0200" channel="acontra+ CINE">
+    <title lang="es">Desayuno en Plutón (2005)</title>
+    <desc lang="es">Patrick, un joven trans, sobrevive en un ambiente hostil gracias a su ingenio y su perseverancia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/810J0xbCEWL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
