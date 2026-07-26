@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260726034200 +0200" stop="20260726054200 +0200" channel="acontra+ CINE">
-    <title lang="es">Tasmania (2009)</title>
-    <desc lang="es">Ocho convictos escapan de la brutal cárcel de Macquarie Harbour en busca de la libertad. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Gwz6EXmbL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260726054200 +0200" stop="20260726072100 +0200" channel="acontra+ CINE">
-    <title lang="es">The Osiris Child (2016)</title>
-    <desc lang="es">Un grupo de extraños debe salvar a la humanidad. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tqTV+FPzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260726072100 +0200" stop="20260726085700 +0200" channel="acontra+ CINE">
-    <title lang="es">Orfeo (1950)</title>
-    <desc lang="es">Orfeo, conocido poeta del barrio parisino de Saint-Germain-des-Prés, está obsesionado con la Muerte. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91gieFP4c2L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260726085700 +0200" stop="20260726110800 +0200" channel="acontra+ CINE">
+  <programme start="20260726090800 +0200" stop="20260726110800 +0200" channel="acontra+ CINE">
     <title lang="es">Muerte de un viajante (1985)</title>
     <desc lang="es">Willy Loman un vendedor toma conciencia del vacío de su vida e intenta ponerle remedio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81zTdAWcJuL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Los girasoles (1970)</title>
     <desc lang="es">Giovanna se casa con Antonio antes de la guerra, pero él no quiere ir al frente y simula estar loco. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1OT-cPmxeL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260726144400 +0200" stop="20260726170200 +0200" channel="acontra+ CINE">
+    <title lang="es">Lacombe, Lucien (1974)</title>
+    <desc lang="es">Lacombe, de un pueblo de Francia, colabora con el régimen nazi y se enamora de una niña judía. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81jQpU8pLWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260726170200 +0200" stop="20260726190000 +0200" channel="acontra+ CINE">
+    <title lang="es">Los visitantes regresan por el túnel del tiempo (1999)</title>
+    <desc lang="es">Godefroy debe recuperar las joyas sagradas de la familia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71QFu2H5CnL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
