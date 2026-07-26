@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260726184600 +0200" stop="20260726204600 +0200" channel="acontra+ CINE">
-    <title lang="es">Pie de página (2011)</title>
-    <desc lang="es">Comedia irónica sobre la competitividad, la lealtad, el amor y las relaciones entre padre e hijo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BbzEwRiVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260726204600 +0200" stop="20260726232100 +0200" channel="acontra+ CINE">
-    <title lang="es">Stalker (1981)</title>
-    <desc lang="es">Tres hombres del futuro buscan un cuarto secreto que cumple los deseos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91CWA5+x90L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260726232100 +0200" stop="20260727004600 +0200" channel="acontra+ CINE">
+  <programme start="20260726224600 +0200" stop="20260727004600 +0200" channel="acontra+ CINE">
     <title lang="es">Sucedió mañana (1944)</title>
     <desc lang="es">En sus bodas de oro, Larry y Sylvia narran a su familia un suceso muy extraño del pasado. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81GpqLoyBML._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Viva la Muerte (2013)</title>
     <desc lang="es">Al final de la Guerra Civil española, un niño intenta encontrarle sentido a la guerra. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Tea-RtG7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260727040200 +0200" stop="20260727054000 +0200" channel="acontra+ CINE">
+    <title lang="es">Young Adam (2003)</title>
+    <desc lang="es">Joe es un joven que encuentra trabajo en una barcaza propiedad de Les y su enigmática mujer. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1WaZaZMKJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260727054000 +0200" stop="20260727072600 +0200" channel="acontra+ CINE">
+    <title lang="es">Sangre sabia (1979)</title>
+    <desc lang="es">Un joven sureño, ambicioso, pero sin educación, decide convertirse en predicador. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81cnW2JYytL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260727072600 +0200" stop="20260727091300 +0200" channel="acontra+ CINE">
+    <title lang="es">Orfeu negro (1959)</title>
+    <desc lang="es">La trágica historia de amor entre la joven Eurídice y el conductor y músico Orfeo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91DZLPATqGL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
