@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260725220400 +0200" stop="20260726000400 +0200" channel="acontra+ CINE">
-    <title lang="es">Amityville: El origen (2018)</title>
-    <desc lang="es">Una noche de 1974, Ronald DeFeo Jr. cogió un rifle y asesinó a toda su familia mientras dormía. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Gicw6tMYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260726000400 +0200" stop="20260726021000 +0200" channel="acontra+ CINE">
-    <title lang="es">Nostalgia (1983)</title>
-    <desc lang="es">Un escritor ruso viaja a Italia para investigar la vida de un compositor ruso que estudió allí. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/912DRKglhmL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260726021000 +0200" stop="20260726040200 +0200" channel="acontra+ CINE">
-    <title lang="es">La Madre Teresa (2003)</title>
-    <desc lang="es">Una monja dedica su vida a ayudar a los pobres. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/71jK-GYTo7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260726040200 +0200" stop="20260726054200 +0200" channel="acontra+ CINE">
+  <programme start="20260726034200 +0200" stop="20260726054200 +0200" channel="acontra+ CINE">
     <title lang="es">Tasmania (2009)</title>
     <desc lang="es">Ocho convictos escapan de la brutal cárcel de Macquarie Harbour en busca de la libertad. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Gwz6EXmbL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Orfeo (1950)</title>
     <desc lang="es">Orfeo, conocido poeta del barrio parisino de Saint-Germain-des-Prés, está obsesionado con la Muerte. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91gieFP4c2L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260726085700 +0200" stop="20260726110800 +0200" channel="acontra+ CINE">
+    <title lang="es">Muerte de un viajante (1985)</title>
+    <desc lang="es">Willy Loman un vendedor toma conciencia del vacío de su vida e intenta ponerle remedio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81zTdAWcJuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260726110800 +0200" stop="20260726125700 +0200" channel="acontra+ CINE">
+    <title lang="es">Me casé con un boludo</title>
+    <desc lang="es">Florencia se da cuenta de que se casó con un idiota. Él intentará recuperarla con un guionista. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71rVwQe6GOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260726125700 +0200" stop="20260726144400 +0200" channel="acontra+ CINE">
+    <title lang="es">Los girasoles (1970)</title>
+    <desc lang="es">Giovanna se casa con Antonio antes de la guerra, pero él no quiere ir al frente y simula estar loco. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1OT-cPmxeL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
