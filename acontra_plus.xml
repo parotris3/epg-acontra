@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260726090800 +0200" stop="20260726110800 +0200" channel="acontra+ CINE">
-    <title lang="es">Muerte de un viajante (1985)</title>
-    <desc lang="es">Willy Loman un vendedor toma conciencia del vacío de su vida e intenta ponerle remedio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81zTdAWcJuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260726110800 +0200" stop="20260726125700 +0200" channel="acontra+ CINE">
-    <title lang="es">Me casé con un boludo</title>
-    <desc lang="es">Florencia se da cuenta de que se casó con un idiota. Él intentará recuperarla con un guionista. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71rVwQe6GOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260726125700 +0200" stop="20260726144400 +0200" channel="acontra+ CINE">
-    <title lang="es">Los girasoles (1970)</title>
-    <desc lang="es">Giovanna se casa con Antonio antes de la guerra, pero él no quiere ir al frente y simula estar loco. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1OT-cPmxeL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260726144400 +0200" stop="20260726170200 +0200" channel="acontra+ CINE">
+  <programme start="20260726150200 +0200" stop="20260726170200 +0200" channel="acontra+ CINE">
     <title lang="es">Lacombe, Lucien (1974)</title>
     <desc lang="es">Lacombe, de un pueblo de Francia, colabora con el régimen nazi y se enamora de una niña judía. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81jQpU8pLWL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,15 @@
     <title lang="es">Los visitantes regresan por el túnel del tiempo (1999)</title>
     <desc lang="es">Godefroy debe recuperar las joyas sagradas de la familia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71QFu2H5CnL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260726190000 +0200" stop="20260726204600 +0200" channel="acontra+ CINE">
+    <title lang="es">Pie de página (2011)</title>
+    <desc lang="es">Comedia irónica sobre la competitividad, la lealtad, el amor y las relaciones entre padre e hijo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81BbzEwRiVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260726204600 +0200" stop="20260726232100 +0200" channel="acontra+ CINE">
+    <title lang="es">Stalker (1981)</title>
+    <desc lang="es">Tres hombres del futuro buscan un cuarto secreto que cumple los deseos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91CWA5+x90L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
