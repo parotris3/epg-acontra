@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260727034000 +0200" stop="20260727054000 +0200" channel="acontra+ CINE">
-    <title lang="es">Young Adam (2003)</title>
-    <desc lang="es">Joe es un joven que encuentra trabajo en una barcaza propiedad de Les y su enigmática mujer. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1WaZaZMKJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260727054000 +0200" stop="20260727072600 +0200" channel="acontra+ CINE">
-    <title lang="es">Sangre sabia (1979)</title>
-    <desc lang="es">Un joven sureño, ambicioso, pero sin educación, decide convertirse en predicador. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81cnW2JYytL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260727072600 +0200" stop="20260727091300 +0200" channel="acontra+ CINE">
-    <title lang="es">Orfeu negro (1959)</title>
-    <desc lang="es">La trágica historia de amor entre la joven Eurídice y el conductor y músico Orfeo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91DZLPATqGL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260727091300 +0200" stop="20260727110600 +0200" channel="acontra+ CINE">
+  <programme start="20260727090600 +0200" stop="20260727110600 +0200" channel="acontra+ CINE">
     <title lang="es">Macbeth (2015)</title>
     <desc lang="es">Un hombre de la nobleza sube al trono escocés. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71jK0pNXjjL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">La historia de Marie Heurtin (2014)</title>
     <desc lang="es">Marie Heurtin, de 14 años, es sorda y ciega de nacimiento, y es incapaz de comunicarse. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/915p9Qcc9XL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260727143100 +0200" stop="20260727161400 +0200" channel="acontra+ CINE">
+    <title lang="es">Envidia sana (2020)</title>
+    <desc lang="es">La armonía entre dos parejas se rompe cuando Lea les dice que está escribiendo una novela. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81uDdrfBuKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260727161400 +0200" stop="20260727183100 +0200" channel="acontra+ CINE">
+    <title lang="es">El infierno del odio (1963)</title>
+    <desc lang="es">El ejecutivo de una compañía de zapatos de éxito se convierte en víctima de extorsión. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81NFwmVYj5L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
