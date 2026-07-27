@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260726224600 +0200" stop="20260727004600 +0200" channel="acontra+ CINE">
-    <title lang="es">Sucedió mañana (1944)</title>
-    <desc lang="es">En sus bodas de oro, Larry y Sylvia narran a su familia un suceso muy extraño del pasado. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81GpqLoyBML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260727004600 +0200" stop="20260727023200 +0200" channel="acontra+ CINE">
-    <title lang="es">Todo por Grace (2018)</title>
-    <desc lang="es">Un joven trasciende los límites de raza y clase para perseguir un amor imposible. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1-Zchj8WXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260727023200 +0200" stop="20260727040200 +0200" channel="acontra+ CINE">
-    <title lang="es">Viva la Muerte (2013)</title>
-    <desc lang="es">Al final de la Guerra Civil española, un niño intenta encontrarle sentido a la guerra. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Tea-RtG7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260727040200 +0200" stop="20260727054000 +0200" channel="acontra+ CINE">
+  <programme start="20260727034000 +0200" stop="20260727054000 +0200" channel="acontra+ CINE">
     <title lang="es">Young Adam (2003)</title>
     <desc lang="es">Joe es un joven que encuentra trabajo en una barcaza propiedad de Les y su enigmática mujer. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1WaZaZMKJL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Orfeu negro (1959)</title>
     <desc lang="es">La trágica historia de amor entre la joven Eurídice y el conductor y músico Orfeo. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91DZLPATqGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260727091300 +0200" stop="20260727110600 +0200" channel="acontra+ CINE">
+    <title lang="es">Macbeth (2015)</title>
+    <desc lang="es">Un hombre de la nobleza sube al trono escocés. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71jK0pNXjjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260727110600 +0200" stop="20260727125800 +0200" channel="acontra+ CINE">
+    <title lang="es">La próxima vez apuntaré al corazón (2014)</title>
+    <desc lang="es">Los habitantes de una tranquila comarca vivieron aterrorizados a causa de un asesino en serie. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81AoIaGSW8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260727125800 +0200" stop="20260727143100 +0200" channel="acontra+ CINE">
+    <title lang="es">La historia de Marie Heurtin (2014)</title>
+    <desc lang="es">Marie Heurtin, de 14 años, es sorda y ciega de nacimiento, y es incapaz de comunicarse. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/915p9Qcc9XL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
