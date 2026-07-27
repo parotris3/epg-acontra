@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260727090600 +0200" stop="20260727110600 +0200" channel="acontra+ CINE">
-    <title lang="es">Macbeth (2015)</title>
-    <desc lang="es">Un hombre de la nobleza sube al trono escocés. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71jK0pNXjjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260727110600 +0200" stop="20260727125800 +0200" channel="acontra+ CINE">
-    <title lang="es">La próxima vez apuntaré al corazón (2014)</title>
-    <desc lang="es">Los habitantes de una tranquila comarca vivieron aterrorizados a causa de un asesino en serie. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81AoIaGSW8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260727125800 +0200" stop="20260727143100 +0200" channel="acontra+ CINE">
-    <title lang="es">La historia de Marie Heurtin (2014)</title>
-    <desc lang="es">Marie Heurtin, de 14 años, es sorda y ciega de nacimiento, y es incapaz de comunicarse. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/915p9Qcc9XL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260727143100 +0200" stop="20260727161400 +0200" channel="acontra+ CINE">
+  <programme start="20260727141400 +0200" stop="20260727161400 +0200" channel="acontra+ CINE">
     <title lang="es">Envidia sana (2020)</title>
     <desc lang="es">La armonía entre dos parejas se rompe cuando Lea les dice que está escribiendo una novela. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81uDdrfBuKL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">El infierno del odio (1963)</title>
     <desc lang="es">El ejecutivo de una compañía de zapatos de éxito se convierte en víctima de extorsión. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81NFwmVYj5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260727183100 +0200" stop="20260727202500 +0200" channel="acontra+ CINE">
+    <title lang="es">El caso Farewell (2009)</title>
+    <desc lang="es">Un coronel proporciona información secreta sobre el régimen comunista ruso a un ingeniero francés. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81KMPsGbe+L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260727202500 +0200" stop="20260727223100 +0200" channel="acontra+ CINE">
+    <title lang="es">Aline (2020)</title>
+    <desc lang="es">Aline tiene una voz prodigiosa que no pasa desapercibida para un productor ambicioso. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ra+l9mqHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260727223100 +0200" stop="20260728002500 +0200" channel="acontra+ CINE">
+    <title lang="es">Cuento de Verano (1996)</title>
+    <desc lang="es">Mientras aguarda a su novia, Gaspard se siente atraído por otras dos mujeres en sus vacaciones. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/719p7wpkgOL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
