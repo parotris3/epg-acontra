@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260728035600 +0200" stop="20260728055600 +0200" channel="acontra+ CINE">
-    <title lang="es">Fedora (1980)</title>
-    <desc lang="es">A base de flashbacks, recorremos la vida de Fedora, una famosa actriz que muere atropellada. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81h-3V4uDLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260728055600 +0200" stop="20260728081000 +0200" channel="acontra+ CINE">
-    <title lang="es">La fortaleza escondida (1958)</title>
-    <desc lang="es">El general Rokurota Makabe utilizará a dos desertores para rescatar a la princesa Yuki. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/816sLifRISL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260728081000 +0200" stop="20260728093700 +0200" channel="acontra+ CINE">
-    <title lang="es">Gritos y susurros (1972)</title>
-    <desc lang="es">Tres hermanas se reúnen para pasar juntas los últimos días de vida de una de ellas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71l-O1xlqZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260728093700 +0200" stop="20260728110600 +0200" channel="acontra+ CINE">
+  <programme start="20260728090600 +0200" stop="20260728110600 +0200" channel="acontra+ CINE">
     <title lang="es">Tú y yo (1939)</title>
     <desc lang="es">Dos personas se enamoran apasionadamente pese a estar ya comprometidos. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71ESlAvjtIL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La rifa (2002)</title>
     <desc lang="es">Una joven viuda con una niña y muchas deudas decide hacer un sorteo en el que ella es el premio. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/81r84AwH+FL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260728140600 +0200" stop="20260728153300 +0200" channel="acontra+ CINE">
+    <title lang="es">Rabbit Hole (2010)</title>
+    <desc lang="es">Basada en la obra de David Lindsay-Abaire. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71n2M0NPlaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260728153300 +0200" stop="20260728170800 +0200" channel="acontra+ CINE">
+    <title lang="es">¡Va por nosotras! (2020)</title>
+    <desc lang="es">Para salvar a un club a punto de desaparecer, el entrenador decide formarlo solo por mujeres. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81duRIuPVhL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260728170800 +0200" stop="20260728183800 +0200" channel="acontra+ CINE">
+    <title lang="es">Invasión robótica (2006)</title>
+    <desc lang="es">Un avión con robots militares se estrella en una isla desierta y los Navy Seals deben actuar. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1NIzcm0jDL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
