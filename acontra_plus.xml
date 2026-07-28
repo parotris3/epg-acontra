@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260728133300 +0200" stop="20260728153300 +0200" channel="acontra+ CINE">
-    <title lang="es">Rabbit Hole (2010)</title>
-    <desc lang="es">Basada en la obra de David Lindsay-Abaire. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71n2M0NPlaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260728153300 +0200" stop="20260728170800 +0200" channel="acontra+ CINE">
-    <title lang="es">¡Va por nosotras! (2020)</title>
-    <desc lang="es">Para salvar a un club a punto de desaparecer, el entrenador decide formarlo solo por mujeres. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81duRIuPVhL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260728170800 +0200" stop="20260728183800 +0200" channel="acontra+ CINE">
-    <title lang="es">Invasión robótica (2006)</title>
-    <desc lang="es">Un avión con robots militares se estrella en una isla desierta y los Navy Seals deben actuar. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1NIzcm0jDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260728183800 +0200" stop="20260728202100 +0200" channel="acontra+ CINE">
+  <programme start="20260728182100 +0200" stop="20260728202100 +0200" channel="acontra+ CINE">
     <title lang="es">Caiga quien caiga (1972)</title>
     <desc lang="es">Un joven jamaicano cantante de reggae se ve envuelto en una espiral de violencia y corrupción. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91VJifKBH9L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Super Mario Bros. (1993)</title>
     <desc lang="es">Mario y Luigi descubren un mundo paralelo poblado por los descendientes de los dinosaurios. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81B0uZ9WZCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260728234200 +0200" stop="20260729014600 +0200" channel="acontra+ CINE">
+    <title lang="es">American Night (2021)</title>
+    <desc lang="es">Un cuadro de Andy Warhol desaparecido reaparece y desencadena una peligrosa reacción en cadena. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1RSx3WyEaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260729014600 +0200" stop="20260729040400 +0200" channel="acontra+ CINE">
+    <title lang="es">Regreso a Howards End (1992)</title>
+    <desc lang="es">Dos hermanas cultas e independientes hacen amistad con la próspera y convencional familia Wilcox. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81021vjbDVL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
