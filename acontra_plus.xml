@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260728090600 +0200" stop="20260728110600 +0200" channel="acontra+ CINE">
-    <title lang="es">Tú y yo (1939)</title>
-    <desc lang="es">Dos personas se enamoran apasionadamente pese a estar ya comprometidos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ESlAvjtIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260728110600 +0200" stop="20260728123700 +0200" channel="acontra+ CINE">
-    <title lang="es">6 días (2017)</title>
-    <desc lang="es">Un grupo armado toma la embajada iraní en 1980 y empieza un enfrentamiento de seis días. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91F6+BnLZtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260728123700 +0200" stop="20260728140600 +0200" channel="acontra+ CINE">
-    <title lang="es">La rifa (2002)</title>
-    <desc lang="es">Una joven viuda con una niña y muchas deudas decide hacer un sorteo en el que ella es el premio. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/81r84AwH+FL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260728140600 +0200" stop="20260728153300 +0200" channel="acontra+ CINE">
+  <programme start="20260728133300 +0200" stop="20260728153300 +0200" channel="acontra+ CINE">
     <title lang="es">Rabbit Hole (2010)</title>
     <desc lang="es">Basada en la obra de David Lindsay-Abaire. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71n2M0NPlaL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Invasión robótica (2006)</title>
     <desc lang="es">Un avión con robots militares se estrella en una isla desierta y los Navy Seals deben actuar. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/B1NIzcm0jDL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260728183800 +0200" stop="20260728202100 +0200" channel="acontra+ CINE">
+    <title lang="es">Caiga quien caiga (1972)</title>
+    <desc lang="es">Un joven jamaicano cantante de reggae se ve envuelto en una espiral de violencia y corrupción. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91VJifKBH9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260728202100 +0200" stop="20260728220200 +0200" channel="acontra+ CINE">
+    <title lang="es">American Playboy (2005)</title>
+    <desc lang="es">Un joven adoptado descubre que sus verdaderos padres son dueños de un imperio de revistas porno. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81P1eiY8T3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260728220200 +0200" stop="20260728234200 +0200" channel="acontra+ CINE">
+    <title lang="es">Super Mario Bros. (1993)</title>
+    <desc lang="es">Mario y Luigi descubren un mundo paralelo poblado por los descendientes de los dinosaurios. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81B0uZ9WZCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
