@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260727222500 +0200" stop="20260728002500 +0200" channel="acontra+ CINE">
-    <title lang="es">Cuento de Verano (1996)</title>
-    <desc lang="es">Mientras aguarda a su novia, Gaspard se siente atraído por otras dos mujeres en sus vacaciones. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/719p7wpkgOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260728002500 +0200" stop="20260728021900 +0200" channel="acontra+ CINE">
-    <title lang="es">El señor de las bestias (1983)</title>
-    <desc lang="es">Dar, el príncipe guerrero, necesita salvar al amor de su vida, Kiri, ahora prisionera de un rey. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WflJhW96L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260728021900 +0200" stop="20260728040700 +0200" channel="acontra+ CINE">
-    <title lang="es">The Chosen (1981)</title>
-    <desc lang="es">Un judío y el hijo de un rabí hasídico se hacen amigos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/818x1QaWSFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260728040700 +0200" stop="20260728055600 +0200" channel="acontra+ CINE">
+  <programme start="20260728035600 +0200" stop="20260728055600 +0200" channel="acontra+ CINE">
     <title lang="es">Fedora (1980)</title>
     <desc lang="es">A base de flashbacks, recorremos la vida de Fedora, una famosa actriz que muere atropellada. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81h-3V4uDLL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">La fortaleza escondida (1958)</title>
     <desc lang="es">El general Rokurota Makabe utilizará a dos desertores para rescatar a la princesa Yuki. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/816sLifRISL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260728081000 +0200" stop="20260728093700 +0200" channel="acontra+ CINE">
+    <title lang="es">Gritos y susurros (1972)</title>
+    <desc lang="es">Tres hermanas se reúnen para pasar juntas los últimos días de vida de una de ellas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71l-O1xlqZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260728093700 +0200" stop="20260728110600 +0200" channel="acontra+ CINE">
+    <title lang="es">Tú y yo (1939)</title>
+    <desc lang="es">Dos personas se enamoran apasionadamente pese a estar ya comprometidos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ESlAvjtIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260728110600 +0200" stop="20260728123700 +0200" channel="acontra+ CINE">
+    <title lang="es">6 días (2017)</title>
+    <desc lang="es">Un grupo armado toma la embajada iraní en 1980 y empieza un enfrentamiento de seis días. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91F6+BnLZtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260728123700 +0200" stop="20260728140600 +0200" channel="acontra+ CINE">
+    <title lang="es">La rifa (2002)</title>
+    <desc lang="es">Una joven viuda con una niña y muchas deudas decide hacer un sorteo en el que ella es el premio. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/81r84AwH+FL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
