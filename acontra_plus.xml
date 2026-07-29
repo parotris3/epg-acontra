@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260729084500 +0200" stop="20260729104500 +0200" channel="acontra+ CINE">
-    <title lang="es">La caravana del mal (2018)</title>
-    <desc lang="es">Charles compra una vieja caravana para llevar a su familia de viaje y reconciliarse con sus hijos. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91bFAFnMswL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260729104500 +0200" stop="20260729123900 +0200" channel="acontra+ CINE">
-    <title lang="es">Good Morning Babilonia (1987)</title>
-    <desc lang="es">Dos hermanos italianos buscan éxito como diseñadores de escenario en Estados Unidos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81+9mNV048L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260729123900 +0200" stop="20260729142500 +0200" channel="acontra+ CINE">
-    <title lang="es">Farinelli: Il Castrato (1994)</title>
-    <desc lang="es">Con tan solo 32 años, Farinelli, célebre "castrato", está en la cumbre del éxito profesional. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8151aO39RaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260729142500 +0200" stop="20260729160500 +0200" channel="acontra+ CINE">
+  <programme start="20260729140500 +0200" stop="20260729160500 +0200" channel="acontra+ CINE">
     <title lang="es">Pasión por las letras (2016)</title>
     <desc lang="es">Maxwell Perkins desarrolla una amistad con Thomas Wolfe. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Ludfflu0L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">Destrucción (2018)</title>
     <desc lang="es">Una policía revive el drama que marcó su vida. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Kaac9AZlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260729180100 +0200" stop="20260729200300 +0200" channel="acontra+ CINE">
+    <title lang="es">Las bostonianas (1984)</title>
+    <desc lang="es">La sufragista Olive decide convertir a la joven Verena en portavoz del incipiente movimiento. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91JXk-A4hcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260729200300 +0200" stop="20260729204700 +0200" channel="acontra+ CINE">
+    <title lang="es">Room 666 (1982)</title>
+    <desc lang="es">En 1982, Win Wenders le pidió a otros directores famosos sus perspectivas sobre el futuro del cine. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/717VJTNfRsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260729204700 +0200" stop="20260729221200 +0200" channel="acontra+ CINE">
+    <title lang="es">Los ojos sin rostro (1960)</title>
+    <desc lang="es">Un brillante cirujano rapta chicas para utilizar su piel y así reconstruir la belleza de su hija. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8194+Gl+upL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260729221200 +0200" stop="20260729234500 +0200" channel="acontra+ CINE">
+    <title lang="es">Orlando (1993)</title>
+    <desc lang="es">El noble Orlando es condenado por la reina Isabel I a permanecer eternamente joven. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/816iNv+M1YL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
