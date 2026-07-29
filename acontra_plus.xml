@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260729035200 +0200" stop="20260729055200 +0200" channel="acontra+ CINE">
-    <title lang="es">Regreso a Bountiful (1986)</title>
-    <desc lang="es">Una mujer grande intenta realizar un último viaje a su pueblo natal, Bountiful. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/91vuEIn4OYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260729055200 +0200" stop="20260729072300 +0200" channel="acontra+ CINE">
-    <title lang="es">Testigo (2017)</title>
-    <desc lang="es">Duval debe afrontar la brutal mecánica del mundo oculto de los servicios secretos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71etEZ+ZdkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260729072300 +0200" stop="20260729091100 +0200" channel="acontra+ CINE">
-    <title lang="es">Nadia, mariposa (2021)</title>
-    <desc lang="es">A los 23 años, Nadia, campeona olímpica de natación, toma la controvertida decisión de retirarse. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71YCqu8eGJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260729091100 +0200" stop="20260729104500 +0200" channel="acontra+ CINE">
+  <programme start="20260729084500 +0200" stop="20260729104500 +0200" channel="acontra+ CINE">
     <title lang="es">La caravana del mal (2018)</title>
     <desc lang="es">Charles compra una vieja caravana para llevar a su familia de viaje y reconciliarse con sus hijos. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91bFAFnMswL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Farinelli: Il Castrato (1994)</title>
     <desc lang="es">Con tan solo 32 años, Farinelli, célebre "castrato", está en la cumbre del éxito profesional. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/8151aO39RaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260729142500 +0200" stop="20260729160500 +0200" channel="acontra+ CINE">
+    <title lang="es">Pasión por las letras (2016)</title>
+    <desc lang="es">Maxwell Perkins desarrolla una amistad con Thomas Wolfe. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Ludfflu0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260729160500 +0200" stop="20260729180100 +0200" channel="acontra+ CINE">
+    <title lang="es">Destrucción (2018)</title>
+    <desc lang="es">Una policía revive el drama que marcó su vida. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Kaac9AZlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
