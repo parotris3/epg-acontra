@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260729140500 +0200" stop="20260729160500 +0200" channel="acontra+ CINE">
-    <title lang="es">Pasión por las letras (2016)</title>
-    <desc lang="es">Maxwell Perkins desarrolla una amistad con Thomas Wolfe. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Ludfflu0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260729160500 +0200" stop="20260729180100 +0200" channel="acontra+ CINE">
-    <title lang="es">Destrucción (2018)</title>
-    <desc lang="es">Una policía revive el drama que marcó su vida. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Kaac9AZlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260729180100 +0200" stop="20260729200300 +0200" channel="acontra+ CINE">
+  <programme start="20260729180300 +0200" stop="20260729200300 +0200" channel="acontra+ CINE">
     <title lang="es">Las bostonianas (1984)</title>
     <desc lang="es">La sufragista Olive decide convertir a la joven Verena en portavoz del incipiente movimiento. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91JXk-A4hcL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">Orlando (1993)</title>
     <desc lang="es">El noble Orlando es condenado por la reina Isabel I a permanecer eternamente joven. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/816iNv+M1YL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260729234500 +0200" stop="20260730012100 +0200" channel="acontra+ CINE">
+    <title lang="es">Mientras Nueva York duerme</title>
+    <desc lang="es">En los pasillos del Sentinel, los periodistas intrigan para hacerse con la dirección del diario. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ZbDqARslL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260730012100 +0200" stop="20260730040600 +0200" channel="acontra+ CINE">
+    <title lang="es">Scenes From a Marriage (2021)</title>
+    <desc lang="es">Una adaptación de la miniserie sueca de 1973 de Ingar Bergmann sobre un matrimonio que se desmorona. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1a0AxxalkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
