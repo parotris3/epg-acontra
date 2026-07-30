@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260730092600 +0200" stop="20260730112600 +0200" channel="acontra+ CINE">
-    <title lang="es">Cromosoma 3 (1979)</title>
-    <desc lang="es">El psiquiatra Hal Raglen inventa una terapia especial para tratar psicópatas, la somatización. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71AmspXCoFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260730112600 +0200" stop="20260730130500 +0200" channel="acontra+ CINE">
-    <title lang="es">Adorable seductor (1989)</title>
-    <desc lang="es">El nuevo miembro de una compañía de teatro se enfrenta a un director bullicioso. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81eXQTzyLjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260730130500 +0200" stop="20260730144000 +0200" channel="acontra+ CINE">
-    <title lang="es">Pauline en la playa (1983)</title>
-    <desc lang="es">Pauline es una adolescente que pasa un verano con su prima Marion en busca de romance. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91HGjNRrcDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260730144000 +0200" stop="20260730160500 +0200" channel="acontra+ CINE">
+  <programme start="20260730140500 +0200" stop="20260730160500 +0200" channel="acontra+ CINE">
     <title lang="es">Experimento Filadelfia (2012)</title>
     <desc lang="es">Dos oficiales que participan en un experimento militar de alto secreto son trasladados a 1984. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A12HWWNktUL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Hiroshima, mon amour (1959)</title>
     <desc lang="es">Una actriz francesa se enamora de un arquitecto japonés en la época de la posguerra. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81hJzVu9vRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260730185200 +0200" stop="20260730202500 +0200" channel="acontra+ CINE">
+    <title lang="es">La cosecha (1994)</title>
+    <desc lang="es">En México, Charlie Pope, un guionista de cine en plena depresión, se ve envuelto en una pesadilla. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91d-BH1BVlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260730202500 +0200" stop="20260730220500 +0200" channel="acontra+ CINE">
+    <title lang="es">One Last Dance (2003)</title>
+    <desc lang="es">Tres antiguos bailarines se reúnen para usar su talento y poder salvar el estudio de su mentor. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/913oFILPzOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260730220500 +0200" stop="20260730232500 +0200" channel="acontra+ CINE">
+    <title lang="es">La matanza de Texas (1974)</title>
+    <desc lang="es">Un grupo de jóvenes son atacados con sierras y otras herramientas mortales por seres dementes. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71VJFqz66zL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
