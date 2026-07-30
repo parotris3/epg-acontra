@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260730033400 +0200" stop="20260730053400 +0200" channel="acontra+ CINE">
-    <title lang="es">Goon (2011)</title>
-    <desc lang="es">Doug Glatt consigue un lugar en un equipo de hockey canadiense de las ligas menores. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81S5SD0d9gL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260730053400 +0200" stop="20260730081600 +0200" channel="acontra+ CINE">
-    <title lang="es">Scenes From a Marriage (2021)</title>
-    <desc lang="es">Una adaptación de la miniserie sueca de 1973 de Ingar Bergmann sobre un matrimonio que se desmorona. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1a0AxxalkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260730081600 +0200" stop="20260730095300 +0200" channel="acontra+ CINE">
-    <title lang="es">El novio de mi madre (2007)</title>
-    <desc lang="es">La agitada vida de una mujer madura cambia cuando se enamora de un hombre mucho más joven que ella. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qWfjAZw8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260730095300 +0200" stop="20260730112600 +0200" channel="acontra+ CINE">
+  <programme start="20260730092600 +0200" stop="20260730112600 +0200" channel="acontra+ CINE">
     <title lang="es">Cromosoma 3 (1979)</title>
     <desc lang="es">El psiquiatra Hal Raglen inventa una terapia especial para tratar psicópatas, la somatización. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71AmspXCoFL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">Adorable seductor (1989)</title>
     <desc lang="es">El nuevo miembro de una compañía de teatro se enfrenta a un director bullicioso. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81eXQTzyLjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260730130500 +0200" stop="20260730144000 +0200" channel="acontra+ CINE">
+    <title lang="es">Pauline en la playa (1983)</title>
+    <desc lang="es">Pauline es una adolescente que pasa un verano con su prima Marion en busca de romance. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91HGjNRrcDL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260730144000 +0200" stop="20260730160500 +0200" channel="acontra+ CINE">
+    <title lang="es">Experimento Filadelfia (2012)</title>
+    <desc lang="es">Dos oficiales que participan en un experimento militar de alto secreto son trasladados a 1984. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A12HWWNktUL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260730160500 +0200" stop="20260730172500 +0200" channel="acontra+ CINE">
+    <title lang="es">Persona (1966)</title>
+    <desc lang="es">La simbiosis de las dos personalidades de una misma mujer. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91YJjt7ASEL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260730172500 +0200" stop="20260730185200 +0200" channel="acontra+ CINE">
+    <title lang="es">Hiroshima, mon amour (1959)</title>
+    <desc lang="es">Una actriz francesa se enamora de un arquitecto japonés en la época de la posguerra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81hJzVu9vRL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
