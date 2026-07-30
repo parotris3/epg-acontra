@@ -3,34 +3,34 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260730140500 +0200" stop="20260730160500 +0200" channel="acontra+ CINE">
-    <title lang="es">Experimento Filadelfia (2012)</title>
-    <desc lang="es">Dos oficiales que participan en un experimento militar de alto secreto son trasladados a 1984. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A12HWWNktUL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260730230300 +0200" stop="20260731010300 +0200" channel="acontra+ CINE">
+    <title lang="es">Mi vida como un perro (1987)</title>
+    <desc lang="es">Agridulce viaje de la infancia a la adolescencia que tiene que recorrer un niño sueco de 12 años. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91EciWOY9KL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260730160500 +0200" stop="20260730172500 +0200" channel="acontra+ CINE">
-    <title lang="es">Persona (1966)</title>
-    <desc lang="es">La simbiosis de las dos personalidades de una misma mujer. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91YJjt7ASEL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260731010300 +0200" stop="20260731031600 +0200" channel="acontra+ CINE">
+    <title lang="es">Ocho y medio (1963)</title>
+    <desc lang="es">Un director de cine atraviesa una crisis de creatividad. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81arxyacWlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260730172500 +0200" stop="20260730185200 +0200" channel="acontra+ CINE">
-    <title lang="es">Hiroshima, mon amour (1959)</title>
-    <desc lang="es">Una actriz francesa se enamora de un arquitecto japonés en la época de la posguerra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81hJzVu9vRL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260731031600 +0200" stop="20260731045100 +0200" channel="acontra+ CINE">
+    <title lang="es">Otelo (1952)</title>
+    <desc lang="es">El admirado general Otelo es víctima de las intrigas de unos de sus envidiosos oficiales. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81DQBnGA6NL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260730185200 +0200" stop="20260730202500 +0200" channel="acontra+ CINE">
-    <title lang="es">La cosecha (1994)</title>
-    <desc lang="es">En México, Charlie Pope, un guionista de cine en plena depresión, se ve envuelto en una pesadilla. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91d-BH1BVlL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260731045100 +0200" stop="20260731063300 +0200" channel="acontra+ CINE">
+    <title lang="es">Quiero ser italiano (2017)</title>
+    <desc lang="es">Para poder salir adelante en Francia, un argelino musulmán se hace pasar por un italiano. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71u4XxPOYmL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260730202500 +0200" stop="20260730220500 +0200" channel="acontra+ CINE">
-    <title lang="es">One Last Dance (2003)</title>
-    <desc lang="es">Tres antiguos bailarines se reúnen para usar su talento y poder salvar el estudio de su mentor. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/913oFILPzOL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260731063300 +0200" stop="20260731075600 +0200" channel="acontra+ CINE">
+    <title lang="es">Supervivientes de Los Andes</title>
+    <desc lang="es">Un avión con 45 pasajeros se estrella en Los Andes. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/811U24Djs8L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260730220500 +0200" stop="20260730232500 +0200" channel="acontra+ CINE">
-    <title lang="es">La matanza de Texas (1974)</title>
-    <desc lang="es">Un grupo de jóvenes son atacados con sierras y otras herramientas mortales por seres dementes. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71VJFqz66zL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260731075600 +0200" stop="20260731092000 +0200" channel="acontra+ CINE">
+    <title lang="es">The Jack in the Box (2019)</title>
+    <desc lang="es">Los amigos de Casey empiezan a morir cuando llega una antigua caja con un muñeco dentro. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91yN378qD9L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
