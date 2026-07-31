@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260731083100 +0200" stop="20260731103100 +0200" channel="acontra+ CINE">
-    <title lang="es">El pan nuestro de cada día (1934)</title>
-    <desc lang="es">Durante la crisis de 1929, una joven pareja abandona la ciudad y explota una granja abandonada. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81CZCGswxtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260731103100 +0200" stop="20260731120800 +0200" channel="acontra+ CINE">
-    <title lang="es">Suspiria (1977)</title>
-    <desc lang="es">Una bailarina de Nueva York se inscribe en una academia de danza embrujada. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1hAy5lxJRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260731120800 +0200" stop="20260731133800 +0200" channel="acontra+ CINE">
-    <title lang="es">Avalancha (1978)</title>
-    <desc lang="es">Los huéspedes de un balneario se ven amenazados por un desastre natural que los deja atrapados. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/812rAPQ24AL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260731133800 +0200" stop="20260731152100 +0200" channel="acontra+ CINE">
+  <programme start="20260731132100 +0200" stop="20260731152100 +0200" channel="acontra+ CINE">
     <title lang="es">Una cosa por otra (2021)</title>
     <desc lang="es">Un fugitivo conoce a una mujer que amenaza con denunciarlo a la policía a menos que mate a su madre. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71GhOMiHeML._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Primavera tardía (1949)</title>
     <desc lang="es">Noriko vive con su padre viudo y cuida de él, pero ya va siendo muy mayor para permanecer soltera. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/817LyByUZ6L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260731185700 +0200" stop="20260731202900 +0200" channel="acontra+ CINE">
+    <title lang="es">Life Partners (2014)</title>
+    <desc lang="es">La relación entre dos amigas cambia dramáticamente. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81KbqWM--DL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260731202900 +0200" stop="20260731215900 +0200" channel="acontra+ CINE">
+    <title lang="es">Notre Dame (2019)</title>
+    <desc lang="es">La vida de una arquitecta cambia cuando gana la oportunidad de renovar la catedral de Notre Dame. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/819wBQ4-5BL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260731215900 +0200" stop="20260731232400 +0200" channel="acontra+ CINE">
+    <title lang="es">Aventuras de Robinson Crusoe (1954)</title>
+    <desc lang="es">Marinero británico naufraga y desaparece por 28 años. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/818Ek3Bc+tL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
