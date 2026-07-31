@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260731043300 +0200" stop="20260731063300 +0200" channel="acontra+ CINE">
-    <title lang="es">Quiero ser italiano (2017)</title>
-    <desc lang="es">Para poder salir adelante en Francia, un argelino musulmán se hace pasar por un italiano. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71u4XxPOYmL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260731063300 +0200" stop="20260731075600 +0200" channel="acontra+ CINE">
-    <title lang="es">Supervivientes de Los Andes</title>
-    <desc lang="es">Un avión con 45 pasajeros se estrella en Los Andes. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/811U24Djs8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260731075600 +0200" stop="20260731092000 +0200" channel="acontra+ CINE">
-    <title lang="es">The Jack in the Box (2019)</title>
-    <desc lang="es">Los amigos de Casey empiezan a morir cuando llega una antigua caja con un muñeco dentro. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91yN378qD9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260731092000 +0200" stop="20260731103100 +0200" channel="acontra+ CINE">
+  <programme start="20260731083100 +0200" stop="20260731103100 +0200" channel="acontra+ CINE">
     <title lang="es">El pan nuestro de cada día (1934)</title>
     <desc lang="es">Durante la crisis de 1929, una joven pareja abandona la ciudad y explota una granja abandonada. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81CZCGswxtL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Avalancha (1978)</title>
     <desc lang="es">Los huéspedes de un balneario se ven amenazados por un desastre natural que los deja atrapados. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/812rAPQ24AL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260731133800 +0200" stop="20260731152100 +0200" channel="acontra+ CINE">
+    <title lang="es">Una cosa por otra (2021)</title>
+    <desc lang="es">Un fugitivo conoce a una mujer que amenaza con denunciarlo a la policía a menos que mate a su madre. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71GhOMiHeML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260731152100 +0200" stop="20260731171300 +0200" channel="acontra+ CINE">
+    <title lang="es">Wilde (1998)</title>
+    <desc lang="es">En la Inglaterra victoriana, la relación de Oscar Wilde con un noble lo conduce a su ruina. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81IkOUj2oqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260731171300 +0200" stop="20260731185700 +0200" channel="acontra+ CINE">
+    <title lang="es">Primavera tardía (1949)</title>
+    <desc lang="es">Noriko vive con su padre viudo y cuida de él, pero ya va siendo muy mayor para permanecer soltera. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/817LyByUZ6L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
