@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260801184100 +0200" stop="20260801204100 +0200" channel="acontra+ CINE">
-    <title lang="es">The Guest (2014)</title>
-    <desc lang="es">El exmarine David entra en la familia Peterson hasta que se dan cuenta de que no es lo que aparenta. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91yqoHlJH2L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260801204100 +0200" stop="20260801222100 +0200" channel="acontra+ CINE">
-    <title lang="es">Éxito a cualquier precio (1992)</title>
-    <desc lang="es">Un grupo de maliciosos vendedores de inmuebles lucha por sobrevivir en una economía en crisis. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Q-9MYBdRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260801222100 +0200" stop="20260802001900 +0200" channel="acontra+ CINE">
+  <programme start="20260801221900 +0200" stop="20260802001900 +0200" channel="acontra+ CINE">
     <title lang="es">La novena configuración (1980)</title>
     <desc lang="es">El Coronel Hudson Kane llega para hacerse cargo de una institución psiquiátrica militar. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/614osUZ0gPL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Cartas a Roxane (2018)</title>
     <desc lang="es">Edmond Rostand conoce a Constantín Coquelin que acepta interpretar Cyrano de Bergerac. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/814tsVpTvyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260802040800 +0200" stop="20260802054700 +0200" channel="acontra+ CINE">
+    <title lang="es">Relaciones confidenciales (2003)</title>
+    <desc lang="es">Un experto en relaciones públicas realiza un encargo que pondrá en peligro su vida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/919NRqvGd3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260802054700 +0200" stop="20260802072300 +0200" channel="acontra+ CINE">
+    <title lang="es">Mientras Nueva York duerme</title>
+    <desc lang="es">En los pasillos del Sentinel, los periodistas intrigan para hacerse con la dirección del diario. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ZbDqARslL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260802072300 +0200" stop="20260802094100 +0200" channel="acontra+ CINE">
+    <title lang="es">El infierno del odio (1963)</title>
+    <desc lang="es">El ejecutivo de una compañía de zapatos de éxito se convierte en víctima de extorsión. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81NFwmVYj5L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
