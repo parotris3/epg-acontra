@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260801095100 +0200" stop="20260801115100 +0200" channel="acontra+ CINE">
-    <title lang="es">Kabei. Nuestra madre (2008)</title>
-    <desc lang="es">Una mujer lucha por mantener a su familia unida cuando su marido es encarcelado por sus opiniones. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81e0U+3YW4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260801115100 +0200" stop="20260801135000 +0200" channel="acontra+ CINE">
-    <title lang="es">La linterna roja (1991)</title>
-    <desc lang="es">China, años 20. Una joven accede a ser concubina de un hombre acaudalado que ya tiene tres esposas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81mKZ-18XaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260801135000 +0200" stop="20260801154200 +0200" channel="acontra+ CINE">
+  <programme start="20260801134200 +0200" stop="20260801154200 +0200" channel="acontra+ CINE">
     <title lang="es">Las Diabólicas (1955)</title>
     <desc lang="es">La mujer y el amante del director de un colegio ponen fin a la tiranía del hombre que comparten. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1i3cYW6luL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Quiero ser italiano (2017)</title>
     <desc lang="es">Para poder salir adelante en Francia, un argelino musulmán se hace pasar por un italiano. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71u4XxPOYmL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260801190500 +0200" stop="20260801204100 +0200" channel="acontra+ CINE">
+    <title lang="es">The Guest (2014)</title>
+    <desc lang="es">El exmarine David entra en la familia Peterson hasta que se dan cuenta de que no es lo que aparenta. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91yqoHlJH2L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260801204100 +0200" stop="20260801222100 +0200" channel="acontra+ CINE">
+    <title lang="es">Éxito a cualquier precio (1992)</title>
+    <desc lang="es">Un grupo de maliciosos vendedores de inmuebles lucha por sobrevivir en una economía en crisis. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Q-9MYBdRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260801222100 +0200" stop="20260802001900 +0200" channel="acontra+ CINE">
+    <title lang="es">La novena configuración (1980)</title>
+    <desc lang="es">El Coronel Hudson Kane llega para hacerse cargo de una institución psiquiátrica militar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/614osUZ0gPL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
