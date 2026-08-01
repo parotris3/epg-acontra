@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260731235700 +0200" stop="20260801015700 +0200" channel="acontra+ CINE">
-    <title lang="es">Maria Chapdelaine (2021)</title>
-    <desc lang="es">La hija de un granjero se enfrenta a una difícil elección entre tres pretendientes muy diferentes. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1+kMZBWj7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260801015700 +0200" stop="20260801040400 +0200" channel="acontra+ CINE">
-    <title lang="es">Diarios de motocicleta (2004)</title>
-    <desc lang="es">En 1952, Ernesto "Che" Guevara y su amigo Alberto Granado realizan un viaje a través de Sudamérica. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71aFMJNSttL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260801040400 +0200" stop="20260801053700 +0200" channel="acontra+ CINE">
+  <programme start="20260801033700 +0200" stop="20260801053700 +0200" channel="acontra+ CINE">
     <title lang="es">El diablo, probablemente (1978)</title>
     <desc lang="es">Un hombre intenta en vano con política, religión y psicoanálisis entender a la sociedad. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81tlgl9XK8L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">La vida de Galileo (2025)</title>
     <desc lang="es">Las teorías de Galileo Galilei le granjearon el rechazo de las poderosas autoridades eclesiásticas. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/91FI7srPpyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260801093800 +0200" stop="20260801115100 +0200" channel="acontra+ CINE">
+    <title lang="es">Kabei. Nuestra madre (2008)</title>
+    <desc lang="es">Una mujer lucha por mantener a su familia unida cuando su marido es encarcelado por sus opiniones. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81e0U+3YW4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260801115100 +0200" stop="20260801135000 +0200" channel="acontra+ CINE">
+    <title lang="es">La linterna roja (1991)</title>
+    <desc lang="es">China, años 20. Una joven accede a ser concubina de un hombre acaudalado que ya tiene tres esposas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81mKZ-18XaL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
