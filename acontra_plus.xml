@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260801221900 +0200" stop="20260802001900 +0200" channel="acontra+ CINE">
-    <title lang="es">La novena configuración (1980)</title>
-    <desc lang="es">El Coronel Hudson Kane llega para hacerse cargo de una institución psiquiátrica militar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/614osUZ0gPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260802001900 +0200" stop="20260802021200 +0200" channel="acontra+ CINE">
-    <title lang="es">El dulce porvenir (1997)</title>
-    <desc lang="es">Un abogado va a un pequeño pueblo que sufre las secuelas del accidente de un autobús escolar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71-Vxuw0sKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260802021200 +0200" stop="20260802040800 +0200" channel="acontra+ CINE">
-    <title lang="es">Cartas a Roxane (2018)</title>
-    <desc lang="es">Edmond Rostand conoce a Constantín Coquelin que acepta interpretar Cyrano de Bergerac. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/814tsVpTvyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260802040800 +0200" stop="20260802054700 +0200" channel="acontra+ CINE">
+  <programme start="20260802034700 +0200" stop="20260802054700 +0200" channel="acontra+ CINE">
     <title lang="es">Relaciones confidenciales (2003)</title>
     <desc lang="es">Un experto en relaciones públicas realiza un encargo que pondrá en peligro su vida. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/919NRqvGd3L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">El infierno del odio (1963)</title>
     <desc lang="es">El ejecutivo de una compañía de zapatos de éxito se convierte en víctima de extorsión. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81NFwmVYj5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260802094100 +0200" stop="20260802112200 +0200" channel="acontra+ CINE">
+    <title lang="es">Sin vuelta atrás (1998)</title>
+    <desc lang="es">Tras salir de la cárcel, Joey se va a vivir con su hermano Tommy y su mujer a Staten Island. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1rt9pK1GHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260802112200 +0200" stop="20260802130900 +0200" channel="acontra+ CINE">
+    <title lang="es">Todo por Grace (2018)</title>
+    <desc lang="es">Un joven trasciende los límites de raza y clase para perseguir un amor imposible. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1-Zchj8WXL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
