@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260802092200 +0200" stop="20260802112200 +0200" channel="acontra+ CINE">
-    <title lang="es">Sin vuelta atrás (1998)</title>
-    <desc lang="es">Tras salir de la cárcel, Joey se va a vivir con su hermano Tommy y su mujer a Staten Island. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1rt9pK1GHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260802112200 +0200" stop="20260802130900 +0200" channel="acontra+ CINE">
-    <title lang="es">Todo por Grace (2018)</title>
-    <desc lang="es">Un joven trasciende los límites de raza y clase para perseguir un amor imposible. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1-Zchj8WXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260802130900 +0200" stop="20260802144900 +0200" channel="acontra+ CINE">
-    <title lang="es">Yo compré una moto vampiro (1991)</title>
-    <desc lang="es">Tras un ritual en el que un ocultista es asesinado, una moto es poseída por un espíritu vampírico. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1ZJSyE4GTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260802144900 +0200" stop="20260802162200 +0200" channel="acontra+ CINE">
+  <programme start="20260802142200 +0200" stop="20260802162200 +0200" channel="acontra+ CINE">
     <title lang="es">El último pasajero (2013)</title>
     <desc lang="es">Los frenos de un tren han sido saboteados por un sociópata. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81dfjgkDIdL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Buenas noches mamá (2014)</title>
     <desc lang="es">Cuando una madre regresa de una cirugía plástica sus hijos no saben si es una impostora. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/61pk8FT-etL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260802192700 +0200" stop="20260802204800 +0200" channel="acontra+ CINE">
+    <title lang="es">Dame 10 razones (2006)</title>
+    <desc lang="es">Un actor se adentra en un supermercado de un barrio obrero para investigar sobre su personaje. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81m7-duJJZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260802204800 +0200" stop="20260802222700 +0200" channel="acontra+ CINE">
+    <title lang="es">Adorable seductor (1989)</title>
+    <desc lang="es">El nuevo miembro de una compañía de teatro se enfrenta a un director bullicioso. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81eXQTzyLjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260802222700 +0200" stop="20260803001500 +0200" channel="acontra+ CINE">
+    <title lang="es">Hombres contra mujeres (2010)</title>
+    <desc lang="es">Cuatro historias de pareja, amor y desamor en las que se aborda el problema de la guerra de sexos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Vl5ixvOYL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
