@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260803032700 +0200" stop="20260803052700 +0200" channel="acontra+ CINE">
-    <title lang="es">Ángel de venganza (1981)</title>
-    <desc lang="es">Una joven sordomuda que ha sido violada recorre las calles de Nueva York en busca de venganza. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qVPfjBNiL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260803052700 +0200" stop="20260803074000 +0200" channel="acontra+ CINE">
-    <title lang="es">¡Vivir! (1994)</title>
-    <desc lang="es">Una pareja se enfrenta a la turbulenta historia política de China a lo largo de 30 años. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71bSqDq2fPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260803074000 +0200" stop="20260803095500 +0200" channel="acontra+ CINE">
-    <title lang="es">Conexión Marsella (2014)</title>
-    <desc lang="es">Un joven magistrado es destinado a combatir la lucha contra el crimen organizado. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-LZi-Jm3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260803095500 +0200" stop="20260803121300 +0200" channel="acontra+ CINE">
+  <programme start="20260803101300 +0200" stop="20260803121300 +0200" channel="acontra+ CINE">
     <title lang="es">Caso Murer: el carnicero de Vilnius (2021)</title>
     <desc lang="es">Año 1963. Franz Murer, oficial austríaco de las SS, se enfrenta a un juicio de diez días. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/814oQwKA-IL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Doble Contratiempo (2001)</title>
     <desc lang="es">Un agente de policía intenta reordenar su vida mientras ocurren extraños sucesos en su edificio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Xp5dqrn1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260803134900 +0200" stop="20260803152700 +0200" channel="acontra+ CINE">
+    <title lang="es">Barbacoa de amigos (2014)</title>
+    <desc lang="es">En su 50 cumpleaños, Antoine tiene una ataque al corazón y decide cambiar su estilo de vida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ZftxIvRIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260803152700 +0200" stop="20260803170800 +0200" channel="acontra+ CINE">
+    <title lang="es">Four Lions (2010)</title>
+    <desc lang="es">Cuatro musulmanes intentan realizar, sin éxito, actos de terrorismo en Inglaterra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81HPccFYNSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260803170800 +0200" stop="20260803184800 +0200" channel="acontra+ CINE">
+    <title lang="es">One Last Dance (2003)</title>
+    <desc lang="es">Tres antiguos bailarines se reúnen para usar su talento y poder salvar el estudio de su mentor. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/913oFILPzOL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
