@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260803132700 +0200" stop="20260803152700 +0200" channel="acontra+ CINE">
-    <title lang="es">Barbacoa de amigos (2014)</title>
-    <desc lang="es">En su 50 cumpleaños, Antoine tiene una ataque al corazón y decide cambiar su estilo de vida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ZftxIvRIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260803152700 +0200" stop="20260803170800 +0200" channel="acontra+ CINE">
-    <title lang="es">Four Lions (2010)</title>
-    <desc lang="es">Cuatro musulmanes intentan realizar, sin éxito, actos de terrorismo en Inglaterra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81HPccFYNSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260803170800 +0200" stop="20260803184800 +0200" channel="acontra+ CINE">
-    <title lang="es">One Last Dance (2003)</title>
-    <desc lang="es">Tres antiguos bailarines se reúnen para usar su talento y poder salvar el estudio de su mentor. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/913oFILPzOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260803184800 +0200" stop="20260803204300 +0200" channel="acontra+ CINE">
+  <programme start="20260803184300 +0200" stop="20260803204300 +0200" channel="acontra+ CINE">
     <title lang="es">Sección especial</title>
     <desc lang="es">En la Francia ocupada, un oficial alemán es asesinado por un grupo de jóvenes insurgentes. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71yJ2Ob6BfL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Como en un espejo (1961)</title>
     <desc lang="es">Karin pierde el contacto con la realidad a causa de la esquizofrenia que padece. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81nB1w59ZQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260803234100 +0200" stop="20260804011000 +0200" channel="acontra+ CINE">
+    <title lang="es">Viva la Muerte (2013)</title>
+    <desc lang="es">Al final de la Guerra Civil española, un niño intenta encontrarle sentido a la guerra. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Tea-RtG7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260804011000 +0200" stop="20260804024300 +0200" channel="acontra+ CINE">
+    <title lang="es">La cosecha (1994)</title>
+    <desc lang="es">En México, Charlie Pope, un guionista de cine en plena depresión, se ve envuelto en una pesadilla. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91d-BH1BVlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260804024300 +0200" stop="20260804043700 +0200" channel="acontra+ CINE">
+    <title lang="es">Bellísima (1981)</title>
+    <desc lang="es">Madalena Cecconi hace todo lo posible para que su hija María se convierta en una estrella de cine. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-sgxXyzTL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
