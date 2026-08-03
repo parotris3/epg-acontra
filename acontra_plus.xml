@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260803184300 +0200" stop="20260803204300 +0200" channel="acontra+ CINE">
-    <title lang="es">Sección especial</title>
-    <desc lang="es">En la Francia ocupada, un oficial alemán es asesinado por un grupo de jóvenes insurgentes. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71yJ2Ob6BfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260803204300 +0200" stop="20260803221200 +0200" channel="acontra+ CINE">
-    <title lang="es">Tú y yo (1939)</title>
-    <desc lang="es">Dos personas se enamoran apasionadamente pese a estar ya comprometidos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ESlAvjtIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260803221200 +0200" stop="20260803234100 +0200" channel="acontra+ CINE">
-    <title lang="es">Como en un espejo (1961)</title>
-    <desc lang="es">Karin pierde el contacto con la realidad a causa de la esquizofrenia que padece. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nB1w59ZQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260803234100 +0200" stop="20260804011000 +0200" channel="acontra+ CINE">
+  <programme start="20260803231000 +0200" stop="20260804011000 +0200" channel="acontra+ CINE">
     <title lang="es">Viva la Muerte (2013)</title>
     <desc lang="es">Al final de la Guerra Civil española, un niño intenta encontrarle sentido a la guerra. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Tea-RtG7L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Bellísima (1981)</title>
     <desc lang="es">Madalena Cecconi hace todo lo posible para que su hija María se convierta en una estrella de cine. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81-sgxXyzTL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260804043700 +0200" stop="20260804055500 +0200" channel="acontra+ CINE">
+    <title lang="es">El marido de la peluquera (1990)</title>
+    <desc lang="es">Fascinado por los estilistas desde que era un niño, Antoine promete casarse con una peluquera. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/918xYPpp98L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260804055500 +0200" stop="20260804073300 +0200" channel="acontra+ CINE">
+    <title lang="es">The Great Gilly Hopkins (2015)</title>
+    <desc lang="es">Basado en la novela de Katherine Paterson. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Uf-bXo0xL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260804073300 +0200" stop="20260804090900 +0200" channel="acontra+ CINE">
+    <title lang="es">JCVD (2008)</title>
+    <desc lang="es">Van Damme no pasa por un gran momento: sin trabajo y a punto de perder la custodia de su hija. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1pNYm7xglL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
