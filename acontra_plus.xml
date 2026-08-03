@@ -3,29 +3,29 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260802184800 +0200" stop="20260802204800 +0200" channel="acontra+ CINE">
-    <title lang="es">Dame 10 razones (2006)</title>
-    <desc lang="es">Un actor se adentra en un supermercado de un barrio obrero para investigar sobre su personaje. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81m7-duJJZL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260803032700 +0200" stop="20260803052700 +0200" channel="acontra+ CINE">
+    <title lang="es">Ángel de venganza (1981)</title>
+    <desc lang="es">Una joven sordomuda que ha sido violada recorre las calles de Nueva York en busca de venganza. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qVPfjBNiL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260802204800 +0200" stop="20260802222700 +0200" channel="acontra+ CINE">
-    <title lang="es">Adorable seductor (1989)</title>
-    <desc lang="es">El nuevo miembro de una compañía de teatro se enfrenta a un director bullicioso. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81eXQTzyLjL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260803052700 +0200" stop="20260803074000 +0200" channel="acontra+ CINE">
+    <title lang="es">¡Vivir! (1994)</title>
+    <desc lang="es">Una pareja se enfrenta a la turbulenta historia política de China a lo largo de 30 años. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71bSqDq2fPL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260802222700 +0200" stop="20260803001500 +0200" channel="acontra+ CINE">
-    <title lang="es">Hombres contra mujeres (2010)</title>
-    <desc lang="es">Cuatro historias de pareja, amor y desamor en las que se aborda el problema de la guerra de sexos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Vl5ixvOYL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260803074000 +0200" stop="20260803095500 +0200" channel="acontra+ CINE">
+    <title lang="es">Conexión Marsella (2014)</title>
+    <desc lang="es">Un joven magistrado es destinado a combatir la lucha contra el crimen organizado. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-LZi-Jm3L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260803001500 +0200" stop="20260803024000 +0200" channel="acontra+ CINE">
-    <title lang="es">Los Buddenbrook (2008)</title>
-    <desc lang="es">Los Buddenbrooks es la adaptación cinematográfica de la novela de Thomas Mann. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ZbMAcazML._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260803095500 +0200" stop="20260803121300 +0200" channel="acontra+ CINE">
+    <title lang="es">Caso Murer: el carnicero de Vilnius (2021)</title>
+    <desc lang="es">Año 1963. Franz Murer, oficial austríaco de las SS, se enfrenta a un juicio de diez días. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/814oQwKA-IL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260803024000 +0200" stop="20260803041000 +0200" channel="acontra+ CINE">
-    <title lang="es">Bajo Cero (2006)</title>
-    <desc lang="es">Un grupo de alpinistas debe evitar que unos mercenarios utilicen una destructiva arma. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1F0SjuOWRL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260803121300 +0200" stop="20260803134900 +0200" channel="acontra+ CINE">
+    <title lang="es">Doble Contratiempo (2001)</title>
+    <desc lang="es">Un agente de policía intenta reordenar su vida mientras ocurren extraños sucesos en su edificio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Xp5dqrn1L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
