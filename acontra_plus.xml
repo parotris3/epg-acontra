@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260804134100 +0200" stop="20260804154100 +0200" channel="acontra+ CINE">
-    <title lang="es">Esperemos que sea mujer (1988)</title>
-    <desc lang="es">Elena vive en una granja en la Toscana, separada de su marido y con sus parientes femeninas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1RB8VWD04L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260804154100 +0200" stop="20260804170900 +0200" channel="acontra+ CINE">
-    <title lang="es">Goon (2011)</title>
-    <desc lang="es">Doug Glatt consigue un lugar en un equipo de hockey canadiense de las ligas menores. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81S5SD0d9gL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260804170900 +0200" stop="20260804185100 +0200" channel="acontra+ CINE">
-    <title lang="es">Envidia sana (2020)</title>
-    <desc lang="es">La armonía entre dos parejas se rompe cuando Lea les dice que está escribiendo una novela. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uDdrfBuKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260804185100 +0200" stop="20260804203000 +0200" channel="acontra+ CINE">
+  <programme start="20260804183000 +0200" stop="20260804203000 +0200" channel="acontra+ CINE">
     <title lang="es">El rayo verde (1986)</title>
     <desc lang="es">Delphine es una joven parisina que trata de recuperarse de una ruptura reciente. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81fcd9fiYlL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Intolerancia (2014)</title>
     <desc lang="es">Clásico del cine mudo que muestra la intolerancia religiosa y social acaecida durante la historia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81JYFFvqyTL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260804231100 +0200" stop="20260805004000 +0200" channel="acontra+ CINE">
+    <title lang="es">La ronda (1950)</title>
+    <desc lang="es">Viena, 1900. El amor está en el aire, y las parejas van y vienen. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71BHBFA4BqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260805004000 +0200" stop="20260805023400 +0200" channel="acontra+ CINE">
+    <title lang="es">El señor de las bestias (1983)</title>
+    <desc lang="es">Dar, el príncipe guerrero, necesita salvar al amor de su vida, Kiri, ahora prisionera de un rey. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91WflJhW96L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260805023400 +0200" stop="20260805040800 +0200" channel="acontra+ CINE">
+    <title lang="es">Los mejores amigos del mundo (2010)</title>
+    <desc lang="es">Un fin de semana al aire libre con sus mejores amigos, los realmente queridos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91EQMpQFeIL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
