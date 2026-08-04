@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260804084200 +0200" stop="20260804104200 +0200" channel="acontra+ CINE">
-    <title lang="es">El regreso de Jack el destripador (1988)</title>
-    <desc lang="es">Un asesino de Los Ángeles intenta replicar los asesinatos de Jack el destripador. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91bbvDVxctL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260804104200 +0200" stop="20260804121900 +0200" channel="acontra+ CINE">
-    <title lang="es">El novio de mi madre (2007)</title>
-    <desc lang="es">La agitada vida de una mujer madura cambia cuando se enamora de un hombre mucho más joven que ella. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qWfjAZw8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260804121900 +0200" stop="20260804134200 +0200" channel="acontra+ CINE">
-    <title lang="es">El hombre orquesta (1970)</title>
-    <desc lang="es">Un director de un ballet femenino hace lo posible para que sus bailarinas encuentren marido. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71XmK2jrJ-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260804134200 +0200" stop="20260804154100 +0200" channel="acontra+ CINE">
+  <programme start="20260804134100 +0200" stop="20260804154100 +0200" channel="acontra+ CINE">
     <title lang="es">Esperemos que sea mujer (1988)</title>
     <desc lang="es">Elena vive en una granja en la Toscana, separada de su marido y con sus parientes femeninas. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1RB8VWD04L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Envidia sana (2020)</title>
     <desc lang="es">La armonía entre dos parejas se rompe cuando Lea les dice que está escribiendo una novela. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81uDdrfBuKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260804185100 +0200" stop="20260804203000 +0200" channel="acontra+ CINE">
+    <title lang="es">El rayo verde (1986)</title>
+    <desc lang="es">Delphine es una joven parisina que trata de recuperarse de una ruptura reciente. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81fcd9fiYlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260804203000 +0200" stop="20260804231100 +0200" channel="acontra+ CINE">
+    <title lang="es">Intolerancia (2014)</title>
+    <desc lang="es">Clásico del cine mudo que muestra la intolerancia religiosa y social acaecida durante la historia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81JYFFvqyTL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
