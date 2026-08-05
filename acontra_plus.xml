@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260805083200 +0200" stop="20260805103200 +0200" channel="acontra+ CINE">
-    <title lang="es">Juzgado a la italiana (1956)</title>
-    <desc lang="es">El magistrado Del Russo preside cuatro casos diferentes que se le presentan en un solo día. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81FlY6AjR4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260805103200 +0200" stop="20260805122700 +0200" channel="acontra+ CINE">
-    <title lang="es">La mujer zurda (1980)</title>
-    <desc lang="es">Una mujer recién separada pone rumbo a París con su hijo, donde comienzan una nueva vida. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ebmwYoeRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260805122700 +0200" stop="20260805141600 +0200" channel="acontra+ CINE">
-    <title lang="es">Los amantes de Montparnasse (1958)</title>
-    <desc lang="es">Relato del último año de vida del pintor italiano Modigliani en el barrio francés de Montparnasse. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ph+W4zttL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260805141600 +0200" stop="20260805162300 +0200" channel="acontra+ CINE">
+  <programme start="20260805142300 +0200" stop="20260805162300 +0200" channel="acontra+ CINE">
     <title lang="es">Modigliani (2005)</title>
     <desc lang="es">La historia jamás contada de la ácida rivalidad entre Picasso y Modigliani. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81r817NqNIL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Gigolo (2024)</title>
     <desc lang="es">Tras la Primera Guerra Mundial, un hombre regresa a Berlín y decide convertirse en "gigoló". | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71hraIcbBVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260805193300 +0200" stop="20260805211000 +0200" channel="acontra+ CINE">
+    <title lang="es">Oxford Blues (1984)</title>
+    <desc lang="es">Un americano que anda tras la chica de sus sueños amenaza la tradición de la Universidad de Oxford. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91t7glRFKjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260805211000 +0200" stop="20260805231300 +0200" channel="acontra+ CINE">
+    <title lang="es">Great Expectations (2012)</title>
+    <desc lang="es">Basada en la novela de Charles Dickens. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1CCHqpqbeL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
