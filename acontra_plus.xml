@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260805034500 +0200" stop="20260805054500 +0200" channel="acontra+ CINE">
-    <title lang="es">Misión País Vasco (2021)</title>
-    <desc lang="es">Una comercial parisina debe ir al País Vasco francés por razones profesionales. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zwLJAme4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260805054500 +0200" stop="20260805070200 +0200" channel="acontra+ CINE">
-    <title lang="es">Más allá de la duda (1956)</title>
-    <desc lang="es">Un escritor intenta demostrar la deficiencia de las leyes y la ineficacia de la policía. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Oc-S15fdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260805070200 +0200" stop="20260805085200 +0200" channel="acontra+ CINE">
-    <title lang="es">La fiesta (1982)</title>
-    <desc lang="es">Vic, a sus 14 años, atraviesa la etapa de sus primeros flirteos y fiestas entre amigas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81M2qfD7kNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260805085200 +0200" stop="20260805103200 +0200" channel="acontra+ CINE">
+  <programme start="20260805083200 +0200" stop="20260805103200 +0200" channel="acontra+ CINE">
     <title lang="es">Juzgado a la italiana (1956)</title>
     <desc lang="es">El magistrado Del Russo preside cuatro casos diferentes que se le presentan en un solo día. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81FlY6AjR4L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Los amantes de Montparnasse (1958)</title>
     <desc lang="es">Relato del último año de vida del pintor italiano Modigliani en el barrio francés de Montparnasse. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ph+W4zttL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260805141600 +0200" stop="20260805162300 +0200" channel="acontra+ CINE">
+    <title lang="es">Modigliani (2005)</title>
+    <desc lang="es">La historia jamás contada de la ácida rivalidad entre Picasso y Modigliani. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81r817NqNIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260805162300 +0200" stop="20260805174700 +0200" channel="acontra+ CINE">
+    <title lang="es">Josie (2017)</title>
+    <desc lang="es">Un hombre solitario se hace amigo de una estudiante, lo que genera suspicacias entre sus vecinos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81SUld6UADL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260805174700 +0200" stop="20260805193300 +0200" channel="acontra+ CINE">
+    <title lang="es">Gigolo (2024)</title>
+    <desc lang="es">Tras la Primera Guerra Mundial, un hombre regresa a Berlín y decide convertirse en "gigoló". | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71hraIcbBVL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
