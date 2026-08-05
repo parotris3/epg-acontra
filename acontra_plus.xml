@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260805142300 +0200" stop="20260805162300 +0200" channel="acontra+ CINE">
-    <title lang="es">Modigliani (2005)</title>
-    <desc lang="es">La historia jamás contada de la ácida rivalidad entre Picasso y Modigliani. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81r817NqNIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260805162300 +0200" stop="20260805174700 +0200" channel="acontra+ CINE">
-    <title lang="es">Josie (2017)</title>
-    <desc lang="es">Un hombre solitario se hace amigo de una estudiante, lo que genera suspicacias entre sus vecinos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81SUld6UADL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260805174700 +0200" stop="20260805193300 +0200" channel="acontra+ CINE">
-    <title lang="es">Gigolo (2024)</title>
-    <desc lang="es">Tras la Primera Guerra Mundial, un hombre regresa a Berlín y decide convertirse en "gigoló". | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71hraIcbBVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260805193300 +0200" stop="20260805211000 +0200" channel="acontra+ CINE">
+  <programme start="20260805191000 +0200" stop="20260805211000 +0200" channel="acontra+ CINE">
     <title lang="es">Oxford Blues (1984)</title>
     <desc lang="es">Un americano que anda tras la chica de sus sueños amenaza la tradición de la Universidad de Oxford. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91t7glRFKjL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Great Expectations (2012)</title>
     <desc lang="es">Basada en la novela de Charles Dickens. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1CCHqpqbeL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260805231300 +0200" stop="20260806005900 +0200" channel="acontra+ CINE">
+    <title lang="es">Tres solteros y un biberón (1986)</title>
+    <desc lang="es">Tres amigos solteros se encuentran un paquete en la puerta de su casa que contiene a una niña. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/817Q6tWqkGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260806005900 +0200" stop="20260806022400 +0200" channel="acontra+ CINE">
+    <title lang="es">Nueva moda en el crimen (1974)</title>
+    <desc lang="es">Un agente secreto trata de blindar su pasado antes de ser nombrado consejero del gobierno. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81VeQkrvcpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260806022400 +0200" stop="20260806041700 +0200" channel="acontra+ CINE">
+    <title lang="es">La venganza de un soldado</title>
+    <desc lang="es">Frank Morgan regresa de Vietnam y ayuda a una joven a luchar en una revolución centroamericana. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tMWga1XFL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
