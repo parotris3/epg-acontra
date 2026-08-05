@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260804224000 +0200" stop="20260805004000 +0200" channel="acontra+ CINE">
-    <title lang="es">La ronda (1950)</title>
-    <desc lang="es">Viena, 1900. El amor está en el aire, y las parejas van y vienen. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71BHBFA4BqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260805004000 +0200" stop="20260805023400 +0200" channel="acontra+ CINE">
-    <title lang="es">El señor de las bestias (1983)</title>
-    <desc lang="es">Dar, el príncipe guerrero, necesita salvar al amor de su vida, Kiri, ahora prisionera de un rey. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WflJhW96L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260805023400 +0200" stop="20260805040800 +0200" channel="acontra+ CINE">
-    <title lang="es">Los mejores amigos del mundo (2010)</title>
-    <desc lang="es">Un fin de semana al aire libre con sus mejores amigos, los realmente queridos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91EQMpQFeIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260805040800 +0200" stop="20260805054500 +0200" channel="acontra+ CINE">
+  <programme start="20260805034500 +0200" stop="20260805054500 +0200" channel="acontra+ CINE">
     <title lang="es">Misión País Vasco (2021)</title>
     <desc lang="es">Una comercial parisina debe ir al País Vasco francés por razones profesionales. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91zwLJAme4L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La fiesta (1982)</title>
     <desc lang="es">Vic, a sus 14 años, atraviesa la etapa de sus primeros flirteos y fiestas entre amigas. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81M2qfD7kNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260805085200 +0200" stop="20260805103200 +0200" channel="acontra+ CINE">
+    <title lang="es">Juzgado a la italiana (1956)</title>
+    <desc lang="es">El magistrado Del Russo preside cuatro casos diferentes que se le presentan en un solo día. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81FlY6AjR4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260805103200 +0200" stop="20260805122700 +0200" channel="acontra+ CINE">
+    <title lang="es">La mujer zurda (1980)</title>
+    <desc lang="es">Una mujer recién separada pone rumbo a París con su hijo, donde comienzan una nueva vida. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ebmwYoeRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260805122700 +0200" stop="20260805141600 +0200" channel="acontra+ CINE">
+    <title lang="es">Los amantes de Montparnasse (1958)</title>
+    <desc lang="es">Relato del último año de vida del pintor italiano Modigliani en el barrio francés de Montparnasse. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ph+W4zttL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
