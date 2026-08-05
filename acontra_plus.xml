@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260805191000 +0200" stop="20260805211000 +0200" channel="acontra+ CINE">
-    <title lang="es">Oxford Blues (1984)</title>
-    <desc lang="es">Un americano que anda tras la chica de sus sueños amenaza la tradición de la Universidad de Oxford. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91t7glRFKjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260805211000 +0200" stop="20260805231300 +0200" channel="acontra+ CINE">
-    <title lang="es">Great Expectations (2012)</title>
-    <desc lang="es">Basada en la novela de Charles Dickens. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1CCHqpqbeL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260805231300 +0200" stop="20260806005900 +0200" channel="acontra+ CINE">
+  <programme start="20260805225900 +0200" stop="20260806005900 +0200" channel="acontra+ CINE">
     <title lang="es">Tres solteros y un biberón (1986)</title>
     <desc lang="es">Tres amigos solteros se encuentran un paquete en la puerta de su casa que contiene a una niña. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/817Q6tWqkGL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">La venganza de un soldado</title>
     <desc lang="es">Frank Morgan regresa de Vietnam y ayuda a una joven a luchar en una revolución centroamericana. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81tMWga1XFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260806041700 +0200" stop="20260806062800 +0200" channel="acontra+ CINE">
+    <title lang="es">Madame Marguerite (2015)</title>
+    <desc lang="es">Una mujer se propone cantar ópera delante de un gran público a pesar de desafinar terriblemente. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81nyw5jz0uL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260806062800 +0200" stop="20260806075000 +0200" channel="acontra+ CINE">
+    <title lang="es">Bloodsucking Bastards (2015)</title>
+    <desc lang="es">Evan, un empleado obediente y sobrecargado de trabajo, descubre que su compañero es un vampiro. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91B4zb3tooL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260806075000 +0200" stop="20260806092700 +0200" channel="acontra+ CINE">
+    <title lang="es">Orfeo (1950)</title>
+    <desc lang="es">Orfeo, conocido poeta del barrio parisino de Saint-Germain-des-Prés, está obsesionado con la Muerte. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91gieFP4c2L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
