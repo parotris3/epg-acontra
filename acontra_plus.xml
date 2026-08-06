@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260806042800 +0200" stop="20260806062800 +0200" channel="acontra+ CINE">
-    <title lang="es">Madame Marguerite (2015)</title>
-    <desc lang="es">Una mujer se propone cantar ópera delante de un gran público a pesar de desafinar terriblemente. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nyw5jz0uL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260806062800 +0200" stop="20260806075000 +0200" channel="acontra+ CINE">
-    <title lang="es">Bloodsucking Bastards (2015)</title>
-    <desc lang="es">Evan, un empleado obediente y sobrecargado de trabajo, descubre que su compañero es un vampiro. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91B4zb3tooL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260806075000 +0200" stop="20260806092700 +0200" channel="acontra+ CINE">
-    <title lang="es">Orfeo (1950)</title>
-    <desc lang="es">Orfeo, conocido poeta del barrio parisino de Saint-Germain-des-Prés, está obsesionado con la Muerte. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91gieFP4c2L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260806092700 +0200" stop="20260806105600 +0200" channel="acontra+ CINE">
+  <programme start="20260806085600 +0200" stop="20260806105600 +0200" channel="acontra+ CINE">
     <title lang="es">Solamente se vive una vez (1997)</title>
     <desc lang="es">George y Nathalie pasan las vacaciones en una remota isla de la costa de Maine. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/911BJnjObpL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Testigo (2017)</title>
     <desc lang="es">Duval debe afrontar la brutal mecánica del mundo oculto de los servicios secretos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71etEZ+ZdkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260806140600 +0200" stop="20260806153800 +0200" channel="acontra+ CINE">
+    <title lang="es">Frank y el robot (2012)</title>
+    <desc lang="es">Un excriminal utiliza robots para robar nuevamente. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/712WibFxd0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260806153800 +0200" stop="20260806171100 +0200" channel="acontra+ CINE">
+    <title lang="es">Welcome Home (2018)</title>
+    <desc lang="es">Un hombre manipula a una pareja vecina porque ve que su relación está deteriorada. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81wKMUYaEvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260806171100 +0200" stop="20260806185100 +0200" channel="acontra+ CINE">
+    <title lang="es">Perdidos en el Pacífico (2015)</title>
+    <desc lang="es">Sin comida, agua, ni esperanza de rescate, unos soldados navegan sin rumbo tras un accidente. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91elM7CEYmL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
