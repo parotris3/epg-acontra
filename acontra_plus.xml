@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260806182100 +0200" stop="20260806202100 +0200" channel="acontra+ CINE">
-    <title lang="es">Little Monsters (2019)</title>
-    <desc lang="es">Dave se ofrece como voluntario para acompañar a su sobrino en un viaje escolar. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91irhFfgcgL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260806202100 +0200" stop="20260806214900 +0200" channel="acontra+ CINE">
-    <title lang="es">La bala del asesino (2012)</title>
-    <desc lang="es">Un agente del FBI persigue a una persona que asesina a los terroristas más buscados de Europa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81oDwv67swL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260806214900 +0200" stop="20260806234200 +0200" channel="acontra+ CINE">
-    <title lang="es">El Skylab (2011)</title>
-    <desc lang="es">Julio de 1979. Albertine, de diez años, y sus familiares se reúnen en una casa de Bretaña. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ccAm5Q3PL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260806234200 +0200" stop="20260807011300 +0200" channel="acontra+ CINE">
+  <programme start="20260806231300 +0200" stop="20260807011300 +0200" channel="acontra+ CINE">
     <title lang="es">El mejor regalo (2018)</title>
     <desc lang="es">Sena, una aspirante a diseñadora de moda y sin éxito en el amor, cumple 46 años. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81anZEQ6NtL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El pecado del padre Mouret</title>
     <desc lang="es">Serge Mouret, un devoto párroco, sufre una pérdida de memoria. Una joven enfermera lo cuida. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71VCRO62IML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260807043300 +0200" stop="20260807060200 +0200" channel="acontra+ CINE">
+    <title lang="es">Impacto lunar (2007)</title>
+    <desc lang="es">La luna se está desintegrando y sus partes caen a la Tierra en forma de meteorito. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1AmoxQD9mL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260807060200 +0200" stop="20260807073200 +0200" channel="acontra+ CINE">
+    <title lang="es">La pequeña princesa (1939)</title>
+    <desc lang="es">La hija de un oficial del ejército desaparecido tiene que trabajar como sirvienta para sobrevivir. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91xia6F8eQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260807073200 +0200" stop="20260807085700 +0200" channel="acontra+ CINE">
+    <title lang="es">Swimfan (2002)</title>
+    <desc lang="es">Un adolescente se arrepiente de su cita con una compañera. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Adam7EqjL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
