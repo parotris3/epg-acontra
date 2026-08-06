@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260805225900 +0200" stop="20260806005900 +0200" channel="acontra+ CINE">
-    <title lang="es">Tres solteros y un biberón (1986)</title>
-    <desc lang="es">Tres amigos solteros se encuentran un paquete en la puerta de su casa que contiene a una niña. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/817Q6tWqkGL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260806005900 +0200" stop="20260806022400 +0200" channel="acontra+ CINE">
-    <title lang="es">Nueva moda en el crimen (1974)</title>
-    <desc lang="es">Un agente secreto trata de blindar su pasado antes de ser nombrado consejero del gobierno. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81VeQkrvcpL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260806022400 +0200" stop="20260806041700 +0200" channel="acontra+ CINE">
-    <title lang="es">La venganza de un soldado</title>
-    <desc lang="es">Frank Morgan regresa de Vietnam y ayuda a una joven a luchar en una revolución centroamericana. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tMWga1XFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260806041700 +0200" stop="20260806062800 +0200" channel="acontra+ CINE">
+  <programme start="20260806042800 +0200" stop="20260806062800 +0200" channel="acontra+ CINE">
     <title lang="es">Madame Marguerite (2015)</title>
     <desc lang="es">Una mujer se propone cantar ópera delante de un gran público a pesar de desafinar terriblemente. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81nyw5jz0uL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Orfeo (1950)</title>
     <desc lang="es">Orfeo, conocido poeta del barrio parisino de Saint-Germain-des-Prés, está obsesionado con la Muerte. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91gieFP4c2L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260806092700 +0200" stop="20260806105600 +0200" channel="acontra+ CINE">
+    <title lang="es">Solamente se vive una vez (1997)</title>
+    <desc lang="es">George y Nathalie pasan las vacaciones en una remota isla de la costa de Maine. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/911BJnjObpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260806105600 +0200" stop="20260806123500 +0200" channel="acontra+ CINE">
+    <title lang="es">El extranjero (2014)</title>
+    <desc lang="es">Un militar comienza una investigación para encontrar a su hija, a quien han dado por muerta. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/819rBMqDTFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260806123500 +0200" stop="20260806140600 +0200" channel="acontra+ CINE">
+    <title lang="es">Testigo (2017)</title>
+    <desc lang="es">Duval debe afrontar la brutal mecánica del mundo oculto de los servicios secretos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71etEZ+ZdkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
