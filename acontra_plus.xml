@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260806133800 +0200" stop="20260806153800 +0200" channel="acontra+ CINE">
-    <title lang="es">Frank y el robot (2012)</title>
-    <desc lang="es">Un excriminal utiliza robots para robar nuevamente. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/712WibFxd0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260806153800 +0200" stop="20260806171100 +0200" channel="acontra+ CINE">
-    <title lang="es">Welcome Home (2018)</title>
-    <desc lang="es">Un hombre manipula a una pareja vecina porque ve que su relación está deteriorada. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81wKMUYaEvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260806171100 +0200" stop="20260806185100 +0200" channel="acontra+ CINE">
-    <title lang="es">Perdidos en el Pacífico (2015)</title>
-    <desc lang="es">Sin comida, agua, ni esperanza de rescate, unos soldados navegan sin rumbo tras un accidente. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91elM7CEYmL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260806185100 +0200" stop="20260806202100 +0200" channel="acontra+ CINE">
+  <programme start="20260806182100 +0200" stop="20260806202100 +0200" channel="acontra+ CINE">
     <title lang="es">Little Monsters (2019)</title>
     <desc lang="es">Dave se ofrece como voluntario para acompañar a su sobrino en un viaje escolar. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91irhFfgcgL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El Skylab (2011)</title>
     <desc lang="es">Julio de 1979. Albertine, de diez años, y sus familiares se reúnen en una casa de Bretaña. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ccAm5Q3PL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260806234200 +0200" stop="20260807011300 +0200" channel="acontra+ CINE">
+    <title lang="es">El mejor regalo (2018)</title>
+    <desc lang="es">Sena, una aspirante a diseñadora de moda y sin éxito en el amor, cumple 46 años. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81anZEQ6NtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260807011300 +0200" stop="20260807025900 +0200" channel="acontra+ CINE">
+    <title lang="es">Guerreros de antaño (1994)</title>
+    <desc lang="es">Una familia maorí comienza a desmoronarse bajo la presión de la violencia doméstica. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91awMRZ1fkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260807025900 +0200" stop="20260807043300 +0200" channel="acontra+ CINE">
+    <title lang="es">El pecado del padre Mouret</title>
+    <desc lang="es">Serge Mouret, un devoto párroco, sufre una pérdida de memoria. Una joven enfermera lo cuida. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71VCRO62IML._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
