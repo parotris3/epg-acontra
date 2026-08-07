@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260807133400 +0200" stop="20260807153400 +0200" channel="acontra+ CINE">
-    <title lang="es">La Chinoise (1969)</title>
-    <desc lang="es">París, 1967. Un grupo de estudiantes franceses empieza a pensar en la forma de cambiar el mundo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91xFWfprssL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260807153400 +0200" stop="20260807170600 +0200" channel="acontra+ CINE">
-    <title lang="es">Kim Novak nunca estuvo aquí (2012)</title>
-    <desc lang="es">Henry comienza unas idílicas vacaciones en el campo hasta que ocurre un terrible incidente. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Rx9R4K4hL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260807170600 +0200" stop="20260807190900 +0200" channel="acontra+ CINE">
-    <title lang="es">Feliz Navidad, Mr. Lawrence (1983)</title>
-    <desc lang="es">Un intenso duelo de voluntades se establece entre comandantes japoneses y prisioneros británicos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Ece-qw1kL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260807190900 +0200" stop="20260807205000 +0200" channel="acontra+ CINE">
+  <programme start="20260807185000 +0200" stop="20260807205000 +0200" channel="acontra+ CINE">
     <title lang="es">La mansión de los crímenes (1971)</title>
     <desc lang="es">Cuatro cuentos de terror que giran entono a una vieja y fantasmal mansión. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/9121sq+78aL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Fanny (1961)</title>
     <desc lang="es">Marius abandona a Fanny deseoso de conocer mundo, aunque ignora que está embarazada. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81WrIjDy2YL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260808003300 +0200" stop="20260808021200 +0200" channel="acontra+ CINE">
+    <title lang="es">I Am Not a Serial Killer (2016)</title>
+    <desc lang="es">Un adolescente tiene que enfrentar su lado oscuro para poder detener a un asesino en serie. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ua2dH0DiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260808021200 +0200" stop="20260808040300 +0200" channel="acontra+ CINE">
+    <title lang="es">Principiantes (1986)</title>
+    <desc lang="es">Un fotógrafo se enamora locamente de una chica que quiere ser diseñadora de moda. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81USLUz2mlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
