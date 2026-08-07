@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260807185000 +0200" stop="20260807205000 +0200" channel="acontra+ CINE">
-    <title lang="es">La mansión de los crímenes (1971)</title>
-    <desc lang="es">Cuatro cuentos de terror que giran entono a una vieja y fantasmal mansión. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/9121sq+78aL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260807205000 +0200" stop="20260807221900 +0200" channel="acontra+ CINE">
-    <title lang="es">Please Stand By (2017)</title>
-    <desc lang="es">Una mujer autista huye para participar en una competencia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1ekEBGeSWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260807221900 +0200" stop="20260808003300 +0200" channel="acontra+ CINE">
+  <programme start="20260807223300 +0200" stop="20260808003300 +0200" channel="acontra+ CINE">
     <title lang="es">Fanny (1961)</title>
     <desc lang="es">Marius abandona a Fanny deseoso de conocer mundo, aunque ignora que está embarazada. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81WrIjDy2YL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Principiantes (1986)</title>
     <desc lang="es">Un fotógrafo se enamora locamente de una chica que quiere ser diseñadora de moda. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81USLUz2mlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260808040300 +0200" stop="20260808053600 +0200" channel="acontra+ CINE">
+    <title lang="es">Generación robada (2002)</title>
+    <desc lang="es">Año 1931, Australia. Tres niñas aborígenes emprenden un peligroso viaje de vuelta a su casa. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91hbtE3pHFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260808053600 +0200" stop="20260808071500 +0200" channel="acontra+ CINE">
+    <title lang="es">The Osiris Child (2016)</title>
+    <desc lang="es">Un grupo de extraños debe salvar a la humanidad. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tqTV+FPzL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260808071500 +0200" stop="20260808091300 +0200" channel="acontra+ CINE">
+    <title lang="es">Estación zombie (2016)</title>
+    <desc lang="es">Los pasajeros de un tren luchan por sobrevivir a un virus. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1VO3KLrRNL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
