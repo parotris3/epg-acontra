@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260808033600 +0200" stop="20260808053600 +0200" channel="acontra+ CINE">
-    <title lang="es">Generación robada (2002)</title>
-    <desc lang="es">Año 1931, Australia. Tres niñas aborígenes emprenden un peligroso viaje de vuelta a su casa. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91hbtE3pHFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260808053600 +0200" stop="20260808071500 +0200" channel="acontra+ CINE">
-    <title lang="es">The Osiris Child (2016)</title>
-    <desc lang="es">Un grupo de extraños debe salvar a la humanidad. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tqTV+FPzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260808071500 +0200" stop="20260808091300 +0200" channel="acontra+ CINE">
-    <title lang="es">Estación zombie (2016)</title>
-    <desc lang="es">Los pasajeros de un tren luchan por sobrevivir a un virus. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1VO3KLrRNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260808091300 +0200" stop="20260808104800 +0200" channel="acontra+ CINE">
+  <programme start="20260808084800 +0200" stop="20260808104800 +0200" channel="acontra+ CINE">
     <title lang="es">La caravana del mal (2018)</title>
     <desc lang="es">Charles compra una vieja caravana para llevar a su familia de viaje y reconciliarse con sus hijos. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91bFAFnMswL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Pandora y el holandés errante (1951)</title>
     <desc lang="es">Un capitán holandés agobiado por maldiciones eternas encuentra su salvación en una mujer americana. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A121cQI7dQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260808144700 +0200" stop="20260808170500 +0200" channel="acontra+ CINE">
+    <title lang="es">Stalingrado (1992)</title>
+    <desc lang="es">Musical que muestra los horrores de la guerra a través de las vicisitudes de unos soldados alemanes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91sIMlEM6zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260808170500 +0200" stop="20260808184100 +0200" channel="acontra+ CINE">
+    <title lang="es">Pasión (1993)</title>
+    <desc lang="es">Un hombre recién divorciado conoce a una viuda y comienzan una historia de amor. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81rbTrvq8qL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
