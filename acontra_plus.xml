@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260808150500 +0200" stop="20260808170500 +0200" channel="acontra+ CINE">
-    <title lang="es">Stalingrado (1992)</title>
-    <desc lang="es">Musical que muestra los horrores de la guerra a través de las vicisitudes de unos soldados alemanes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91sIMlEM6zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260808170500 +0200" stop="20260808184100 +0200" channel="acontra+ CINE">
-    <title lang="es">Pasión (1993)</title>
-    <desc lang="es">Un hombre recién divorciado conoce a una viuda y comienzan una historia de amor. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81rbTrvq8qL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260808184100 +0200" stop="20260808204600 +0200" channel="acontra+ CINE">
+  <programme start="20260808184600 +0200" stop="20260808204600 +0200" channel="acontra+ CINE">
     <title lang="es">Tom & Viv (1994)</title>
     <desc lang="es">Historia del matrimonio fallido entre T.S. Eliot y su esposa enferma. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81UTnu5cYvL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Todos los animales pequeños (1998)</title>
     <desc lang="es">Bobby, un joven discapacitado psíquico, decide huir de su padrastro a través de la campiña inglesa. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91nvNVgFCVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260809001100 +0200" stop="20260809021300 +0200" channel="acontra+ CINE">
+    <title lang="es">Un pueblo y su rey (2019)</title>
+    <desc lang="es">París, 1789. La Bastilla ha sido asaltada y un soplo de libertad invade las calles. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71AIj2LVkZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260809021300 +0200" stop="20260809040500 +0200" channel="acontra+ CINE">
+    <title lang="es">Regreso a Bountiful (1986)</title>
+    <desc lang="es">Una mujer grande intenta realizar un último viaje a su pueblo natal, Bountiful. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91vuEIn4OYL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
