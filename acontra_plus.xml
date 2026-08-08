@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260807223300 +0200" stop="20260808003300 +0200" channel="acontra+ CINE">
-    <title lang="es">Fanny (1961)</title>
-    <desc lang="es">Marius abandona a Fanny deseoso de conocer mundo, aunque ignora que está embarazada. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81WrIjDy2YL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260808003300 +0200" stop="20260808021200 +0200" channel="acontra+ CINE">
-    <title lang="es">I Am Not a Serial Killer (2016)</title>
-    <desc lang="es">Un adolescente tiene que enfrentar su lado oscuro para poder detener a un asesino en serie. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ua2dH0DiL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260808021200 +0200" stop="20260808040300 +0200" channel="acontra+ CINE">
-    <title lang="es">Principiantes (1986)</title>
-    <desc lang="es">Un fotógrafo se enamora locamente de una chica que quiere ser diseñadora de moda. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81USLUz2mlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260808040300 +0200" stop="20260808053600 +0200" channel="acontra+ CINE">
+  <programme start="20260808033600 +0200" stop="20260808053600 +0200" channel="acontra+ CINE">
     <title lang="es">Generación robada (2002)</title>
     <desc lang="es">Año 1931, Australia. Tres niñas aborígenes emprenden un peligroso viaje de vuelta a su casa. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91hbtE3pHFL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Estación zombie (2016)</title>
     <desc lang="es">Los pasajeros de un tren luchan por sobrevivir a un virus. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1VO3KLrRNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260808091300 +0200" stop="20260808104800 +0200" channel="acontra+ CINE">
+    <title lang="es">La caravana del mal (2018)</title>
+    <desc lang="es">Charles compra una vieja caravana para llevar a su familia de viaje y reconciliarse con sus hijos. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91bFAFnMswL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260808104800 +0200" stop="20260808124300 +0200" channel="acontra+ CINE">
+    <title lang="es">Muriel (El tiempo de un retorno) (1963)</title>
+    <desc lang="es">Helène se reencuentra con su amor de juventud y descubre que ya no tienen nada en común. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91pf6WLH5zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260808124300 +0200" stop="20260808144700 +0200" channel="acontra+ CINE">
+    <title lang="es">Pandora y el holandés errante (1951)</title>
+    <desc lang="es">Un capitán holandés agobiado por maldiciones eternas encuentra su salvación en una mujer americana. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A121cQI7dQL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
