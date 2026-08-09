@@ -3,34 +3,34 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260809141300 +0200" stop="20260809161300 +0200" channel="acontra+ CINE">
-    <title lang="es">Lo que el día debe a la noche (2012)</title>
-    <desc lang="es">Un niño ve cómo se pone a prueba su amistad con sus amigos cuando una joven llega al pueblo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/910jaGl7Z3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260809161300 +0200" stop="20260809174600 +0200" channel="acontra+ CINE">
-    <title lang="es">La hija perfecta (2007)</title>
-    <desc lang="es">Sarah conoce a Paul y parece que ha encontrado a su alma gemela, pero pronto la situación empeora. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1PTfSTA2NL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260809174600 +0200" stop="20260809193000 +0200" channel="acontra+ CINE">
-    <title lang="es">Exótica (1994)</title>
-    <desc lang="es">Un solitario inspector de Hacienda acude cada noche al club de baile erótico Exótica. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B166go0R7zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260809193000 +0200" stop="20260809210500 +0200" channel="acontra+ CINE">
-    <title lang="es">Habitación verde (2015)</title>
-    <desc lang="es">Unos neonazis quieren matar a unos músicos. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/9163gYcEEDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260809210500 +0200" stop="20260809224200 +0200" channel="acontra+ CINE">
-    <title lang="es">La horda (2009)</title>
-    <desc lang="es">Un grupo de policías corruptos y criminales despiadados aúnan fuerzas en contra de unos monstruos. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81opcegUrLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260809224200 +0200" stop="20260810002900 +0200" channel="acontra+ CINE">
+  <programme start="20260809222900 +0200" stop="20260810002900 +0200" channel="acontra+ CINE">
     <title lang="es">Herida (1992)</title>
     <desc lang="es">Peligrosa aventura de amor y sexo entre un político casado y la prometida de su hijo. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71oQ1wnlNSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260810002900 +0200" stop="20260810022900 +0200" channel="acontra+ CINE">
+    <title lang="es">S.A.S. Los invencibles (2002)</title>
+    <desc lang="es">Un grupo antinuclear toma la embajada de EE.UU. en Londres y amenaza con matar a los rehenes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71r6c13l-UL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260810022900 +0200" stop="20260810040900 +0200" channel="acontra+ CINE">
+    <title lang="es">El trabajo de mis sueños (2020)</title>
+    <desc lang="es">Una joven responde las cartas de los fans del escritor J.D. Salinger, pero lo hace a su manera. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1y-1VhlokL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260810040900 +0200" stop="20260810060200 +0200" channel="acontra+ CINE">
+    <title lang="es">Gertrud (1964)</title>
+    <desc lang="es">Gertrud busca el amor absoluto, pero sus relaciones se ven siempre abocadas al fracaso. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71lbHLum9eL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260810060200 +0200" stop="20260810074900 +0200" channel="acontra+ CINE">
+    <title lang="es">El escándalo Ted Kennedy (2017)</title>
+    <desc lang="es">Al salir de una fiesta en 1969, el senador Ted Kennedy y su acompañante sufren un accidente. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71I96M5i2VL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260810074900 +0200" stop="20260810093200 +0200" channel="acontra+ CINE">
+    <title lang="es">Caiga quien caiga (1972)</title>
+    <desc lang="es">Un joven jamaicano cantante de reggae se ve envuelto en una espiral de violencia y corrupción. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91VJifKBH9L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
