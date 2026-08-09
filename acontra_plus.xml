@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260809033300 +0200" stop="20260809053300 +0200" channel="acontra+ CINE">
-    <title lang="es">Pterodactyl (2005)</title>
-    <desc lang="es">Un equipo descubre un nido de huevos de pterodáctilo en un volcán inactivo en Turquía. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81N3ibLHBKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260809053300 +0200" stop="20260809070400 +0200" channel="acontra+ CINE">
-    <title lang="es">The Point Men: En el punto de mira (2001)</title>
-    <desc lang="es">Un agente secreto del Mossad israelí debe atrapar a un peligroso terrorista. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71dpu8snIHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260809070400 +0200" stop="20260809083200 +0200" channel="acontra+ CINE">
-    <title lang="es">La mirada del amor (2013)</title>
-    <desc lang="es">Una mujer se enamora de un hombre que se parece a su esposo fallecido. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91LGJdPU8CL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260809083200 +0200" stop="20260809102100 +0200" channel="acontra+ CINE">
+  <programme start="20260809082100 +0200" stop="20260809102100 +0200" channel="acontra+ CINE">
     <title lang="es">Padre patrón (1977)</title>
     <desc lang="es">La historia real de Gavino Ledda, que fue obligado por su autoritario padre a dejar la escuela. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/61+CRe2Rb7L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">House at the End of the Street (2012)</title>
     <desc lang="es">Madre e hija se mudan junto a la escena de un homicidio. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/818BZtzxqZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260809133100 +0200" stop="20260809161300 +0200" channel="acontra+ CINE">
+    <title lang="es">Lo que el día debe a la noche (2012)</title>
+    <desc lang="es">Un niño ve cómo se pone a prueba su amistad con sus amigos cuando una joven llega al pueblo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/910jaGl7Z3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260809161300 +0200" stop="20260809174600 +0200" channel="acontra+ CINE">
+    <title lang="es">La hija perfecta (2007)</title>
+    <desc lang="es">Sarah conoce a Paul y parece que ha encontrado a su alma gemela, pero pronto la situación empeora. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1PTfSTA2NL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260809174600 +0200" stop="20260809193000 +0200" channel="acontra+ CINE">
+    <title lang="es">Exótica (1994)</title>
+    <desc lang="es">Un solitario inspector de Hacienda acude cada noche al club de baile erótico Exótica. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B166go0R7zL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
