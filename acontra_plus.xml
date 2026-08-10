@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260810185300 +0200" stop="20260810205300 +0200" channel="acontra+ CINE">
-    <title lang="es">Antes de la Revolución (1964)</title>
-    <desc lang="es">Fabrizio intenta conciliar su origen burgués con su pertenencia al Partido Comunista Italiano. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91few9fDydL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260810205300 +0200" stop="20260810225900 +0200" channel="acontra+ CINE">
-    <title lang="es">Aline (2020)</title>
-    <desc lang="es">Aline tiene una voz prodigiosa que no pasa desapercibida para un productor ambicioso. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ra+l9mqHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260810225900 +0200" stop="20260811010400 +0200" channel="acontra+ CINE">
+  <programme start="20260810230400 +0200" stop="20260811010400 +0200" channel="acontra+ CINE">
     <title lang="es">13 asesinos (2010)</title>
     <desc lang="es">Un oficial llega a un acuerdo con un samurái para que le ayude a acabar con un tirano. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71QqYrnKBwL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Grabbers (2012)</title>
     <desc lang="es">Residentes de una isla descubren que para sobrevivir a extraterrestres deben tomar alcohol. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1K5DxWAHcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260811041600 +0200" stop="20260811060100 +0200" channel="acontra+ CINE">
+    <title lang="es">Encuentro en la noche (1952)</title>
+    <desc lang="es">Tras diez años de ausencia, Mae Doyle vuelve a su pueblo natal, una pequeña población pesquera. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81zo2eSNOcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260811060100 +0200" stop="20260811074200 +0200" channel="acontra+ CINE">
+    <title lang="es">Dog Soldiers (2002)</title>
+    <desc lang="es">Unos soldados ingleses lucharán por sus vidas al enfrentarse a unas agresivas y extrañas bestias. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/918fYN7V4wL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260811074200 +0200" stop="20260811094100 +0200" channel="acontra+ CINE">
+    <title lang="es">Angel (2007)</title>
+    <desc lang="es">Inglaterra, 1910. Ángel Deverell, una joven de origen humilde, trata de escalar socialmente. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81shyQSUPuL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
