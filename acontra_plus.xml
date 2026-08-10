@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260809222900 +0200" stop="20260810002900 +0200" channel="acontra+ CINE">
-    <title lang="es">Herida (1992)</title>
-    <desc lang="es">Peligrosa aventura de amor y sexo entre un político casado y la prometida de su hijo. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71oQ1wnlNSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260810002900 +0200" stop="20260810022900 +0200" channel="acontra+ CINE">
-    <title lang="es">S.A.S. Los invencibles (2002)</title>
-    <desc lang="es">Un grupo antinuclear toma la embajada de EE.UU. en Londres y amenaza con matar a los rehenes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71r6c13l-UL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260810022900 +0200" stop="20260810040900 +0200" channel="acontra+ CINE">
-    <title lang="es">El trabajo de mis sueños (2020)</title>
-    <desc lang="es">Una joven responde las cartas de los fans del escritor J.D. Salinger, pero lo hace a su manera. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1y-1VhlokL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260810040900 +0200" stop="20260810060200 +0200" channel="acontra+ CINE">
+  <programme start="20260810040200 +0200" stop="20260810060200 +0200" channel="acontra+ CINE">
     <title lang="es">Gertrud (1964)</title>
     <desc lang="es">Gertrud busca el amor absoluto, pero sus relaciones se ven siempre abocadas al fracaso. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71lbHLum9eL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Caiga quien caiga (1972)</title>
     <desc lang="es">Un joven jamaicano cantante de reggae se ve envuelto en una espiral de violencia y corrupción. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91VJifKBH9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260810093200 +0200" stop="20260810113500 +0200" channel="acontra+ CINE">
+    <title lang="es">American Night (2021)</title>
+    <desc lang="es">Un cuadro de Andy Warhol desaparecido reaparece y desencadena una peligrosa reacción en cadena. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1RSx3WyEaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260810113500 +0200" stop="20260810135100 +0200" channel="acontra+ CINE">
+    <title lang="es">Danton (2020)</title>
+    <desc lang="es">Cuando Robespierre establece el régimen de terror, Georges Danton regresa para confrontarlo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81LJzCJ85+L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
