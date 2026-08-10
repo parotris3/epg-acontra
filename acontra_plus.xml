@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260810132800 +0200" stop="20260810152800 +0200" channel="acontra+ CINE">
-    <title lang="es">Dies Irae (1943)</title>
-    <desc lang="es">En un pueblo danés del siglo XVII, una anciana es acusada de brujería. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81zpJq2N50L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260810152800 +0200" stop="20260810170800 +0200" channel="acontra+ CINE">
-    <title lang="es">Cromwell, el rey de los bárbaros (1982)</title>
-    <desc lang="es">Unos inadaptados intentan derrotar a un tirano malvado que controla reino medieval mediante magia. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91ZCvuPXU8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260810170800 +0200" stop="20260810190100 +0200" channel="acontra+ CINE">
-    <title lang="es">13 minutos para matar a Hitler (2015)</title>
-    <desc lang="es">Georg Elser pudo haber cambiado el rumbo de la historia de haber contado con trece minutos más. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Nrgxbf4VL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260810190100 +0200" stop="20260810205300 +0200" channel="acontra+ CINE">
+  <programme start="20260810185300 +0200" stop="20260810205300 +0200" channel="acontra+ CINE">
     <title lang="es">Antes de la Revolución (1964)</title>
     <desc lang="es">Fabrizio intenta conciliar su origen burgués con su pertenencia al Partido Comunista Italiano. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91few9fDydL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">13 asesinos (2010)</title>
     <desc lang="es">Un oficial llega a un acuerdo con un samurái para que le ayude a acabar con un tirano. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71QqYrnKBwL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260811010400 +0200" stop="20260811024300 +0200" channel="acontra+ CINE">
+    <title lang="es">El gato y el canario (1979)</title>
+    <desc lang="es">La gran herencia de una mujer la convierte en el objetivo de un misterioso asesino. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91WU8UPlK6L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260811024300 +0200" stop="20260811041600 +0200" channel="acontra+ CINE">
+    <title lang="es">Grabbers (2012)</title>
+    <desc lang="es">Residentes de una isla descubren que para sobrevivir a extraterrestres deben tomar alcohol. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1K5DxWAHcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
