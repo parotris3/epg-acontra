@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260810230400 +0200" stop="20260811010400 +0200" channel="acontra+ CINE">
-    <title lang="es">13 asesinos (2010)</title>
-    <desc lang="es">Un oficial llega a un acuerdo con un samurái para que le ayude a acabar con un tirano. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71QqYrnKBwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260811010400 +0200" stop="20260811024300 +0200" channel="acontra+ CINE">
-    <title lang="es">El gato y el canario (1979)</title>
-    <desc lang="es">La gran herencia de una mujer la convierte en el objetivo de un misterioso asesino. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WU8UPlK6L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260811024300 +0200" stop="20260811041600 +0200" channel="acontra+ CINE">
-    <title lang="es">Grabbers (2012)</title>
-    <desc lang="es">Residentes de una isla descubren que para sobrevivir a extraterrestres deben tomar alcohol. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1K5DxWAHcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260811041600 +0200" stop="20260811060100 +0200" channel="acontra+ CINE">
+  <programme start="20260811040100 +0200" stop="20260811060100 +0200" channel="acontra+ CINE">
     <title lang="es">Encuentro en la noche (1952)</title>
     <desc lang="es">Tras diez años de ausencia, Mae Doyle vuelve a su pueblo natal, una pequeña población pesquera. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81zo2eSNOcL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Angel (2007)</title>
     <desc lang="es">Inglaterra, 1910. Ángel Deverell, una joven de origen humilde, trata de escalar socialmente. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81shyQSUPuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260811094100 +0200" stop="20260811111700 +0200" channel="acontra+ CINE">
+    <title lang="es">El día de los muertos (1985)</title>
+    <desc lang="es">Los zombis se han apoderado del planeta. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1ZIzNHVVuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260811111700 +0200" stop="20260811124100 +0200" channel="acontra+ CINE">
+    <title lang="es">El cuerpo y el látigo (1963)</title>
+    <desc lang="es">El espíritu de un sádico aristócrata vuelve para seguir aterrorizando a su familia. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91MbcUjcA0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260811124100 +0200" stop="20260811140100 +0200" channel="acontra+ CINE">
+    <title lang="es">La cena de los idiotas (1998)</title>
+    <desc lang="es">Un francés adinerado mantiene un certamen semanal para ver quién trae como invitado al mayor idiota. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ALhSuqkiL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
