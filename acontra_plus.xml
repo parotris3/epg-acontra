@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260811230700 +0200" stop="20260812010700 +0200" channel="acontra+ CINE">
-    <title lang="es">Kamikaze (1989)</title>
-    <desc lang="es">Un científico huraño inventa un arma que le permite asesinar a la gente a través de las cámaras. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8144aOLDqTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260812010700 +0200" stop="20260812024800 +0200" channel="acontra+ CINE">
-    <title lang="es">Los panzers de la muerte (1988)</title>
-    <desc lang="es">En 1942, Adolf Hitler da a sus tropas la orden de no retroceder y oponer una resistencia fanática. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uPYLrwyUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260812024800 +0200" stop="20260812042100 +0200" channel="acontra+ CINE">
-    <title lang="es">El guardián (2002)</title>
-    <desc lang="es">Un inspector de policía investiga una ola de violencia provocada por un espíritu maligno. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/813v6NxUfHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260812042100 +0200" stop="20260812060200 +0200" channel="acontra+ CINE">
+  <programme start="20260812040200 +0200" stop="20260812060200 +0200" channel="acontra+ CINE">
     <title lang="es">Blood and Wine (1996)</title>
     <desc lang="es">Un traficante de vinos pobre planea robar joyas de cliente. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ehsCHcjHL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">El león del desierto (1980)</title>
     <desc lang="es">Un líder libio rebelde se enfrenta a las tropas italianas de Mussolini. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1CzYjsJAUL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260812083900 +0200" stop="20260812103500 +0200" channel="acontra+ CINE">
+    <title lang="es">Destrucción (2018)</title>
+    <desc lang="es">Una policía revive el drama que marcó su vida. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Kaac9AZlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260812103500 +0200" stop="20260812121200 +0200" channel="acontra+ CINE">
+    <title lang="es">El rostro (1975)</title>
+    <desc lang="es">El hipnotizador y mago Vogler y su mujer están siendo desafiados por los escépticos locales. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Lo+2uo-4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260812121200 +0200" stop="20260812143300 +0200" channel="acontra+ CINE">
+    <title lang="es">El cazador (1975)</title>
+    <desc lang="es">Vladímir, perdido en Siberia, conoce a Dersu Uzala, un cazador nómada que le ayuda a sobrevivir. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1q1nqsHVdL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
