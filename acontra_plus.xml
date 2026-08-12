@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260812083500 +0200" stop="20260812103500 +0200" channel="acontra+ CINE">
-    <title lang="es">Destrucción (2018)</title>
-    <desc lang="es">Una policía revive el drama que marcó su vida. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Kaac9AZlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260812103500 +0200" stop="20260812121200 +0200" channel="acontra+ CINE">
-    <title lang="es">El rostro (1975)</title>
-    <desc lang="es">El hipnotizador y mago Vogler y su mujer están siendo desafiados por los escépticos locales. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Lo+2uo-4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260812121200 +0200" stop="20260812143300 +0200" channel="acontra+ CINE">
-    <title lang="es">El cazador (1975)</title>
-    <desc lang="es">Vladímir, perdido en Siberia, conoce a Dersu Uzala, un cazador nómada que le ayuda a sobrevivir. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1q1nqsHVdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260812143300 +0200" stop="20260812164700 +0200" channel="acontra+ CINE">
+  <programme start="20260812144700 +0200" stop="20260812164700 +0200" channel="acontra+ CINE">
     <title lang="es">Open Range (2003)</title>
     <desc lang="es">Un grupo de hombres intenta escapar de su pasado guiando ganado. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Pc2cUR1nL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,15 @@
     <title lang="es">Stalker (1981)</title>
     <desc lang="es">Tres hombres del futuro buscan un cuarto secreto que cumple los deseos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91CWA5+x90L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260812192200 +0200" stop="20260812214200 +0200" channel="acontra+ CINE">
+    <title lang="es">La venganza es mía (1979)</title>
+    <desc lang="es">Enokizu es un criminal al que le encanta cometer atrocidades y despiadados crímenes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81+f+z7V-RL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260812214200 +0200" stop="20260812232900 +0200" channel="acontra+ CINE">
+    <title lang="es">Dominio inminente (1991)</title>
+    <desc lang="es">El camarada polaco Jozef Burski, acostumbrado a los lujos, ve cómo sus privilegios se acaban. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91lwMk2yZGL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
