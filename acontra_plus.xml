@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260813040900 +0200" stop="20260813060900 +0200" channel="acontra+ CINE">
-    <title lang="es">Enigma (1982)</title>
-    <desc lang="es">Alex Holbeck debe evitar que varios disidentes políticos sean asesinados por el KGB. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81fgSzI8EzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260813060900 +0200" stop="20260813073700 +0200" channel="acontra+ CINE">
-    <title lang="es">El proyecto supermente (2017)</title>
-    <desc lang="es">Algo sucede en Los Ángeles; la tierra ha comenzado a temblar y los edificios se vienen abajo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WroaoxMzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260813073700 +0200" stop="20260813091200 +0200" channel="acontra+ CINE">
-    <title lang="es">Caramel (2007)</title>
-    <desc lang="es">Cinco mujeres libanesas comparten sus vidas y preocupaciones en un salón de belleza de Beirut. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Svm35LVfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260813091200 +0200" stop="20260813105000 +0200" channel="acontra+ CINE">
+  <programme start="20260813085000 +0200" stop="20260813105000 +0200" channel="acontra+ CINE">
     <title lang="es">Déjate llevar (2018)</title>
     <desc lang="es">Elías es un psicoanalista freudiano que necesita adelgazar y que conoce a una entrenadora personal. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81fznH0hqcL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Pawn Sacrifice (2014)</title>
     <desc lang="es">El ajedrecista Bobby Fischer compite contra un soviético. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/816y1HZz1AL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260813141300 +0200" stop="20260813160600 +0200" channel="acontra+ CINE">
+    <title lang="es">Good Morning Babilonia (1987)</title>
+    <desc lang="es">Dos hermanos italianos buscan éxito como diseñadores de escenario en Estados Unidos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81+9mNV048L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260813160600 +0200" stop="20260813184000 +0200" channel="acontra+ CINE">
+    <title lang="es">Pequeñas mentiras sin importancia (2010)</title>
+    <desc lang="es">Un matrimonio invita a un grupo de amigos a su casa de la playa, pero un amigo no puede asistir. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Ci1eiig8L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
