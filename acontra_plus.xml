@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260813085000 +0200" stop="20260813105000 +0200" channel="acontra+ CINE">
-    <title lang="es">Déjate llevar (2018)</title>
-    <desc lang="es">Elías es un psicoanalista freudiano que necesita adelgazar y que conoce a una entrenadora personal. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81fznH0hqcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260813105000 +0200" stop="20260813121800 +0200" channel="acontra+ CINE">
-    <title lang="es">Rabbit Hole (2010)</title>
-    <desc lang="es">Basada en la obra de David Lindsay-Abaire. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71n2M0NPlaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260813121800 +0200" stop="20260813141300 +0200" channel="acontra+ CINE">
-    <title lang="es">Pawn Sacrifice (2014)</title>
-    <desc lang="es">El ajedrecista Bobby Fischer compite contra un soviético. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/816y1HZz1AL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260813141300 +0200" stop="20260813160600 +0200" channel="acontra+ CINE">
+  <programme start="20260813140600 +0200" stop="20260813160600 +0200" channel="acontra+ CINE">
     <title lang="es">Good Morning Babilonia (1987)</title>
     <desc lang="es">Dos hermanos italianos buscan éxito como diseñadores de escenario en Estados Unidos. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81+9mNV048L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Pequeñas mentiras sin importancia (2010)</title>
     <desc lang="es">Un matrimonio invita a un grupo de amigos a su casa de la playa, pero un amigo no puede asistir. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Ci1eiig8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260813184000 +0200" stop="20260813201400 +0200" channel="acontra+ CINE">
+    <title lang="es">Jeffrey (1995)</title>
+    <desc lang="es">El voto de celibato de un homosexual se pone a prueba cuando encuentra a su pareja perfecta. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/711EJ+nkA0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260813201400 +0200" stop="20260813215200 +0200" channel="acontra+ CINE">
+    <title lang="es">El escapista (2008)</title>
+    <desc lang="es">El preso condenado a cadena perpetua Frank Perry recibe un mensaje sobre la salud de su hija. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1sbBOhNhjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260813215200 +0200" stop="20260813233600 +0200" channel="acontra+ CINE">
+    <title lang="es">Asher (2018)</title>
+    <desc lang="es">La irrupción de una mujer en la vida de un sicario provoca que el asesino intente cambiar de vida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A19nCE6n+jL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
