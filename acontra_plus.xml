@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260812231500 +0200" stop="20260813011500 +0200" channel="acontra+ CINE">
-    <title lang="es">De latir mi corazón se ha parado (2005)</title>
-    <desc lang="es">Tom debe elegir entre seguir el sórdido negocio de su padre o convertirse en pianista como su madre. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81SLJ3sPFuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260813011500 +0200" stop="20260813024800 +0200" channel="acontra+ CINE">
-    <title lang="es">Biggles: el viajero del tiempo (2018)</title>
-    <desc lang="es">Jim y el piloto de combate británico Biggles son hermanos gemelos, pero viven en distintas épocas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1vrbXh6oHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260813024800 +0200" stop="20260813042700 +0200" channel="acontra+ CINE">
-    <title lang="es">La mujer casada (1965)</title>
-    <desc lang="es">Un ensayo psicológico y una crítica de la posición de la mujer en la sociedad moderna. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Gd8kl6v1L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260813042700 +0200" stop="20260813060900 +0200" channel="acontra+ CINE">
+  <programme start="20260813040900 +0200" stop="20260813060900 +0200" channel="acontra+ CINE">
     <title lang="es">Enigma (1982)</title>
     <desc lang="es">Alex Holbeck debe evitar que varios disidentes políticos sean asesinados por el KGB. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81fgSzI8EzL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Caramel (2007)</title>
     <desc lang="es">Cinco mujeres libanesas comparten sus vidas y preocupaciones en un salón de belleza de Beirut. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Svm35LVfL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260813091200 +0200" stop="20260813105000 +0200" channel="acontra+ CINE">
+    <title lang="es">Déjate llevar (2018)</title>
+    <desc lang="es">Elías es un psicoanalista freudiano que necesita adelgazar y que conoce a una entrenadora personal. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81fznH0hqcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260813105000 +0200" stop="20260813121800 +0200" channel="acontra+ CINE">
+    <title lang="es">Rabbit Hole (2010)</title>
+    <desc lang="es">Basada en la obra de David Lindsay-Abaire. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71n2M0NPlaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260813121800 +0200" stop="20260813141300 +0200" channel="acontra+ CINE">
+    <title lang="es">Pawn Sacrifice (2014)</title>
+    <desc lang="es">El ajedrecista Bobby Fischer compite contra un soviético. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/816y1HZz1AL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
