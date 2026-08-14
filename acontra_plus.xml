@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260813230200 +0200" stop="20260814010200 +0200" channel="acontra+ CINE">
-    <title lang="es">Los signos del Apocalipsis (2014)</title>
-    <desc lang="es">Un científico poco convencional trata de descifrar símbolos para evitar la destrucción del planeta. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1ESCsb+JKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260814010200 +0200" stop="20260814023700 +0200" channel="acontra+ CINE">
-    <title lang="es">600 kilos de oro puro (2010)</title>
-    <desc lang="es">Aventureros roban una mina de oro en la Guyana, pero deben aterrizar de emergencia en plena jungla. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81EGNcaSulL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260814023700 +0200" stop="20260814042100 +0200" channel="acontra+ CINE">
-    <title lang="es">Posada Jamaica (1939)</title>
-    <desc lang="es">Mary Yellan, una huérfana, viaja a Cornualles para vivir con su tía, pero nada es lo que parece ser. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/9173Y+UybvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260814042100 +0200" stop="20260814054300 +0200" channel="acontra+ CINE">
+  <programme start="20260814034300 +0200" stop="20260814054300 +0200" channel="acontra+ CINE">
     <title lang="es">Indigenous (2014)</title>
     <desc lang="es">Un grupo de amigos viaja a Panamá para relajarse y allí se encuentran con su peor pesadilla. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81tGnRUOrJL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Callejón sin salida (1966)</title>
     <desc lang="es">Dos fugitivos se esconden en un castillo medieval habitado por una pareja muy excéntrica. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71uV+LXDfLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260814094500 +0200" stop="20260814113500 +0200" channel="acontra+ CINE">
+    <title lang="es">El valle oscuro (2015)</title>
+    <desc lang="es">Poco antes de que comience el duro invierno, un forastero llega a caballo hasta un aislado pueblo. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/912lwrLUgoL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260814113500 +0200" stop="20260814131000 +0200" channel="acontra+ CINE">
+    <title lang="es">The Last Five Years (2014)</title>
+    <desc lang="es">Basada en la obra musical de Jason Robert Brown. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81dfDfoXLCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
