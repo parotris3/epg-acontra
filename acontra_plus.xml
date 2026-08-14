@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260814034300 +0200" stop="20260814054300 +0200" channel="acontra+ CINE">
-    <title lang="es">Indigenous (2014)</title>
-    <desc lang="es">Un grupo de amigos viaja a Panamá para relajarse y allí se encuentran con su peor pesadilla. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tGnRUOrJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260814054300 +0200" stop="20260814075300 +0200" channel="acontra+ CINE">
-    <title lang="es">Cuentos de Tokio (1953)</title>
-    <desc lang="es">Una pareja de ancianos pasa la noche en casa de su nuera, la cual muestra más interés que sus hijos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81sgTI5N65L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260814075300 +0200" stop="20260814094500 +0200" channel="acontra+ CINE">
-    <title lang="es">Callejón sin salida (1966)</title>
-    <desc lang="es">Dos fugitivos se esconden en un castillo medieval habitado por una pareja muy excéntrica. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71uV+LXDfLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260814094500 +0200" stop="20260814113500 +0200" channel="acontra+ CINE">
+  <programme start="20260814093500 +0200" stop="20260814113500 +0200" channel="acontra+ CINE">
     <title lang="es">El valle oscuro (2015)</title>
     <desc lang="es">Poco antes de que comience el duro invierno, un forastero llega a caballo hasta un aislado pueblo. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/912lwrLUgoL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">The Last Five Years (2014)</title>
     <desc lang="es">Basada en la obra musical de Jason Robert Brown. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81dfDfoXLCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260814131000 +0200" stop="20260814144000 +0200" channel="acontra+ CINE">
+    <title lang="es">Mediterráneo (1991)</title>
+    <desc lang="es">Un grupo de exhaustos soldados italianos naufraga en una isla griega durante la II Guerra Mundial. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91OlRVT3IZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260814144000 +0200" stop="20260814162200 +0200" channel="acontra+ CINE">
+    <title lang="es">El espejo (1975)</title>
+    <desc lang="es">Alekséi habla con su esposa sobre su situación actual y los motivos por los que se han distanciado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/918hJRIVn7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260814162200 +0200" stop="20260814175200 +0200" channel="acontra+ CINE">
+    <title lang="es">Invasión robótica (2006)</title>
+    <desc lang="es">Un avión con robots militares se estrella en una isla desierta y los Navy Seals deben actuar. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1NIzcm0jDL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260814175200 +0200" stop="20260814190400 +0200" channel="acontra+ CINE">
+    <title lang="es">Historia de un vecindario (1947)</title>
+    <desc lang="es">En el Japón de la postguerra, un hombre encuentra a un niño perdido y lo lleva a su casa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-A8YQPsnL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
