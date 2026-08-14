@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260814142200 +0200" stop="20260814162200 +0200" channel="acontra+ CINE">
-    <title lang="es">El espejo (1975)</title>
-    <desc lang="es">Alekséi habla con su esposa sobre su situación actual y los motivos por los que se han distanciado. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/918hJRIVn7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260814162200 +0200" stop="20260814175200 +0200" channel="acontra+ CINE">
-    <title lang="es">Invasión robótica (2006)</title>
-    <desc lang="es">Un avión con robots militares se estrella en una isla desierta y los Navy Seals deben actuar. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1NIzcm0jDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260814175200 +0200" stop="20260814190400 +0200" channel="acontra+ CINE">
-    <title lang="es">Historia de un vecindario (1947)</title>
-    <desc lang="es">En el Japón de la postguerra, un hombre encuentra a un niño perdido y lo lleva a su casa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-A8YQPsnL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260814190400 +0200" stop="20260814202200 +0200" channel="acontra+ CINE">
+  <programme start="20260814182200 +0200" stop="20260814202200 +0200" channel="acontra+ CINE">
     <title lang="es">El marido de la peluquera (1990)</title>
     <desc lang="es">Fascinado por los estilistas desde que era un niño, Antoine promete casarse con una peluquera. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/918xYPpp98L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">No se lo digas a nadie (2006)</title>
     <desc lang="es">La mujer de Alex Beck fue asesinada hace ocho años, ahora él es sospechoso de dos asesinatos. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91LHfqAz5OL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260815000500 +0200" stop="20260815015600 +0200" channel="acontra+ CINE">
+    <title lang="es">La Madre Teresa (2003)</title>
+    <desc lang="es">Una monja dedica su vida a ayudar a los pobres. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/71jK-GYTo7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260815015600 +0200" stop="20260815042100 +0200" channel="acontra+ CINE">
+    <title lang="es">Secretos y mentiras (1995)</title>
+    <desc lang="es">Un sensible drama donde una mujer busca a su madre. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81VZmcnOdcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
