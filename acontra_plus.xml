@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260814182200 +0200" stop="20260814202200 +0200" channel="acontra+ CINE">
-    <title lang="es">El marido de la peluquera (1990)</title>
-    <desc lang="es">Fascinado por los estilistas desde que era un niño, Antoine promete casarse con una peluquera. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/918xYPpp98L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260814202200 +0200" stop="20260814215900 +0200" channel="acontra+ CINE">
-    <title lang="es">El placer (1953)</title>
-    <desc lang="es">Un hombre que oculta su edad, un viaje al campo y un pintor ilustran tres historias sobre el placer. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81OVO5JCtKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260814215900 +0200" stop="20260815000500 +0200" channel="acontra+ CINE">
+  <programme start="20260814220500 +0200" stop="20260815000500 +0200" channel="acontra+ CINE">
     <title lang="es">No se lo digas a nadie (2006)</title>
     <desc lang="es">La mujer de Alex Beck fue asesinada hace ocho años, ahora él es sospechoso de dos asesinatos. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91LHfqAz5OL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Secretos y mentiras (1995)</title>
     <desc lang="es">Un sensible drama donde una mujer busca a su madre. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81VZmcnOdcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260815042100 +0200" stop="20260815063400 +0200" channel="acontra+ CINE">
+    <title lang="es">El cielo protector (1990)</title>
+    <desc lang="es">Una pareja neoyorquina hace un viaje al norte de África en un intento de reparar su matrimonio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91biKRsKAwL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260815063400 +0200" stop="20260815090800 +0200" channel="acontra+ CINE">
+    <title lang="es">Pequeñas mentiras sin importancia (2010)</title>
+    <desc lang="es">Un matrimonio invita a un grupo de amigos a su casa de la playa, pero un amigo no puede asistir. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Ci1eiig8L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
