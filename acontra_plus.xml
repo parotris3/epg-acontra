@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260814093500 +0200" stop="20260814113500 +0200" channel="acontra+ CINE">
-    <title lang="es">El valle oscuro (2015)</title>
-    <desc lang="es">Poco antes de que comience el duro invierno, un forastero llega a caballo hasta un aislado pueblo. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/912lwrLUgoL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260814113500 +0200" stop="20260814131000 +0200" channel="acontra+ CINE">
-    <title lang="es">The Last Five Years (2014)</title>
-    <desc lang="es">Basada en la obra musical de Jason Robert Brown. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81dfDfoXLCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260814131000 +0200" stop="20260814144000 +0200" channel="acontra+ CINE">
-    <title lang="es">Mediterráneo (1991)</title>
-    <desc lang="es">Un grupo de exhaustos soldados italianos naufraga en una isla griega durante la II Guerra Mundial. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91OlRVT3IZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260814144000 +0200" stop="20260814162200 +0200" channel="acontra+ CINE">
+  <programme start="20260814142200 +0200" stop="20260814162200 +0200" channel="acontra+ CINE">
     <title lang="es">El espejo (1975)</title>
     <desc lang="es">Alekséi habla con su esposa sobre su situación actual y los motivos por los que se han distanciado. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/918hJRIVn7L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Historia de un vecindario (1947)</title>
     <desc lang="es">En el Japón de la postguerra, un hombre encuentra a un niño perdido y lo lleva a su casa. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81-A8YQPsnL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260814190400 +0200" stop="20260814202200 +0200" channel="acontra+ CINE">
+    <title lang="es">El marido de la peluquera (1990)</title>
+    <desc lang="es">Fascinado por los estilistas desde que era un niño, Antoine promete casarse con una peluquera. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/918xYPpp98L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260814202200 +0200" stop="20260814215900 +0200" channel="acontra+ CINE">
+    <title lang="es">El placer (1953)</title>
+    <desc lang="es">Un hombre que oculta su edad, un viaje al campo y un pintor ilustran tres historias sobre el placer. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81OVO5JCtKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260814215900 +0200" stop="20260815000500 +0200" channel="acontra+ CINE">
+    <title lang="es">No se lo digas a nadie (2006)</title>
+    <desc lang="es">La mujer de Alex Beck fue asesinada hace ocho años, ahora él es sospechoso de dos asesinatos. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91LHfqAz5OL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
