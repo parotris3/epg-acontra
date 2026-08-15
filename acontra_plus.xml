@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260815144000 +0200" stop="20260815164000 +0200" channel="acontra+ CINE">
-    <title lang="es">Los girasoles (1970)</title>
-    <desc lang="es">Giovanna se casa con Antonio antes de la guerra, pero él no quiere ir al frente y simula estar loco. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1OT-cPmxeL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260815164000 +0200" stop="20260815182600 +0200" channel="acontra+ CINE">
-    <title lang="es">Emperador (2012)</title>
-    <desc lang="es">El general MacArthur debe tomar la decisión de someter al emperador Hirohito o perdonarle la vida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81XRazD7rdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260815182600 +0200" stop="20260815200500 +0200" channel="acontra+ CINE">
+  <programme start="20260815180500 +0200" stop="20260815200500 +0200" channel="acontra+ CINE">
     <title lang="es">El bello Sergio (1959)</title>
     <desc lang="es">Un hombre vuelve a su ciudad natal y descubre que su mejor amigo se ha convertido en alcohólico. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71al89vV8gL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Ocho y medio (1963)</title>
     <desc lang="es">Un director de cine atraviesa una crisis de creatividad. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81arxyacWlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260816001700 +0200" stop="20260816020800 +0200" channel="acontra+ CINE">
+    <title lang="es">Cuento de Otoño (1998)</title>
+    <desc lang="es">Los amigos de una viuda, propietaria de una bodega, la ayudan a encontrar el amor. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91YD1xA+foL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260816020800 +0200" stop="20260816040600 +0200" channel="acontra+ CINE">
+    <title lang="es">Bright Star (2009)</title>
+    <desc lang="es">El romance de tres años entre el poeta John Keats y Fanny Brawne cerca del final de su vida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1zxyQnUk9L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
