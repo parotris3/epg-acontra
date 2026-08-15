@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260815043400 +0200" stop="20260815063400 +0200" channel="acontra+ CINE">
-    <title lang="es">El cielo protector (1990)</title>
-    <desc lang="es">Una pareja neoyorquina hace un viaje al norte de África en un intento de reparar su matrimonio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91biKRsKAwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260815063400 +0200" stop="20260815090800 +0200" channel="acontra+ CINE">
-    <title lang="es">Pequeñas mentiras sin importancia (2010)</title>
-    <desc lang="es">Un matrimonio invita a un grupo de amigos a su casa de la playa, pero un amigo no puede asistir. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Ci1eiig8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260815090800 +0200" stop="20260815104900 +0200" channel="acontra+ CINE">
+  <programme start="20260815084900 +0200" stop="20260815104900 +0200" channel="acontra+ CINE">
     <title lang="es">American Playboy (2005)</title>
     <desc lang="es">Un joven adoptado descubre que sus verdaderos padres son dueños de un imperio de revistas porno. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81P1eiY8T3L._UR1920,1080_FMpng_.jpg"/>
@@ -22,5 +12,20 @@
     <title lang="es">Francesco (1989)</title>
     <desc lang="es">Tras la muerte de San Francisco de Asís, sus amigos más cercanos hablan de la vida del santo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81oU1qjZcsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260815130200 +0200" stop="20260815145200 +0200" channel="acontra+ CINE">
+    <title lang="es">Naked Lunch (1991)</title>
+    <desc lang="es">Un exterminador alucina y mata a su mujer. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81+5fi71yYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260815145200 +0200" stop="20260815164000 +0200" channel="acontra+ CINE">
+    <title lang="es">Los girasoles (1970)</title>
+    <desc lang="es">Giovanna se casa con Antonio antes de la guerra, pero él no quiere ir al frente y simula estar loco. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1OT-cPmxeL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260815164000 +0200" stop="20260815182600 +0200" channel="acontra+ CINE">
+    <title lang="es">Emperador (2012)</title>
+    <desc lang="es">El general MacArthur debe tomar la decisión de someter al emperador Hirohito o perdonarle la vida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81XRazD7rdL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
