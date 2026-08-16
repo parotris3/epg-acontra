@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260815221700 +0200" stop="20260816001700 +0200" channel="acontra+ CINE">
-    <title lang="es">Ocho y medio (1963)</title>
-    <desc lang="es">Un director de cine atraviesa una crisis de creatividad. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81arxyacWlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260816001700 +0200" stop="20260816020800 +0200" channel="acontra+ CINE">
-    <title lang="es">Cuento de Otoño (1998)</title>
-    <desc lang="es">Los amigos de una viuda, propietaria de una bodega, la ayudan a encontrar el amor. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91YD1xA+foL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260816020800 +0200" stop="20260816040600 +0200" channel="acontra+ CINE">
-    <title lang="es">Bright Star (2009)</title>
-    <desc lang="es">El romance de tres años entre el poeta John Keats y Fanny Brawne cerca del final de su vida. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1zxyQnUk9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260816040600 +0200" stop="20260816062200 +0200" channel="acontra+ CINE">
+  <programme start="20260816042200 +0200" stop="20260816062200 +0200" channel="acontra+ CINE">
     <title lang="es">En un lugar de África (2003)</title>
     <desc lang="es">Temiendo la persecución nazi, un abogado judío arregla la huida de su mujer y su hija a Kenya. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71QI7a0twgL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El soldado perdido (2017)</title>
     <desc lang="es">En 1941, durante un bombardeo, un piloto es salvado por una joven viuda que lo esconde en su casa. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1GHdFfsbCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260816092700 +0200" stop="20260816111300 +0200" channel="acontra+ CINE">
+    <title lang="es">Farinelli: Il Castrato (1994)</title>
+    <desc lang="es">Con tan solo 32 años, Farinelli, célebre "castrato", está en la cumbre del éxito profesional. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8151aO39RaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260816111300 +0200" stop="20260816125100 +0200" channel="acontra+ CINE">
+    <title lang="es">Los amigos del novio (2006)</title>
+    <desc lang="es">A una semana de casarse con su novia embarazada, Paulie está preocupado por los cambios en su vida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81GHWbBLbmL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260816125100 +0200" stop="20260816152400 +0200" channel="acontra+ CINE">
+    <title lang="es">El salario del miedo (1953)</title>
+    <desc lang="es">Cuatro conductores tienen que llevar dos camiones con nitroglicerina a través de terreno inhóspito. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91zW3okns0L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
