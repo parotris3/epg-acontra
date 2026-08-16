@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260816091300 +0200" stop="20260816111300 +0200" channel="acontra+ CINE">
-    <title lang="es">Farinelli: Il Castrato (1994)</title>
-    <desc lang="es">Con tan solo 32 años, Farinelli, célebre "castrato", está en la cumbre del éxito profesional. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8151aO39RaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260816111300 +0200" stop="20260816125100 +0200" channel="acontra+ CINE">
-    <title lang="es">Los amigos del novio (2006)</title>
-    <desc lang="es">A una semana de casarse con su novia embarazada, Paulie está preocupado por los cambios en su vida. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81GHWbBLbmL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260816125100 +0200" stop="20260816152400 +0200" channel="acontra+ CINE">
+  <programme start="20260816132400 +0200" stop="20260816152400 +0200" channel="acontra+ CINE">
     <title lang="es">El salario del miedo (1953)</title>
     <desc lang="es">Cuatro conductores tienen que llevar dos camiones con nitroglicerina a través de terreno inhóspito. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91zW3okns0L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Experimento Filadelfia (2012)</title>
     <desc lang="es">Dos oficiales que participan en un experimento militar de alto secreto son trasladados a 1984. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A12HWWNktUL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260816185100 +0200" stop="20260816202800 +0200" channel="acontra+ CINE">
+    <title lang="es">Tortura (1944)</title>
+    <desc lang="es">Calígula, un profesor sádico, está obsesionado con Bertha, la encargada de un estanco. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71eELV6GEPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260816202800 +0200" stop="20260816222000 +0200" channel="acontra+ CINE">
+    <title lang="es">La sala de baile (1984)</title>
+    <desc lang="es">Ettore Scola narra la historia de Europa de los últimos 50 años comprimiéndola en un salón de baile. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/813CAMpLW9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260816222000 +0200" stop="20260817000500 +0200" channel="acontra+ CINE">
+    <title lang="es">Llévame a la luna (2012)</title>
+    <desc lang="es">Una mujer se propone eliminar la maldición familiar en la que cada primer matrimonio se divorcia. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/813uBwbCaXL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
