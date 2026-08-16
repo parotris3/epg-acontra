@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260816132400 +0200" stop="20260816152400 +0200" channel="acontra+ CINE">
-    <title lang="es">El salario del miedo (1953)</title>
-    <desc lang="es">Cuatro conductores tienen que llevar dos camiones con nitroglicerina a través de terreno inhóspito. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zW3okns0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260816152400 +0200" stop="20260816172600 +0200" channel="acontra+ CINE">
-    <title lang="es">Madres e hijas (2010)</title>
-    <desc lang="es">Tres mujeres, Karen, Elizabeth y Lucy, comparten un objetivo común: adoptar a un hijo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8165KRQ-0PL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260816172600 +0200" stop="20260816185100 +0200" channel="acontra+ CINE">
-    <title lang="es">Experimento Filadelfia (2012)</title>
-    <desc lang="es">Dos oficiales que participan en un experimento militar de alto secreto son trasladados a 1984. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A12HWWNktUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260816185100 +0200" stop="20260816202800 +0200" channel="acontra+ CINE">
+  <programme start="20260816182800 +0200" stop="20260816202800 +0200" channel="acontra+ CINE">
     <title lang="es">Tortura (1944)</title>
     <desc lang="es">Calígula, un profesor sádico, está obsesionado con Bertha, la encargada de un estanco. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71eELV6GEPL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Llévame a la luna (2012)</title>
     <desc lang="es">Una mujer se propone eliminar la maldición familiar en la que cada primer matrimonio se divorcia. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/813uBwbCaXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260817000500 +0200" stop="20260817022600 +0200" channel="acontra+ CINE">
+    <title lang="es">El tambor de hojalata (1988)</title>
+    <desc lang="es">En su tercer cumpleaños, Oskar recibe su primer tambor de hojalata. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91oMcNQd4CL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260817022600 +0200" stop="20260817041700 +0200" channel="acontra+ CINE">
+    <title lang="es">Consejo de guerra (1980)</title>
+    <desc lang="es">Australianos que luchan por Inglaterra en la Guerra de los Bóer se enfrentan a un consejo de guerra. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91MYLrjr-ML._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
