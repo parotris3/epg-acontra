@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260816042200 +0200" stop="20260816062200 +0200" channel="acontra+ CINE">
-    <title lang="es">En un lugar de África (2003)</title>
-    <desc lang="es">Temiendo la persecución nazi, un abogado judío arregla la huida de su mujer y su hija a Kenya. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71QI7a0twgL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260816062200 +0200" stop="20260816075400 +0200" channel="acontra+ CINE">
-    <title lang="es">Cromosoma 3 (1979)</title>
-    <desc lang="es">El psiquiatra Hal Raglen inventa una terapia especial para tratar psicópatas, la somatización. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71AmspXCoFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260816075400 +0200" stop="20260816092700 +0200" channel="acontra+ CINE">
-    <title lang="es">El soldado perdido (2017)</title>
-    <desc lang="es">En 1941, durante un bombardeo, un piloto es salvado por una joven viuda que lo esconde en su casa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1GHdFfsbCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260816092700 +0200" stop="20260816111300 +0200" channel="acontra+ CINE">
+  <programme start="20260816091300 +0200" stop="20260816111300 +0200" channel="acontra+ CINE">
     <title lang="es">Farinelli: Il Castrato (1994)</title>
     <desc lang="es">Con tan solo 32 años, Farinelli, célebre "castrato", está en la cumbre del éxito profesional. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/8151aO39RaL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">El salario del miedo (1953)</title>
     <desc lang="es">Cuatro conductores tienen que llevar dos camiones con nitroglicerina a través de terreno inhóspito. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91zW3okns0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260816152400 +0200" stop="20260816172600 +0200" channel="acontra+ CINE">
+    <title lang="es">Madres e hijas (2010)</title>
+    <desc lang="es">Tres mujeres, Karen, Elizabeth y Lucy, comparten un objetivo común: adoptar a un hijo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8165KRQ-0PL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260816172600 +0200" stop="20260816185100 +0200" channel="acontra+ CINE">
+    <title lang="es">Experimento Filadelfia (2012)</title>
+    <desc lang="es">Dos oficiales que participan en un experimento militar de alto secreto son trasladados a 1984. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A12HWWNktUL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
