@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260816182800 +0200" stop="20260816202800 +0200" channel="acontra+ CINE">
-    <title lang="es">Tortura (1944)</title>
-    <desc lang="es">Calígula, un profesor sádico, está obsesionado con Bertha, la encargada de un estanco. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71eELV6GEPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260816202800 +0200" stop="20260816222000 +0200" channel="acontra+ CINE">
-    <title lang="es">La sala de baile (1984)</title>
-    <desc lang="es">Ettore Scola narra la historia de Europa de los últimos 50 años comprimiéndola en un salón de baile. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/813CAMpLW9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260816222000 +0200" stop="20260817000500 +0200" channel="acontra+ CINE">
+  <programme start="20260816220500 +0200" stop="20260817000500 +0200" channel="acontra+ CINE">
     <title lang="es">Llévame a la luna (2012)</title>
     <desc lang="es">Una mujer se propone eliminar la maldición familiar en la que cada primer matrimonio se divorcia. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/813uBwbCaXL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Consejo de guerra (1980)</title>
     <desc lang="es">Australianos que luchan por Inglaterra en la Guerra de los Bóer se enfrentan a un consejo de guerra. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91MYLrjr-ML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260817041700 +0200" stop="20260817060800 +0200" channel="acontra+ CINE">
+    <title lang="es">The Chosen (1981)</title>
+    <desc lang="es">Un judío y el hijo de un rabí hasídico se hacen amigos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/818x1QaWSFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260817060800 +0200" stop="20260817082300 +0200" channel="acontra+ CINE">
+    <title lang="es">El último bailarín de Mao (2009)</title>
+    <desc lang="es">Basado en la autobiografía de la estrella de ballet Li Cunxin y su lucha para vivir en los EEUU. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/acontra_CINE_16x9._UR1920,1080_FMpng_.png"/>
   </programme>
 </tv>
