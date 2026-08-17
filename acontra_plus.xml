@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260817083700 +0200" stop="20260817103700 +0200" channel="acontra+ CINE">
-    <title lang="es">Crónica de una mentira (2009)</title>
-    <desc lang="es">Un estafador se hace pasar por un jefe de obra engañando a todo un pueblo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71eZ8Qi7n+L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260817103700 +0200" stop="20260817115800 +0200" channel="acontra+ CINE">
-    <title lang="es">Aceleración máxima (2019)</title>
-    <desc lang="es">Un mafioso secuestra al hijo pequeño de sus asistente. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91cereOs8xL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260817115800 +0200" stop="20260817133400 +0200" channel="acontra+ CINE">
-    <title lang="es">Al azar, Baltasar (1966)</title>
-    <desc lang="es">Baltasar es un burro que vive feliz en un pueblo francés, hasta que es comprado por la joven Marie. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91kXDMFyBkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260817133400 +0200" stop="20260817150600 +0200" channel="acontra+ CINE">
+  <programme start="20260817130600 +0200" stop="20260817150600 +0200" channel="acontra+ CINE">
     <title lang="es">Un Plan Para Enamorarse (2011)</title>
     <desc lang="es">Una consejera matrimonial recién casada descubre que sus padres se van a divorciar. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71gP16ib9fL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +22,20 @@
     <title lang="es">Agujero en la cabeza (2023)</title>
     <desc lang="es">María decide ir a conocer al activista que mató a su padre hace 40 años. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71PeWGT6PdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260817192400 +0200" stop="20260817210500 +0200" channel="acontra+ CINE">
+    <title lang="es">Ídolos, mentiras y rock & roll (1997)</title>
+    <desc lang="es">Un joven inmigrante húngaro intenta adaptarse a la escuela y a la cultura americana de los años 60. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/71URI2-SMXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260817210500 +0200" stop="20260817223800 +0200" channel="acontra+ CINE">
+    <title lang="es">Le week-end (2013)</title>
+    <desc lang="es">Nick y Meg, a sus 60 años, viajan a París para pasar un fin de semana romántico que reavive su vida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81A0oV0QixL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260817223800 +0200" stop="20260818003100 +0200" channel="acontra+ CINE">
+    <title lang="es">Caché (2005)</title>
+    <desc lang="es">Un crítico literario de televisión comienza a recibir inquietantes paquetes con vídeos suyos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71l9y149-cL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
