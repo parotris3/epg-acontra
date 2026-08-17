@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260817040800 +0200" stop="20260817060800 +0200" channel="acontra+ CINE">
-    <title lang="es">The Chosen (1981)</title>
-    <desc lang="es">Un judío y el hijo de un rabí hasídico se hacen amigos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/818x1QaWSFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260817060800 +0200" stop="20260817082300 +0200" channel="acontra+ CINE">
-    <title lang="es">El último bailarín de Mao (2009)</title>
-    <desc lang="es">Basado en la autobiografía de la estrella de ballet Li Cunxin y su lucha para vivir en los EEUU. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/acontra_CINE_16x9._UR1920,1080_FMpng_.png"/>
-  </programme>
-  <programme start="20260817082300 +0200" stop="20260817103700 +0200" channel="acontra+ CINE">
+  <programme start="20260817083700 +0200" stop="20260817103700 +0200" channel="acontra+ CINE">
     <title lang="es">Crónica de una mentira (2009)</title>
     <desc lang="es">Un estafador se hace pasar por un jefe de obra engañando a todo un pueblo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71eZ8Qi7n+L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,25 @@
     <title lang="es">Al azar, Baltasar (1966)</title>
     <desc lang="es">Baltasar es un burro que vive feliz en un pueblo francés, hasta que es comprado por la joven Marie. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91kXDMFyBkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260817133400 +0200" stop="20260817150600 +0200" channel="acontra+ CINE">
+    <title lang="es">Un Plan Para Enamorarse (2011)</title>
+    <desc lang="es">Una consejera matrimonial recién casada descubre que sus padres se van a divorciar. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71gP16ib9fL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260817150600 +0200" stop="20260817162900 +0200" channel="acontra+ CINE">
+    <title lang="es">Deal (2008)</title>
+    <desc lang="es">Un exjugador de póker transmite toda su sabiduría a un estudiante universitario. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91zLQrEfMQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260817162900 +0200" stop="20260817174600 +0200" channel="acontra+ CINE">
+    <title lang="es">El padre es abuelo (1951)</title>
+    <desc lang="es">Un padre ve interrumpida su tranquilidad cuando recibe la noticia de que va a ser abuelo. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81LkISzhNZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260817174600 +0200" stop="20260817192400 +0200" channel="acontra+ CINE">
+    <title lang="es">Agujero en la cabeza (2023)</title>
+    <desc lang="es">María decide ir a conocer al activista que mató a su padre hace 40 años. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71PeWGT6PdL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
