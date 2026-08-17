@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260817130600 +0200" stop="20260817150600 +0200" channel="acontra+ CINE">
-    <title lang="es">Un Plan Para Enamorarse (2011)</title>
-    <desc lang="es">Una consejera matrimonial recién casada descubre que sus padres se van a divorciar. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71gP16ib9fL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260817150600 +0200" stop="20260817162900 +0200" channel="acontra+ CINE">
-    <title lang="es">Deal (2008)</title>
-    <desc lang="es">Un exjugador de póker transmite toda su sabiduría a un estudiante universitario. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zLQrEfMQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260817162900 +0200" stop="20260817174600 +0200" channel="acontra+ CINE">
-    <title lang="es">El padre es abuelo (1951)</title>
-    <desc lang="es">Un padre ve interrumpida su tranquilidad cuando recibe la noticia de que va a ser abuelo. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81LkISzhNZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260817174600 +0200" stop="20260817192400 +0200" channel="acontra+ CINE">
-    <title lang="es">Agujero en la cabeza (2023)</title>
-    <desc lang="es">María decide ir a conocer al activista que mató a su padre hace 40 años. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71PeWGT6PdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260817192400 +0200" stop="20260817210500 +0200" channel="acontra+ CINE">
+  <programme start="20260817190500 +0200" stop="20260817210500 +0200" channel="acontra+ CINE">
     <title lang="es">Ídolos, mentiras y rock & roll (1997)</title>
     <desc lang="es">Un joven inmigrante húngaro intenta adaptarse a la escuela y a la cultura americana de los años 60. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/71URI2-SMXL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +17,20 @@
     <title lang="es">Caché (2005)</title>
     <desc lang="es">Un crítico literario de televisión comienza a recibir inquietantes paquetes con vídeos suyos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71l9y149-cL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260818003100 +0200" stop="20260818020700 +0200" channel="acontra+ CINE">
+    <title lang="es">Walkabout (1972)</title>
+    <desc lang="es">Un joven aborigen viene al rescate de una joven y su hermano, varados en la naturaleza australiana. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/61Ual-H9uKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260818020700 +0200" stop="20260818034600 +0200" channel="acontra+ CINE">
+    <title lang="es">Smart People (2008)</title>
+    <desc lang="es">Profesor se enfrenta a nuevo amor y a visitante inesperado. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/819xBSibw6L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260818034600 +0200" stop="20260818064700 +0200" channel="acontra+ CINE">
+    <title lang="es">Fanny y Alexander (1983)</title>
+    <desc lang="es">Bergman propone su visión del mundo a través del avatar de una familia sueca a inicios del siglo XX. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91BqWp1kMqL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
