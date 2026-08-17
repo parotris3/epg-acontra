@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260816220500 +0200" stop="20260817000500 +0200" channel="acontra+ CINE">
-    <title lang="es">Llévame a la luna (2012)</title>
-    <desc lang="es">Una mujer se propone eliminar la maldición familiar en la que cada primer matrimonio se divorcia. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/813uBwbCaXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260817000500 +0200" stop="20260817022600 +0200" channel="acontra+ CINE">
-    <title lang="es">El tambor de hojalata (1988)</title>
-    <desc lang="es">En su tercer cumpleaños, Oskar recibe su primer tambor de hojalata. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91oMcNQd4CL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260817022600 +0200" stop="20260817041700 +0200" channel="acontra+ CINE">
-    <title lang="es">Consejo de guerra (1980)</title>
-    <desc lang="es">Australianos que luchan por Inglaterra en la Guerra de los Bóer se enfrentan a un consejo de guerra. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91MYLrjr-ML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260817041700 +0200" stop="20260817060800 +0200" channel="acontra+ CINE">
+  <programme start="20260817040800 +0200" stop="20260817060800 +0200" channel="acontra+ CINE">
     <title lang="es">The Chosen (1981)</title>
     <desc lang="es">Un judío y el hijo de un rabí hasídico se hacen amigos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/818x1QaWSFL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">El último bailarín de Mao (2009)</title>
     <desc lang="es">Basado en la autobiografía de la estrella de ballet Li Cunxin y su lucha para vivir en los EEUU. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/acontra_CINE_16x9._UR1920,1080_FMpng_.png"/>
+  </programme>
+  <programme start="20260817082300 +0200" stop="20260817103700 +0200" channel="acontra+ CINE">
+    <title lang="es">Crónica de una mentira (2009)</title>
+    <desc lang="es">Un estafador se hace pasar por un jefe de obra engañando a todo un pueblo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71eZ8Qi7n+L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260817103700 +0200" stop="20260817115800 +0200" channel="acontra+ CINE">
+    <title lang="es">Aceleración máxima (2019)</title>
+    <desc lang="es">Un mafioso secuestra al hijo pequeño de sus asistente. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91cereOs8xL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260817115800 +0200" stop="20260817133400 +0200" channel="acontra+ CINE">
+    <title lang="es">Al azar, Baltasar (1966)</title>
+    <desc lang="es">Baltasar es un burro que vive feliz en un pueblo francés, hasta que es comprado por la joven Marie. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91kXDMFyBkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
