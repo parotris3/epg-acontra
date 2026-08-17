@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260817190500 +0200" stop="20260817210500 +0200" channel="acontra+ CINE">
-    <title lang="es">Ídolos, mentiras y rock & roll (1997)</title>
-    <desc lang="es">Un joven inmigrante húngaro intenta adaptarse a la escuela y a la cultura americana de los años 60. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/71URI2-SMXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260817210500 +0200" stop="20260817223800 +0200" channel="acontra+ CINE">
-    <title lang="es">Le week-end (2013)</title>
-    <desc lang="es">Nick y Meg, a sus 60 años, viajan a París para pasar un fin de semana romántico que reavive su vida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81A0oV0QixL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260817223800 +0200" stop="20260818003100 +0200" channel="acontra+ CINE">
+  <programme start="20260817223100 +0200" stop="20260818003100 +0200" channel="acontra+ CINE">
     <title lang="es">Caché (2005)</title>
     <desc lang="es">Un crítico literario de televisión comienza a recibir inquietantes paquetes con vídeos suyos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71l9y149-cL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,10 @@
     <title lang="es">Fanny y Alexander (1983)</title>
     <desc lang="es">Bergman propone su visión del mundo a través del avatar de una familia sueca a inicios del siglo XX. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91BqWp1kMqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260818064700 +0200" stop="20260818082400 +0200" channel="acontra+ CINE">
+    <title lang="es">El amor está en el aire (2013)</title>
+    <desc lang="es">Julie, a punto de casarse, se encuentra a Antoine, un exnovio del que estuvo muy enamorada. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81s1C3uqZCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
