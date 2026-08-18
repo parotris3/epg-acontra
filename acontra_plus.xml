@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260817223100 +0200" stop="20260818003100 +0200" channel="acontra+ CINE">
-    <title lang="es">Caché (2005)</title>
-    <desc lang="es">Un crítico literario de televisión comienza a recibir inquietantes paquetes con vídeos suyos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71l9y149-cL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260818003100 +0200" stop="20260818020700 +0200" channel="acontra+ CINE">
-    <title lang="es">Walkabout (1972)</title>
-    <desc lang="es">Un joven aborigen viene al rescate de una joven y su hermano, varados en la naturaleza australiana. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/61Ual-H9uKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260818020700 +0200" stop="20260818034600 +0200" channel="acontra+ CINE">
-    <title lang="es">Smart People (2008)</title>
-    <desc lang="es">Profesor se enfrenta a nuevo amor y a visitante inesperado. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/819xBSibw6L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260818034600 +0200" stop="20260818064700 +0200" channel="acontra+ CINE">
+  <programme start="20260818044700 +0200" stop="20260818064700 +0200" channel="acontra+ CINE">
     <title lang="es">Fanny y Alexander (1983)</title>
     <desc lang="es">Bergman propone su visión del mundo a través del avatar de una familia sueca a inicios del siglo XX. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91BqWp1kMqL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">El amor está en el aire (2013)</title>
     <desc lang="es">Julie, a punto de casarse, se encuentra a Antoine, un exnovio del que estuvo muy enamorada. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81s1C3uqZCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260818082400 +0200" stop="20260818100500 +0200" channel="acontra+ CINE">
+    <title lang="es">Repulsión (1965)</title>
+    <desc lang="es">Una mujer muy reprimida sexualmente empieza a tener alucinaciones sobre violaciones. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/812OaS9v0aL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260818100500 +0200" stop="20260818112500 +0200" channel="acontra+ CINE">
+    <title lang="es">La matanza de Texas (1974)</title>
+    <desc lang="es">Un grupo de jóvenes son atacados con sierras y otras herramientas mortales por seres dementes. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71VJFqz66zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260818112500 +0200" stop="20260818130400 +0200" channel="acontra+ CINE">
+    <title lang="es">Ondine (2009)</title>
+    <desc lang="es">Un pescador irlandés descubre a una mujer en sus redes. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81+IxXZ2pvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
