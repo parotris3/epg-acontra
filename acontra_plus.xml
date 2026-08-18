@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260818080500 +0200" stop="20260818100500 +0200" channel="acontra+ CINE">
-    <title lang="es">Repulsión (1965)</title>
-    <desc lang="es">Una mujer muy reprimida sexualmente empieza a tener alucinaciones sobre violaciones. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/812OaS9v0aL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260818100500 +0200" stop="20260818112500 +0200" channel="acontra+ CINE">
-    <title lang="es">La matanza de Texas (1974)</title>
-    <desc lang="es">Un grupo de jóvenes son atacados con sierras y otras herramientas mortales por seres dementes. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71VJFqz66zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260818112500 +0200" stop="20260818130400 +0200" channel="acontra+ CINE">
-    <title lang="es">Ondine (2009)</title>
-    <desc lang="es">Un pescador irlandés descubre a una mujer en sus redes. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81+IxXZ2pvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260818130400 +0200" stop="20260818145300 +0200" channel="acontra+ CINE">
-    <title lang="es">Las aventuras de Picasso (2013)</title>
-    <desc lang="es">En Madrid, Pablo Picasso se convirtió en pintor, pero se fue a París, donde vivió en la pobreza. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qm55QU0oL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260818145300 +0200" stop="20260818164700 +0200" channel="acontra+ CINE">
+  <programme start="20260818144700 +0200" stop="20260818164700 +0200" channel="acontra+ CINE">
     <title lang="es">Soñadores (2000)</title>
     <desc lang="es">Isabelle, Theo y Matthew tratan de conocerse mutuamente explorando emociones y erotismo. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81gj-r-5MuL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +12,25 @@
     <title lang="es">Nosotras las mujeres</title>
     <desc lang="es">Retrato de la vida privada de cinco grandes actrices, que se interpretan a sí mismas. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81s+DfMebeL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260818182800 +0200" stop="20260818200000 +0200" channel="acontra+ CINE">
+    <title lang="es">El silencio (2002)</title>
+    <desc lang="es">Dos hermanas, Ester y Anna, y el hijo de una de ellas viajan en tren a un país en guerra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/812c7vMBQQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260818200000 +0200" stop="20260818212700 +0200" channel="acontra+ CINE">
+    <title lang="es">Elvira Madigan (1967)</title>
+    <desc lang="es">Una joven equilibrista y un oficial casado se enamoran perdidamente y deciden abandonarlo todo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/712uVLv2tWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260818212700 +0200" stop="20260818225200 +0200" channel="acontra+ CINE">
+    <title lang="es">Blanco perfecto (Downrange) (2018)</title>
+    <desc lang="es">Seis amigos se quedan tirados en la carretera y se convierten en el objetivo de un francotirador. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81nEFH7nABL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260818225200 +0200" stop="20260819003000 +0200" channel="acontra+ CINE">
+    <title lang="es">My Beautiful Laundrette (1986)</title>
+    <desc lang="es">Dos jóvenes se unen para restaurar una lavandería. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71PewlESOcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
