@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260818192700 +0200" stop="20260818212700 +0200" channel="acontra+ CINE">
-    <title lang="es">Elvira Madigan (1967)</title>
-    <desc lang="es">Una joven equilibrista y un oficial casado se enamoran perdidamente y deciden abandonarlo todo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/712uVLv2tWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260818212700 +0200" stop="20260818225200 +0200" channel="acontra+ CINE">
-    <title lang="es">Blanco perfecto (Downrange) (2018)</title>
-    <desc lang="es">Seis amigos se quedan tirados en la carretera y se convierten en el objetivo de un francotirador. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nEFH7nABL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260818225200 +0200" stop="20260819003000 +0200" channel="acontra+ CINE">
+  <programme start="20260818223000 +0200" stop="20260819003000 +0200" channel="acontra+ CINE">
     <title lang="es">My Beautiful Laundrette (1986)</title>
     <desc lang="es">Dos jóvenes se unen para restaurar una lavandería. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71PewlESOcL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,20 @@
     <title lang="es">Este coche es una ruina (1988)</title>
     <desc lang="es">Gerald se compra un Jaguar nuevo, y al instante se convierte en su nuevo amor. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91tcvCHxZtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260819042500 +0200" stop="20260819062800 +0200" channel="acontra+ CINE">
+    <title lang="es">Feliz Navidad, Mr. Lawrence (1983)</title>
+    <desc lang="es">Un intenso duelo de voluntades se establece entre comandantes japoneses y prisioneros británicos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1Ece-qw1kL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260819062800 +0200" stop="20260819075800 +0200" channel="acontra+ CINE">
+    <title lang="es">Love Bite (2012)</title>
+    <desc lang="es">Jaime descubre que la única forma de estar a salvo de un hombre lobo es teniendo sexo. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81B5h7R964L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260819075800 +0200" stop="20260819095100 +0200" channel="acontra+ CINE">
+    <title lang="es">Macbeth (2015)</title>
+    <desc lang="es">Un hombre de la nobleza sube al trono escocés. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71jK0pNXjjL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
