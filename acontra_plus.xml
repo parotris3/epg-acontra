@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260818044700 +0200" stop="20260818064700 +0200" channel="acontra+ CINE">
-    <title lang="es">Fanny y Alexander (1983)</title>
-    <desc lang="es">Bergman propone su visión del mundo a través del avatar de una familia sueca a inicios del siglo XX. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91BqWp1kMqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260818064700 +0200" stop="20260818082400 +0200" channel="acontra+ CINE">
-    <title lang="es">El amor está en el aire (2013)</title>
-    <desc lang="es">Julie, a punto de casarse, se encuentra a Antoine, un exnovio del que estuvo muy enamorada. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81s1C3uqZCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260818082400 +0200" stop="20260818100500 +0200" channel="acontra+ CINE">
+  <programme start="20260818080500 +0200" stop="20260818100500 +0200" channel="acontra+ CINE">
     <title lang="es">Repulsión (1965)</title>
     <desc lang="es">Una mujer muy reprimida sexualmente empieza a tener alucinaciones sobre violaciones. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/812OaS9v0aL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Ondine (2009)</title>
     <desc lang="es">Un pescador irlandés descubre a una mujer en sus redes. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81+IxXZ2pvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260818130400 +0200" stop="20260818145300 +0200" channel="acontra+ CINE">
+    <title lang="es">Las aventuras de Picasso (2013)</title>
+    <desc lang="es">En Madrid, Pablo Picasso se convirtió en pintor, pero se fue a París, donde vivió en la pobreza. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qm55QU0oL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260818145300 +0200" stop="20260818164700 +0200" channel="acontra+ CINE">
+    <title lang="es">Soñadores (2000)</title>
+    <desc lang="es">Isabelle, Theo y Matthew tratan de conocerse mutuamente explorando emociones y erotismo. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81gj-r-5MuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260818164700 +0200" stop="20260818182800 +0200" channel="acontra+ CINE">
+    <title lang="es">Nosotras las mujeres</title>
+    <desc lang="es">Retrato de la vida privada de cinco grandes actrices, que se interpretan a sí mismas. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81s+DfMebeL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
