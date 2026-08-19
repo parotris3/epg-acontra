@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260819092400 +0200" stop="20260819112400 +0200" channel="acontra+ CINE">
-    <title lang="es">Funerarias S.A. (2002)</title>
-    <desc lang="es">La esposa de un político y el dueño de una funeraria deciden fingir la muerte de ella y huir juntos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/813PviWr4dL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260819112400 +0200" stop="20260819131100 +0200" channel="acontra+ CINE">
-    <title lang="es">Algo celosa (2020)</title>
-    <desc lang="es">Una mujer divorciada y profesora de francés comienza a sentir celos de su hija de 18 años. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A17d+USpfJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260819131100 +0200" stop="20260819145000 +0200" channel="acontra+ CINE">
-    <title lang="es">Vatel (2000)</title>
-    <desc lang="es">La vida de palacio de un mayordomo en la corte de Luis XIV. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/814OqpwnpFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260819145000 +0200" stop="20260819163400 +0200" channel="acontra+ CINE">
+  <programme start="20260819143400 +0200" stop="20260819163400 +0200" channel="acontra+ CINE">
     <title lang="es">Alto el fuego (2019)</title>
     <desc lang="es">Un excombatiente de la Primera Guerra Mundial regresa a casa cuatro años de vida nómada. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81mlTs7fv9L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Disparando a perros (2005)</title>
     <desc lang="es">Un profesor ofrece protección a miles de ruandeses que escapan del genocidio en la Ruanda de 1994. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71bv7tLr2dL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260819182900 +0200" stop="20260819204200 +0200" channel="acontra+ CINE">
+    <title lang="es">Harakiri (1962)</title>
+    <desc lang="es">En el Japón de 1630, abundan los samuráis que han perdido su sentido de propósito. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91YkEs3n9sL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260819204200 +0200" stop="20260819221000 +0200" channel="acontra+ CINE">
+    <title lang="es">Lola (1961)</title>
+    <desc lang="es">Un vagabundo tiene un romance con una anfitriona de cabaret. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71fbykpLoVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260819221000 +0200" stop="20260820000700 +0200" channel="acontra+ CINE">
+    <title lang="es">Ojos Negros (1987)</title>
+    <desc lang="es">Romano, un hombre italiano, rememora un apasionado romance con una chica rusa llamada Anna. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91xMn34dyHL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
