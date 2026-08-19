@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260819042800 +0200" stop="20260819062800 +0200" channel="acontra+ CINE">
-    <title lang="es">Feliz Navidad, Mr. Lawrence (1983)</title>
-    <desc lang="es">Un intenso duelo de voluntades se establece entre comandantes japoneses y prisioneros británicos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Ece-qw1kL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260819062800 +0200" stop="20260819075800 +0200" channel="acontra+ CINE">
-    <title lang="es">Love Bite (2012)</title>
-    <desc lang="es">Jaime descubre que la única forma de estar a salvo de un hombre lobo es teniendo sexo. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81B5h7R964L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260819075800 +0200" stop="20260819095100 +0200" channel="acontra+ CINE">
-    <title lang="es">Macbeth (2015)</title>
-    <desc lang="es">Un hombre de la nobleza sube al trono escocés. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71jK0pNXjjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260819095100 +0200" stop="20260819112400 +0200" channel="acontra+ CINE">
+  <programme start="20260819092400 +0200" stop="20260819112400 +0200" channel="acontra+ CINE">
     <title lang="es">Funerarias S.A. (2002)</title>
     <desc lang="es">La esposa de un político y el dueño de una funeraria deciden fingir la muerte de ella y huir juntos. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/813PviWr4dL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Algo celosa (2020)</title>
     <desc lang="es">Una mujer divorciada y profesora de francés comienza a sentir celos de su hija de 18 años. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A17d+USpfJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260819131100 +0200" stop="20260819145000 +0200" channel="acontra+ CINE">
+    <title lang="es">Vatel (2000)</title>
+    <desc lang="es">La vida de palacio de un mayordomo en la corte de Luis XIV. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/814OqpwnpFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260819145000 +0200" stop="20260819163400 +0200" channel="acontra+ CINE">
+    <title lang="es">Alto el fuego (2019)</title>
+    <desc lang="es">Un excombatiente de la Primera Guerra Mundial regresa a casa cuatro años de vida nómada. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81mlTs7fv9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260819163400 +0200" stop="20260819182900 +0200" channel="acontra+ CINE">
+    <title lang="es">Disparando a perros (2005)</title>
+    <desc lang="es">Un profesor ofrece protección a miles de ruandeses que escapan del genocidio en la Ruanda de 1994. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71bv7tLr2dL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
