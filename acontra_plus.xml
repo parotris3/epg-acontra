@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260818223000 +0200" stop="20260819003000 +0200" channel="acontra+ CINE">
-    <title lang="es">My Beautiful Laundrette (1986)</title>
-    <desc lang="es">Dos jóvenes se unen para restaurar una lavandería. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71PewlESOcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260819003000 +0200" stop="20260819012900 +0200" channel="acontra+ CINE">
-    <title lang="es">Miedo y deseo (1953)</title>
-    <desc lang="es">Cuatro soldados norteamericanos quedan atrapados y perdidos detrás de las líneas enemigas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81x01UnP1TL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260819012900 +0200" stop="20260819025500 +0200" channel="acontra+ CINE">
-    <title lang="es">11:14 Destino fatal (2003)</title>
-    <desc lang="es">A las 11:14 de la mañana de un mismo día suceden simultáneamente dos accidentes automovilísticos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91b87S6oVxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260819025500 +0200" stop="20260819042500 +0200" channel="acontra+ CINE">
-    <title lang="es">Este coche es una ruina (1988)</title>
-    <desc lang="es">Gerald se compra un Jaguar nuevo, y al instante se convierte en su nuevo amor. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91tcvCHxZtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260819042500 +0200" stop="20260819062800 +0200" channel="acontra+ CINE">
+  <programme start="20260819042800 +0200" stop="20260819062800 +0200" channel="acontra+ CINE">
     <title lang="es">Feliz Navidad, Mr. Lawrence (1983)</title>
     <desc lang="es">Un intenso duelo de voluntades se establece entre comandantes japoneses y prisioneros británicos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1Ece-qw1kL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +17,15 @@
     <title lang="es">Macbeth (2015)</title>
     <desc lang="es">Un hombre de la nobleza sube al trono escocés. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71jK0pNXjjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260819095100 +0200" stop="20260819112400 +0200" channel="acontra+ CINE">
+    <title lang="es">Funerarias S.A. (2002)</title>
+    <desc lang="es">La esposa de un político y el dueño de una funeraria deciden fingir la muerte de ella y huir juntos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/813PviWr4dL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260819112400 +0200" stop="20260819131100 +0200" channel="acontra+ CINE">
+    <title lang="es">Algo celosa (2020)</title>
+    <desc lang="es">Una mujer divorciada y profesora de francés comienza a sentir celos de su hija de 18 años. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A17d+USpfJL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
