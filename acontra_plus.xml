@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260819184200 +0200" stop="20260819204200 +0200" channel="acontra+ CINE">
-    <title lang="es">Harakiri (1962)</title>
-    <desc lang="es">En el Japón de 1630, abundan los samuráis que han perdido su sentido de propósito. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91YkEs3n9sL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260819204200 +0200" stop="20260819221000 +0200" channel="acontra+ CINE">
-    <title lang="es">Lola (1961)</title>
-    <desc lang="es">Un vagabundo tiene un romance con una anfitriona de cabaret. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71fbykpLoVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260819221000 +0200" stop="20260820000700 +0200" channel="acontra+ CINE">
+  <programme start="20260819220700 +0200" stop="20260820000700 +0200" channel="acontra+ CINE">
     <title lang="es">Ojos Negros (1987)</title>
     <desc lang="es">Romano, un hombre italiano, rememora un apasionado romance con una chica rusa llamada Anna. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/91xMn34dyHL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">Hunger (2009)</title>
     <desc lang="es">Cuando expones tu cuerpo a las más extremas condiciones, las consecuencias son imprevisibles. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71gByKTRNSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260820045400 +0200" stop="20260820061200 +0200" channel="acontra+ CINE">
+    <title lang="es">Ángel de venganza (1981)</title>
+    <desc lang="es">Una joven sordomuda que ha sido violada recorre las calles de Nueva York en busca de venganza. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qVPfjBNiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260820061200 +0200" stop="20260820082700 +0200" channel="acontra+ CINE">
+    <title lang="es">Conexión Marsella (2014)</title>
+    <desc lang="es">Un joven magistrado es destinado a combatir la lucha contra el crimen organizado. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-LZi-Jm3L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
