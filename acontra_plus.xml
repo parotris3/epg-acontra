@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260819143400 +0200" stop="20260819163400 +0200" channel="acontra+ CINE">
-    <title lang="es">Alto el fuego (2019)</title>
-    <desc lang="es">Un excombatiente de la Primera Guerra Mundial regresa a casa cuatro años de vida nómada. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81mlTs7fv9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260819163400 +0200" stop="20260819182900 +0200" channel="acontra+ CINE">
-    <title lang="es">Disparando a perros (2005)</title>
-    <desc lang="es">Un profesor ofrece protección a miles de ruandeses que escapan del genocidio en la Ruanda de 1994. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71bv7tLr2dL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260819182900 +0200" stop="20260819204200 +0200" channel="acontra+ CINE">
+  <programme start="20260819184200 +0200" stop="20260819204200 +0200" channel="acontra+ CINE">
     <title lang="es">Harakiri (1962)</title>
     <desc lang="es">En el Japón de 1630, abundan los samuráis que han perdido su sentido de propósito. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91YkEs3n9sL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Ojos Negros (1987)</title>
     <desc lang="es">Romano, un hombre italiano, rememora un apasionado romance con una chica rusa llamada Anna. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/91xMn34dyHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260820000700 +0200" stop="20260820014300 +0200" channel="acontra+ CINE">
+    <title lang="es">Tierra de sospecha (2017)</title>
+    <desc lang="es">Un hombre desaparece en medio de una ola de asesinatos y su hermana intenta encontrarlo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91fPYpH-AoL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260820014300 +0200" stop="20260820031800 +0200" channel="acontra+ CINE">
+    <title lang="es">Staten Island (2009)</title>
+    <desc lang="es">Bajo la sombra de Manhattan, las vidas de tres desconocidos se cruzan en Staten Island. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91egPGOTljL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260820031800 +0200" stop="20260820045400 +0200" channel="acontra+ CINE">
+    <title lang="es">Hunger (2009)</title>
+    <desc lang="es">Cuando expones tu cuerpo a las más extremas condiciones, las consecuencias son imprevisibles. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71gByKTRNSL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
