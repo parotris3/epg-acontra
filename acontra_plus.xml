@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260820041200 +0200" stop="20260820061200 +0200" channel="acontra+ CINE">
-    <title lang="es">Ángel de venganza (1981)</title>
-    <desc lang="es">Una joven sordomuda que ha sido violada recorre las calles de Nueva York en busca de venganza. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qVPfjBNiL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260820061200 +0200" stop="20260820082700 +0200" channel="acontra+ CINE">
-    <title lang="es">Conexión Marsella (2014)</title>
-    <desc lang="es">Un joven magistrado es destinado a combatir la lucha contra el crimen organizado. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-LZi-Jm3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260820082700 +0200" stop="20260820095400 +0200" channel="acontra+ CINE">
-    <title lang="es">El manantial de la doncella (1960)</title>
-    <desc lang="es">Tres campesinos medievales violan y asesinan a una joven en el bosque y su padre busca venganza. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81HPQIn7ktL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260820095400 +0200" stop="20260820113400 +0200" channel="acontra+ CINE">
+  <programme start="20260820093400 +0200" stop="20260820113400 +0200" channel="acontra+ CINE">
     <title lang="es">Date el piro, vampiro (2024)</title>
     <desc lang="es">Cuando el hermano de Matt se convierte en vampiro en Dublín, debe salvarlo o matarlo. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1BLq0Ld+hL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">Las Marismas (2008)</title>
     <desc lang="es">Erlendur debe investigar la muerte violenta de un hombre mayor, junto al que encuentra una foto. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/817vcZf2-XL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260820130500 +0200" stop="20260820143300 +0200" channel="acontra+ CINE">
+    <title lang="es">El sureño (1945)</title>
+    <desc lang="es">Un recolector de algodón de Texas busca tener su propia granja y darle una mejor vida a su familia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91+4OenNoUL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260820143300 +0200" stop="20260820161300 +0200" channel="acontra+ CINE">
+    <title lang="es">14 días, 12 noches (2021)</title>
+    <desc lang="es">Isabel vuelve a Vietnam un año después de la trágica muerte de su hija Clara. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/918nQDfInWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260820161300 +0200" stop="20260820180000 +0200" channel="acontra+ CINE">
+    <title lang="es">Europa, Europa (1991)</title>
+    <desc lang="es">Salomón Perel Sally es un joven judío polaco que se hace pasar por un huérfano alemán. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81uThRPab5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260820180000 +0200" stop="20260820195300 +0200" channel="acontra+ CINE">
+    <title lang="es">Girlhood (2014)</title>
+    <desc lang="es">Marieme es una chica de los suburbios de París que se une a una banda callejera femenina. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91jo3kwvZxL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
