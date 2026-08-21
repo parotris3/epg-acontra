@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260821134000 +0200" stop="20260821154000 +0200" channel="acontra+ CINE">
-    <title lang="es">El señor de las moscas (1990)</title>
-    <desc lang="es">Los supervivientes a un accidente de avión militar tendrán que sobrevivir en una isla. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81a1hgGIvjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821154000 +0200" stop="20260821173900 +0200" channel="acontra+ CINE">
-    <title lang="es">El año que dejamos de jugar (2019)</title>
-    <desc lang="es">Anna y su familia de origen judío deben ir de Berlín tras el ascenso de Hitler. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81RzywxeukL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821173900 +0200" stop="20260821191400 +0200" channel="acontra+ CINE">
-    <title lang="es">Las ocho campanadas (2003)</title>
-    <desc lang="es">Philip Calvert es un agente del servicio secreto naval cuya misión es la de desentrañar un robo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qMCGYTo5L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821191400 +0200" stop="20260821204300 +0200" channel="acontra+ CINE">
+  <programme start="20260821184300 +0200" stop="20260821204300 +0200" channel="acontra+ CINE">
     <title lang="es">Con todas nuestras fuerzas (2014)</title>
     <desc lang="es">Un joven en silla de ruedas desafía todos los obstáculos para participar en un triatlón. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1SZreKkNsL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">EL fin del mundo (2013)</title>
     <desc lang="es">Dos hombres que trabajan en un videoclub deberán salvar a la humanidad en un momento apocalíptico. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81qAtoiymgL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821235100 +0200" stop="20260822020900 +0200" channel="acontra+ CINE">
+    <title lang="es">Historia del último crisantemo (1939)</title>
+    <desc lang="es">El hijo adoptivo de un prestigioso actor del teatro kabuki carece de las virtudes del padre. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91+fqQC0YWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260822020900 +0200" stop="20260822034800 +0200" channel="acontra+ CINE">
+    <title lang="es">El guardia (2011)</title>
+    <desc lang="es">Dos agentes de policía descubren que sus exsuperiores están involucrados en un caso de corrupción. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81QiXuZLC8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260822034800 +0200" stop="20260822064800 +0200" channel="acontra+ CINE">
+    <title lang="es">Don Giovanni (1989)</title>
+    <desc lang="es">En esta versión de la ópera clásica de Mozart, Don Juan peca con su criada y es condenado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Qw8rHPC8L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
