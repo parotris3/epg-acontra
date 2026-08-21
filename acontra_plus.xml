@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260820230500 +0200" stop="20260821010500 +0200" channel="acontra+ CINE">
-    <title lang="es">Los leales 47 ronin</title>
-    <desc lang="es">Aclamada y poética visión del honor en tiempos de guerra del maestro Mizoguchi. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71HCVzLChCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821010500 +0200" stop="20260821023100 +0200" channel="acontra+ CINE">
-    <title lang="es">Premonición (2006)</title>
-    <desc lang="es">Un policía despierta de un coma para descubrir que tiene alucinaciones que predicen el futuro. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81QXR1BXE7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821023100 +0200" stop="20260821041600 +0200" channel="acontra+ CINE">
-    <title lang="es">Los días impuros del extranjero (1976)</title>
-    <desc lang="es">En un pueblo costero, la viuda Anne Osborne conoce al segundo oficial Jim Cameron. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/912HkrAwIwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821041600 +0200" stop="20260821055700 +0200" channel="acontra+ CINE">
+  <programme start="20260821035700 +0200" stop="20260821055700 +0200" channel="acontra+ CINE">
     <title lang="es">La madre del mal (2007)</title>
     <desc lang="es">Sarah se convierte en la última esperanza para salvar al mundo de una bruja maligna. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71xbAA4o58L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Vergüenza (1968)</title>
     <desc lang="es">La relación de una pareja destrozada a causa de una guerra civil que intentaban evitar. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71QagNZ4dPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821092400 +0200" stop="20260821105700 +0200" channel="acontra+ CINE">
+    <title lang="es">Un verano con Mónica (1955)</title>
+    <desc lang="es">Dos adolescentes se enamoran y dejan todo para emprender un viaje juntos en barco. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81X33-oJfLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821105700 +0200" stop="20260821123900 +0200" channel="acontra+ CINE">
+    <title lang="es">Los limoneros (2008)</title>
+    <desc lang="es">Salma, una viuda palestina, defiende sus limoneros frente a las fuerzas de seguridad israelíes. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/818VZluvhoL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821123900 +0200" stop="20260821141000 +0200" channel="acontra+ CINE">
+    <title lang="es">Buenos días (1959)</title>
+    <desc lang="es">Dos niños de los años 50 juran guardar silencio hasta que sus padres les compren un televisor. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71GiINqPEtL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
