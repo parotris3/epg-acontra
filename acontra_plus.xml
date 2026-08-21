@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260821035700 +0200" stop="20260821055700 +0200" channel="acontra+ CINE">
-    <title lang="es">La madre del mal (2007)</title>
-    <desc lang="es">Sarah se convierte en la última esperanza para salvar al mundo de una bruja maligna. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71xbAA4o58L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821055700 +0200" stop="20260821074500 +0200" channel="acontra+ CINE">
-    <title lang="es">Orfeu negro (1959)</title>
-    <desc lang="es">La trágica historia de amor entre la joven Eurídice y el conductor y músico Orfeo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91DZLPATqGL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821074500 +0200" stop="20260821092400 +0200" channel="acontra+ CINE">
-    <title lang="es">Vergüenza (1968)</title>
-    <desc lang="es">La relación de una pareja destrozada a causa de una guerra civil que intentaban evitar. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71QagNZ4dPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260821092400 +0200" stop="20260821105700 +0200" channel="acontra+ CINE">
+  <programme start="20260821085700 +0200" stop="20260821105700 +0200" channel="acontra+ CINE">
     <title lang="es">Un verano con Mónica (1955)</title>
     <desc lang="es">Dos adolescentes se enamoran y dejan todo para emprender un viaje juntos en barco. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81X33-oJfLL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Buenos días (1959)</title>
     <desc lang="es">Dos niños de los años 50 juran guardar silencio hasta que sus padres les compren un televisor. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71GiINqPEtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821141000 +0200" stop="20260821154000 +0200" channel="acontra+ CINE">
+    <title lang="es">El señor de las moscas (1990)</title>
+    <desc lang="es">Los supervivientes a un accidente de avión militar tendrán que sobrevivir en una isla. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81a1hgGIvjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821154000 +0200" stop="20260821173900 +0200" channel="acontra+ CINE">
+    <title lang="es">El año que dejamos de jugar (2019)</title>
+    <desc lang="es">Anna y su familia de origen judío deben ir de Berlín tras el ascenso de Hitler. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81RzywxeukL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260821173900 +0200" stop="20260821191400 +0200" channel="acontra+ CINE">
+    <title lang="es">Las ocho campanadas (2003)</title>
+    <desc lang="es">Philip Calvert es un agente del servicio secreto naval cuya misión es la de desentrañar un robo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qMCGYTo5L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
