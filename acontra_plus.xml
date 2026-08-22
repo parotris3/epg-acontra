@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260822081900 +0200" stop="20260822101900 +0200" channel="acontra+ CINE">
-    <title lang="es">Cal (1989)</title>
-    <desc lang="es">En Irlanda del Norte, un joven católico es sospechoso en el asesinato de un policía protestante. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81T3UBe8n8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260822101900 +0200" stop="20260822121000 +0200" channel="acontra+ CINE">
-    <title lang="es">Tamara Drewe (2010)</title>
-    <desc lang="es">Tamara Drewe, una joven periodista, regresa a su pueblo natal de la campiña inglesa. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81YZ6DxdZ1L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260822121000 +0200" stop="20260822141900 +0200" channel="acontra+ CINE">
-    <title lang="es">Bullhead (2011)</title>
-    <desc lang="es">Jacky Vanmarsenille es abordado por un veterinario sin escrúpulos para hacer negocios sucios. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/712XNuWfUCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260822141900 +0200" stop="20260822161700 +0200" channel="acontra+ CINE">
+  <programme start="20260822141700 +0200" stop="20260822161700 +0200" channel="acontra+ CINE">
     <title lang="es">El secuestro de Alfred Heineken (2011)</title>
     <desc lang="es">Heineken propietario de la multinacional cervecera fue secuestrado cuando salía de una sede. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Fhej4KTOL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">Machete Kills (2013)</title>
     <desc lang="es">Machete va tras un traficante de armas. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/B1zKwzF56cL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260822180400 +0200" stop="20260822194400 +0200" channel="acontra+ CINE">
+    <title lang="es">De la vida de las marionetas (2003)</title>
+    <desc lang="es">Peter Egerman viola y estrangula a una prostituta debido a la frustración por su matrimonio fallido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91dUCyb19QL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260822194400 +0200" stop="20260822211200 +0200" channel="acontra+ CINE">
+    <title lang="es">Gritos y susurros (1972)</title>
+    <desc lang="es">Tres hermanas se reúnen para pasar juntas los últimos días de vida de una de ellas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71l-O1xlqZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260822211200 +0200" stop="20260822225700 +0200" channel="acontra+ CINE">
+    <title lang="es">El dossier 51 (2021)</title>
+    <desc lang="es">Dominique Auphal es un diplomático francés que acepta un cargo de responsabilidad. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81XvzsFvNAL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260822225700 +0200" stop="20260823003700 +0200" channel="acontra+ CINE">
+    <title lang="es">Super Mario Bros. (1993)</title>
+    <desc lang="es">Mario y Luigi descubren un mundo paralelo poblado por los descendientes de los dinosaurios. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81B0uZ9WZCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
