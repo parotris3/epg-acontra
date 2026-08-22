@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260822000900 +0200" stop="20260822020900 +0200" channel="acontra+ CINE">
-    <title lang="es">Historia del último crisantemo (1939)</title>
-    <desc lang="es">El hijo adoptivo de un prestigioso actor del teatro kabuki carece de las virtudes del padre. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91+fqQC0YWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260822020900 +0200" stop="20260822034800 +0200" channel="acontra+ CINE">
-    <title lang="es">El guardia (2011)</title>
-    <desc lang="es">Dos agentes de policía descubren que sus exsuperiores están involucrados en un caso de corrupción. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81QiXuZLC8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260822034800 +0200" stop="20260822064800 +0200" channel="acontra+ CINE">
+  <programme start="20260822044800 +0200" stop="20260822064800 +0200" channel="acontra+ CINE">
     <title lang="es">Don Giovanni (1989)</title>
     <desc lang="es">En esta versión de la ópera clásica de Mozart, Don Juan peca con su criada y es condenado. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Qw8rHPC8L._UR1920,1080_FMpng_.jpg"/>
@@ -22,5 +12,20 @@
     <title lang="es">Los días impuros del extranjero (1976)</title>
     <desc lang="es">En un pueblo costero, la viuda Anne Osborne conoce al segundo oficial Jim Cameron. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/912HkrAwIwL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260822083600 +0200" stop="20260822101900 +0200" channel="acontra+ CINE">
+    <title lang="es">Cal (1989)</title>
+    <desc lang="es">En Irlanda del Norte, un joven católico es sospechoso en el asesinato de un policía protestante. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81T3UBe8n8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260822101900 +0200" stop="20260822121000 +0200" channel="acontra+ CINE">
+    <title lang="es">Tamara Drewe (2010)</title>
+    <desc lang="es">Tamara Drewe, una joven periodista, regresa a su pueblo natal de la campiña inglesa. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81YZ6DxdZ1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260822121000 +0200" stop="20260822141900 +0200" channel="acontra+ CINE">
+    <title lang="es">Bullhead (2011)</title>
+    <desc lang="es">Jacky Vanmarsenille es abordado por un veterinario sin escrúpulos para hacer negocios sucios. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/712XNuWfUCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
