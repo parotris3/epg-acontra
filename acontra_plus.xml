@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260823144900 +0200" stop="20260823164900 +0200" channel="acontra+ CINE">
-    <title lang="es">El piano (1993)</title>
-    <desc lang="es">Ada se queda viuda y viaja con su hija a Nueva Zelanda para un matrimonio concertado. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71hTexxx1xL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823164900 +0200" stop="20260823181500 +0200" channel="acontra+ CINE">
-    <title lang="es">Guillaume y los chicos, ¡a la mesa! (2013)</title>
-    <desc lang="es">Un chico parisino de clase alta, que admira a su exaltada madre, es tratado como una chica. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/815xK8XmLcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823181500 +0200" stop="20260823194600 +0200" channel="acontra+ CINE">
-    <title lang="es">Los papeles de Aspern (2019)</title>
-    <desc lang="es">Un editor intenta conseguir los poemas que un poeta escribió a quien fuera su musa y amante. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71pRf7q9NaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823194600 +0200" stop="20260823214400 +0200" channel="acontra+ CINE">
+  <programme start="20260823194400 +0200" stop="20260823214400 +0200" channel="acontra+ CINE">
     <title lang="es">Salyut-7, héroes en el espacio (2017)</title>
     <desc lang="es">Dos astronautas soviéticos ponen de nuevo en funcionamiento la estación espacial Salyut 7. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1Ukc29h3wL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Un Plan Para Enamorarse (2011)</title>
     <desc lang="es">Una consejera matrimonial recién casada descubre que sus padres se van a divorciar. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71gP16ib9fL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260823231100 +0200" stop="20260824003500 +0200" channel="acontra+ CINE">
+    <title lang="es">La hora del lobo (1968)</title>
+    <desc lang="es">Un artista sufre un colapso emocional y cree que está provocado por una secta. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81jv89mWZ3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824003500 +0200" stop="20260824023900 +0200" channel="acontra+ CINE">
+    <title lang="es">Desayuno en Plutón (2005)</title>
+    <desc lang="es">Patrick, un joven trans, sobrevive en un ambiente hostil gracias a su ingenio y su perseverancia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/810J0xbCEWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824023900 +0200" stop="20260824042200 +0200" channel="acontra+ CINE">
+    <title lang="es">No soy un asesino (1967)</title>
+    <desc lang="es">Acusado de asesinato, un sheriff deberá demostrar su inocencia. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81nf1aYhQnL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
