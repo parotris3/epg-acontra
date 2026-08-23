@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260823194400 +0200" stop="20260823214400 +0200" channel="acontra+ CINE">
-    <title lang="es">Salyut-7, héroes en el espacio (2017)</title>
-    <desc lang="es">Dos astronautas soviéticos ponen de nuevo en funcionamiento la estación espacial Salyut 7. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Ukc29h3wL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823214400 +0200" stop="20260823231100 +0200" channel="acontra+ CINE">
-    <title lang="es">Un Plan Para Enamorarse (2011)</title>
-    <desc lang="es">Una consejera matrimonial recién casada descubre que sus padres se van a divorciar. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71gP16ib9fL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260823231100 +0200" stop="20260824003500 +0200" channel="acontra+ CINE">
+  <programme start="20260823223500 +0200" stop="20260824003500 +0200" channel="acontra+ CINE">
     <title lang="es">La hora del lobo (1968)</title>
     <desc lang="es">Un artista sufre un colapso emocional y cree que está provocado por una secta. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81jv89mWZ3L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">No soy un asesino (1967)</title>
     <desc lang="es">Acusado de asesinato, un sheriff deberá demostrar su inocencia. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81nf1aYhQnL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824042200 +0200" stop="20260824054700 +0200" channel="acontra+ CINE">
+    <title lang="es">Aventuras de Robinson Crusoe (1954)</title>
+    <desc lang="es">Marinero británico naufraga y desaparece por 28 años. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/818Ek3Bc+tL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824054700 +0200" stop="20260824074300 +0200" channel="acontra+ CINE">
+    <title lang="es">Sophie Scholl: los últimos días (2005)</title>
+    <desc lang="es">Sophie Scholl es una estudiante en Múnich en 1943 encarcelada por la Gestapo durante una misión. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1v8rdAhFYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824074300 +0200" stop="20260824103700 +0200" channel="acontra+ CINE">
+    <title lang="es">Las mejores intenciones (1993)</title>
+    <desc lang="es">La historia de amor de Los Bergman, quienes lucharon contra el rígido sistema de clases dominante. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71r6TqHsM0L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
