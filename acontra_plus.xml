@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260823223500 +0200" stop="20260824003500 +0200" channel="acontra+ CINE">
-    <title lang="es">La hora del lobo (1968)</title>
-    <desc lang="es">Un artista sufre un colapso emocional y cree que está provocado por una secta. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81jv89mWZ3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260824003500 +0200" stop="20260824023900 +0200" channel="acontra+ CINE">
-    <title lang="es">Desayuno en Plutón (2005)</title>
-    <desc lang="es">Patrick, un joven trans, sobrevive en un ambiente hostil gracias a su ingenio y su perseverancia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/810J0xbCEWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260824023900 +0200" stop="20260824042200 +0200" channel="acontra+ CINE">
-    <title lang="es">No soy un asesino (1967)</title>
-    <desc lang="es">Acusado de asesinato, un sheriff deberá demostrar su inocencia. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nf1aYhQnL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260824042200 +0200" stop="20260824054700 +0200" channel="acontra+ CINE">
+  <programme start="20260824034700 +0200" stop="20260824054700 +0200" channel="acontra+ CINE">
     <title lang="es">Aventuras de Robinson Crusoe (1954)</title>
     <desc lang="es">Marinero británico naufraga y desaparece por 28 años. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/818Ek3Bc+tL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Las mejores intenciones (1993)</title>
     <desc lang="es">La historia de amor de Los Bergman, quienes lucharon contra el rígido sistema de clases dominante. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71r6TqHsM0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824103700 +0200" stop="20260824122600 +0200" channel="acontra+ CINE">
+    <title lang="es">Insignificance (1985)</title>
+    <desc lang="es">Albert Einstein charla con Marilyn Monroe sobre la teoría de la relatividad, el sexo y la política. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/712jQUN3uVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824122600 +0200" stop="20260824140500 +0200" channel="acontra+ CINE">
+    <title lang="es">Pasión por las letras (2016)</title>
+    <desc lang="es">Maxwell Perkins desarrolla una amistad con Thomas Wolfe. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Ludfflu0L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
