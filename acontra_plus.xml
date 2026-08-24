@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260824034700 +0200" stop="20260824054700 +0200" channel="acontra+ CINE">
-    <title lang="es">Aventuras de Robinson Crusoe (1954)</title>
-    <desc lang="es">Marinero británico naufraga y desaparece por 28 años. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/818Ek3Bc+tL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260824054700 +0200" stop="20260824074300 +0200" channel="acontra+ CINE">
-    <title lang="es">Sophie Scholl: los últimos días (2005)</title>
-    <desc lang="es">Sophie Scholl es una estudiante en Múnich en 1943 encarcelada por la Gestapo durante una misión. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1v8rdAhFYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260824074300 +0200" stop="20260824103700 +0200" channel="acontra+ CINE">
+  <programme start="20260824083700 +0200" stop="20260824103700 +0200" channel="acontra+ CINE">
     <title lang="es">Las mejores intenciones (1993)</title>
     <desc lang="es">La historia de amor de Los Bergman, quienes lucharon contra el rígido sistema de clases dominante. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71r6TqHsM0L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Pasión por las letras (2016)</title>
     <desc lang="es">Maxwell Perkins desarrolla una amistad con Thomas Wolfe. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Ludfflu0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824140500 +0200" stop="20260824153200 +0200" channel="acontra+ CINE">
+    <title lang="es">Área 407 (2011)</title>
+    <desc lang="es">Los supervivientes de un accidente aéreo se ven perseguidos por predadores creados por el gobierno. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81K+8pQ5S7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824153200 +0200" stop="20260824172900 +0200" channel="acontra+ CINE">
+    <title lang="es">Dos mujeres (2017)</title>
+    <desc lang="es">Claire, una apasionada y estricta matrona, conoce a la amante de su difunto padre. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91RakOdlovL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824172900 +0200" stop="20260824192400 +0200" channel="acontra+ CINE">
+    <title lang="es">Barrabás (2025)</title>
+    <desc lang="es">Una visión de la muerte y resurrección de Cristo, a través de los ojos de Barrabás. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71AkjH+oCXL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
