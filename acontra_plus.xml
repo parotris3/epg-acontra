@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260824184200 +0200" stop="20260824204200 +0200" channel="acontra+ CINE">
-    <title lang="es">El color de la granada (1968)</title>
-    <desc lang="es">Biografía del venerado poeta y músico armenio del siglo XVIII Sayat-Nova. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81rVw38VTBL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260824204200 +0200" stop="20260824221700 +0200" channel="acontra+ CINE">
-    <title lang="es">Hit & Run (2012)</title>
-    <desc lang="es">Un piloto se arriesga para llevar a una mujer a Los Ángeles. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1SfhywIqsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260824221700 +0200" stop="20260824234500 +0200" channel="acontra+ CINE">
-    <title lang="es">Nada (2022)</title>
-    <desc lang="es">Cuando Pierre Anthon comienza el octavo grado, no le ve sentido a la vida y se muda a un árbol. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Vrpm8h3cL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260824234500 +0200" stop="20260825010700 +0200" channel="acontra+ CINE">
+  <programme start="20260824230700 +0200" stop="20260825010700 +0200" channel="acontra+ CINE">
     <title lang="es">The Addiction (1995)</title>
     <desc lang="es">Una joven intenta comprender su nueva vida tras ser convertida en vampiro en un ataque. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71hyHt1yFiL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El caso Farewell (2009)</title>
     <desc lang="es">Un coronel proporciona información secreta sobre el régimen comunista ruso a un ingeniero francés. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81KMPsGbe+L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260825045800 +0200" stop="20260825062000 +0200" channel="acontra+ CINE">
+    <title lang="es">11:14 Destino fatal (2003)</title>
+    <desc lang="es">A las 11:14 de la mañana de un mismo día suceden simultáneamente dos accidentes automovilísticos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91b87S6oVxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260825062000 +0200" stop="20260825075800 +0200" channel="acontra+ CINE">
+    <title lang="es">Cash (2008)</title>
+    <desc lang="es">Cash decide vengar el asesinato de su hermano a su manera: sin armas ni violencia, con estilo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91nYcTFWEvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260825075800 +0200" stop="20260825095100 +0200" channel="acontra+ CINE">
+    <title lang="es">El tiempo del lobo</title>
+    <desc lang="es">Anna y su familia descubren que su casa de campo ha sido ocupada por otra familia. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91AG38UD0fL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
