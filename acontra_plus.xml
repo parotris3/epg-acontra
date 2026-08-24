@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260824133200 +0200" stop="20260824153200 +0200" channel="acontra+ CINE">
-    <title lang="es">Área 407 (2011)</title>
-    <desc lang="es">Los supervivientes de un accidente aéreo se ven perseguidos por predadores creados por el gobierno. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81K+8pQ5S7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260824153200 +0200" stop="20260824172900 +0200" channel="acontra+ CINE">
-    <title lang="es">Dos mujeres (2017)</title>
-    <desc lang="es">Claire, una apasionada y estricta matrona, conoce a la amante de su difunto padre. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91RakOdlovL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260824172900 +0200" stop="20260824192400 +0200" channel="acontra+ CINE">
-    <title lang="es">Barrabás (2025)</title>
-    <desc lang="es">Una visión de la muerte y resurrección de Cristo, a través de los ojos de Barrabás. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71AkjH+oCXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260824192400 +0200" stop="20260824204200 +0200" channel="acontra+ CINE">
+  <programme start="20260824184200 +0200" stop="20260824204200 +0200" channel="acontra+ CINE">
     <title lang="es">El color de la granada (1968)</title>
     <desc lang="es">Biografía del venerado poeta y músico armenio del siglo XVIII Sayat-Nova. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81rVw38VTBL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Nada (2022)</title>
     <desc lang="es">Cuando Pierre Anthon comienza el octavo grado, no le ve sentido a la vida y se muda a un árbol. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Vrpm8h3cL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260824234500 +0200" stop="20260825010700 +0200" channel="acontra+ CINE">
+    <title lang="es">The Addiction (1995)</title>
+    <desc lang="es">Una joven intenta comprender su nueva vida tras ser convertida en vampiro en un ataque. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71hyHt1yFiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260825010700 +0200" stop="20260825030400 +0200" channel="acontra+ CINE">
+    <title lang="es">Byzantium (2012)</title>
+    <desc lang="es">Dos vampiresas que huyen de otros vampiros se refugian en una comunidad británica junto al mar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91pz7+eAfkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260825030400 +0200" stop="20260825045800 +0200" channel="acontra+ CINE">
+    <title lang="es">El caso Farewell (2009)</title>
+    <desc lang="es">Un coronel proporciona información secreta sobre el régimen comunista ruso a un ingeniero francés. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81KMPsGbe+L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
