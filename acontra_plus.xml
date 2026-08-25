@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260825181200 +0200" stop="20260825201200 +0200" channel="acontra+ CINE">
-    <title lang="es">71 fragmentos de una cronología del azar</title>
-    <desc lang="es">Fragmentos separados por cortes de pantalla en negro describen las vidas de varias personas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/916aQRjTMpL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260825201200 +0200" stop="20260825214700 +0200" channel="acontra+ CINE">
-    <title lang="es">Pauline en la playa (1983)</title>
-    <desc lang="es">Pauline es una adolescente que pasa un verano con su prima Marion en busca de romance. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91HGjNRrcDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260825214700 +0200" stop="20260825231200 +0200" channel="acontra+ CINE">
-    <title lang="es">Aventuras de Robinson Crusoe (1954)</title>
-    <desc lang="es">Marinero británico naufraga y desaparece por 28 años. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/818Ek3Bc+tL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260825231200 +0200" stop="20260826004000 +0200" channel="acontra+ CINE">
+  <programme start="20260825224000 +0200" stop="20260826004000 +0200" channel="acontra+ CINE">
     <title lang="es">Cuerpos ardientes (1991)</title>
     <desc lang="es">La historia de tres mujeres. En la exuberante y pantanosa ciudad de Bayou La Teche, Luisiana. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1SIPR7Xw7L._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +22,10 @@
     <title lang="es">El Barbero de Siberia (2000)</title>
     <desc lang="es">En 1885, un empresario se aventura en Rusia, soñando con vender un nuevo tractor de vapor. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71N0tVPaqrL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260826064900 +0200" stop="20260826081500 +0200" channel="acontra+ CINE">
+    <title lang="es">Hiroshima, mon amour (1959)</title>
+    <desc lang="es">Una actriz francesa se enamora de un arquitecto japonés en la época de la posguerra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81hJzVu9vRL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
