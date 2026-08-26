@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260825224000 +0200" stop="20260826004000 +0200" channel="acontra+ CINE">
-    <title lang="es">Cuerpos ardientes (1991)</title>
-    <desc lang="es">La historia de tres mujeres. En la exuberante y pantanosa ciudad de Bayou La Teche, Luisiana. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1SIPR7Xw7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260826004000 +0200" stop="20260826015700 +0200" channel="acontra+ CINE">
-    <title lang="es">Egoshooter</title>
-    <desc lang="es">Para lidiar con la transición a la adultez, un adolescente graba todo con su cámara. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81fyvNADFBL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260826015700 +0200" stop="20260826035900 +0200" channel="acontra+ CINE">
-    <title lang="es">Detective Dee y el misterio de la llama fantasma (2010)</title>
-    <desc lang="es">Wu, la primera emperatriz de la China, reclama la ayuda de Di Renjie para resolver un misterio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81QvE9VDVqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260826035900 +0200" stop="20260826064900 +0200" channel="acontra+ CINE">
+  <programme start="20260826044900 +0200" stop="20260826064900 +0200" channel="acontra+ CINE">
     <title lang="es">El Barbero de Siberia (2000)</title>
     <desc lang="es">En 1885, un empresario se aventura en Rusia, soñando con vender un nuevo tractor de vapor. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71N0tVPaqrL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Hiroshima, mon amour (1959)</title>
     <desc lang="es">Una actriz francesa se enamora de un arquitecto japonés en la época de la posguerra. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81hJzVu9vRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260826081500 +0200" stop="20260826100500 +0200" channel="acontra+ CINE">
+    <title lang="es">Manual de la buena esposa (2020)</title>
+    <desc lang="es">Una escuela de hogar se encarga de capacitar a sus estudiantes para que sean esposas modelo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81GtGBEHRyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260826100500 +0200" stop="20260826113600 +0200" channel="acontra+ CINE">
+    <title lang="es">La infancia de Iván (1963)</title>
+    <desc lang="es">Iván, un niño ruso cuyos padres murieron tras la invasión nazi, espía a los alemanes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81EtCa22FeL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260826113600 +0200" stop="20260826133100 +0200" channel="acontra+ CINE">
+    <title lang="es">Mi amigo Mr. Morgan (2013)</title>
+    <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
