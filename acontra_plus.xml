@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260826044900 +0200" stop="20260826064900 +0200" channel="acontra+ CINE">
-    <title lang="es">El Barbero de Siberia (2000)</title>
-    <desc lang="es">En 1885, un empresario se aventura en Rusia, soñando con vender un nuevo tractor de vapor. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71N0tVPaqrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260826064900 +0200" stop="20260826081500 +0200" channel="acontra+ CINE">
-    <title lang="es">Hiroshima, mon amour (1959)</title>
-    <desc lang="es">Una actriz francesa se enamora de un arquitecto japonés en la época de la posguerra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81hJzVu9vRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260826081500 +0200" stop="20260826100500 +0200" channel="acontra+ CINE">
+  <programme start="20260826080500 +0200" stop="20260826100500 +0200" channel="acontra+ CINE">
     <title lang="es">Manual de la buena esposa (2020)</title>
     <desc lang="es">Una escuela de hogar se encarga de capacitar a sus estudiantes para que sean esposas modelo. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81GtGBEHRyL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Mi amigo Mr. Morgan (2013)</title>
     <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260826133100 +0200" stop="20260826151800 +0200" channel="acontra+ CINE">
+    <title lang="es">Mr. Wain (2022)</title>
+    <desc lang="es">Louis Wain comenzó a pintar las imágenes de gatos que lo hicieron mundialmente famoso. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81s187kzmYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260826151800 +0200" stop="20260826164800 +0200" channel="acontra+ CINE">
+    <title lang="es">12 catástrofes (2012)</title>
+    <desc lang="es">Una amenazadora estrella negra aparece en el cielo aterrorizando a los habitantes de La Tierra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1xorFXI7PL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260826164800 +0200" stop="20260826183100 +0200" channel="acontra+ CINE">
+    <title lang="es">Más allá del arcoíris (1990)</title>
+    <desc lang="es">Martha Travis es una médium que ofrece espectáculos de espiritismo junto a su padre alcohólico. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/810DlN4GkSL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
