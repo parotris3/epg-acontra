@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260826080500 +0200" stop="20260826100500 +0200" channel="acontra+ CINE">
-    <title lang="es">Manual de la buena esposa (2020)</title>
-    <desc lang="es">Una escuela de hogar se encarga de capacitar a sus estudiantes para que sean esposas modelo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81GtGBEHRyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260826100500 +0200" stop="20260826113600 +0200" channel="acontra+ CINE">
-    <title lang="es">La infancia de Iván (1963)</title>
-    <desc lang="es">Iván, un niño ruso cuyos padres murieron tras la invasión nazi, espía a los alemanes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81EtCa22FeL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260826113600 +0200" stop="20260826133100 +0200" channel="acontra+ CINE">
-    <title lang="es">Mi amigo Mr. Morgan (2013)</title>
-    <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260826133100 +0200" stop="20260826151800 +0200" channel="acontra+ CINE">
+  <programme start="20260826131800 +0200" stop="20260826151800 +0200" channel="acontra+ CINE">
     <title lang="es">Mr. Wain (2022)</title>
     <desc lang="es">Louis Wain comenzó a pintar las imágenes de gatos que lo hicieron mundialmente famoso. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81s187kzmYL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,25 @@
     <title lang="es">Más allá del arcoíris (1990)</title>
     <desc lang="es">Martha Travis es una médium que ofrece espectáculos de espiritismo junto a su padre alcohólico. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/810DlN4GkSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260826183100 +0200" stop="20260826195800 +0200" channel="acontra+ CINE">
+    <title lang="es">La perrera (2010)</title>
+    <desc lang="es">Tres criminales enfrentan a unos prisioneros brutales en una prisión. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1zsOc+xR0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260826195800 +0200" stop="20260826214200 +0200" channel="acontra+ CINE">
+    <title lang="es">French Cancan (1955)</title>
+    <desc lang="es">Danglard es un productor de espectáculos que desea volver a poner de moda el cancán. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qmVKnEy3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260826214200 +0200" stop="20260826225200 +0200" channel="acontra+ CINE">
+    <title lang="es">La reina de Nueva York (1937)</title>
+    <desc lang="es">La suerte de un periodista cambia cuando le vende a su editor la trágica historia de una chica. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/910YKxlZQDL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260826225200 +0200" stop="20260827003600 +0200" channel="acontra+ CINE">
+    <title lang="es">Los asesinos de la luna de miel (1970)</title>
+    <desc lang="es">Martha Beck y su novio Ray Fernández se dedican a estafar y asesinar a mujeres ricas y solitarias. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ucXlfED7L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
