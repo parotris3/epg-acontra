@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260827092100 +0200" stop="20260827112100 +0200" channel="acontra+ CINE">
-    <title lang="es">El sabor del sake (1962)</title>
-    <desc lang="es">Shubei Hirayama es viudo y vive con su hija, pero ve injusto que ella se dedique solo a cuidarlo. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/91GC-TwVyML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260827112100 +0200" stop="20260827125800 +0200" channel="acontra+ CINE">
-    <title lang="es">Mujeres contra hombres (2011)</title>
-    <desc lang="es">Historia de varias parejas sobre la guerra de sexos y la búsqueda desesperada de la persona ideal. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71GwVcxsZxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260827125800 +0200" stop="20260827144000 +0200" channel="acontra+ CINE">
-    <title lang="es">Enigma (1982)</title>
-    <desc lang="es">Alex Holbeck debe evitar que varios disidentes políticos sean asesinados por el KGB. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81fgSzI8EzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260827144000 +0200" stop="20260827160900 +0200" channel="acontra+ CINE">
+  <programme start="20260827140900 +0200" stop="20260827160900 +0200" channel="acontra+ CINE">
     <title lang="es">Bailey: una fortuna muy perruna (2004)</title>
     <desc lang="es">Bailey es un golden retriever que acaba de heredar una codiciada fortuna de su excéntrico dueño. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/81ZioEvzg-L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Adrenalina</title>
     <desc lang="es">Durante unas vacaciones en Europa del Este, la hija de una agente del FBI es secuestrada. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81qNKG3BZZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260827180500 +0200" stop="20260827193600 +0200" channel="acontra+ CINE">
+    <title lang="es">El secreto de la mansión (2010)</title>
+    <desc lang="es">Una familia se muda a una casa de campo que esconde un secreto terrible. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71rtu-pqPVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260827193600 +0200" stop="20260827215400 +0200" channel="acontra+ CINE">
+    <title lang="es">Lacombe, Lucien (1974)</title>
+    <desc lang="es">Lacombe, de un pueblo de Francia, colabora con el régimen nazi y se enamora de una niña judía. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81jQpU8pLWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260827215400 +0200" stop="20260827233700 +0200" channel="acontra+ CINE">
+    <title lang="es">Pasiones en Kenia (1988)</title>
+    <desc lang="es">Una colonia británica en Kenia se escandaliza por una relación adúltera que conduce a un homicidio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81FV1QRGKuL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
