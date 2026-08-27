@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260827140900 +0200" stop="20260827160900 +0200" channel="acontra+ CINE">
-    <title lang="es">Bailey: una fortuna muy perruna (2004)</title>
-    <desc lang="es">Bailey es un golden retriever que acaba de heredar una codiciada fortuna de su excéntrico dueño. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ZioEvzg-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260827160900 +0200" stop="20260827165300 +0200" channel="acontra+ CINE">
-    <title lang="es">Room 666 (1982)</title>
-    <desc lang="es">En 1982, Win Wenders le pidió a otros directores famosos sus perspectivas sobre el futuro del cine. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/717VJTNfRsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260827165300 +0200" stop="20260827180500 +0200" channel="acontra+ CINE">
-    <title lang="es">Adrenalina</title>
-    <desc lang="es">Durante unas vacaciones en Europa del Este, la hija de una agente del FBI es secuestrada. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qNKG3BZZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260827180500 +0200" stop="20260827193600 +0200" channel="acontra+ CINE">
-    <title lang="es">El secreto de la mansión (2010)</title>
-    <desc lang="es">Una familia se muda a una casa de campo que esconde un secreto terrible. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71rtu-pqPVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260827193600 +0200" stop="20260827215400 +0200" channel="acontra+ CINE">
+  <programme start="20260827195400 +0200" stop="20260827215400 +0200" channel="acontra+ CINE">
     <title lang="es">Lacombe, Lucien (1974)</title>
     <desc lang="es">Lacombe, de un pueblo de Francia, colabora con el régimen nazi y se enamora de una niña judía. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81jQpU8pLWL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +12,20 @@
     <title lang="es">Pasiones en Kenia (1988)</title>
     <desc lang="es">Una colonia británica en Kenia se escandaliza por una relación adúltera que conduce a un homicidio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81FV1QRGKuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260827233700 +0200" stop="20260828010700 +0200" channel="acontra+ CINE">
+    <title lang="es">Tormenta oscura (2006)</title>
+    <desc lang="es">En una base militar secreta, un grupo de científicos acaba de inventar el eruptor. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91OZUJVTpxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260828010700 +0200" stop="20260828023900 +0200" channel="acontra+ CINE">
+    <title lang="es">Testigo mudo (1996)</title>
+    <desc lang="es">Billy Hughes, una americana que trabaja en Rusia, es testigo de un asesinato en un plató de cine. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71n9KAvmIsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260828023900 +0200" stop="20260828043400 +0200" channel="acontra+ CINE">
+    <title lang="es">Los profesores de Saint-Denis (2019)</title>
+    <desc lang="es">Samia tendrá que lidiar con los problemas de disciplina y la realidad social de la escuela. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-2mCfCkLL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
