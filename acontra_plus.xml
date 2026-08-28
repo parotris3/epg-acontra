@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260828083100 +0200" stop="20260828103100 +0200" channel="acontra+ CINE">
-    <title lang="es">Un soplo en el corazón (1971)</title>
-    <desc lang="es">Cuando a Laurent, de 15 años, le diagnostican un soplo, su madre le acompaña a un balneario. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/919fu+CNL5L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260828103100 +0200" stop="20260828115900 +0200" channel="acontra+ CINE">
-    <title lang="es">Ejecutivo ejecutor (1990)</title>
-    <desc lang="es">Un ejecutivo que perdió a un subalterno, planea asesinatos a fin de ascender en la compañía. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81AJsq90WGL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260828115900 +0200" stop="20260828133100 +0200" channel="acontra+ CINE">
-    <title lang="es">Juntos, nada más (2007)</title>
-    <desc lang="es">Un cocinero, una dibujante y un aristócrata solitario deberán aprender a convivir. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81IK+avmNdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260828133100 +0200" stop="20260828145200 +0200" channel="acontra+ CINE">
-    <title lang="es">Persona (1966)</title>
-    <desc lang="es">La simbiosis de las dos personalidades de una misma mujer. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91YJjt7ASEL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260828145200 +0200" stop="20260828164000 +0200" channel="acontra+ CINE">
+  <programme start="20260828144000 +0200" stop="20260828164000 +0200" channel="acontra+ CINE">
     <title lang="es">Un hombre en el tejado (1976)</title>
     <desc lang="es">El teniente de la policía Nyman es brutalmente asesinado en un hospital de Estocolmo. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81mr4InncSL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +12,20 @@
     <title lang="es">Madame Bovary (1991)</title>
     <desc lang="es">Emma, cansada de su matrimonio con Charles Bovary, buscará consuelo en relaciones extraconyugales. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71ARpmyQPkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260828190200 +0200" stop="20260828204200 +0200" channel="acontra+ CINE">
+    <title lang="es">Invitado de honor (2019)</title>
+    <desc lang="es">Verónica quiere permanecer en la cárcel por una agresión sexual que no ha cometido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1Qt36N5w0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260828204200 +0200" stop="20260828223400 +0200" channel="acontra+ CINE">
+    <title lang="es">Wilde (1998)</title>
+    <desc lang="es">En la Inglaterra victoriana, la relación de Oscar Wilde con un noble lo conduce a su ruina. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81IkOUj2oqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260828223400 +0200" stop="20260829002700 +0200" channel="acontra+ CINE">
+    <title lang="es">La gran seducción (2013)</title>
+    <desc lang="es">Los habitantes del pueblo costero canadiense de Tickel Cove necesitan un médico. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ZWzJlAK2L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
