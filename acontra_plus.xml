@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260828184200 +0200" stop="20260828204200 +0200" channel="acontra+ CINE">
-    <title lang="es">Invitado de honor (2019)</title>
-    <desc lang="es">Verónica quiere permanecer en la cárcel por una agresión sexual que no ha cometido. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Qt36N5w0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260828204200 +0200" stop="20260828223400 +0200" channel="acontra+ CINE">
-    <title lang="es">Wilde (1998)</title>
-    <desc lang="es">En la Inglaterra victoriana, la relación de Oscar Wilde con un noble lo conduce a su ruina. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81IkOUj2oqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260828223400 +0200" stop="20260829002700 +0200" channel="acontra+ CINE">
+  <programme start="20260828222700 +0200" stop="20260829002700 +0200" channel="acontra+ CINE">
     <title lang="es">La gran seducción (2013)</title>
     <desc lang="es">Los habitantes del pueblo costero canadiense de Tickel Cove necesitan un médico. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ZWzJlAK2L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">El collar rojo (2019)</title>
     <desc lang="es">En una aldea francesa azotada por el calor del verano de 1919, un perro no para de ladrar. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81gjqsqToNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260829050300 +0200" stop="20260829063200 +0200" channel="acontra+ CINE">
+    <title lang="es">Atraco en Belfast (2013)</title>
+    <desc lang="es">Jimbo, para proteger a su familia y pagar sus deudas de juego, atraca un mercado de pescado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71XlvyxZniL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260829063200 +0200" stop="20260829080500 +0200" channel="acontra+ CINE">
+    <title lang="es">Life Partners (2014)</title>
+    <desc lang="es">La relación entre dos amigas cambia dramáticamente. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81KbqWM--DL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
