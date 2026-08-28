@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260827230700 +0200" stop="20260828010700 +0200" channel="acontra+ CINE">
-    <title lang="es">Tormenta oscura (2006)</title>
-    <desc lang="es">En una base militar secreta, un grupo de científicos acaba de inventar el eruptor. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91OZUJVTpxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260828010700 +0200" stop="20260828023900 +0200" channel="acontra+ CINE">
-    <title lang="es">Testigo mudo (1996)</title>
-    <desc lang="es">Billy Hughes, una americana que trabaja en Rusia, es testigo de un asesinato en un plató de cine. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71n9KAvmIsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260828023900 +0200" stop="20260828043400 +0200" channel="acontra+ CINE">
-    <title lang="es">Los profesores de Saint-Denis (2019)</title>
-    <desc lang="es">Samia tendrá que lidiar con los problemas de disciplina y la realidad social de la escuela. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-2mCfCkLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260828043400 +0200" stop="20260828065600 +0200" channel="acontra+ CINE">
+  <programme start="20260828045600 +0200" stop="20260828065600 +0200" channel="acontra+ CINE">
     <title lang="es">Becket (1964)</title>
     <desc lang="es">Enrique II Plantagenet, rey de Inglaterra, y Thomas Becket se enfrentan violentamente. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91DlKcfPiZL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Teniente corrupto (1992)</title>
     <desc lang="es">Un policía corrupto queda a cargo del caso de una monja que ha sufrido una múltiple violación. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91djjNBTzxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260828083300 +0200" stop="20260828103100 +0200" channel="acontra+ CINE">
+    <title lang="es">Un soplo en el corazón (1971)</title>
+    <desc lang="es">Cuando a Laurent, de 15 años, le diagnostican un soplo, su madre le acompaña a un balneario. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/919fu+CNL5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260828103100 +0200" stop="20260828115900 +0200" channel="acontra+ CINE">
+    <title lang="es">Ejecutivo ejecutor (1990)</title>
+    <desc lang="es">Un ejecutivo que perdió a un subalterno, planea asesinatos a fin de ascender en la compañía. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81AJsq90WGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260828115900 +0200" stop="20260828133100 +0200" channel="acontra+ CINE">
+    <title lang="es">Juntos, nada más (2007)</title>
+    <desc lang="es">Un cocinero, una dibujante y un aristócrata solitario deberán aprender a convivir. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81IK+avmNdL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
