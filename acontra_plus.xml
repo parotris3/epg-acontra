@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260828045600 +0200" stop="20260828065600 +0200" channel="acontra+ CINE">
-    <title lang="es">Becket (1964)</title>
-    <desc lang="es">Enrique II Plantagenet, rey de Inglaterra, y Thomas Becket se enfrentan violentamente. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91DlKcfPiZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260828065600 +0200" stop="20260828083300 +0200" channel="acontra+ CINE">
-    <title lang="es">Teniente corrupto (1992)</title>
-    <desc lang="es">Un policía corrupto queda a cargo del caso de una monja que ha sufrido una múltiple violación. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91djjNBTzxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260828083300 +0200" stop="20260828103100 +0200" channel="acontra+ CINE">
+  <programme start="20260828083100 +0200" stop="20260828103100 +0200" channel="acontra+ CINE">
     <title lang="es">Un soplo en el corazón (1971)</title>
     <desc lang="es">Cuando a Laurent, de 15 años, le diagnostican un soplo, su madre le acompaña a un balneario. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/919fu+CNL5L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Juntos, nada más (2007)</title>
     <desc lang="es">Un cocinero, una dibujante y un aristócrata solitario deberán aprender a convivir. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81IK+avmNdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260828133100 +0200" stop="20260828145200 +0200" channel="acontra+ CINE">
+    <title lang="es">Persona (1966)</title>
+    <desc lang="es">La simbiosis de las dos personalidades de una misma mujer. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91YJjt7ASEL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260828145200 +0200" stop="20260828164000 +0200" channel="acontra+ CINE">
+    <title lang="es">Un hombre en el tejado (1976)</title>
+    <desc lang="es">El teniente de la policía Nyman es brutalmente asesinado en un hospital de Estocolmo. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81mr4InncSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260828164000 +0200" stop="20260828190200 +0200" channel="acontra+ CINE">
+    <title lang="es">Madame Bovary (1991)</title>
+    <desc lang="es">Emma, cansada de su matrimonio con Charles Bovary, buscará consuelo en relaciones extraconyugales. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ARpmyQPkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
