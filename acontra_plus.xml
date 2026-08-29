@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260829193100 +0200" stop="20260829213100 +0200" channel="acontra+ CINE">
-    <title lang="es">El círculo (2000)</title>
-    <desc lang="es">Tres historias que ilustran las dificultades a las que se enfrentan las mujeres en Irán. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81j3ZQ+WtAL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260829213100 +0200" stop="20260829224700 +0200" channel="acontra+ CINE">
-    <title lang="es">Milagro en la Calle Mayor</title>
-    <desc lang="es">Una noche, huyendo de la policía, María entra en una iglesia y encuentra allí un bebé abandonado. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/acontra_CINE_16x9._UR1920,1080_FMpng_.png"/>
-  </programme>
-  <programme start="20260829224700 +0200" stop="20260830002900 +0200" channel="acontra+ CINE">
+  <programme start="20260829222900 +0200" stop="20260830002900 +0200" channel="acontra+ CINE">
     <title lang="es">Sin techo ni ley (1991)</title>
     <desc lang="es">Mona era una nómada, autoestopista y pasó sus últimos días caminando por las carreteras. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91igR0qpfHL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">La música del silencio (2017)</title>
     <desc lang="es">Amos Bardi es un joven que padece ceguera y que posee un gran talento para el canto. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81teHVb2TuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260830045900 +0200" stop="20260830063800 +0200" channel="acontra+ CINE">
+    <title lang="es">El festín de Babette (1987)</title>
+    <desc lang="es">Una criada francesa gana la lotería y usa el dinero para preparar un banquete. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71OVFlkg-RL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260830063800 +0200" stop="20260830072200 +0200" channel="acontra+ CINE">
+    <title lang="es">Room 666 (1982)</title>
+    <desc lang="es">En 1982, Win Wenders le pidió a otros directores famosos sus perspectivas sobre el futuro del cine. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/717VJTNfRsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260830072200 +0200" stop="20260830091300 +0200" channel="acontra+ CINE">
+    <title lang="es">Uno tras otro (2014)</title>
+    <desc lang="es">Cuando su hijo muere de sobredosis, Nils, convencido de que ha sido asesinado, quiere venganza. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81K2F-fI2sL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
