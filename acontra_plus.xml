@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260829130800 +0200" stop="20260829150800 +0200" channel="acontra+ CINE">
-    <title lang="es">The Brave (1998)</title>
-    <desc lang="es">Un misterioso personaje le hace una siniestra oferta a un humilde padre de familia. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Pj3qqPZJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260829150800 +0200" stop="20260829163900 +0200" channel="acontra+ CINE">
-    <title lang="es">Los bicivoladores (1985)</title>
-    <desc lang="es">Tres adolescentes dan con los 'walkie-talkies' que una banda de ladrones iba a usar en un atraco. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Xt+Ig0t1L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260829163900 +0200" stop="20260829182200 +0200" channel="acontra+ CINE">
-    <title lang="es">Week-end (2005)</title>
-    <desc lang="es">El matrimonio Durand se queda atrapado en un atasco y por ello viven experiencias desconcertantes. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71sTqayjxdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260829182200 +0200" stop="20260829195900 +0200" channel="acontra+ CINE">
-    <title lang="es">Suspiria (1977)</title>
-    <desc lang="es">Una bailarina de Nueva York se inscribe en una academia de danza embrujada. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1hAy5lxJRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260829195900 +0200" stop="20260829213100 +0200" channel="acontra+ CINE">
+  <programme start="20260829193100 +0200" stop="20260829213100 +0200" channel="acontra+ CINE">
     <title lang="es">El círculo (2000)</title>
     <desc lang="es">Tres historias que ilustran las dificultades a las que se enfrentan las mujeres en Irán. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81j3ZQ+WtAL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +17,15 @@
     <title lang="es">Sin techo ni ley (1991)</title>
     <desc lang="es">Mona era una nómada, autoestopista y pasó sus últimos días caminando por las carreteras. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91igR0qpfHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260830002900 +0200" stop="20260830030400 +0200" channel="acontra+ CINE">
+    <title lang="es">Un profeta (2009)</title>
+    <desc lang="es">Malik, un chico de apenas 19 años que no sabe ni leer y escribir, entra en la cárcel. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81d4Py0pFYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260830030400 +0200" stop="20260830045900 +0200" channel="acontra+ CINE">
+    <title lang="es">La música del silencio (2017)</title>
+    <desc lang="es">Amos Bardi es un joven que padece ceguera y que posee un gran talento para el canto. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81teHVb2TuL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
