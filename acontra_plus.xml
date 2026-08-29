@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260828222700 +0200" stop="20260829002700 +0200" channel="acontra+ CINE">
-    <title lang="es">La gran seducción (2013)</title>
-    <desc lang="es">Los habitantes del pueblo costero canadiense de Tickel Cove necesitan un médico. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ZWzJlAK2L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260829002700 +0200" stop="20260829020600 +0200" channel="acontra+ CINE">
-    <title lang="es">El grito de la lechuza (2010)</title>
-    <desc lang="es">Un joven arquitecto, deprimido y en proceso de divorcio, se muda a una pequeña comunidad. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71eILbXT65L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260829020600 +0200" stop="20260829033600 +0200" channel="acontra+ CINE">
-    <title lang="es">Aprendiendo a conducir (2014)</title>
-    <desc lang="es">Una escritora y un taxista indio se alejan de sus problemas durante las clases de conducción. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tu3xFypWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260829033600 +0200" stop="20260829050300 +0200" channel="acontra+ CINE">
+  <programme start="20260829030300 +0200" stop="20260829050300 +0200" channel="acontra+ CINE">
     <title lang="es">El collar rojo (2019)</title>
     <desc lang="es">En una aldea francesa azotada por el calor del verano de 1919, un perro no para de ladrar. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81gjqsqToNL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Life Partners (2014)</title>
     <desc lang="es">La relación entre dos amigas cambia dramáticamente. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81KbqWM--DL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260829080500 +0200" stop="20260829094100 +0200" channel="acontra+ CINE">
+    <title lang="es">El mundo resplandeciente (2021)</title>
+    <desc lang="es">Una mujer se ve arrastrada a una dimensión alternativa en la que su hermana podría seguir viva. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81SRmqiK87L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260829094100 +0200" stop="20260829114000 +0200" channel="acontra+ CINE">
+    <title lang="es">Oro (1974)</title>
+    <desc lang="es">El gerente de unas minas de Sudáfrica trama un plan para subir el precio del oro en el mercado. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81PzgJJMnvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260829114000 +0200" stop="20260829131000 +0200" channel="acontra+ CINE">
+    <title lang="es">Sonata de otoño (1978)</title>
+    <desc lang="es">Bergman retrata el enfrentamiento entre madre e hija, y temas como la incomunicación y la muerte. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81uqx1pmRqL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
