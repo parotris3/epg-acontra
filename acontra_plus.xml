@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260830084700 +0200" stop="20260830104700 +0200" channel="acontra+ CINE">
-    <title lang="es">Orlando (1993)</title>
-    <desc lang="es">El noble Orlando es condenado por la reina Isabel I a permanecer eternamente joven. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/816iNv+M1YL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260830104700 +0200" stop="20260830121900 +0200" channel="acontra+ CINE">
-    <title lang="es">Palabras suaves (1985)</title>
-    <desc lang="es">Connie Wyatt es una chica de quince años de espíritu libre que vuelve locos a los chicos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1CMMnYpAcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260830121900 +0200" stop="20260830135600 +0200" channel="acontra+ CINE">
-    <title lang="es">Mi vida como un perro (1987)</title>
-    <desc lang="es">Agridulce viaje de la infancia a la adolescencia que tiene que recorrer un niño sueco de 12 años. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91EciWOY9KL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260830135600 +0200" stop="20260830152600 +0200" channel="acontra+ CINE">
+  <programme start="20260830132600 +0200" stop="20260830152600 +0200" channel="acontra+ CINE">
     <title lang="es">Avalancha (1978)</title>
     <desc lang="es">Los huéspedes de un balneario se ven amenazados por un desastre natural que los deja atrapados. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/812rAPQ24AL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Romanzo criminale (2005)</title>
     <desc lang="es">Una banda de delincuentes asesina a un hombre poderoso y se involucra en el tráfico de drogas. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/8193TrysWXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260830194200 +0200" stop="20260830211600 +0200" channel="acontra+ CINE">
+    <title lang="es">El séptimo sello (1956)</title>
+    <desc lang="es">Una alegoría del intento del ser humano por entender su destino y los misterios de la muerte. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/716CWrZG5-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260830211600 +0200" stop="20260830224100 +0200" channel="acontra+ CINE">
+    <title lang="es">Los ojos sin rostro (1960)</title>
+    <desc lang="es">Un brillante cirujano rapta chicas para utilizar su piel y así reconstruir la belleza de su hija. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8194+Gl+upL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260830224100 +0200" stop="20260831001100 +0200" channel="acontra+ CINE">
+    <title lang="es">Cleo de 5 a 7 (1963)</title>
+    <desc lang="es">Cléo deambula, angustiada, mientras aguarda los resultados de un análisis médico. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81K289K2nQL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
