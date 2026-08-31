@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260831031500 +0200" stop="20260831051500 +0200" channel="acontra+ CINE">
-    <title lang="es">¡Va por nosotras! (2020)</title>
-    <desc lang="es">Para salvar a un club a punto de desaparecer, el entrenador decide formarlo solo por mujeres. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81duRIuPVhL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260831051500 +0200" stop="20260831060200 +0200" channel="acontra+ CINE">
-    <title lang="es">Room 666 (1982)</title>
-    <desc lang="es">En 1982, Win Wenders le pidió a otros directores famosos sus perspectivas sobre el futuro del cine. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/717VJTNfRsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260831060200 +0200" stop="20260831074800 +0200" channel="acontra+ CINE">
-    <title lang="es">La rodilla de Clara (1971)</title>
-    <desc lang="es">Un diplomático a punto de casarse se obsesiona con una parte particular de la anatomía de una mujer. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ZMw3uHxdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260831074800 +0200" stop="20260831091300 +0200" channel="acontra+ CINE">
-    <title lang="es">Quisiera que alguien me esperara en algún lugar (2019)</title>
-    <desc lang="es">Aurora va a celebrar su 70 cumpleaños en la casa familiar rodeada de sus cuatro hijos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1eP+jFstkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260831091300 +0200" stop="20260831104900 +0200" channel="acontra+ CINE">
+  <programme start="20260831084900 +0200" stop="20260831104900 +0200" channel="acontra+ CINE">
     <title lang="es">Todo va bien (1996)</title>
     <desc lang="es">La lucha de clases en Francia durante la revolución y la destrucción social a causa del capitalismo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81MO923d63L._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +17,20 @@
     <title lang="es">Asesino a sueldo (2012)</title>
     <desc lang="es">Un asesino traicionado por los suyos huye a Londres, donde se une a una familia de gánsteres. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/819aK0w0LrL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260831142600 +0200" stop="20260831160800 +0200" channel="acontra+ CINE">
+    <title lang="es">Adiós, felicidad</title>
+    <desc lang="es">Cuatro hermanos se reencuentran por última vez para rendirle un último homenaje a su padre. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1fX27r6b4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260831160800 +0200" stop="20260831175500 +0200" channel="acontra+ CINE">
+    <title lang="es">Culpable sin rostro (conducta indecorosa) (2018)</title>
+    <desc lang="es">Un soldado británico trasladado a la India contra su voluntad comienza a rebelarse. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91kPrF3vm8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260831175500 +0200" stop="20260831192900 +0200" channel="acontra+ CINE">
+    <title lang="es">Vivarium (2019)</title>
+    <desc lang="es">Una joven pareja visita una inmobiliaria para comprar una casa donde se quedarán atrapados. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/914D3Ssc3AL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
