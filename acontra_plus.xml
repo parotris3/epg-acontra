@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260830221100 +0200" stop="20260831001100 +0200" channel="acontra+ CINE">
-    <title lang="es">Cleo de 5 a 7 (1963)</title>
-    <desc lang="es">Cléo deambula, angustiada, mientras aguarda los resultados de un análisis médico. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81K289K2nQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260831001100 +0200" stop="20260831020600 +0200" channel="acontra+ CINE">
-    <title lang="es">Oldboy (2003)</title>
-    <desc lang="es">Tras ser liberado, un hombre de negocios intenta averiguar la causa de su secuestro hace 15 años. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91piJMJIOkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260831020600 +0200" stop="20260831033600 +0200" channel="acontra+ CINE">
-    <title lang="es">Arañas 3D (2013)</title>
-    <desc lang="es">Arañas se vuelven gigantes tras choque de estación espacial. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81CnDetRZRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260831033600 +0200" stop="20260831051500 +0200" channel="acontra+ CINE">
+  <programme start="20260831031500 +0200" stop="20260831051500 +0200" channel="acontra+ CINE">
     <title lang="es">¡Va por nosotras! (2020)</title>
     <desc lang="es">Para salvar a un club a punto de desaparecer, el entrenador decide formarlo solo por mujeres. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81duRIuPVhL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +22,20 @@
     <title lang="es">Quisiera que alguien me esperara en algún lugar (2019)</title>
     <desc lang="es">Aurora va a celebrar su 70 cumpleaños en la casa familiar rodeada de sus cuatro hijos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1eP+jFstkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260831091300 +0200" stop="20260831104900 +0200" channel="acontra+ CINE">
+    <title lang="es">Todo va bien (1996)</title>
+    <desc lang="es">La lucha de clases en Francia durante la revolución y la destrucción social a causa del capitalismo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81MO923d63L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260831104900 +0200" stop="20260831125300 +0200" channel="acontra+ CINE">
+    <title lang="es">Ciudad de Dios (2003)</title>
+    <desc lang="es">Basada en el libro de Paulo Lins. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81wZp5Y1eLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260831125300 +0200" stop="20260831142600 +0200" channel="acontra+ CINE">
+    <title lang="es">Asesino a sueldo (2012)</title>
+    <desc lang="es">Un asesino traicionado por los suyos huye a Londres, donde se une a una familia de gánsteres. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/819aK0w0LrL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
