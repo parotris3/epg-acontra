@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260901191200 +0200" stop="20260901211200 +0200" channel="acontra+ CINE">
-    <title lang="es">Mujeres contra hombres (2011)</title>
-    <desc lang="es">Historia de varias parejas sobre la guerra de sexos y la búsqueda desesperada de la persona ideal. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71GwVcxsZxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260901211200 +0200" stop="20260901224700 +0200" channel="acontra+ CINE">
-    <title lang="es">Hydra (2009)</title>
-    <desc lang="es">Una compañía organiza cacerías humanas para los hombres más ricos del mundo. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91HlXRYC4PL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260901224700 +0200" stop="20260902003000 +0200" channel="acontra+ CINE">
+  <programme start="20260901223000 +0200" stop="20260902003000 +0200" channel="acontra+ CINE">
     <title lang="es">Cal (1989)</title>
     <desc lang="es">En Irlanda del Norte, un joven católico es sospechoso en el asesinato de un policía protestante. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81T3UBe8n8L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">Barrabás (2025)</title>
     <desc lang="es">Una visión de la muerte y resurrección de Cristo, a través de los ojos de Barrabás. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71AkjH+oCXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260902055200 +0200" stop="20260902072200 +0200" channel="acontra+ CINE">
+    <title lang="es">El guardián (2002)</title>
+    <desc lang="es">Un inspector de policía investiga una ola de violencia provocada por un espíritu maligno. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/813v6NxUfHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260902072200 +0200" stop="20260902090200 +0200" channel="acontra+ CINE">
+    <title lang="es">Date el piro, vampiro (2024)</title>
+    <desc lang="es">Cuando el hermano de Matt se convierte en vampiro en Dublín, debe salvarlo o matarlo. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1BLq0Ld+hL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
