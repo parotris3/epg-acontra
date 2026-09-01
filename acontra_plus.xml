@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260831223800 +0200" stop="20260901003800 +0200" channel="acontra+ CINE">
-    <title lang="es">Sobre ruedas (2018)</title>
-    <desc lang="es">Un empresario de éxito y mujeriego empedernido finge ser discapacitado para seducir a una joven. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71+29jLNvnL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260901003800 +0200" stop="20260901020100 +0200" channel="acontra+ CINE">
-    <title lang="es">La guerra de los drones (2016)</title>
-    <desc lang="es">Un grupo de científicos resiste el ataque letal de unos drones en el planeta tierra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1u3p+L+CxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260901020100 +0200" stop="20260901034600 +0200" channel="acontra+ CINE">
-    <title lang="es">Mister Johnson (1990)</title>
-    <desc lang="es">En 1923, un africano educado y ambicioso ve que no encaja entre los nativos y colonizadores. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ZwxjcMwCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260901034600 +0200" stop="20260901052000 +0200" channel="acontra+ CINE">
+  <programme start="20260901032000 +0200" stop="20260901052000 +0200" channel="acontra+ CINE">
     <title lang="es">Viva la Muerte (2013)</title>
     <desc lang="es">Al final de la Guerra Civil española, un niño intenta encontrarle sentido a la guerra. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Tea-RtG7L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,25 @@
     <title lang="es">Adrenalina</title>
     <desc lang="es">Durante unas vacaciones en Europa del Este, la hija de una agente del FBI es secuestrada. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81qNKG3BZZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260901080500 +0200" stop="20260901093800 +0200" channel="acontra+ CINE">
+    <title lang="es">Cuando se acaba (2017)</title>
+    <desc lang="es">La relación de Will y Anna cambia por terceras personas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91H7-OWuwyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260901093800 +0200" stop="20260901111200 +0200" channel="acontra+ CINE">
+    <title lang="es">Como el buen vino (2019)</title>
+    <desc lang="es">Tras una crisis vital, un ejecutivo viaja de regreso a su pueblo natal en el sur de Italia. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1EEI-JlAXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260901111200 +0200" stop="20260901125200 +0200" channel="acontra+ CINE">
+    <title lang="es">El último gran día (2009)</title>
+    <desc lang="es">Un temible solitario prepara su propio funeral y piensa asistir a él para revelárselo a todos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/acontra_CINE_16x9._UR1920,1080_FMpng_.png"/>
+  </programme>
+  <programme start="20260901125200 +0200" stop="20260901142500 +0200" channel="acontra+ CINE">
+    <title lang="es">Todo el mundo gana (1990)</title>
+    <desc lang="es">Una mujer contrata a un detective privado para demostrar la inocencia de un joven. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/61cz0V1R8zL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
