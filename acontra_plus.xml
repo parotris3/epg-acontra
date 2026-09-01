@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260901032000 +0200" stop="20260901052000 +0200" channel="acontra+ CINE">
-    <title lang="es">Viva la Muerte (2013)</title>
-    <desc lang="es">Al final de la Guerra Civil española, un niño intenta encontrarle sentido a la guerra. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Tea-RtG7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260901052000 +0200" stop="20260901065200 +0200" channel="acontra+ CINE">
-    <title lang="es">Asesino a sueldo (2012)</title>
-    <desc lang="es">Un asesino traicionado por los suyos huye a Londres, donde se une a una familia de gánsteres. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/819aK0w0LrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260901065200 +0200" stop="20260901080500 +0200" channel="acontra+ CINE">
-    <title lang="es">Adrenalina</title>
-    <desc lang="es">Durante unas vacaciones en Europa del Este, la hija de una agente del FBI es secuestrada. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qNKG3BZZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260901080500 +0200" stop="20260901093800 +0200" channel="acontra+ CINE">
-    <title lang="es">Cuando se acaba (2017)</title>
-    <desc lang="es">La relación de Will y Anna cambia por terceras personas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91H7-OWuwyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260901093800 +0200" stop="20260901111200 +0200" channel="acontra+ CINE">
+  <programme start="20260901091200 +0200" stop="20260901111200 +0200" channel="acontra+ CINE">
     <title lang="es">Como el buen vino (2019)</title>
     <desc lang="es">Tras una crisis vital, un ejecutivo viaja de regreso a su pueblo natal en el sur de Italia. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1EEI-JlAXL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +17,20 @@
     <title lang="es">Todo el mundo gana (1990)</title>
     <desc lang="es">Una mujer contrata a un detective privado para demostrar la inocencia de un joven. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/61cz0V1R8zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260901142500 +0200" stop="20260901160300 +0200" channel="acontra+ CINE">
+    <title lang="es">The Osiris Child (2016)</title>
+    <desc lang="es">Un grupo de extraños debe salvar a la humanidad. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tqTV+FPzL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260901160300 +0200" stop="20260901174400 +0200" channel="acontra+ CINE">
+    <title lang="es">Éxito a cualquier precio (1992)</title>
+    <desc lang="es">Un grupo de maliciosos vendedores de inmuebles lucha por sobrevivir en una economía en crisis. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Q-9MYBdRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260901174400 +0200" stop="20260901193500 +0200" channel="acontra+ CINE">
+    <title lang="es">Paraíso (2013)</title>
+    <desc lang="es">Annika Bengtzon trata de reconstruir su vida tras la violenta muerte de su prometido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81UESgMWduL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
