@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260901223000 +0200" stop="20260902003000 +0200" channel="acontra+ CINE">
-    <title lang="es">Cal (1989)</title>
-    <desc lang="es">En Irlanda del Norte, un joven católico es sospechoso en el asesinato de un policía protestante. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81T3UBe8n8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260902003000 +0200" stop="20260902021200 +0200" channel="acontra+ CINE">
-    <title lang="es">Los malditos (1947)</title>
-    <desc lang="es">En 1945, varios nazis viajan a Oslo para embarcarse en un submarino rumbo a Sudamérica. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91YWiad1LKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260902021200 +0200" stop="20260902035700 +0200" channel="acontra+ CINE">
-    <title lang="es">La desaparición de Alice Creed (2010)</title>
-    <desc lang="es">Rapto acaba en un juego de codicia, amor, sexo y violencia. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81LBfvDBf-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260902035700 +0200" stop="20260902055200 +0200" channel="acontra+ CINE">
+  <programme start="20260902035200 +0200" stop="20260902055200 +0200" channel="acontra+ CINE">
     <title lang="es">Barrabás (2025)</title>
     <desc lang="es">Una visión de la muerte y resurrección de Cristo, a través de los ojos de Barrabás. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71AkjH+oCXL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Date el piro, vampiro (2024)</title>
     <desc lang="es">Cuando el hermano de Matt se convierte en vampiro en Dublín, debe salvarlo o matarlo. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1BLq0Ld+hL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260902090200 +0200" stop="20260902104000 +0200" channel="acontra+ CINE">
+    <title lang="es">El día de tu boda (2013)</title>
+    <desc lang="es">Leo se enamora de Colette el día de su boda y decide ganarse su corazón. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91zDK4wxcXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260902104000 +0200" stop="20260902123400 +0200" channel="acontra+ CINE">
+    <title lang="es">Especiales (2019)</title>
+    <desc lang="es">Stephane Benhamou y Daoud Tatou, dos amigos que crearon una ONG para ayudar a niños autistas. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81AsoW8lmTL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260902123400 +0200" stop="20260902142200 +0200" channel="acontra+ CINE">
+    <title lang="es">Insignificance (1985)</title>
+    <desc lang="es">Albert Einstein charla con Marilyn Monroe sobre la teoría de la relatividad, el sexo y la política. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/712jQUN3uVL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
