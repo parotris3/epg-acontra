@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260902084000 +0200" stop="20260902104000 +0200" channel="acontra+ CINE">
-    <title lang="es">El día de tu boda (2013)</title>
-    <desc lang="es">Leo se enamora de Colette el día de su boda y decide ganarse su corazón. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zDK4wxcXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260902104000 +0200" stop="20260902123400 +0200" channel="acontra+ CINE">
-    <title lang="es">Especiales (2019)</title>
-    <desc lang="es">Stephane Benhamou y Daoud Tatou, dos amigos que crearon una ONG para ayudar a niños autistas. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81AsoW8lmTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260902123400 +0200" stop="20260902142200 +0200" channel="acontra+ CINE">
-    <title lang="es">Insignificance (1985)</title>
-    <desc lang="es">Albert Einstein charla con Marilyn Monroe sobre la teoría de la relatividad, el sexo y la política. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/712jQUN3uVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260902142200 +0200" stop="20260902163100 +0200" channel="acontra+ CINE">
+  <programme start="20260902143100 +0200" stop="20260902163100 +0200" channel="acontra+ CINE">
     <title lang="es">La ciudad de la alegría (1992)</title>
     <desc lang="es">En la ciudad de Calcuta, dos personas muy diferentes encuentran comprensión la una en la otra. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81vWESbKG4L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Los cien pasos (2000)</title>
     <desc lang="es">Un activista político cuya familia está vinculada a la mafia denuncia el crimen organizado. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71fIjNsS4-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260902182000 +0200" stop="20260902194600 +0200" channel="acontra+ CINE">
+    <title lang="es">Premonición (2006)</title>
+    <desc lang="es">Un policía despierta de un coma para descubrir que tiene alucinaciones que predicen el futuro. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81QXR1BXE7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260902194600 +0200" stop="20260902213100 +0200" channel="acontra+ CINE">
+    <title lang="es">Un enredo para dos (1980)</title>
+    <desc lang="es">Un agente de la CIA jubilado escribe sus memorias y la agencia hace todo lo posible por detenerlo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/710lKDvTGRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260902213100 +0200" stop="20260902232700 +0200" channel="acontra+ CINE">
+    <title lang="es">La voz de la luna (1990)</title>
+    <desc lang="es">Un conspiranoico y su amigo poeta viven una aventura onírica en la llanura del Po. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91ml1q898YL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
