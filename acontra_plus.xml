@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260903033200 +0200" stop="20260903053200 +0200" channel="acontra+ CINE">
-    <title lang="es">Please Stand By (2017)</title>
-    <desc lang="es">Una mujer autista huye para participar en una competencia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1ekEBGeSWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260903053200 +0200" stop="20260903071900 +0200" channel="acontra+ CINE">
-    <title lang="es">Miedo súbito (1952)</title>
-    <desc lang="es">La vida de Myra se desmorona cuando escucha cómo su marido Lester planea matarla. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A17tuF3-SsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260903071900 +0200" stop="20260903084000 +0200" channel="acontra+ CINE">
-    <title lang="es">Riders (2003)</title>
-    <desc lang="es">Una banda de atracadores con habilidad para los deportes de riesgo planea sus últimos golpes. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81GNmXSk-NL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260903084000 +0200" stop="20260903103400 +0200" channel="acontra+ CINE">
+  <programme start="20260903083400 +0200" stop="20260903103400 +0200" channel="acontra+ CINE">
     <title lang="es">La hierba errante (1959)</title>
     <desc lang="es">El director de una compañía de teatro llega al pueblo donde vive su hijo no reconocido. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/81tYPNPnoNL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Mercenary (2018)</title>
     <desc lang="es">Un hombre coacciona a un comandante para que le ayude a encontrar al terrorista que mató a su mujer. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91LTBSGCAGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260903134800 +0200" stop="20260903152900 +0200" channel="acontra+ CINE">
+    <title lang="es">Nosotras las mujeres</title>
+    <desc lang="es">Retrato de la vida privada de cinco grandes actrices, que se interpretan a sí mismas. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81s+DfMebeL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260903152900 +0200" stop="20260903170100 +0200" channel="acontra+ CINE">
+    <title lang="es">Cromosoma 3 (1979)</title>
+    <desc lang="es">El psiquiatra Hal Raglen inventa una terapia especial para tratar psicópatas, la somatización. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71AmspXCoFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260903170100 +0200" stop="20260903193400 +0200" channel="acontra+ CINE">
+    <title lang="es">El salario del miedo (1953)</title>
+    <desc lang="es">Cuatro conductores tienen que llevar dos camiones con nitroglicerina a través de terreno inhóspito. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91zW3okns0L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
