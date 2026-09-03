@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260903132900 +0200" stop="20260903152900 +0200" channel="acontra+ CINE">
-    <title lang="es">Nosotras las mujeres</title>
-    <desc lang="es">Retrato de la vida privada de cinco grandes actrices, que se interpretan a sí mismas. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81s+DfMebeL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260903152900 +0200" stop="20260903170100 +0200" channel="acontra+ CINE">
-    <title lang="es">Cromosoma 3 (1979)</title>
-    <desc lang="es">El psiquiatra Hal Raglen inventa una terapia especial para tratar psicópatas, la somatización. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71AmspXCoFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260903170100 +0200" stop="20260903193400 +0200" channel="acontra+ CINE">
-    <title lang="es">El salario del miedo (1953)</title>
-    <desc lang="es">Cuatro conductores tienen que llevar dos camiones con nitroglicerina a través de terreno inhóspito. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zW3okns0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260903193400 +0200" stop="20260903215200 +0200" channel="acontra+ CINE">
+  <programme start="20260903195200 +0200" stop="20260903215200 +0200" channel="acontra+ CINE">
     <title lang="es">Lacombe, Lucien (1974)</title>
     <desc lang="es">Lacombe, de un pueblo de Francia, colabora con el régimen nazi y se enamora de una niña judía. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81jQpU8pLWL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Disparando a perros (2005)</title>
     <desc lang="es">Un profesor ofrece protección a miles de ruandeses que escapan del genocidio en la Ruanda de 1994. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71bv7tLr2dL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260903234800 +0200" stop="20260904011800 +0200" channel="acontra+ CINE">
+    <title lang="es">El mejor regalo (2018)</title>
+    <desc lang="es">Sena, una aspirante a diseñadora de moda y sin éxito en el amor, cumple 46 años. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81anZEQ6NtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260904011800 +0200" stop="20260904024100 +0200" channel="acontra+ CINE">
+    <title lang="es">11:14 Destino fatal (2003)</title>
+    <desc lang="es">A las 11:14 de la mañana de un mismo día suceden simultáneamente dos accidentes automovilísticos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91b87S6oVxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260904024100 +0200" stop="20260904040700 +0200" channel="acontra+ CINE">
+    <title lang="es">Avispas asesinas (2012)</title>
+    <desc lang="es">Durante una misión de rescate, dos mujeres deben enfrentarse a unas avispas que disparan fuego. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81gQmc3rurL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
