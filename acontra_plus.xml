@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260903195200 +0200" stop="20260903215200 +0200" channel="acontra+ CINE">
-    <title lang="es">Lacombe, Lucien (1974)</title>
-    <desc lang="es">Lacombe, de un pueblo de Francia, colabora con el régimen nazi y se enamora de una niña judía. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81jQpU8pLWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260903215200 +0200" stop="20260903234800 +0200" channel="acontra+ CINE">
-    <title lang="es">Disparando a perros (2005)</title>
-    <desc lang="es">Un profesor ofrece protección a miles de ruandeses que escapan del genocidio en la Ruanda de 1994. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71bv7tLr2dL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260903234800 +0200" stop="20260904011800 +0200" channel="acontra+ CINE">
+  <programme start="20260903231800 +0200" stop="20260904011800 +0200" channel="acontra+ CINE">
     <title lang="es">El mejor regalo (2018)</title>
     <desc lang="es">Sena, una aspirante a diseñadora de moda y sin éxito en el amor, cumple 46 años. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81anZEQ6NtL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Avispas asesinas (2012)</title>
     <desc lang="es">Durante una misión de rescate, dos mujeres deben enfrentarse a unas avispas que disparan fuego. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81gQmc3rurL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260904040700 +0200" stop="20260904053700 +0200" channel="acontra+ CINE">
+    <title lang="es">Grabbers (2012)</title>
+    <desc lang="es">Residentes de una isla descubren que para sobrevivir a extraterrestres deben tomar alcohol. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1K5DxWAHcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260904053700 +0200" stop="20260904075200 +0200" channel="acontra+ CINE">
+    <title lang="es">Los verdugos también mueren (1943)</title>
+    <desc lang="es">En mayo de 1942 murió víctima de un atentado Reinhard Heydrich, jefe del gobierno nazi de Praga. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81uWRbWALrL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260904075200 +0200" stop="20260904093100 +0200" channel="acontra+ CINE">
+    <title lang="es">Medidas extremas (2017)</title>
+    <desc lang="es">Un hombre está dispuesto a todo con tal de sacar a su hija del mundo de las drogas y los hurtos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/915YbrZlfKL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
