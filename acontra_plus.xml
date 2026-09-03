@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260902231100 +0200" stop="20260903011100 +0200" channel="acontra+ CINE">
-    <title lang="es">Week-end (2005)</title>
-    <desc lang="es">El matrimonio Durand se queda atrapado en un atasco y por ello viven experiencias desconcertantes. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71sTqayjxdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260903011100 +0200" stop="20260903024700 +0200" channel="acontra+ CINE">
-    <title lang="es">Orfeo (1950)</title>
-    <desc lang="es">Orfeo, conocido poeta del barrio parisino de Saint-Germain-des-Prés, está obsesionado con la Muerte. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91gieFP4c2L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260903024700 +0200" stop="20260903040300 +0200" channel="acontra+ CINE">
-    <title lang="es">Historia de un vecindario (1947)</title>
-    <desc lang="es">En el Japón de la postguerra, un hombre encuentra a un niño perdido y lo lleva a su casa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-A8YQPsnL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260903040300 +0200" stop="20260903053200 +0200" channel="acontra+ CINE">
+  <programme start="20260903033200 +0200" stop="20260903053200 +0200" channel="acontra+ CINE">
     <title lang="es">Please Stand By (2017)</title>
     <desc lang="es">Una mujer autista huye para participar en una competencia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1ekEBGeSWL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Riders (2003)</title>
     <desc lang="es">Una banda de atracadores con habilidad para los deportes de riesgo planea sus últimos golpes. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81GNmXSk-NL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260903084000 +0200" stop="20260903103400 +0200" channel="acontra+ CINE">
+    <title lang="es">La hierba errante (1959)</title>
+    <desc lang="es">El director de una compañía de teatro llega al pueblo donde vive su hijo no reconocido. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tYPNPnoNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260903103400 +0200" stop="20260903121000 +0200" channel="acontra+ CINE">
+    <title lang="es">Todo va bien (1996)</title>
+    <desc lang="es">La lucha de clases en Francia durante la revolución y la destrucción social a causa del capitalismo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81MO923d63L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260903121000 +0200" stop="20260903134800 +0200" channel="acontra+ CINE">
+    <title lang="es">Mercenary (2018)</title>
+    <desc lang="es">Un hombre coacciona a un comandante para que le ayude a encontrar al terrorista que mató a su mujer. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91LTBSGCAGL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
