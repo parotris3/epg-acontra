@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260903231800 +0200" stop="20260904011800 +0200" channel="acontra+ CINE">
-    <title lang="es">El mejor regalo (2018)</title>
-    <desc lang="es">Sena, una aspirante a diseñadora de moda y sin éxito en el amor, cumple 46 años. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81anZEQ6NtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260904011800 +0200" stop="20260904024100 +0200" channel="acontra+ CINE">
-    <title lang="es">11:14 Destino fatal (2003)</title>
-    <desc lang="es">A las 11:14 de la mañana de un mismo día suceden simultáneamente dos accidentes automovilísticos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91b87S6oVxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260904024100 +0200" stop="20260904040700 +0200" channel="acontra+ CINE">
-    <title lang="es">Avispas asesinas (2012)</title>
-    <desc lang="es">Durante una misión de rescate, dos mujeres deben enfrentarse a unas avispas que disparan fuego. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81gQmc3rurL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260904040700 +0200" stop="20260904053700 +0200" channel="acontra+ CINE">
+  <programme start="20260904033700 +0200" stop="20260904053700 +0200" channel="acontra+ CINE">
     <title lang="es">Grabbers (2012)</title>
     <desc lang="es">Residentes de una isla descubren que para sobrevivir a extraterrestres deben tomar alcohol. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1K5DxWAHcL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Medidas extremas (2017)</title>
     <desc lang="es">Un hombre está dispuesto a todo con tal de sacar a su hija del mundo de las drogas y los hurtos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/915YbrZlfKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260904093100 +0200" stop="20260904113200 +0200" channel="acontra+ CINE">
+    <title lang="es">El piano (1993)</title>
+    <desc lang="es">Ada se queda viuda y viaja con su hija a Nueva Zelanda para un matrimonio concertado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71hTexxx1xL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260904113200 +0200" stop="20260904132200 +0200" channel="acontra+ CINE">
+    <title lang="es">Diálogo de carmelitas (2011)</title>
+    <desc lang="es">En plena Revolución Francesa, la joven Blanche de la Force decide ingresar en un convento. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91fSPpdNqdL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
