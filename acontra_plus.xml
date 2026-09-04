@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260904182700 +0200" stop="20260904202700 +0200" channel="acontra+ CINE">
-    <title lang="es">American Night (2021)</title>
-    <desc lang="es">Un cuadro de Andy Warhol desaparecido reaparece y desencadena una peligrosa reacción en cadena. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1RSx3WyEaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260904202700 +0200" stop="20260904221400 +0200" channel="acontra+ CINE">
-    <title lang="es">Nadia, mariposa (2021)</title>
-    <desc lang="es">A los 23 años, Nadia, campeona olímpica de natación, toma la controvertida decisión de retirarse. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71YCqu8eGJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260904221400 +0200" stop="20260904234600 +0200" channel="acontra+ CINE">
-    <title lang="es">Palabras suaves (1985)</title>
-    <desc lang="es">Connie Wyatt es una chica de quince años de espíritu libre que vuelve locos a los chicos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1CMMnYpAcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260904234600 +0200" stop="20260905013600 +0200" channel="acontra+ CINE">
+  <programme start="20260904233600 +0200" stop="20260905013600 +0200" channel="acontra+ CINE">
     <title lang="es">La música del silencio (2017)</title>
     <desc lang="es">Amos Bardi es un joven que padece ceguera y que posee un gran talento para el canto. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81teHVb2TuL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Stalker (1981)</title>
     <desc lang="es">Tres hombres del futuro buscan un cuarto secreto que cumple los deseos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91CWA5+x90L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260905041300 +0200" stop="20260905053900 +0200" channel="acontra+ CINE">
+    <title lang="es">Nuevo orden (2020)</title>
+    <desc lang="es">Los miembros de una familia se reúnen para una boda. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1Hncfr-0hL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260905053900 +0200" stop="20260905073400 +0200" channel="acontra+ CINE">
+    <title lang="es">Varda por Agnès (2019)</title>
+    <desc lang="es">El nuevo y último largometraje de Agnès Varda arroja luz sobre su experiencia como directora. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1ebnd0KkBL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260905073400 +0200" stop="20260905090100 +0200" channel="acontra+ CINE">
+    <title lang="es">Rabbit Hole (2010)</title>
+    <desc lang="es">Basada en la obra de David Lindsay-Abaire. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71n2M0NPlaL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
