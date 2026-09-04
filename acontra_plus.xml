@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260904033700 +0200" stop="20260904053700 +0200" channel="acontra+ CINE">
-    <title lang="es">Grabbers (2012)</title>
-    <desc lang="es">Residentes de una isla descubren que para sobrevivir a extraterrestres deben tomar alcohol. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1K5DxWAHcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260904053700 +0200" stop="20260904075200 +0200" channel="acontra+ CINE">
-    <title lang="es">Los verdugos también mueren (1943)</title>
-    <desc lang="es">En mayo de 1942 murió víctima de un atentado Reinhard Heydrich, jefe del gobierno nazi de Praga. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uWRbWALrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260904075200 +0200" stop="20260904093100 +0200" channel="acontra+ CINE">
-    <title lang="es">Medidas extremas (2017)</title>
-    <desc lang="es">Un hombre está dispuesto a todo con tal de sacar a su hija del mundo de las drogas y los hurtos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/915YbrZlfKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260904093100 +0200" stop="20260904113200 +0200" channel="acontra+ CINE">
+  <programme start="20260904093200 +0200" stop="20260904113200 +0200" channel="acontra+ CINE">
     <title lang="es">El piano (1993)</title>
     <desc lang="es">Ada se queda viuda y viaja con su hija a Nueva Zelanda para un matrimonio concertado. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71hTexxx1xL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Diálogo de carmelitas (2011)</title>
     <desc lang="es">En plena Revolución Francesa, la joven Blanche de la Force decide ingresar en un convento. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91fSPpdNqdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260904132200 +0200" stop="20260904145100 +0200" channel="acontra+ CINE">
+    <title lang="es">Bailey: una fortuna muy perruna (2004)</title>
+    <desc lang="es">Bailey es un golden retriever que acaba de heredar una codiciada fortuna de su excéntrico dueño. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ZioEvzg-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260904145100 +0200" stop="20260904162500 +0200" channel="acontra+ CINE">
+    <title lang="es">Las ocho campanadas (2003)</title>
+    <desc lang="es">Philip Calvert es un agente del servicio secreto naval cuya misión es la de desentrañar un robo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qMCGYTo5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260904162500 +0200" stop="20260904182300 +0200" channel="acontra+ CINE">
+    <title lang="es">Norman, el hombre que lo conseguía todo (2016)</title>
+    <desc lang="es">Norman conoce a un joven político que cambiará su vida tres años después para bien y para mal. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81rnT24IdkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
