@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260904093200 +0200" stop="20260904113200 +0200" channel="acontra+ CINE">
-    <title lang="es">El piano (1993)</title>
-    <desc lang="es">Ada se queda viuda y viaja con su hija a Nueva Zelanda para un matrimonio concertado. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71hTexxx1xL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260904113200 +0200" stop="20260904132200 +0200" channel="acontra+ CINE">
-    <title lang="es">Diálogo de carmelitas (2011)</title>
-    <desc lang="es">En plena Revolución Francesa, la joven Blanche de la Force decide ingresar en un convento. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91fSPpdNqdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260904132200 +0200" stop="20260904145100 +0200" channel="acontra+ CINE">
-    <title lang="es">Bailey: una fortuna muy perruna (2004)</title>
-    <desc lang="es">Bailey es un golden retriever que acaba de heredar una codiciada fortuna de su excéntrico dueño. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ZioEvzg-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260904145100 +0200" stop="20260904162500 +0200" channel="acontra+ CINE">
+  <programme start="20260904142500 +0200" stop="20260904162500 +0200" channel="acontra+ CINE">
     <title lang="es">Las ocho campanadas (2003)</title>
     <desc lang="es">Philip Calvert es un agente del servicio secreto naval cuya misión es la de desentrañar un robo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81qMCGYTo5L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Norman, el hombre que lo conseguía todo (2016)</title>
     <desc lang="es">Norman conoce a un joven político que cambiará su vida tres años después para bien y para mal. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81rnT24IdkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260904182300 +0200" stop="20260904202700 +0200" channel="acontra+ CINE">
+    <title lang="es">American Night (2021)</title>
+    <desc lang="es">Un cuadro de Andy Warhol desaparecido reaparece y desencadena una peligrosa reacción en cadena. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1RSx3WyEaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260904202700 +0200" stop="20260904221400 +0200" channel="acontra+ CINE">
+    <title lang="es">Nadia, mariposa (2021)</title>
+    <desc lang="es">A los 23 años, Nadia, campeona olímpica de natación, toma la controvertida decisión de retirarse. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71YCqu8eGJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260904221400 +0200" stop="20260904234600 +0200" channel="acontra+ CINE">
+    <title lang="es">Palabras suaves (1985)</title>
+    <desc lang="es">Connie Wyatt es una chica de quince años de espíritu libre que vuelve locos a los chicos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1CMMnYpAcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
