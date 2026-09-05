@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260905033900 +0200" stop="20260905053900 +0200" channel="acontra+ CINE">
-    <title lang="es">Nuevo orden (2020)</title>
-    <desc lang="es">Los miembros de una familia se reúnen para una boda. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Hncfr-0hL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260905053900 +0200" stop="20260905073400 +0200" channel="acontra+ CINE">
-    <title lang="es">Varda por Agnès (2019)</title>
-    <desc lang="es">El nuevo y último largometraje de Agnès Varda arroja luz sobre su experiencia como directora. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1ebnd0KkBL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260905073400 +0200" stop="20260905090100 +0200" channel="acontra+ CINE">
-    <title lang="es">Rabbit Hole (2010)</title>
-    <desc lang="es">Basada en la obra de David Lindsay-Abaire. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71n2M0NPlaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260905090100 +0200" stop="20260905105300 +0200" channel="acontra+ CINE">
+  <programme start="20260905085300 +0200" stop="20260905105300 +0200" channel="acontra+ CINE">
     <title lang="es">Wilde (1998)</title>
     <desc lang="es">En la Inglaterra victoriana, la relación de Oscar Wilde con un noble lo conduce a su ruina. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81IkOUj2oqL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Macbeth (2015)</title>
     <desc lang="es">Un hombre de la nobleza sube al trono escocés. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71jK0pNXjjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260905144200 +0200" stop="20260905162100 +0200" channel="acontra+ CINE">
+    <title lang="es">El Rey de Nueva York (1990)</title>
+    <desc lang="es">Un capo de la droga psicótico decide al dejar la prisión compartir sus ganancias con los pobres. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81e8X4Con+L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260905162100 +0200" stop="20260905174900 +0200" channel="acontra+ CINE">
+    <title lang="es">Fresas salvajes (1959)</title>
+    <desc lang="es">El profesor Borg reflexiona sobre los placeres y fracasos de su propia vida en un viaje. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/912DmnSVQ3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260905174900 +0200" stop="20260905194700 +0200" channel="acontra+ CINE">
+    <title lang="es">Senso (1954)</title>
+    <desc lang="es">Venecia, 1866. Livia, una bella aristócrata italiana, vive un romance con el teniente Franz Mahler. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91RRRFhbw0L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
