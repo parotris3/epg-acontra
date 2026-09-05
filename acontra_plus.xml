@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260904233600 +0200" stop="20260905013600 +0200" channel="acontra+ CINE">
-    <title lang="es">La música del silencio (2017)</title>
-    <desc lang="es">Amos Bardi es un joven que padece ceguera y que posee un gran talento para el canto. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81teHVb2TuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260905013600 +0200" stop="20260905041300 +0200" channel="acontra+ CINE">
-    <title lang="es">Stalker (1981)</title>
-    <desc lang="es">Tres hombres del futuro buscan un cuarto secreto que cumple los deseos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91CWA5+x90L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260905041300 +0200" stop="20260905053900 +0200" channel="acontra+ CINE">
+  <programme start="20260905033900 +0200" stop="20260905053900 +0200" channel="acontra+ CINE">
     <title lang="es">Nuevo orden (2020)</title>
     <desc lang="es">Los miembros de una familia se reúnen para una boda. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1Hncfr-0hL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Rabbit Hole (2010)</title>
     <desc lang="es">Basada en la obra de David Lindsay-Abaire. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71n2M0NPlaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260905090100 +0200" stop="20260905105300 +0200" channel="acontra+ CINE">
+    <title lang="es">Wilde (1998)</title>
+    <desc lang="es">En la Inglaterra victoriana, la relación de Oscar Wilde con un noble lo conduce a su ruina. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81IkOUj2oqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260905105300 +0200" stop="20260905124900 +0200" channel="acontra+ CINE">
+    <title lang="es">Muriel (El tiempo de un retorno) (1963)</title>
+    <desc lang="es">Helène se reencuentra con su amor de juventud y descubre que ya no tienen nada en común. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91pf6WLH5zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260905124900 +0200" stop="20260905144200 +0200" channel="acontra+ CINE">
+    <title lang="es">Macbeth (2015)</title>
+    <desc lang="es">Un hombre de la nobleza sube al trono escocés. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71jK0pNXjjL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
