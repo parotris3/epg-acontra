@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260905142100 +0200" stop="20260905162100 +0200" channel="acontra+ CINE">
-    <title lang="es">El Rey de Nueva York (1990)</title>
-    <desc lang="es">Un capo de la droga psicótico decide al dejar la prisión compartir sus ganancias con los pobres. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81e8X4Con+L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260905162100 +0200" stop="20260905174900 +0200" channel="acontra+ CINE">
-    <title lang="es">Fresas salvajes (1959)</title>
-    <desc lang="es">El profesor Borg reflexiona sobre los placeres y fracasos de su propia vida en un viaje. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/912DmnSVQ3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260905174900 +0200" stop="20260905194700 +0200" channel="acontra+ CINE">
-    <title lang="es">Senso (1954)</title>
-    <desc lang="es">Venecia, 1866. Livia, una bella aristócrata italiana, vive un romance con el teniente Franz Mahler. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91RRRFhbw0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260905194700 +0200" stop="20260905210100 +0200" channel="acontra+ CINE">
+  <programme start="20260905190100 +0200" stop="20260905210100 +0200" channel="acontra+ CINE">
     <title lang="es">De Repente (1954)</title>
     <desc lang="es">Unos criminales quieren matar al presidente estadounidense. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81-cn0GVi9L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Harakiri (1962)</title>
     <desc lang="es">En el Japón de 1630, abundan los samuráis que han perdido su sentido de propósito. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91YkEs3n9sL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260906003800 +0200" stop="20260906022400 +0200" channel="acontra+ CINE">
+    <title lang="es">Tres solteros y un biberón (1986)</title>
+    <desc lang="es">Tres amigos solteros se encuentran un paquete en la puerta de su casa que contiene a una niña. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/817Q6tWqkGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260906022400 +0200" stop="20260906040900 +0200" channel="acontra+ CINE">
+    <title lang="es">Exótica (1994)</title>
+    <desc lang="es">Un solitario inspector de Hacienda acude cada noche al club de baile erótico Exótica. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B166go0R7zL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
