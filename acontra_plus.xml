@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260905223800 +0200" stop="20260906003800 +0200" channel="acontra+ CINE">
-    <title lang="es">Harakiri (1962)</title>
-    <desc lang="es">En el Japón de 1630, abundan los samuráis que han perdido su sentido de propósito. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91YkEs3n9sL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260906003800 +0200" stop="20260906022400 +0200" channel="acontra+ CINE">
-    <title lang="es">Tres solteros y un biberón (1986)</title>
-    <desc lang="es">Tres amigos solteros se encuentran un paquete en la puerta de su casa que contiene a una niña. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/817Q6tWqkGL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260906022400 +0200" stop="20260906040900 +0200" channel="acontra+ CINE">
-    <title lang="es">Exótica (1994)</title>
-    <desc lang="es">Un solitario inspector de Hacienda acude cada noche al club de baile erótico Exótica. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B166go0R7zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260906040900 +0200" stop="20260906060600 +0200" channel="acontra+ CINE">
+  <programme start="20260906040600 +0200" stop="20260906060600 +0200" channel="acontra+ CINE">
     <title lang="es">La anguila (1997)</title>
     <desc lang="es">Takuro Yamashita sale en libertad condicional tras haber matado a su esposa. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81zRh+SlX7L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El dossier 51 (2021)</title>
     <desc lang="es">Dominique Auphal es un diplomático francés que acepta un cargo de responsabilidad. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81XvzsFvNAL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260906091700 +0200" stop="20260906105400 +0200" channel="acontra+ CINE">
+    <title lang="es">El amor está en el aire (2013)</title>
+    <desc lang="es">Julie, a punto de casarse, se encuentra a Antoine, un exnovio del que estuvo muy enamorada. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81s1C3uqZCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260906105400 +0200" stop="20260906123400 +0200" channel="acontra+ CINE">
+    <title lang="es">De la vida de las marionetas (2003)</title>
+    <desc lang="es">Peter Egerman viola y estrangula a una prostituta debido a la frustración por su matrimonio fallido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91dUCyb19QL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260906123400 +0200" stop="20260906150900 +0200" channel="acontra+ CINE">
+    <title lang="es">Carmen de Bizet (1984)</title>
+    <desc lang="es">La trabajadora del tabaco Carmen atrae al joven soldado Don José por mal camino. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Ck0TUa3FL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
