@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260906040600 +0200" stop="20260906060600 +0200" channel="acontra+ CINE">
-    <title lang="es">La anguila (1997)</title>
-    <desc lang="es">Takuro Yamashita sale en libertad condicional tras haber matado a su esposa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81zRh+SlX7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260906060600 +0200" stop="20260906073200 +0200" channel="acontra+ CINE">
-    <title lang="es">Los signos del Apocalipsis (2014)</title>
-    <desc lang="es">Un científico poco convencional trata de descifrar símbolos para evitar la destrucción del planeta. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1ESCsb+JKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260906073200 +0200" stop="20260906091700 +0200" channel="acontra+ CINE">
-    <title lang="es">El dossier 51 (2021)</title>
-    <desc lang="es">Dominique Auphal es un diplomático francés que acepta un cargo de responsabilidad. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81XvzsFvNAL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260906091700 +0200" stop="20260906105400 +0200" channel="acontra+ CINE">
+  <programme start="20260906085400 +0200" stop="20260906105400 +0200" channel="acontra+ CINE">
     <title lang="es">El amor está en el aire (2013)</title>
     <desc lang="es">Julie, a punto de casarse, se encuentra a Antoine, un exnovio del que estuvo muy enamorada. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81s1C3uqZCL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Carmen de Bizet (1984)</title>
     <desc lang="es">La trabajadora del tabaco Carmen atrae al joven soldado Don José por mal camino. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Ck0TUa3FL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260906150900 +0200" stop="20260906170300 +0200" channel="acontra+ CINE">
+    <title lang="es">Bright Star (2009)</title>
+    <desc lang="es">El romance de tres años entre el poeta John Keats y Fanny Brawne cerca del final de su vida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1zxyQnUk9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260906170300 +0200" stop="20260906184200 +0200" channel="acontra+ CINE">
+    <title lang="es">14 días, 12 noches (2021)</title>
+    <desc lang="es">Isabel vuelve a Vietnam un año después de la trágica muerte de su hija Clara. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/918nQDfInWL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
