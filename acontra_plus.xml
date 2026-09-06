@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260906130900 +0200" stop="20260906150900 +0200" channel="acontra+ CINE">
-    <title lang="es">Carmen de Bizet (1984)</title>
-    <desc lang="es">La trabajadora del tabaco Carmen atrae al joven soldado Don José por mal camino. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Ck0TUa3FL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260906150900 +0200" stop="20260906170300 +0200" channel="acontra+ CINE">
-    <title lang="es">Bright Star (2009)</title>
-    <desc lang="es">El romance de tres años entre el poeta John Keats y Fanny Brawne cerca del final de su vida. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1zxyQnUk9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260906170300 +0200" stop="20260906184200 +0200" channel="acontra+ CINE">
-    <title lang="es">14 días, 12 noches (2021)</title>
-    <desc lang="es">Isabel vuelve a Vietnam un año después de la trágica muerte de su hija Clara. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/918nQDfInWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260906184200 +0200" stop="20260906201700 +0200" channel="acontra+ CINE">
+  <programme start="20260906181700 +0200" stop="20260906201700 +0200" channel="acontra+ CINE">
     <title lang="es">Amityville: El origen (2018)</title>
     <desc lang="es">Una noche de 1974, Ronald DeFeo Jr. cogió un rifle y asesinó a toda su familia mientras dormía. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Gicw6tMYL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Fedora (1980)</title>
     <desc lang="es">A base de flashbacks, recorremos la vida de Fedora, una famosa actriz que muere atropellada. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81h-3V4uDLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260906235600 +0200" stop="20260907012800 +0200" channel="acontra+ CINE">
+    <title lang="es">Nuestro último verano en Escocia (2014)</title>
+    <desc lang="es">Una pareja recién separada con hijos viaja a Escocia para el cumpleaños del abuelo enfermo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ZdTEM4w9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260907012800 +0200" stop="20260907040800 +0200" channel="acontra+ CINE">
+    <title lang="es">Van Gogh (1992)</title>
+    <desc lang="es">La película de los últimos meses de la vida y el arte del pintor Vincent Van Gogh en París. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91bPQ3prf8L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
