@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260907085600 +0200" stop="20260907105600 +0200" channel="acontra+ CINE">
-    <title lang="es">Bichos raros (2007)</title>
-    <desc lang="es">Dos inadaptados se conocen en una fiesta de disfraces y descubren que tienen mucho en común. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91jYTr8aPEL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260907105600 +0200" stop="20260907123100 +0200" channel="acontra+ CINE">
-    <title lang="es">Absolución (1987)</title>
-    <desc lang="es">Un cura debe decidir si quebrantar el secreto de confesión. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/618HEhcNOqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260907123100 +0200" stop="20260907142500 +0200" channel="acontra+ CINE">
-    <title lang="es">El Skylab (2011)</title>
-    <desc lang="es">Julio de 1979. Albertine, de diez años, y sus familiares se reúnen en una casa de Bretaña. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ccAm5Q3PL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260907142500 +0200" stop="20260907155500 +0200" channel="acontra+ CINE">
+  <programme start="20260907135500 +0200" stop="20260907155500 +0200" channel="acontra+ CINE">
     <title lang="es">El cuchillo en el agua (1962)</title>
     <desc lang="es">En el transcurso de un día en un yate surge un extraño triángulo entre una pareja y un hombre. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71whSLXVt1L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Madres e hijas (2010)</title>
     <desc lang="es">Tres mujeres, Karen, Elizabeth y Lucy, comparten un objetivo común: adoptar a un hijo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/8165KRQ-0PL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260907194300 +0200" stop="20260907215600 +0200" channel="acontra+ CINE">
+    <title lang="es">Ocho y medio (1963)</title>
+    <desc lang="es">Un director de cine atraviesa una crisis de creatividad. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81arxyacWlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260907215600 +0200" stop="20260907231600 +0200" channel="acontra+ CINE">
+    <title lang="es">La matanza de Texas (1974)</title>
+    <desc lang="es">Un grupo de jóvenes son atacados con sierras y otras herramientas mortales por seres dementes. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71VJFqz66zL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
