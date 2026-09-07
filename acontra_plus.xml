@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260907040200 +0200" stop="20260907060200 +0200" channel="acontra+ CINE">
-    <title lang="es">Cuento de Verano (1996)</title>
-    <desc lang="es">Mientras aguarda a su novia, Gaspard se siente atraído por otras dos mujeres en sus vacaciones. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/719p7wpkgOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260907060200 +0200" stop="20260907075400 +0200" channel="acontra+ CINE">
-    <title lang="es">La sala de baile (1984)</title>
-    <desc lang="es">Ettore Scola narra la historia de Europa de los últimos 50 años comprimiéndola en un salón de baile. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/813CAMpLW9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260907075400 +0200" stop="20260907092800 +0200" channel="acontra+ CINE">
-    <title lang="es">The Last Five Years (2014)</title>
-    <desc lang="es">Basada en la obra musical de Jason Robert Brown. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81dfDfoXLCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260907092800 +0200" stop="20260907105600 +0200" channel="acontra+ CINE">
+  <programme start="20260907085600 +0200" stop="20260907105600 +0200" channel="acontra+ CINE">
     <title lang="es">Bichos raros (2007)</title>
     <desc lang="es">Dos inadaptados se conocen en una fiesta de disfraces y descubren que tienen mucho en común. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91jYTr8aPEL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El Skylab (2011)</title>
     <desc lang="es">Julio de 1979. Albertine, de diez años, y sus familiares se reúnen en una casa de Bretaña. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ccAm5Q3PL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260907142500 +0200" stop="20260907155500 +0200" channel="acontra+ CINE">
+    <title lang="es">El cuchillo en el agua (1962)</title>
+    <desc lang="es">En el transcurso de un día en un yate surge un extraño triángulo entre una pareja y un hombre. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71whSLXVt1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260907155500 +0200" stop="20260907174200 +0200" channel="acontra+ CINE">
+    <title lang="es">Farinelli: Il Castrato (1994)</title>
+    <desc lang="es">Con tan solo 32 años, Farinelli, célebre "castrato", está en la cumbre del éxito profesional. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8151aO39RaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260907174200 +0200" stop="20260907194300 +0200" channel="acontra+ CINE">
+    <title lang="es">Madres e hijas (2010)</title>
+    <desc lang="es">Tres mujeres, Karen, Elizabeth y Lucy, comparten un objetivo común: adoptar a un hijo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8165KRQ-0PL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
