@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260907195600 +0200" stop="20260907215600 +0200" channel="acontra+ CINE">
-    <title lang="es">Ocho y medio (1963)</title>
-    <desc lang="es">Un director de cine atraviesa una crisis de creatividad. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81arxyacWlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260907215600 +0200" stop="20260907231600 +0200" channel="acontra+ CINE">
-    <title lang="es">La matanza de Texas (1974)</title>
-    <desc lang="es">Un grupo de jóvenes son atacados con sierras y otras herramientas mortales por seres dementes. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71VJFqz66zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260907231600 +0200" stop="20260908005300 +0200" channel="acontra+ CINE">
+  <programme start="20260907225300 +0200" stop="20260908005300 +0200" channel="acontra+ CINE">
     <title lang="es">Perversidad (1945)</title>
     <desc lang="es">Un talentoso pintor es explotado por una pareja astuta. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81sCHck-WNL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Sweet Virginia (2017)</title>
     <desc lang="es">Un antiguo campeón de rodeo cae en una espiral de secretos y violencia. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1kZccXxddL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260908040700 +0200" stop="20260908064000 +0200" channel="acontra+ CINE">
+    <title lang="es">Maria Chapdelaine (2021)</title>
+    <desc lang="es">La hija de un granjero se enfrenta a una difícil elección entre tres pretendientes muy diferentes. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1+kMZBWj7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260908064000 +0200" stop="20260908082900 +0200" channel="acontra+ CINE">
+    <title lang="es">La venganza de un soldado</title>
+    <desc lang="es">Frank Morgan regresa de Vietnam y ayuda a una joven a luchar en una revolución centroamericana. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tMWga1XFL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
