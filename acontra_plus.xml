@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260906232800 +0200" stop="20260907012800 +0200" channel="acontra+ CINE">
-    <title lang="es">Nuestro último verano en Escocia (2014)</title>
-    <desc lang="es">Una pareja recién separada con hijos viaja a Escocia para el cumpleaños del abuelo enfermo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ZdTEM4w9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260907012800 +0200" stop="20260907040800 +0200" channel="acontra+ CINE">
-    <title lang="es">Van Gogh (1992)</title>
-    <desc lang="es">La película de los últimos meses de la vida y el arte del pintor Vincent Van Gogh en París. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91bPQ3prf8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260907040800 +0200" stop="20260907060200 +0200" channel="acontra+ CINE">
+  <programme start="20260907040200 +0200" stop="20260907060200 +0200" channel="acontra+ CINE">
     <title lang="es">Cuento de Verano (1996)</title>
     <desc lang="es">Mientras aguarda a su novia, Gaspard se siente atraído por otras dos mujeres en sus vacaciones. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/719p7wpkgOL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">The Last Five Years (2014)</title>
     <desc lang="es">Basada en la obra musical de Jason Robert Brown. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81dfDfoXLCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260907092800 +0200" stop="20260907105600 +0200" channel="acontra+ CINE">
+    <title lang="es">Bichos raros (2007)</title>
+    <desc lang="es">Dos inadaptados se conocen en una fiesta de disfraces y descubren que tienen mucho en común. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91jYTr8aPEL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260907105600 +0200" stop="20260907123100 +0200" channel="acontra+ CINE">
+    <title lang="es">Absolución (1987)</title>
+    <desc lang="es">Un cura debe decidir si quebrantar el secreto de confesión. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/618HEhcNOqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260907123100 +0200" stop="20260907142500 +0200" channel="acontra+ CINE">
+    <title lang="es">El Skylab (2011)</title>
+    <desc lang="es">Julio de 1979. Albertine, de diez años, y sus familiares se reúnen en una casa de Bretaña. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ccAm5Q3PL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
