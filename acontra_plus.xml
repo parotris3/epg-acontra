@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260907135500 +0200" stop="20260907155500 +0200" channel="acontra+ CINE">
-    <title lang="es">El cuchillo en el agua (1962)</title>
-    <desc lang="es">En el transcurso de un día en un yate surge un extraño triángulo entre una pareja y un hombre. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71whSLXVt1L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260907155500 +0200" stop="20260907174200 +0200" channel="acontra+ CINE">
-    <title lang="es">Farinelli: Il Castrato (1994)</title>
-    <desc lang="es">Con tan solo 32 años, Farinelli, célebre "castrato", está en la cumbre del éxito profesional. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8151aO39RaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260907174200 +0200" stop="20260907194300 +0200" channel="acontra+ CINE">
-    <title lang="es">Madres e hijas (2010)</title>
-    <desc lang="es">Tres mujeres, Karen, Elizabeth y Lucy, comparten un objetivo común: adoptar a un hijo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8165KRQ-0PL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260907194300 +0200" stop="20260907215600 +0200" channel="acontra+ CINE">
+  <programme start="20260907195600 +0200" stop="20260907215600 +0200" channel="acontra+ CINE">
     <title lang="es">Ocho y medio (1963)</title>
     <desc lang="es">Un director de cine atraviesa una crisis de creatividad. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81arxyacWlL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">La matanza de Texas (1974)</title>
     <desc lang="es">Un grupo de jóvenes son atacados con sierras y otras herramientas mortales por seres dementes. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71VJFqz66zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260907231600 +0200" stop="20260908005300 +0200" channel="acontra+ CINE">
+    <title lang="es">Perversidad (1945)</title>
+    <desc lang="es">Un talentoso pintor es explotado por una pareja astuta. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81sCHck-WNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260908005300 +0200" stop="20260908023200 +0200" channel="acontra+ CINE">
+    <title lang="es">Ondine (2009)</title>
+    <desc lang="es">Un pescador irlandés descubre a una mujer en sus redes. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81+IxXZ2pvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260908023200 +0200" stop="20260908040700 +0200" channel="acontra+ CINE">
+    <title lang="es">Sweet Virginia (2017)</title>
+    <desc lang="es">Un antiguo campeón de rodeo cae en una espiral de secretos y violencia. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1kZccXxddL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
