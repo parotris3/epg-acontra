@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260908143300 +0200" stop="20260908163300 +0200" channel="acontra+ CINE">
-    <title lang="es">El tambor de hojalata (1988)</title>
-    <desc lang="es">En su tercer cumpleaños, Oskar recibe su primer tambor de hojalata. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91oMcNQd4CL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260908163300 +0200" stop="20260908180400 +0200" channel="acontra+ CINE">
-    <title lang="es">The Point Men: En el punto de mira (2001)</title>
-    <desc lang="es">Un agente secreto del Mossad israelí debe atrapar a un peligroso terrorista. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71dpu8snIHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260908180400 +0200" stop="20260908192900 +0200" channel="acontra+ CINE">
-    <title lang="es">Rashomon (1950)</title>
-    <desc lang="es">Siglo XII, Melancólica radiografía de la naturaleza humana. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71wyXb0sZML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260908192900 +0200" stop="20260908211800 +0200" channel="acontra+ CINE">
+  <programme start="20260908191800 +0200" stop="20260908211800 +0200" channel="acontra+ CINE">
     <title lang="es">Charada (1963)</title>
     <desc lang="es">Comedia de intriga donde una mujer investiga la muerte de su marido. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81G+eBujYYL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">My Beautiful Laundrette (1986)</title>
     <desc lang="es">Dos jóvenes se unen para restaurar una lavandería. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71PewlESOcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260909003700 +0200" stop="20260909021900 +0200" channel="acontra+ CINE">
+    <title lang="es">Enigma (1982)</title>
+    <desc lang="es">Alex Holbeck debe evitar que varios disidentes políticos sean asesinados por el KGB. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81fgSzI8EzL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260909021900 +0200" stop="20260909041200 +0200" channel="acontra+ CINE">
+    <title lang="es">El arpa birmana (1956)</title>
+    <desc lang="es">Año 1945. Un soldado nipón que toca el arpa queda horrorizado por la destrucción que le rodea. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81xonY1GQPL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
