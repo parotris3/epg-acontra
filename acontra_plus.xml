@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260908044000 +0200" stop="20260908064000 +0200" channel="acontra+ CINE">
-    <title lang="es">Maria Chapdelaine (2021)</title>
-    <desc lang="es">La hija de un granjero se enfrenta a una difícil elección entre tres pretendientes muy diferentes. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1+kMZBWj7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260908064000 +0200" stop="20260908082900 +0200" channel="acontra+ CINE">
-    <title lang="es">La venganza de un soldado</title>
-    <desc lang="es">Frank Morgan regresa de Vietnam y ayuda a una joven a luchar en una revolución centroamericana. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tMWga1XFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260908082900 +0200" stop="20260908095900 +0200" channel="acontra+ CINE">
-    <title lang="es">Buenos días (1959)</title>
-    <desc lang="es">Dos niños de los años 50 juran guardar silencio hasta que sus padres les compren un televisor. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71GiINqPEtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260908095900 +0200" stop="20260908123400 +0200" channel="acontra+ CINE">
+  <programme start="20260908103400 +0200" stop="20260908123400 +0200" channel="acontra+ CINE">
     <title lang="es">Pequeñas mentiras sin importancia (2010)</title>
     <desc lang="es">Un matrimonio invita a un grupo de amigos a su casa de la playa, pero un amigo no puede asistir. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Ci1eiig8L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,15 @@
     <title lang="es">Trabajo clandestino (1982)</title>
     <desc lang="es">Nowak y su equipo de albañiles polacos llegan a Londres para trabajar clandestinamente en una casa. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Vef6-ewhL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260908141100 +0200" stop="20260908163300 +0200" channel="acontra+ CINE">
+    <title lang="es">El tambor de hojalata (1988)</title>
+    <desc lang="es">En su tercer cumpleaños, Oskar recibe su primer tambor de hojalata. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91oMcNQd4CL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260908163300 +0200" stop="20260908180400 +0200" channel="acontra+ CINE">
+    <title lang="es">The Point Men: En el punto de mira (2001)</title>
+    <desc lang="es">Un agente secreto del Mossad israelí debe atrapar a un peligroso terrorista. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71dpu8snIHL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
