@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260908103400 +0200" stop="20260908123400 +0200" channel="acontra+ CINE">
-    <title lang="es">Pequeñas mentiras sin importancia (2010)</title>
-    <desc lang="es">Un matrimonio invita a un grupo de amigos a su casa de la playa, pero un amigo no puede asistir. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Ci1eiig8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260908123400 +0200" stop="20260908141100 +0200" channel="acontra+ CINE">
-    <title lang="es">Trabajo clandestino (1982)</title>
-    <desc lang="es">Nowak y su equipo de albañiles polacos llegan a Londres para trabajar clandestinamente en una casa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Vef6-ewhL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260908141100 +0200" stop="20260908163300 +0200" channel="acontra+ CINE">
+  <programme start="20260908143300 +0200" stop="20260908163300 +0200" channel="acontra+ CINE">
     <title lang="es">El tambor de hojalata (1988)</title>
     <desc lang="es">En su tercer cumpleaños, Oskar recibe su primer tambor de hojalata. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91oMcNQd4CL._UR1920,1080_FMpng_.jpg"/>
@@ -22,5 +12,25 @@
     <title lang="es">The Point Men: En el punto de mira (2001)</title>
     <desc lang="es">Un agente secreto del Mossad israelí debe atrapar a un peligroso terrorista. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71dpu8snIHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260908180400 +0200" stop="20260908192900 +0200" channel="acontra+ CINE">
+    <title lang="es">Rashomon (1950)</title>
+    <desc lang="es">Siglo XII, Melancólica radiografía de la naturaleza humana. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71wyXb0sZML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260908192900 +0200" stop="20260908211800 +0200" channel="acontra+ CINE">
+    <title lang="es">Charada (1963)</title>
+    <desc lang="es">Comedia de intriga donde una mujer investiga la muerte de su marido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81G+eBujYYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260908211800 +0200" stop="20260908225900 +0200" channel="acontra+ CINE">
+    <title lang="es">Four Lions (2010)</title>
+    <desc lang="es">Cuatro musulmanes intentan realizar, sin éxito, actos de terrorismo en Inglaterra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81HPccFYNSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260908225900 +0200" stop="20260909003700 +0200" channel="acontra+ CINE">
+    <title lang="es">My Beautiful Laundrette (1986)</title>
+    <desc lang="es">Dos jóvenes se unen para restaurar una lavandería. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71PewlESOcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
