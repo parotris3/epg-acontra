@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260909085300 +0200" stop="20260909105300 +0200" channel="acontra+ CINE">
-    <title lang="es">Dog Soldiers (2002)</title>
-    <desc lang="es">Unos soldados ingleses lucharán por sus vidas al enfrentarse a unas agresivas y extrañas bestias. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/918fYN7V4wL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260909105300 +0200" stop="20260909124700 +0200" channel="acontra+ CINE">
-    <title lang="es">Byzantium (2012)</title>
-    <desc lang="es">Dos vampiresas que huyen de otros vampiros se refugian en una comunidad británica junto al mar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91pz7+eAfkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260909124700 +0200" stop="20260909142400 +0200" channel="acontra+ CINE">
-    <title lang="es">House at the End of the Street (2012)</title>
-    <desc lang="es">Madre e hija se mudan junto a la escena de un homicidio. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/818BZtzxqZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260909142400 +0200" stop="20260909170600 +0200" channel="acontra+ CINE">
+  <programme start="20260909150600 +0200" stop="20260909170600 +0200" channel="acontra+ CINE">
     <title lang="es">Lo que el día debe a la noche (2012)</title>
     <desc lang="es">Un niño ve cómo se pone a prueba su amistad con sus amigos cuando una joven llega al pueblo. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/910jaGl7Z3L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">El caso Farewell (2009)</title>
     <desc lang="es">Un coronel proporciona información secreta sobre el régimen comunista ruso a un ingeniero francés. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81KMPsGbe+L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260909185900 +0200" stop="20260909203000 +0200" channel="acontra+ CINE">
+    <title lang="es">El señor de las moscas (1990)</title>
+    <desc lang="es">Los supervivientes a un accidente de avión militar tendrán que sobrevivir en una isla. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81a1hgGIvjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260909203000 +0200" stop="20260909220100 +0200" channel="acontra+ CINE">
+    <title lang="es">Otro país (1985)</title>
+    <desc lang="es">En los años 30, dos jóvenes entablan amistad en un colegio británico de clase alta. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/9182KTodawL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260909220100 +0200" stop="20260909234800 +0200" channel="acontra+ CINE">
+    <title lang="es">Un hombre en el tejado (1976)</title>
+    <desc lang="es">El teniente de la policía Nyman es brutalmente asesinado en un hospital de Estocolmo. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81mr4InncSL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
