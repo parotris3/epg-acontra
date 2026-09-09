@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260909183000 +0200" stop="20260909203000 +0200" channel="acontra+ CINE">
-    <title lang="es">El señor de las moscas (1990)</title>
-    <desc lang="es">Los supervivientes a un accidente de avión militar tendrán que sobrevivir en una isla. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81a1hgGIvjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260909203000 +0200" stop="20260909220100 +0200" channel="acontra+ CINE">
-    <title lang="es">Otro país (1985)</title>
-    <desc lang="es">En los años 30, dos jóvenes entablan amistad en un colegio británico de clase alta. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/9182KTodawL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260909220100 +0200" stop="20260909234800 +0200" channel="acontra+ CINE">
-    <title lang="es">Un hombre en el tejado (1976)</title>
-    <desc lang="es">El teniente de la policía Nyman es brutalmente asesinado en un hospital de Estocolmo. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81mr4InncSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260909234800 +0200" stop="20260910012600 +0200" channel="acontra+ CINE">
+  <programme start="20260909232600 +0200" stop="20260910012600 +0200" channel="acontra+ CINE">
     <title lang="es">Young Adam (2003)</title>
     <desc lang="es">Joe es un joven que encuentra trabajo en una barcaza propiedad de Les y su enigmática mujer. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1WaZaZMKJL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El marido de la peluquera (1990)</title>
     <desc lang="es">Fascinado por los estilistas desde que era un niño, Antoine promete casarse con una peluquera. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/918xYPpp98L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260910041700 +0200" stop="20260910055200 +0200" channel="acontra+ CINE">
+    <title lang="es">Dos vidas en un instante (1998)</title>
+    <desc lang="es">En medio de las crisis, la vida de Helen da un giro y experimenta una realidad alternativa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71gf9K9ZaPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260910055200 +0200" stop="20260910073000 +0200" channel="acontra+ CINE">
+    <title lang="es">Oxford Blues (1984)</title>
+    <desc lang="es">Un americano que anda tras la chica de sus sueños amenaza la tradición de la Universidad de Oxford. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91t7glRFKjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260910073000 +0200" stop="20260910090300 +0200" channel="acontra+ CINE">
+    <title lang="es">El regreso de Jack el destripador (1988)</title>
+    <desc lang="es">Un asesino de Los Ángeles intenta replicar los asesinatos de Jack el destripador. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91bbvDVxctL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
