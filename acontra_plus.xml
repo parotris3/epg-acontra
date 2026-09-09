@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260909034100 +0200" stop="20260909054100 +0200" channel="acontra+ CINE">
-    <title lang="es">Como en un espejo (1961)</title>
-    <desc lang="es">Karin pierde el contacto con la realidad a causa de la esquizofrenia que padece. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nB1w59ZQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260909054100 +0200" stop="20260909074100 +0200" channel="acontra+ CINE">
-    <title lang="es">Dinero fácil (2010)</title>
-    <desc lang="es">Tres criminales se unen para conseguir un objetivo común: vengarse del gran capo Radovan. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1hkAaQa6JL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260909074100 +0200" stop="20260909091300 +0200" channel="acontra+ CINE">
-    <title lang="es">Ático sin ascensor (2014)</title>
-    <desc lang="es">Una pareja mayor intenta vender su apartamento de Brooklyn donde han vivido más de cuarenta años. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81M6kDL8+yL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260909091300 +0200" stop="20260909105300 +0200" channel="acontra+ CINE">
+  <programme start="20260909085300 +0200" stop="20260909105300 +0200" channel="acontra+ CINE">
     <title lang="es">Dog Soldiers (2002)</title>
     <desc lang="es">Unos soldados ingleses lucharán por sus vidas al enfrentarse a unas agresivas y extrañas bestias. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/918fYN7V4wL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">House at the End of the Street (2012)</title>
     <desc lang="es">Madre e hija se mudan junto a la escena de un homicidio. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/818BZtzxqZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260909142400 +0200" stop="20260909170600 +0200" channel="acontra+ CINE">
+    <title lang="es">Lo que el día debe a la noche (2012)</title>
+    <desc lang="es">Un niño ve cómo se pone a prueba su amistad con sus amigos cuando una joven llega al pueblo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/910jaGl7Z3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260909170600 +0200" stop="20260909185900 +0200" channel="acontra+ CINE">
+    <title lang="es">El caso Farewell (2009)</title>
+    <desc lang="es">Un coronel proporciona información secreta sobre el régimen comunista ruso a un ingeniero francés. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81KMPsGbe+L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
