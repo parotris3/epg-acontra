@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260910192700 +0200" stop="20260910212700 +0200" channel="acontra+ CINE">
-    <title lang="es">Invasión robótica (2006)</title>
-    <desc lang="es">Un avión con robots militares se estrella en una isla desierta y los Navy Seals deben actuar. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1NIzcm0jDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260910212700 +0200" stop="20260910230600 +0200" channel="acontra+ CINE">
-    <title lang="es">Relaciones confidenciales (2003)</title>
-    <desc lang="es">Un experto en relaciones públicas realiza un encargo que pondrá en peligro su vida. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/919NRqvGd3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260910230600 +0200" stop="20260911003300 +0200" channel="acontra+ CINE">
+  <programme start="20260910223300 +0200" stop="20260911003300 +0200" channel="acontra+ CINE">
     <title lang="es">Hiroshima, mon amour (1959)</title>
     <desc lang="es">Una actriz francesa se enamora de un arquitecto japonés en la época de la posguerra. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81hJzVu9vRL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Un Tipo Genial (1983)</title>
     <desc lang="es">El representante de una compañía de petróleos quiere comprar un pueblecito pesquero escocés. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Xhp6oX1mL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260911041900 +0200" stop="20260911060000 +0200" channel="acontra+ CINE">
+    <title lang="es">Un rostro de mujer (1941)</title>
+    <desc lang="es">Una mujer en juicio por un asesinato revela su pasado antes de haberse sometido a una cirugía. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91OdDsCcpVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260911060000 +0200" stop="20260911075300 +0200" channel="acontra+ CINE">
+    <title lang="es">El dulce porvenir (1997)</title>
+    <desc lang="es">Un abogado va a un pequeño pueblo que sufre las secuelas del accidente de un autobús escolar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71-Vxuw0sKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260911075300 +0200" stop="20260911094200 +0200" channel="acontra+ CINE">
+    <title lang="es">La fiesta (1982)</title>
+    <desc lang="es">Vic, a sus 14 años, atraviesa la etapa de sus primeros flirteos y fiestas entre amigas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81M2qfD7kNL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
