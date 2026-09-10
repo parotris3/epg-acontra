@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260909232600 +0200" stop="20260910012600 +0200" channel="acontra+ CINE">
-    <title lang="es">Young Adam (2003)</title>
-    <desc lang="es">Joe es un joven que encuentra trabajo en una barcaza propiedad de Les y su enigmática mujer. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1WaZaZMKJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260910012600 +0200" stop="20260910025700 +0200" channel="acontra+ CINE">
-    <title lang="es">La infancia de Iván (1963)</title>
-    <desc lang="es">Iván, un niño ruso cuyos padres murieron tras la invasión nazi, espía a los alemanes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81EtCa22FeL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260910025700 +0200" stop="20260910041700 +0200" channel="acontra+ CINE">
-    <title lang="es">El marido de la peluquera (1990)</title>
-    <desc lang="es">Fascinado por los estilistas desde que era un niño, Antoine promete casarse con una peluquera. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/918xYPpp98L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260910041700 +0200" stop="20260910055200 +0200" channel="acontra+ CINE">
+  <programme start="20260910035200 +0200" stop="20260910055200 +0200" channel="acontra+ CINE">
     <title lang="es">Dos vidas en un instante (1998)</title>
     <desc lang="es">En medio de las crisis, la vida de Helen da un giro y experimenta una realidad alternativa. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71gf9K9ZaPL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El regreso de Jack el destripador (1988)</title>
     <desc lang="es">Un asesino de Los Ángeles intenta replicar los asesinatos de Jack el destripador. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91bbvDVxctL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260910090300 +0200" stop="20260910105000 +0200" channel="acontra+ CINE">
+    <title lang="es">Housebound (2014)</title>
+    <desc lang="es">Una aspirante a ladrona es remitida a la custodia de su madre distanciada. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81HHDEtoTXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260910105000 +0200" stop="20260910124200 +0200" channel="acontra+ CINE">
+    <title lang="es">Más allá del deber (2001)</title>
+    <desc lang="es">Un regimiento escocés, durante la Segunda Guerra, debió construir la vía ferroviaria de la muerte. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81P1jHaw-RL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260910124200 +0200" stop="20260910143900 +0200" channel="acontra+ CINE">
+    <title lang="es">Nueva vida en Nueva York (2013)</title>
+    <desc lang="es">Xavier es un escritor de 40 años que no ha sentado la cabeza y va a Nueva York a encontrar su lugar. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qkrxjYFTL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
