@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260910085000 +0200" stop="20260910105000 +0200" channel="acontra+ CINE">
-    <title lang="es">Housebound (2014)</title>
-    <desc lang="es">Una aspirante a ladrona es remitida a la custodia de su madre distanciada. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81HHDEtoTXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260910105000 +0200" stop="20260910124200 +0200" channel="acontra+ CINE">
-    <title lang="es">Más allá del deber (2001)</title>
-    <desc lang="es">Un regimiento escocés, durante la Segunda Guerra, debió construir la vía ferroviaria de la muerte. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81P1jHaw-RL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260910124200 +0200" stop="20260910143900 +0200" channel="acontra+ CINE">
-    <title lang="es">Nueva vida en Nueva York (2013)</title>
-    <desc lang="es">Xavier es un escritor de 40 años que no ha sentado la cabeza y va a Nueva York a encontrar su lugar. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qkrxjYFTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260910143900 +0200" stop="20260910162000 +0200" channel="acontra+ CINE">
+  <programme start="20260910142000 +0200" stop="20260910162000 +0200" channel="acontra+ CINE">
     <title lang="es">La parte de los ángeles (2012)</title>
     <desc lang="es">Robbie apenas evade la cárcel, se inspira para hallar la forma de salir de una vida sin esperanza. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71ExK0oAYLL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">La linterna roja (1991)</title>
     <desc lang="es">China, años 20. Una joven accede a ser concubina de un hombre acaudalado que ya tiene tres esposas. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81mKZ-18XaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260910182000 +0200" stop="20260910195700 +0200" channel="acontra+ CINE">
+    <title lang="es">Agujero en la cabeza (2023)</title>
+    <desc lang="es">María decide ir a conocer al activista que mató a su padre hace 40 años. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71PeWGT6PdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260910195700 +0200" stop="20260910212700 +0200" channel="acontra+ CINE">
+    <title lang="es">Invasión robótica (2006)</title>
+    <desc lang="es">Un avión con robots militares se estrella en una isla desierta y los Navy Seals deben actuar. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1NIzcm0jDL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260910212700 +0200" stop="20260910230600 +0200" channel="acontra+ CINE">
+    <title lang="es">Relaciones confidenciales (2003)</title>
+    <desc lang="es">Un experto en relaciones públicas realiza un encargo que pondrá en peligro su vida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/919NRqvGd3L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
