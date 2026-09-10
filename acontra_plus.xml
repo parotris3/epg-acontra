@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260910035200 +0200" stop="20260910055200 +0200" channel="acontra+ CINE">
-    <title lang="es">Dos vidas en un instante (1998)</title>
-    <desc lang="es">En medio de las crisis, la vida de Helen da un giro y experimenta una realidad alternativa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71gf9K9ZaPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260910055200 +0200" stop="20260910073000 +0200" channel="acontra+ CINE">
-    <title lang="es">Oxford Blues (1984)</title>
-    <desc lang="es">Un americano que anda tras la chica de sus sueños amenaza la tradición de la Universidad de Oxford. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91t7glRFKjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260910073000 +0200" stop="20260910090300 +0200" channel="acontra+ CINE">
-    <title lang="es">El regreso de Jack el destripador (1988)</title>
-    <desc lang="es">Un asesino de Los Ángeles intenta replicar los asesinatos de Jack el destripador. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91bbvDVxctL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260910090300 +0200" stop="20260910105000 +0200" channel="acontra+ CINE">
+  <programme start="20260910085000 +0200" stop="20260910105000 +0200" channel="acontra+ CINE">
     <title lang="es">Housebound (2014)</title>
     <desc lang="es">Una aspirante a ladrona es remitida a la custodia de su madre distanciada. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81HHDEtoTXL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Nueva vida en Nueva York (2013)</title>
     <desc lang="es">Xavier es un escritor de 40 años que no ha sentado la cabeza y va a Nueva York a encontrar su lugar. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81qkrxjYFTL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260910143900 +0200" stop="20260910162000 +0200" channel="acontra+ CINE">
+    <title lang="es">La parte de los ángeles (2012)</title>
+    <desc lang="es">Robbie apenas evade la cárcel, se inspira para hallar la forma de salir de una vida sin esperanza. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ExK0oAYLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260910162000 +0200" stop="20260910182000 +0200" channel="acontra+ CINE">
+    <title lang="es">La linterna roja (1991)</title>
+    <desc lang="es">China, años 20. Una joven accede a ser concubina de un hombre acaudalado que ya tiene tres esposas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81mKZ-18XaL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
