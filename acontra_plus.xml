@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260911142400 +0200" stop="20260911162400 +0200" channel="acontra+ CINE">
-    <title lang="es">La tierra de los hijos</title>
-    <desc lang="es">El final de la civilización ha llegado. Un padre y su hijo se encuentran entre los supervivientes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81UTrjFMl3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260911162400 +0200" stop="20260911180800 +0200" channel="acontra+ CINE">
-    <title lang="es">French Cancan (1955)</title>
-    <desc lang="es">Danglard es un productor de espectáculos que desea volver a poner de moda el cancán. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qmVKnEy3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260911180800 +0200" stop="20260911194600 +0200" channel="acontra+ CINE">
-    <title lang="es">Cash (2008)</title>
-    <desc lang="es">Cash decide vengar el asesinato de su hermano a su manera: sin armas ni violencia, con estilo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91nYcTFWEvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260911194600 +0200" stop="20260911211900 +0200" channel="acontra+ CINE">
+  <programme start="20260911191900 +0200" stop="20260911211900 +0200" channel="acontra+ CINE">
     <title lang="es">20 años no importan (2013)</title>
     <desc lang="es">La vida de Alice, una mujer ambiciosa y egocéntrica, cambia cuando conoce al joven Baltasar. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91sfPGXr9ML._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">La novena configuración (1980)</title>
     <desc lang="es">El Coronel Hudson Kane llega para hacerse cargo de una institución psiquiátrica militar. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/614osUZ0gPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260912004000 +0200" stop="20260912020700 +0200" channel="acontra+ CINE">
+    <title lang="es">Nada (2022)</title>
+    <desc lang="es">Cuando Pierre Anthon comienza el octavo grado, no le ve sentido a la vida y se muda a un árbol. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Vrpm8h3cL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260912020700 +0200" stop="20260912042200 +0200" channel="acontra+ CINE">
+    <title lang="es">Francesco (1989)</title>
+    <desc lang="es">Tras la muerte de San Francisco de Asís, sus amigos más cercanos hablan de la vida del santo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81oU1qjZcsL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
