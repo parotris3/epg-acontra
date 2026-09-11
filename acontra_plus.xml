@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260911091500 +0200" stop="20260911111500 +0200" channel="acontra+ CINE">
-    <title lang="es">Zazie en el metro (1960)</title>
-    <desc lang="es">Zazie, una niña de doce años, llega a París con una cosa en mente: viajar en metro. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91XvQNXaO9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260911111500 +0200" stop="20260911125900 +0200" channel="acontra+ CINE">
-    <title lang="es">Llévame a la luna (2012)</title>
-    <desc lang="es">Una mujer se propone eliminar la maldición familiar en la que cada primer matrimonio se divorcia. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/813uBwbCaXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260911125900 +0200" stop="20260911142800 +0200" channel="acontra+ CINE">
-    <title lang="es">La mirada del amor (2013)</title>
-    <desc lang="es">Una mujer se enamora de un hombre que se parece a su esposo fallecido. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91LGJdPU8CL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260911142800 +0200" stop="20260911162400 +0200" channel="acontra+ CINE">
+  <programme start="20260911142400 +0200" stop="20260911162400 +0200" channel="acontra+ CINE">
     <title lang="es">La tierra de los hijos</title>
     <desc lang="es">El final de la civilización ha llegado. Un padre y su hijo se encuentran entre los supervivientes. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81UTrjFMl3L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">French Cancan (1955)</title>
     <desc lang="es">Danglard es un productor de espectáculos que desea volver a poner de moda el cancán. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81qmVKnEy3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260911180800 +0200" stop="20260911194600 +0200" channel="acontra+ CINE">
+    <title lang="es">Cash (2008)</title>
+    <desc lang="es">Cash decide vengar el asesinato de su hermano a su manera: sin armas ni violencia, con estilo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91nYcTFWEvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260911194600 +0200" stop="20260911211900 +0200" channel="acontra+ CINE">
+    <title lang="es">20 años no importan (2013)</title>
+    <desc lang="es">La vida de Alice, una mujer ambiciosa y egocéntrica, cambia cuando conoce al joven Baltasar. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91sfPGXr9ML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260911211900 +0200" stop="20260911224200 +0200" channel="acontra+ CINE">
+    <title lang="es">El cuerpo y el látigo (1963)</title>
+    <desc lang="es">El espíritu de un sádico aristócrata vuelve para seguir aterrorizando a su familia. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91MbcUjcA0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260911224200 +0200" stop="20260912004000 +0200" channel="acontra+ CINE">
+    <title lang="es">La novena configuración (1980)</title>
+    <desc lang="es">El Coronel Hudson Kane llega para hacerse cargo de una institución psiquiátrica militar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/614osUZ0gPL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
