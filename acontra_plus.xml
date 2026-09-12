@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260912143200 +0200" stop="20260912163200 +0200" channel="acontra+ CINE">
-    <title lang="es">De Gaulle (2020)</title>
-    <desc lang="es">Mayo, 1940. El general Charles de Gaulle deja a su familia para trabajar para el gobierno de París. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A12AJwc-kqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260912163200 +0200" stop="20260912183100 +0200" channel="acontra+ CINE">
-    <title lang="es">Angel (2007)</title>
-    <desc lang="es">Inglaterra, 1910. Ángel Deverell, una joven de origen humilde, trata de escalar socialmente. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81shyQSUPuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260912183100 +0200" stop="20260912201800 +0200" channel="acontra+ CINE">
+  <programme start="20260912181800 +0200" stop="20260912201800 +0200" channel="acontra+ CINE">
     <title lang="es">Orfeu negro (1959)</title>
     <desc lang="es">La trágica historia de amor entre la joven Eurídice y el conductor y músico Orfeo. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91DZLPATqGL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,25 @@
     <title lang="es">Le week-end (2013)</title>
     <desc lang="es">Nick y Meg, a sus 60 años, viajan a París para pasar un fin de semana romántico que reavive su vida. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81A0oV0QixL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260912232400 +0200" stop="20260913005000 +0200" channel="acontra+ CINE">
+    <title lang="es">Arañas 3D (2013)</title>
+    <desc lang="es">Arañas se vuelven gigantes tras choque de estación espacial. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81CnDetRZRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260913005000 +0200" stop="20260913021100 +0200" channel="acontra+ CINE">
+    <title lang="es">La mano del diablo (2015)</title>
+    <desc lang="es">Roland, un pintor fracasado, empieza a contar su historia sobre el talismán que cambió su vida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1LUUu78PsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260913021100 +0200" stop="20260913032600 +0200" channel="acontra+ CINE">
+    <title lang="es">Los viajes de Gulliver (1939)</title>
+    <desc lang="es">Adaptación al clásico de Jonathan Swift sobre un hombre inglés, Gulliver, que naufraga en Lilliput. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91i1WVx+XML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260913032600 +0200" stop="20260913051000 +0200" channel="acontra+ CINE">
+    <title lang="es">Miss América (1989)</title>
+    <desc lang="es">Una joven del Sur se apunta en el concurso anual de belleza para resaltar la imagen de su pueblo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81yLQTeQGiL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
