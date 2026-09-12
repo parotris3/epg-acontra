@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260912181800 +0200" stop="20260912201800 +0200" channel="acontra+ CINE">
-    <title lang="es">Orfeu negro (1959)</title>
-    <desc lang="es">La trágica historia de amor entre la joven Eurídice y el conductor y músico Orfeo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91DZLPATqGL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260912201800 +0200" stop="20260912215100 +0200" channel="acontra+ CINE">
-    <title lang="es">El último pasajero (2013)</title>
-    <desc lang="es">Los frenos de un tren han sido saboteados por un sociópata. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81dfjgkDIdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260912215100 +0200" stop="20260912232400 +0200" channel="acontra+ CINE">
-    <title lang="es">Le week-end (2013)</title>
-    <desc lang="es">Nick y Meg, a sus 60 años, viajan a París para pasar un fin de semana romántico que reavive su vida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81A0oV0QixL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260912232400 +0200" stop="20260913005000 +0200" channel="acontra+ CINE">
+  <programme start="20260912225000 +0200" stop="20260913005000 +0200" channel="acontra+ CINE">
     <title lang="es">Arañas 3D (2013)</title>
     <desc lang="es">Arañas se vuelven gigantes tras choque de estación espacial. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81CnDetRZRL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +22,15 @@
     <title lang="es">Miss América (1989)</title>
     <desc lang="es">Una joven del Sur se apunta en el concurso anual de belleza para resaltar la imagen de su pueblo. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81yLQTeQGiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260913051000 +0200" stop="20260913071200 +0200" channel="acontra+ CINE">
+    <title lang="es">Enamórate de mí</title>
+    <desc lang="es">Cuando Michael muere, cree que está libre de las ansiedades de la búsqueda del amor verdadero. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91uM1CTU7eL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260913071200 +0200" stop="20260913085200 +0200" channel="acontra+ CINE">
+    <title lang="es">Habitación verde (2015)</title>
+    <desc lang="es">Unos neonazis quieren matar a unos músicos. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/9163gYcEEDL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
