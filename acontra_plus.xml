@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260912083100 +0200" stop="20260912103100 +0200" channel="acontra+ CINE">
-    <title lang="es">Tess (1979)</title>
-    <desc lang="es">La hija de un humilde granjero es víctima de las aspiraciones de su familia y de su propia belleza. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91RxeM8Up8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260912103100 +0200" stop="20260912124500 +0200" channel="acontra+ CINE">
-    <title lang="es">La fortaleza escondida (1958)</title>
-    <desc lang="es">El general Rokurota Makabe utilizará a dos desertores para rescatar a la princesa Yuki. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/816sLifRISL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260912124500 +0200" stop="20260912144300 +0200" channel="acontra+ CINE">
-    <title lang="es">El secuestro de Alfred Heineken (2011)</title>
-    <desc lang="es">Heineken propietario de la multinacional cervecera fue secuestrado cuando salía de una sede. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Fhej4KTOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260912144300 +0200" stop="20260912163200 +0200" channel="acontra+ CINE">
+  <programme start="20260912143200 +0200" stop="20260912163200 +0200" channel="acontra+ CINE">
     <title lang="es">De Gaulle (2020)</title>
     <desc lang="es">Mayo, 1940. El general Charles de Gaulle deja a su familia para trabajar para el gobierno de París. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A12AJwc-kqL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Angel (2007)</title>
     <desc lang="es">Inglaterra, 1910. Ángel Deverell, una joven de origen humilde, trata de escalar socialmente. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81shyQSUPuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260912183100 +0200" stop="20260912201800 +0200" channel="acontra+ CINE">
+    <title lang="es">Orfeu negro (1959)</title>
+    <desc lang="es">La trágica historia de amor entre la joven Eurídice y el conductor y músico Orfeo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91DZLPATqGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260912201800 +0200" stop="20260912215100 +0200" channel="acontra+ CINE">
+    <title lang="es">El último pasajero (2013)</title>
+    <desc lang="es">Los frenos de un tren han sido saboteados por un sociópata. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81dfjgkDIdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260912215100 +0200" stop="20260912232400 +0200" channel="acontra+ CINE">
+    <title lang="es">Le week-end (2013)</title>
+    <desc lang="es">Nick y Meg, a sus 60 años, viajan a París para pasar un fin de semana romántico que reavive su vida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81A0oV0QixL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
