@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260911224000 +0200" stop="20260912004000 +0200" channel="acontra+ CINE">
-    <title lang="es">La novena configuración (1980)</title>
-    <desc lang="es">El Coronel Hudson Kane llega para hacerse cargo de una institución psiquiátrica militar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/614osUZ0gPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260912004000 +0200" stop="20260912020700 +0200" channel="acontra+ CINE">
-    <title lang="es">Nada (2022)</title>
-    <desc lang="es">Cuando Pierre Anthon comienza el octavo grado, no le ve sentido a la vida y se muda a un árbol. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Vrpm8h3cL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260912020700 +0200" stop="20260912042200 +0200" channel="acontra+ CINE">
-    <title lang="es">Francesco (1989)</title>
-    <desc lang="es">Tras la muerte de San Francisco de Asís, sus amigos más cercanos hablan de la vida del santo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81oU1qjZcsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260912042200 +0200" stop="20260912060500 +0200" channel="acontra+ CINE">
+  <programme start="20260912040500 +0200" stop="20260912060500 +0200" channel="acontra+ CINE">
     <title lang="es">Pasiones en Kenia (1988)</title>
     <desc lang="es">Una colonia británica en Kenia se escandaliza por una relación adúltera que conduce a un homicidio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81FV1QRGKuL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Tess (1979)</title>
     <desc lang="es">La hija de un humilde granjero es víctima de las aspiraciones de su familia y de su propia belleza. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91RxeM8Up8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260912103100 +0200" stop="20260912124500 +0200" channel="acontra+ CINE">
+    <title lang="es">La fortaleza escondida (1958)</title>
+    <desc lang="es">El general Rokurota Makabe utilizará a dos desertores para rescatar a la princesa Yuki. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/816sLifRISL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260912124500 +0200" stop="20260912144300 +0200" channel="acontra+ CINE">
+    <title lang="es">El secuestro de Alfred Heineken (2011)</title>
+    <desc lang="es">Heineken propietario de la multinacional cervecera fue secuestrado cuando salía de una sede. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Fhej4KTOL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
