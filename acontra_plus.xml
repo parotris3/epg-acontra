@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260912040500 +0200" stop="20260912060500 +0200" channel="acontra+ CINE">
-    <title lang="es">Pasiones en Kenia (1988)</title>
-    <desc lang="es">Una colonia británica en Kenia se escandaliza por una relación adúltera que conduce a un homicidio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81FV1QRGKuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260912060500 +0200" stop="20260912074700 +0200" channel="acontra+ CINE">
-    <title lang="es">Sin vuelta atrás (1998)</title>
-    <desc lang="es">Tras salir de la cárcel, Joey se va a vivir con su hermano Tommy y su mujer a Staten Island. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1rt9pK1GHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260912074700 +0200" stop="20260912103100 +0200" channel="acontra+ CINE">
+  <programme start="20260912083100 +0200" stop="20260912103100 +0200" channel="acontra+ CINE">
     <title lang="es">Tess (1979)</title>
     <desc lang="es">La hija de un humilde granjero es víctima de las aspiraciones de su familia y de su propia belleza. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91RxeM8Up8L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">El secuestro de Alfred Heineken (2011)</title>
     <desc lang="es">Heineken propietario de la multinacional cervecera fue secuestrado cuando salía de una sede. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Fhej4KTOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260912144300 +0200" stop="20260912163200 +0200" channel="acontra+ CINE">
+    <title lang="es">De Gaulle (2020)</title>
+    <desc lang="es">Mayo, 1940. El general Charles de Gaulle deja a su familia para trabajar para el gobierno de París. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A12AJwc-kqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260912163200 +0200" stop="20260912183100 +0200" channel="acontra+ CINE">
+    <title lang="es">Angel (2007)</title>
+    <desc lang="es">Inglaterra, 1910. Ángel Deverell, una joven de origen humilde, trata de escalar socialmente. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81shyQSUPuL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
