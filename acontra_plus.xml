@@ -3,21 +3,6 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260913132200 +0200" stop="20260913152200 +0200" channel="acontra+ CINE">
-    <title lang="es">Madame Marguerite (2015)</title>
-    <desc lang="es">Una mujer se propone cantar ópera delante de un gran público a pesar de desafinar terriblemente. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nyw5jz0uL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260913152200 +0200" stop="20260913174400 +0200" channel="acontra+ CINE">
-    <title lang="es">Secretos y mentiras (1995)</title>
-    <desc lang="es">Un sensible drama donde una mujer busca a su madre. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81VZmcnOdcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260913174400 +0200" stop="20260913192100 +0200" channel="acontra+ CINE">
-    <title lang="es">El Gran Buster (2018)</title>
-    <desc lang="es">Celebramos la vida y la carrera de Buster Keaton, uno de los cineastas más prolíficos de Hollywood. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91+uDLX0XwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
   <programme start="20260913192100 +0200" stop="20260913212100 +0200" channel="acontra+ CINE">
     <title lang="es">S.A.S. Los invencibles (2002)</title>
     <desc lang="es">Un grupo antinuclear toma la embajada de EE.UU. en Londres y amenaza con matar a los rehenes. | Edad: 16+</desc>
@@ -27,5 +12,25 @@
     <title lang="es">Repulsión (1965)</title>
     <desc lang="es">Una mujer muy reprimida sexualmente empieza a tener alucinaciones sobre violaciones. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/812OaS9v0aL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260913230200 +0200" stop="20260914002500 +0200" channel="acontra+ CINE">
+    <title lang="es">The Addiction (1995)</title>
+    <desc lang="es">Una joven intenta comprender su nueva vida tras ser convertida en vampiro en un ataque. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71hyHt1yFiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260914002500 +0200" stop="20260914020200 +0200" channel="acontra+ CINE">
+    <title lang="es">The Great Gilly Hopkins (2015)</title>
+    <desc lang="es">Basado en la novela de Katherine Paterson. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Uf-bXo0xL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260914020200 +0200" stop="20260914034900 +0200" channel="acontra+ CINE">
+    <title lang="es">La resurrección de los muertos (2016)</title>
+    <desc lang="es">La resurrección de los muertos influye en la vida de una ciudad francesa que los volverá a acoger. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71AiAFn8TNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260914034900 +0200" stop="20260914052000 +0200" channel="acontra+ CINE">
+    <title lang="es">Sucedió mañana (1944)</title>
+    <desc lang="es">En sus bodas de oro, Larry y Sylvia narran a su familia un suceso muy extraño del pasado. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81GpqLoyBML._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
