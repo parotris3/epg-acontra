@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260913031000 +0200" stop="20260913051000 +0200" channel="acontra+ CINE">
-    <title lang="es">Miss América (1989)</title>
-    <desc lang="es">Una joven del Sur se apunta en el concurso anual de belleza para resaltar la imagen de su pueblo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81yLQTeQGiL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260913051000 +0200" stop="20260913071200 +0200" channel="acontra+ CINE">
-    <title lang="es">Enamórate de mí</title>
-    <desc lang="es">Cuando Michael muere, cree que está libre de las ansiedades de la búsqueda del amor verdadero. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91uM1CTU7eL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260913071200 +0200" stop="20260913085200 +0200" channel="acontra+ CINE">
-    <title lang="es">Habitación verde (2015)</title>
-    <desc lang="es">Unos neonazis quieren matar a unos músicos. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/9163gYcEEDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260913085200 +0200" stop="20260913105000 +0200" channel="acontra+ CINE">
+  <programme start="20260913085000 +0200" stop="20260913105000 +0200" channel="acontra+ CINE">
     <title lang="es">Sin dejar huellas (2018)</title>
     <desc lang="es">Un oficial de policía alcohólico investiga el caso de un adolescente desaparecido. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91lQHzQSrpL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">El infierno del odio (1963)</title>
     <desc lang="es">El ejecutivo de una compañía de zapatos de éxito se convierte en víctima de extorsión. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81NFwmVYj5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260913131400 +0200" stop="20260913152200 +0200" channel="acontra+ CINE">
+    <title lang="es">Madame Marguerite (2015)</title>
+    <desc lang="es">Una mujer se propone cantar ópera delante de un gran público a pesar de desafinar terriblemente. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81nyw5jz0uL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260913152200 +0200" stop="20260913174400 +0200" channel="acontra+ CINE">
+    <title lang="es">Secretos y mentiras (1995)</title>
+    <desc lang="es">Un sensible drama donde una mujer busca a su madre. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81VZmcnOdcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260913174400 +0200" stop="20260913192100 +0200" channel="acontra+ CINE">
+    <title lang="es">El Gran Buster (2018)</title>
+    <desc lang="es">Celebramos la vida y la carrera de Buster Keaton, uno de los cineastas más prolíficos de Hollywood. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91+uDLX0XwL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
