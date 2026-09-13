@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260912225000 +0200" stop="20260913005000 +0200" channel="acontra+ CINE">
-    <title lang="es">Arañas 3D (2013)</title>
-    <desc lang="es">Arañas se vuelven gigantes tras choque de estación espacial. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81CnDetRZRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260913005000 +0200" stop="20260913021100 +0200" channel="acontra+ CINE">
-    <title lang="es">La mano del diablo (2015)</title>
-    <desc lang="es">Roland, un pintor fracasado, empieza a contar su historia sobre el talismán que cambió su vida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1LUUu78PsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260913021100 +0200" stop="20260913032600 +0200" channel="acontra+ CINE">
-    <title lang="es">Los viajes de Gulliver (1939)</title>
-    <desc lang="es">Adaptación al clásico de Jonathan Swift sobre un hombre inglés, Gulliver, que naufraga en Lilliput. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91i1WVx+XML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260913032600 +0200" stop="20260913051000 +0200" channel="acontra+ CINE">
+  <programme start="20260913031000 +0200" stop="20260913051000 +0200" channel="acontra+ CINE">
     <title lang="es">Miss América (1989)</title>
     <desc lang="es">Una joven del Sur se apunta en el concurso anual de belleza para resaltar la imagen de su pueblo. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81yLQTeQGiL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Habitación verde (2015)</title>
     <desc lang="es">Unos neonazis quieren matar a unos músicos. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/9163gYcEEDL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260913085200 +0200" stop="20260913105000 +0200" channel="acontra+ CINE">
+    <title lang="es">Sin dejar huellas (2018)</title>
+    <desc lang="es">Un oficial de policía alcohólico investiga el caso de un adolescente desaparecido. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91lQHzQSrpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260913105000 +0200" stop="20260913131400 +0200" channel="acontra+ CINE">
+    <title lang="es">El infierno del odio (1963)</title>
+    <desc lang="es">El ejecutivo de una compañía de zapatos de éxito se convierte en víctima de extorsión. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81NFwmVYj5L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
