@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260913192100 +0200" stop="20260913212100 +0200" channel="acontra+ CINE">
-    <title lang="es">S.A.S. Los invencibles (2002)</title>
-    <desc lang="es">Un grupo antinuclear toma la embajada de EE.UU. en Londres y amenaza con matar a los rehenes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71r6c13l-UL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260913212100 +0200" stop="20260913230200 +0200" channel="acontra+ CINE">
-    <title lang="es">Repulsión (1965)</title>
-    <desc lang="es">Una mujer muy reprimida sexualmente empieza a tener alucinaciones sobre violaciones. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/812OaS9v0aL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260913230200 +0200" stop="20260914002500 +0200" channel="acontra+ CINE">
+  <programme start="20260913222500 +0200" stop="20260914002500 +0200" channel="acontra+ CINE">
     <title lang="es">The Addiction (1995)</title>
     <desc lang="es">Una joven intenta comprender su nueva vida tras ser convertida en vampiro en un ataque. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/71hyHt1yFiL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">Sucedió mañana (1944)</title>
     <desc lang="es">En sus bodas de oro, Larry y Sylvia narran a su familia un suceso muy extraño del pasado. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81GpqLoyBML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260914052000 +0200" stop="20260914071200 +0200" channel="acontra+ CINE">
+    <title lang="es">Los profesores de Saint-Denis (2019)</title>
+    <desc lang="es">Samia tendrá que lidiar con los problemas de disciplina y la realidad social de la escuela. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-2mCfCkLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260914071200 +0200" stop="20260914090400 +0200" channel="acontra+ CINE">
+    <title lang="es">Manual de la buena esposa (2020)</title>
+    <desc lang="es">Una escuela de hogar se encarga de capacitar a sus estudiantes para que sean esposas modelo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81GtGBEHRyL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
