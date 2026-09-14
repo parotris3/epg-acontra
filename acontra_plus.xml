@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260914032000 +0200" stop="20260914052000 +0200" channel="acontra+ CINE">
-    <title lang="es">Sucedió mañana (1944)</title>
-    <desc lang="es">En sus bodas de oro, Larry y Sylvia narran a su familia un suceso muy extraño del pasado. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81GpqLoyBML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260914052000 +0200" stop="20260914071200 +0200" channel="acontra+ CINE">
-    <title lang="es">Los profesores de Saint-Denis (2019)</title>
-    <desc lang="es">Samia tendrá que lidiar con los problemas de disciplina y la realidad social de la escuela. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-2mCfCkLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260914071200 +0200" stop="20260914090400 +0200" channel="acontra+ CINE">
-    <title lang="es">Manual de la buena esposa (2020)</title>
-    <desc lang="es">Una escuela de hogar se encarga de capacitar a sus estudiantes para que sean esposas modelo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81GtGBEHRyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260914090400 +0200" stop="20260914111700 +0200" channel="acontra+ CINE">
+  <programme start="20260914091700 +0200" stop="20260914111700 +0200" channel="acontra+ CINE">
     <title lang="es">Kabei. Nuestra madre (2008)</title>
     <desc lang="es">Una mujer lucha por mantener a su familia unida cuando su marido es encarcelado por sus opiniones. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81e0U+3YW4L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">Sobre ruedas (2018)</title>
     <desc lang="es">Un empresario de éxito y mujeriego empedernido finge ser discapacitado para seducir a una joven. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71+29jLNvnL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260914130500 +0200" stop="20260914144100 +0200" channel="acontra+ CINE">
+    <title lang="es">Qiu Ju, una mujer china (1993)</title>
+    <desc lang="es">Una campesina china busca justicia tras la agresión a su marido por parte del líder de su comunidad. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81wUbIg4WvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260914144100 +0200" stop="20260914161700 +0200" channel="acontra+ CINE">
+    <title lang="es">El mundo resplandeciente (2021)</title>
+    <desc lang="es">Una mujer se ve arrastrada a una dimensión alternativa en la que su hermana podría seguir viva. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81SRmqiK87L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260914161700 +0200" stop="20260914173800 +0200" channel="acontra+ CINE">
+    <title lang="es">Citadel (2012)</title>
+    <desc lang="es">Tommy es testigo de la agresión de unos niños encapuchados contra su mujer embarazada. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91MziHviNQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260914173800 +0200" stop="20260914195000 +0200" channel="acontra+ CINE">
+    <title lang="es">El cielo protector (1990)</title>
+    <desc lang="es">Una pareja neoyorquina hace un viaje al norte de África en un intento de reparar su matrimonio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91biKRsKAwL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
