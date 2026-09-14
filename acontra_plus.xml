@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260914091700 +0200" stop="20260914111700 +0200" channel="acontra+ CINE">
-    <title lang="es">Kabei. Nuestra madre (2008)</title>
-    <desc lang="es">Una mujer lucha por mantener a su familia unida cuando su marido es encarcelado por sus opiniones. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81e0U+3YW4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260914111700 +0200" stop="20260914130500 +0200" channel="acontra+ CINE">
-    <title lang="es">Sobre ruedas (2018)</title>
-    <desc lang="es">Un empresario de éxito y mujeriego empedernido finge ser discapacitado para seducir a una joven. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71+29jLNvnL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260914130500 +0200" stop="20260914144100 +0200" channel="acontra+ CINE">
-    <title lang="es">Qiu Ju, una mujer china (1993)</title>
-    <desc lang="es">Una campesina china busca justicia tras la agresión a su marido por parte del líder de su comunidad. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81wUbIg4WvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260914144100 +0200" stop="20260914161700 +0200" channel="acontra+ CINE">
+  <programme start="20260914141700 +0200" stop="20260914161700 +0200" channel="acontra+ CINE">
     <title lang="es">El mundo resplandeciente (2021)</title>
     <desc lang="es">Una mujer se ve arrastrada a una dimensión alternativa en la que su hermana podría seguir viva. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81SRmqiK87L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">El cielo protector (1990)</title>
     <desc lang="es">Una pareja neoyorquina hace un viaje al norte de África en un intento de reparar su matrimonio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91biKRsKAwL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260914195000 +0200" stop="20260914212900 +0200" channel="acontra+ CINE">
+    <title lang="es">Aurora boreal (2007)</title>
+    <desc lang="es">Rebeca regresará a su ciudad natal dispuesta a encontrar al asesino del hermano de su amiga. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91r+VRPqJxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260914212900 +0200" stop="20260914233300 +0200" channel="acontra+ CINE">
+    <title lang="es">Desayuno en Plutón (2005)</title>
+    <desc lang="es">Patrick, un joven trans, sobrevive en un ambiente hostil gracias a su ingenio y su perseverancia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/810J0xbCEWL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
