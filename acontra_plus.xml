@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260914192900 +0200" stop="20260914212900 +0200" channel="acontra+ CINE">
-    <title lang="es">Aurora boreal (2007)</title>
-    <desc lang="es">Rebeca regresará a su ciudad natal dispuesta a encontrar al asesino del hermano de su amiga. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91r+VRPqJxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260914212900 +0200" stop="20260914233300 +0200" channel="acontra+ CINE">
-    <title lang="es">Desayuno en Plutón (2005)</title>
-    <desc lang="es">Patrick, un joven trans, sobrevive en un ambiente hostil gracias a su ingenio y su perseverancia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/810J0xbCEWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260914233300 +0200" stop="20260915014200 +0200" channel="acontra+ CINE">
+  <programme start="20260914234200 +0200" stop="20260915014200 +0200" channel="acontra+ CINE">
     <title lang="es">Bullhead (2011)</title>
     <desc lang="es">Jacky Vanmarsenille es abordado por un veterinario sin escrúpulos para hacer negocios sucios. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/712XNuWfUCL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,10 @@
     <title lang="es">El diablo, probablemente (1978)</title>
     <desc lang="es">Un hombre intenta en vano con política, religión y psicoanálisis entender a la sociedad. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81tlgl9XK8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260915053200 +0200" stop="20260915080600 +0200" channel="acontra+ CINE">
+    <title lang="es">La clase dirigente (1972)</title>
+    <desc lang="es">Un miembro de la Cámara de los Lores deja su patrimonio a su hijo Jack, un joven desequilibrado. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91GDdHqsoAL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
