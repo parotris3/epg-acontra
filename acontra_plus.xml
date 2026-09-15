@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260914234200 +0200" stop="20260915014200 +0200" channel="acontra+ CINE">
-    <title lang="es">Bullhead (2011)</title>
-    <desc lang="es">Jacky Vanmarsenille es abordado por un veterinario sin escrúpulos para hacer negocios sucios. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/712XNuWfUCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260915014200 +0200" stop="20260915040000 +0200" channel="acontra+ CINE">
-    <title lang="es">¡Vivir! (1994)</title>
-    <desc lang="es">Una pareja se enfrenta a la turbulenta historia política de China a lo largo de 30 años. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71bSqDq2fPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260915040000 +0200" stop="20260915053200 +0200" channel="acontra+ CINE">
+  <programme start="20260915033200 +0200" stop="20260915053200 +0200" channel="acontra+ CINE">
     <title lang="es">El diablo, probablemente (1978)</title>
     <desc lang="es">Un hombre intenta en vano con política, religión y psicoanálisis entender a la sociedad. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81tlgl9XK8L._UR1920,1080_FMpng_.jpg"/>
@@ -22,5 +12,20 @@
     <title lang="es">La clase dirigente (1972)</title>
     <desc lang="es">Un miembro de la Cámara de los Lores deja su patrimonio a su hijo Jack, un joven desequilibrado. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91GDdHqsoAL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260915080600 +0200" stop="20260915095100 +0200" channel="acontra+ CINE">
+    <title lang="es">Emperador (2012)</title>
+    <desc lang="es">El general MacArthur debe tomar la decisión de someter al emperador Hirohito o perdonarle la vida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81XRazD7rdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260915095100 +0200" stop="20260915113400 +0200" channel="acontra+ CINE">
+    <title lang="es">Más allá del arcoíris (1990)</title>
+    <desc lang="es">Martha Travis es una médium que ofrece espectáculos de espiritismo junto a su padre alcohólico. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/810DlN4GkSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260915113400 +0200" stop="20260915130400 +0200" channel="acontra+ CINE">
+    <title lang="es">La hermandad de la justicia (1986)</title>
+    <desc lang="es">Un grupo de adolescentes tratan de vigilar y eliminar droga, violencia, y vandalismo de su colegio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81MS5ierj5L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
