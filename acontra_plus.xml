@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260915130200 +0200" stop="20260915150200 +0200" channel="acontra+ CINE">
-    <title lang="es">Salyut-7, héroes en el espacio (2017)</title>
-    <desc lang="es">Dos astronautas soviéticos ponen de nuevo en funcionamiento la estación espacial Salyut 7. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Ukc29h3wL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260915150200 +0200" stop="20260915163100 +0200" channel="acontra+ CINE">
-    <title lang="es">Tú y yo (1939)</title>
-    <desc lang="es">Dos personas se enamoran apasionadamente pese a estar ya comprometidos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ESlAvjtIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260915163100 +0200" stop="20260915182600 +0200" channel="acontra+ CINE">
-    <title lang="es">El abuelo que saltó por la ventana y se largó (2014)</title>
-    <desc lang="es">El día en que va a cumplir 100 años, un anciano se fuga de la residencia en la que vive. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1kKccTNK5L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260915182600 +0200" stop="20260915203900 +0200" channel="acontra+ CINE">
+  <programme start="20260915183900 +0200" stop="20260915203900 +0200" channel="acontra+ CINE">
     <title lang="es">Verano asesino (1985)</title>
     <desc lang="es">Elle, una joven de 19 años, regresa a su pueblo natal con un oscuro plan de venganza. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91iSUe6b7oL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Vivarium (2019)</title>
     <desc lang="es">Una joven pareja visita una inmobiliaria para comprar una casa donde se quedarán atrapados. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/914D3Ssc3AL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260915235400 +0200" stop="20260916013500 +0200" channel="acontra+ CINE">
+    <title lang="es">Los limoneros (2008)</title>
+    <desc lang="es">Salma, una viuda palestina, defiende sus limoneros frente a las fuerzas de seguridad israelíes. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/818VZluvhoL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260916013500 +0200" stop="20260916040300 +0200" channel="acontra+ CINE">
+    <title lang="es">El cazador (1975)</title>
+    <desc lang="es">Vladímir, perdido en Siberia, conoce a Dersu Uzala, un cazador nómada que le ayuda a sobrevivir. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1q1nqsHVdL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
