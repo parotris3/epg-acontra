@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260915183900 +0200" stop="20260915203900 +0200" channel="acontra+ CINE">
-    <title lang="es">Verano asesino (1985)</title>
-    <desc lang="es">Elle, una joven de 19 años, regresa a su pueblo natal con un oscuro plan de venganza. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91iSUe6b7oL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260915203900 +0200" stop="20260915222000 +0200" channel="acontra+ CINE">
-    <title lang="es">One Last Dance (2003)</title>
-    <desc lang="es">Tres antiguos bailarines se reúnen para usar su talento y poder salvar el estudio de su mentor. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/913oFILPzOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260915222000 +0200" stop="20260915235400 +0200" channel="acontra+ CINE">
-    <title lang="es">Vivarium (2019)</title>
-    <desc lang="es">Una joven pareja visita una inmobiliaria para comprar una casa donde se quedarán atrapados. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/914D3Ssc3AL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260915235400 +0200" stop="20260916013500 +0200" channel="acontra+ CINE">
+  <programme start="20260915233500 +0200" stop="20260916013500 +0200" channel="acontra+ CINE">
     <title lang="es">Los limoneros (2008)</title>
     <desc lang="es">Salma, una viuda palestina, defiende sus limoneros frente a las fuerzas de seguridad israelíes. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/818VZluvhoL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">El cazador (1975)</title>
     <desc lang="es">Vladímir, perdido en Siberia, conoce a Dersu Uzala, un cazador nómada que le ayuda a sobrevivir. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1q1nqsHVdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260916040300 +0200" stop="20260916054100 +0200" channel="acontra+ CINE">
+    <title lang="es">Doctor Terror (1965)</title>
+    <desc lang="es">Cinco viajeros de un tren se entretienen con relatos de vampiros, lobos y cosas extrañas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81+12c+bvlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260916054100 +0200" stop="20260916071900 +0200" channel="acontra+ CINE">
+    <title lang="es">Fortunata (2024)</title>
+    <desc lang="es">Fortunata intenta abrir su propio salón de belleza para poder separarse de su marido alcohólico. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81delV5A5oL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260916071900 +0200" stop="20260916084200 +0200" channel="acontra+ CINE">
+    <title lang="es">El collar rojo (2019)</title>
+    <desc lang="es">En una aldea francesa azotada por el calor del verano de 1919, un perro no para de ladrar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81gjqsqToNL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
