@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260916133200 +0200" stop="20260916153200 +0200" channel="acontra+ CINE">
-    <title lang="es">La rodilla de Clara (1971)</title>
-    <desc lang="es">Un diplomático a punto de casarse se obsesiona con una parte particular de la anatomía de una mujer. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ZMw3uHxdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260916153200 +0200" stop="20260916171000 +0200" channel="acontra+ CINE">
-    <title lang="es">Misión País Vasco (2021)</title>
-    <desc lang="es">Una comercial parisina debe ir al País Vasco francés por razones profesionales. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zwLJAme4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260916171000 +0200" stop="20260916184800 +0200" channel="acontra+ CINE">
-    <title lang="es">El gato y el canario (1979)</title>
-    <desc lang="es">La gran herencia de una mujer la convierte en el objetivo de un misterioso asesino. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WU8UPlK6L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260916184800 +0200" stop="20260916201800 +0200" channel="acontra+ CINE">
+  <programme start="20260916181800 +0200" stop="20260916201800 +0200" channel="acontra+ CINE">
     <title lang="es">Little Monsters (2019)</title>
     <desc lang="es">Dave se ofrece como voluntario para acompañar a su sobrino en un viaje escolar. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91irhFfgcgL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Life Partners (2014)</title>
     <desc lang="es">La relación entre dos amigas cambia dramáticamente. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81KbqWM--DL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260917000700 +0200" stop="20260917023000 +0200" channel="acontra+ CINE">
+    <title lang="es">Madame Bovary (1991)</title>
+    <desc lang="es">Emma, cansada de su matrimonio con Charles Bovary, buscará consuelo en relaciones extraconyugales. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ARpmyQPkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260917023000 +0200" stop="20260917040900 +0200" channel="acontra+ CINE">
+    <title lang="es">Profesor en Groenlandia (2019)</title>
+    <desc lang="es">Anders deja Dinamarca por un puesto de profesor en Groenlandia y debe adaptarse a su nueva vida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81or1sSV4zL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
