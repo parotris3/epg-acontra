@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260916181800 +0200" stop="20260916201800 +0200" channel="acontra+ CINE">
-    <title lang="es">Little Monsters (2019)</title>
-    <desc lang="es">Dave se ofrece como voluntario para acompañar a su sobrino en un viaje escolar. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91irhFfgcgL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260916201800 +0200" stop="20260916223500 +0200" channel="acontra+ CINE">
-    <title lang="es">Regreso a Howards End (1992)</title>
-    <desc lang="es">Dos hermanas cultas e independientes hacen amistad con la próspera y convencional familia Wilcox. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81021vjbDVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260916223500 +0200" stop="20260917000700 +0200" channel="acontra+ CINE">
+  <programme start="20260916220700 +0200" stop="20260917000700 +0200" channel="acontra+ CINE">
     <title lang="es">Life Partners (2014)</title>
     <desc lang="es">La relación entre dos amigas cambia dramáticamente. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81KbqWM--DL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Profesor en Groenlandia (2019)</title>
     <desc lang="es">Anders deja Dinamarca por un puesto de profesor en Groenlandia y debe adaptarse a su nueva vida. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81or1sSV4zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260917040900 +0200" stop="20260917055600 +0200" channel="acontra+ CINE">
+    <title lang="es">El extraordinario viaje de T.S. Spivet (2013)</title>
+    <desc lang="es">T.S. Spivet es un genio de diez años, con un gran talento para los inventos, que vive en un rancho. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81j3C0+TMYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260917055600 +0200" stop="20260917072700 +0200" channel="acontra+ CINE">
+    <title lang="es">Él (1987)</title>
+    <desc lang="es">Francisco Galván de Montemayor se queda prendado de una joven mientras asiste a misa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/61zQyr8U3NL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260917072700 +0200" stop="20260917092100 +0200" channel="acontra+ CINE">
+    <title lang="es">El señor de las bestias (1983)</title>
+    <desc lang="es">Dar, el príncipe guerrero, necesita salvar al amor de su vida, Kiri, ahora prisionera de un rey. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91WflJhW96L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
