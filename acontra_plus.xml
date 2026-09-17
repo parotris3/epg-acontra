@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260917185200 +0200" stop="20260917205200 +0200" channel="acontra+ CINE">
-    <title lang="es">No mires atrás (2010)</title>
-    <desc lang="es">El inspector Sanzio investiga la violenta muerte de una adolescente en un paraje montañoso italiano. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81G3YyAkyfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260917205200 +0200" stop="20260917223000 +0200" channel="acontra+ CINE">
-    <title lang="es">La lectora (1989)</title>
-    <desc lang="es">Constance es una apasionada lectora que decide dedicarse a leer a domicilio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/41vj4NFX3TL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260917223000 +0200" stop="20260918000300 +0200" channel="acontra+ CINE">
+  <programme start="20260917220300 +0200" stop="20260918000300 +0200" channel="acontra+ CINE">
     <title lang="es">Juntos, nada más (2007)</title>
     <desc lang="es">Un cocinero, una dibujante y un aristócrata solitario deberán aprender a convivir. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81IK+avmNdL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,20 @@
     <title lang="es">El hombre de la máscara de acero (2002)</title>
     <desc lang="es">Tras sufrir un accidente de tráfico, un científico americano es capturado por los rusos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91iVMO8jAyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260918041600 +0200" stop="20260918054500 +0200" channel="acontra+ CINE">
+    <title lang="es">La mirada del amor (2013)</title>
+    <desc lang="es">Una mujer se enamora de un hombre que se parece a su esposo fallecido. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91LGJdPU8CL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260918054500 +0200" stop="20260918073600 +0200" channel="acontra+ CINE">
+    <title lang="es">Antes de la Revolución (1964)</title>
+    <desc lang="es">Fabrizio intenta conciliar su origen burgués con su pertenencia al Partido Comunista Italiano. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91few9fDydL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260918073600 +0200" stop="20260918093300 +0200" channel="acontra+ CINE">
+    <title lang="es">El manantial (2001)</title>
+    <desc lang="es">La rivalidad entre dos familias encuentra su cauce. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81YmyIr+LdL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
