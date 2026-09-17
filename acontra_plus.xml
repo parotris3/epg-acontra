@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260917085200 +0200" stop="20260917105200 +0200" channel="acontra+ CINE">
-    <title lang="es">Asalto a la comisaría del distrito 13 (1976)</title>
-    <desc lang="es">Un policía de Los Ángeles recibe su primer destino en una comisaría que está siendo trasladada. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81oSJqNa7iL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260917105200 +0200" stop="20260917123300 +0200" channel="acontra+ CINE">
-    <title lang="es">Blood and Wine (1996)</title>
-    <desc lang="es">Un traficante de vinos pobre planea robar joyas de cliente. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ehsCHcjHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260917123300 +0200" stop="20260917142000 +0200" channel="acontra+ CINE">
-    <title lang="es">Mr. Wain (2022)</title>
-    <desc lang="es">Louis Wain comenzó a pintar las imágenes de gatos que lo hicieron mundialmente famoso. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81s187kzmYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260917142000 +0200" stop="20260917155600 +0200" channel="acontra+ CINE">
+  <programme start="20260917135600 +0200" stop="20260917155600 +0200" channel="acontra+ CINE">
     <title lang="es">El guardia (2011)</title>
     <desc lang="es">Dos agentes de policía descubren que sus exsuperiores están involucrados en un caso de corrupción. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81QiXuZLC8L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Destrucción (2018)</title>
     <desc lang="es">Una policía revive el drama que marcó su vida. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Kaac9AZlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260917192000 +0200" stop="20260917205200 +0200" channel="acontra+ CINE">
+    <title lang="es">No mires atrás (2010)</title>
+    <desc lang="es">El inspector Sanzio investiga la violenta muerte de una adolescente en un paraje montañoso italiano. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81G3YyAkyfL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260917205200 +0200" stop="20260917223000 +0200" channel="acontra+ CINE">
+    <title lang="es">La lectora (1989)</title>
+    <desc lang="es">Constance es una apasionada lectora que decide dedicarse a leer a domicilio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/41vj4NFX3TL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260917223000 +0200" stop="20260918000300 +0200" channel="acontra+ CINE">
+    <title lang="es">Juntos, nada más (2007)</title>
+    <desc lang="es">Un cocinero, una dibujante y un aristócrata solitario deberán aprender a convivir. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81IK+avmNdL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
