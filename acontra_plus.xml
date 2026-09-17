@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260917035600 +0200" stop="20260917055600 +0200" channel="acontra+ CINE">
-    <title lang="es">El extraordinario viaje de T.S. Spivet (2013)</title>
-    <desc lang="es">T.S. Spivet es un genio de diez años, con un gran talento para los inventos, que vive en un rancho. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81j3C0+TMYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260917055600 +0200" stop="20260917072700 +0200" channel="acontra+ CINE">
-    <title lang="es">Él (1987)</title>
-    <desc lang="es">Francisco Galván de Montemayor se queda prendado de una joven mientras asiste a misa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/61zQyr8U3NL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260917072700 +0200" stop="20260917092100 +0200" channel="acontra+ CINE">
-    <title lang="es">El señor de las bestias (1983)</title>
-    <desc lang="es">Dar, el príncipe guerrero, necesita salvar al amor de su vida, Kiri, ahora prisionera de un rey. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WflJhW96L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260917092100 +0200" stop="20260917105200 +0200" channel="acontra+ CINE">
+  <programme start="20260917085200 +0200" stop="20260917105200 +0200" channel="acontra+ CINE">
     <title lang="es">Asalto a la comisaría del distrito 13 (1976)</title>
     <desc lang="es">Un policía de Los Ángeles recibe su primer destino en una comisaría que está siendo trasladada. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81oSJqNa7iL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Mr. Wain (2022)</title>
     <desc lang="es">Louis Wain comenzó a pintar las imágenes de gatos que lo hicieron mundialmente famoso. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81s187kzmYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260917142000 +0200" stop="20260917155600 +0200" channel="acontra+ CINE">
+    <title lang="es">El guardia (2011)</title>
+    <desc lang="es">Dos agentes de policía descubren que sus exsuperiores están involucrados en un caso de corrupción. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81QiXuZLC8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260917155600 +0200" stop="20260917172400 +0200" channel="acontra+ CINE">
+    <title lang="es">Goon (2011)</title>
+    <desc lang="es">Doug Glatt consigue un lugar en un equipo de hockey canadiense de las ligas menores. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81S5SD0d9gL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260917172400 +0200" stop="20260917192000 +0200" channel="acontra+ CINE">
+    <title lang="es">Destrucción (2018)</title>
+    <desc lang="es">Una policía revive el drama que marcó su vida. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Kaac9AZlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
