@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260916220700 +0200" stop="20260917000700 +0200" channel="acontra+ CINE">
-    <title lang="es">Life Partners (2014)</title>
-    <desc lang="es">La relación entre dos amigas cambia dramáticamente. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81KbqWM--DL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260917000700 +0200" stop="20260917023000 +0200" channel="acontra+ CINE">
-    <title lang="es">Madame Bovary (1991)</title>
-    <desc lang="es">Emma, cansada de su matrimonio con Charles Bovary, buscará consuelo en relaciones extraconyugales. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ARpmyQPkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260917023000 +0200" stop="20260917040900 +0200" channel="acontra+ CINE">
-    <title lang="es">Profesor en Groenlandia (2019)</title>
-    <desc lang="es">Anders deja Dinamarca por un puesto de profesor en Groenlandia y debe adaptarse a su nueva vida. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81or1sSV4zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260917040900 +0200" stop="20260917055600 +0200" channel="acontra+ CINE">
+  <programme start="20260917035600 +0200" stop="20260917055600 +0200" channel="acontra+ CINE">
     <title lang="es">El extraordinario viaje de T.S. Spivet (2013)</title>
     <desc lang="es">T.S. Spivet es un genio de diez años, con un gran talento para los inventos, que vive en un rancho. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81j3C0+TMYL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El señor de las bestias (1983)</title>
     <desc lang="es">Dar, el príncipe guerrero, necesita salvar al amor de su vida, Kiri, ahora prisionera de un rey. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91WflJhW96L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260917092100 +0200" stop="20260917105200 +0200" channel="acontra+ CINE">
+    <title lang="es">Asalto a la comisaría del distrito 13 (1976)</title>
+    <desc lang="es">Un policía de Los Ángeles recibe su primer destino en una comisaría que está siendo trasladada. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81oSJqNa7iL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260917105200 +0200" stop="20260917123300 +0200" channel="acontra+ CINE">
+    <title lang="es">Blood and Wine (1996)</title>
+    <desc lang="es">Un traficante de vinos pobre planea robar joyas de cliente. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ehsCHcjHL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260917123300 +0200" stop="20260917142000 +0200" channel="acontra+ CINE">
+    <title lang="es">Mr. Wain (2022)</title>
+    <desc lang="es">Louis Wain comenzó a pintar las imágenes de gatos que lo hicieron mundialmente famoso. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81s187kzmYL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
