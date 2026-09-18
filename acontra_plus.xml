@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260917220300 +0200" stop="20260918000300 +0200" channel="acontra+ CINE">
-    <title lang="es">Juntos, nada más (2007)</title>
-    <desc lang="es">Un cocinero, una dibujante y un aristócrata solitario deberán aprender a convivir. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81IK+avmNdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260918000300 +0200" stop="20260918011700 +0200" channel="acontra+ CINE">
-    <title lang="es">Castores zombies (2014)</title>
-    <desc lang="es">Unos universitarios son atacados por unos castores zombis. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/819U50ILkrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260918011700 +0200" stop="20260918023800 +0200" channel="acontra+ CINE">
-    <title lang="es">Bloodsucking Bastards (2015)</title>
-    <desc lang="es">Evan, un empleado obediente y sobrecargado de trabajo, descubre que su compañero es un vampiro. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91B4zb3tooL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260918023800 +0200" stop="20260918041600 +0200" channel="acontra+ CINE">
-    <title lang="es">El hombre de la máscara de acero (2002)</title>
-    <desc lang="es">Tras sufrir un accidente de tráfico, un científico americano es capturado por los rusos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91iVMO8jAyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260918041600 +0200" stop="20260918054500 +0200" channel="acontra+ CINE">
+  <programme start="20260918034500 +0200" stop="20260918054500 +0200" channel="acontra+ CINE">
     <title lang="es">La mirada del amor (2013)</title>
     <desc lang="es">Una mujer se enamora de un hombre que se parece a su esposo fallecido. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91LGJdPU8CL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +17,20 @@
     <title lang="es">El manantial (2001)</title>
     <desc lang="es">La rivalidad entre dos familias encuentra su cauce. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81YmyIr+LdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260918093300 +0200" stop="20260918105700 +0200" channel="acontra+ CINE">
+    <title lang="es">Si Dios quiere (2015)</title>
+    <desc lang="es">Un cardiólogo ateo y déspota se queda estupefacto cuando su hijo anuncia que quiere ser cura. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Tta569noL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260918105700 +0200" stop="20260918122600 +0200" channel="acontra+ CINE">
+    <title lang="es">La rifa (2002)</title>
+    <desc lang="es">Una joven viuda con una niña y muchas deudas decide hacer un sorteo en el que ella es el premio. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/81r84AwH+FL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260918122600 +0200" stop="20260918140900 +0200" channel="acontra+ CINE">
+    <title lang="es">El hombre perfecto (2015)</title>
+    <desc lang="es">Un joven escritor encuentra un manuscrito de un anciano y lo publica a su nombre. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Tx-evqXLL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
