@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260918143100 +0200" stop="20260918163100 +0200" channel="acontra+ CINE">
-    <title lang="es">El cazador (1975)</title>
-    <desc lang="es">Vladímir, perdido en Siberia, conoce a Dersu Uzala, un cazador nómada que le ayuda a sobrevivir. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1q1nqsHVdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260918163100 +0200" stop="20260918175300 +0200" channel="acontra+ CINE">
-    <title lang="es">La decisión (2026)</title>
-    <desc lang="es">Sara va a cometer un atentado suicida, pero un vendedor hará que se replantee sus convicciones. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/713kMSbRPpL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260918175300 +0200" stop="20260918195300 +0200" channel="acontra+ CINE">
-    <title lang="es">Esperemos que sea mujer (1988)</title>
-    <desc lang="es">Elena vive en una granja en la Toscana, separada de su marido y con sus parientes femeninas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1RB8VWD04L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260918195300 +0200" stop="20260918220600 +0200" channel="acontra+ CINE">
+  <programme start="20260918200600 +0200" stop="20260918220600 +0200" channel="acontra+ CINE">
     <title lang="es">Open Range (2003)</title>
     <desc lang="es">Un grupo de hombres intenta escapar de su pasado guiando ganado. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Pc2cUR1nL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,15 @@
     <title lang="es">La Chinoise (1969)</title>
     <desc lang="es">París, 1967. Un grupo de estudiantes franceses empieza a pensar en la forma de cambiar el mundo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91xFWfprssL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260918234200 +0200" stop="20260919015300 +0200" channel="acontra+ CINE">
+    <title lang="es">Cuentos de Tokio (1953)</title>
+    <desc lang="es">Una pareja de ancianos pasa la noche en casa de su nuera, la cual muestra más interés que sus hijos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81sgTI5N65L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260919015300 +0200" stop="20260919040400 +0200" channel="acontra+ CINE">
+    <title lang="es">Aline (2020)</title>
+    <desc lang="es">Aline tiene una voz prodigiosa que no pasa desapercibida para un productor ambicioso. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ra+l9mqHL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
