@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260918034500 +0200" stop="20260918054500 +0200" channel="acontra+ CINE">
-    <title lang="es">La mirada del amor (2013)</title>
-    <desc lang="es">Una mujer se enamora de un hombre que se parece a su esposo fallecido. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91LGJdPU8CL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260918054500 +0200" stop="20260918073600 +0200" channel="acontra+ CINE">
-    <title lang="es">Antes de la Revolución (1964)</title>
-    <desc lang="es">Fabrizio intenta conciliar su origen burgués con su pertenencia al Partido Comunista Italiano. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91few9fDydL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260918073600 +0200" stop="20260918093300 +0200" channel="acontra+ CINE">
-    <title lang="es">El manantial (2001)</title>
-    <desc lang="es">La rivalidad entre dos familias encuentra su cauce. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81YmyIr+LdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260918093300 +0200" stop="20260918105700 +0200" channel="acontra+ CINE">
+  <programme start="20260918085700 +0200" stop="20260918105700 +0200" channel="acontra+ CINE">
     <title lang="es">Si Dios quiere (2015)</title>
     <desc lang="es">Un cardiólogo ateo y déspota se queda estupefacto cuando su hijo anuncia que quiere ser cura. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Tta569noL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El hombre perfecto (2015)</title>
     <desc lang="es">Un joven escritor encuentra un manuscrito de un anciano y lo publica a su nombre. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Tx-evqXLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260918140900 +0200" stop="20260918163100 +0200" channel="acontra+ CINE">
+    <title lang="es">El cazador (1975)</title>
+    <desc lang="es">Vladímir, perdido en Siberia, conoce a Dersu Uzala, un cazador nómada que le ayuda a sobrevivir. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1q1nqsHVdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260918163100 +0200" stop="20260918175300 +0200" channel="acontra+ CINE">
+    <title lang="es">La decisión (2026)</title>
+    <desc lang="es">Sara va a cometer un atentado suicida, pero un vendedor hará que se replantee sus convicciones. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/713kMSbRPpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260918175300 +0200" stop="20260918195300 +0200" channel="acontra+ CINE">
+    <title lang="es">Esperemos que sea mujer (1988)</title>
+    <desc lang="es">Elena vive en una granja en la Toscana, separada de su marido y con sus parientes femeninas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1RB8VWD04L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
