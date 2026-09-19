@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260919191900 +0200" stop="20260919211900 +0200" channel="acontra+ CINE">
-    <title lang="es">Adiós, felicidad</title>
-    <desc lang="es">Cuatro hermanos se reencuentran por última vez para rendirle un último homenaje a su padre. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1fX27r6b4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260919211900 +0200" stop="20260919222500 +0200" channel="acontra+ CINE">
-    <title lang="es">Locos del aire (1939)</title>
-    <desc lang="es">Ollie y su amigo deciden alistarse en el ejército para olvidar un desamor. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81D5fmE6xzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260919222500 +0200" stop="20260920000300 +0200" channel="acontra+ CINE">
+  <programme start="20260919220300 +0200" stop="20260920000300 +0200" channel="acontra+ CINE">
     <title lang="es">El rayo verde (1986)</title>
     <desc lang="es">Delphine es una joven parisina que trata de recuperarse de una ruptura reciente. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81fcd9fiYlL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Lullaby (2014)</title>
     <desc lang="es">Un hombre recibe la noticia de que su padre ha decidido desconectarse del soporte vital. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81CqWEI58fL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260920040900 +0200" stop="20260920060400 +0200" channel="acontra+ CINE">
+    <title lang="es">Niños robados (1993)</title>
+    <desc lang="es">Un policía italiano es responsable de llevar a dos niños de Milán a un orfanato de Sicilia. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1zAEt6vtOL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260920060400 +0200" stop="20260920082000 +0200" channel="acontra+ CINE">
+    <title lang="es">En un lugar de África (2003)</title>
+    <desc lang="es">Temiendo la persecución nazi, un abogado judío arregla la huida de su mujer y su hija a Kenya. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71QI7a0twgL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
