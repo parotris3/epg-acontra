@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260918235300 +0200" stop="20260919015300 +0200" channel="acontra+ CINE">
-    <title lang="es">Cuentos de Tokio (1953)</title>
-    <desc lang="es">Una pareja de ancianos pasa la noche en casa de su nuera, la cual muestra más interés que sus hijos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81sgTI5N65L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260919015300 +0200" stop="20260919040400 +0200" channel="acontra+ CINE">
-    <title lang="es">Aline (2020)</title>
-    <desc lang="es">Aline tiene una voz prodigiosa que no pasa desapercibida para un productor ambicioso. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ra+l9mqHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260919040400 +0200" stop="20260919054400 +0200" channel="acontra+ CINE">
+  <programme start="20260919034400 +0200" stop="20260919054400 +0200" channel="acontra+ CINE">
     <title lang="es">El gángster (2012)</title>
     <desc lang="es">Un ex veterano de guerra decide robar bancos para poder mantener a su familia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81EuhLXgwOL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Rescate en Nueva York (2006)</title>
     <desc lang="es">Un hombre trata de encontrar a su hermana secuestrada en medio de una guerra entre la mafia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Z3bXCwlnL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260919084700 +0200" stop="20260919103500 +0200" channel="acontra+ CINE">
+    <title lang="es">Los amantes de Montparnasse (1958)</title>
+    <desc lang="es">Relato del último año de vida del pintor italiano Modigliani en el barrio francés de Montparnasse. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ph+W4zttL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260919103500 +0200" stop="20260919120800 +0200" channel="acontra+ CINE">
+    <title lang="es">The Angriest Man in Brooklyn (2014)</title>
+    <desc lang="es">Un hombre infeliz se entera de que va a morir en 90 minutos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91hgkg7e05L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260919120800 +0200" stop="20260919134400 +0200" channel="acontra+ CINE">
+    <title lang="es">Doble Contratiempo (2001)</title>
+    <desc lang="es">Un agente de policía intenta reordenar su vida mientras ocurren extraños sucesos en su edificio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Xp5dqrn1L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
