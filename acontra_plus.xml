@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260919131200 +0200" stop="20260919151200 +0200" channel="acontra+ CINE">
-    <title lang="es">La bala del asesino (2012)</title>
-    <desc lang="es">Un agente del FBI persigue a una persona que asesina a los terroristas más buscados de Europa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81oDwv67swL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260919151200 +0200" stop="20260919165900 +0200" channel="acontra+ CINE">
-    <title lang="es">The Chosen (1981)</title>
-    <desc lang="es">Un judío y el hijo de un rabí hasídico se hacen amigos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/818x1QaWSFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260919165900 +0200" stop="20260919193600 +0200" channel="acontra+ CINE">
-    <title lang="es">El león del desierto (1980)</title>
-    <desc lang="es">Un líder libio rebelde se enfrenta a las tropas italianas de Mussolini. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1CzYjsJAUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260919193600 +0200" stop="20260919211900 +0200" channel="acontra+ CINE">
+  <programme start="20260919191900 +0200" stop="20260919211900 +0200" channel="acontra+ CINE">
     <title lang="es">Adiós, felicidad</title>
     <desc lang="es">Cuatro hermanos se reencuentran por última vez para rendirle un último homenaje a su padre. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1fX27r6b4L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">El rayo verde (1986)</title>
     <desc lang="es">Delphine es una joven parisina que trata de recuperarse de una ruptura reciente. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81fcd9fiYlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260920000300 +0200" stop="20260920020700 +0200" channel="acontra+ CINE">
+    <title lang="es">Otoño Tardío (1960)</title>
+    <desc lang="es">Una mujer viuda trata de casar a su hija con la ayuda de tres amigos de su difunto marido. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91IXcF-IzCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260920020700 +0200" stop="20260920040900 +0200" channel="acontra+ CINE">
+    <title lang="es">Lullaby (2014)</title>
+    <desc lang="es">Un hombre recibe la noticia de que su padre ha decidido desconectarse del soporte vital. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81CqWEI58fL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
