@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260920092500 +0200" stop="20260920112500 +0200" channel="acontra+ CINE">
-    <title lang="es">Enrique IV (2014)</title>
-    <desc lang="es">En una fiesta de disfraces, un hombre disfrazado de Enrique IV de Alemania se golpea la cabeza. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A116kxGgaXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260920112500 +0200" stop="20260920125000 +0200" channel="acontra+ CINE">
-    <title lang="es">Escóndete y tiembla (1988)</title>
-    <desc lang="es">Viajeros son objetivos de una familia de psicópatas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91hlpnJKfWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260920125000 +0200" stop="20260920143300 +0200" channel="acontra+ CINE">
-    <title lang="es">El coro (2014)</title>
-    <desc lang="es">Las estrictas e inspiradoras lecciones de un maestro despertarán en un joven el amor por la música. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Uiayj-0kL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260920143300 +0200" stop="20260920161200 +0200" channel="acontra+ CINE">
+  <programme start="20260920141200 +0200" stop="20260920161200 +0200" channel="acontra+ CINE">
     <title lang="es">El festín de Babette (1987)</title>
     <desc lang="es">Una criada francesa gana la lotería y usa el dinero para preparar un banquete. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71OVFlkg-RL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Despertando a Ned (1998)</title>
     <desc lang="es">Un pueblo oculta la muerte de Ned, ganador de la lotería, para repartirse el dinero entre ellos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81lSKouKbuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260920193000 +0200" stop="20260920211100 +0200" channel="acontra+ CINE">
+    <title lang="es">American Playboy (2005)</title>
+    <desc lang="es">Un joven adoptado descubre que sus verdaderos padres son dueños de un imperio de revistas porno. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81P1eiY8T3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260920211100 +0200" stop="20260920224600 +0200" channel="acontra+ CINE">
+    <title lang="es">Banda aparte (2003)</title>
+    <desc lang="es">Arthur y Franz adoran el cine negro americano y su sueño es llegar a ser como los gánsteres. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91np+eX01bL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260920224600 +0200" stop="20260921003900 +0200" channel="acontra+ CINE">
+    <title lang="es">Girlhood (2014)</title>
+    <desc lang="es">Marieme es una chica de los suburbios de París que se une a una banda callejera femenina. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91jo3kwvZxL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
