@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260919220300 +0200" stop="20260920000300 +0200" channel="acontra+ CINE">
-    <title lang="es">El rayo verde (1986)</title>
-    <desc lang="es">Delphine es una joven parisina que trata de recuperarse de una ruptura reciente. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81fcd9fiYlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260920000300 +0200" stop="20260920020700 +0200" channel="acontra+ CINE">
-    <title lang="es">Otoño Tardío (1960)</title>
-    <desc lang="es">Una mujer viuda trata de casar a su hija con la ayuda de tres amigos de su difunto marido. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91IXcF-IzCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260920020700 +0200" stop="20260920040900 +0200" channel="acontra+ CINE">
-    <title lang="es">Lullaby (2014)</title>
-    <desc lang="es">Un hombre recibe la noticia de que su padre ha decidido desconectarse del soporte vital. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81CqWEI58fL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260920040900 +0200" stop="20260920060400 +0200" channel="acontra+ CINE">
+  <programme start="20260920040400 +0200" stop="20260920060400 +0200" channel="acontra+ CINE">
     <title lang="es">Niños robados (1993)</title>
     <desc lang="es">Un policía italiano es responsable de llevar a dos niños de Milán a un orfanato de Sicilia. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1zAEt6vtOL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">En un lugar de África (2003)</title>
     <desc lang="es">Temiendo la persecución nazi, un abogado judío arregla la huida de su mujer y su hija a Kenya. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71QI7a0twgL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260920082000 +0200" stop="20260920095900 +0200" channel="acontra+ CINE">
+    <title lang="es">Vergüenza (1968)</title>
+    <desc lang="es">La relación de una pareja destrozada a causa de una guerra civil que intentaban evitar. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71QagNZ4dPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260920095900 +0200" stop="20260920112500 +0200" channel="acontra+ CINE">
+    <title lang="es">Enrique IV (2014)</title>
+    <desc lang="es">En una fiesta de disfraces, un hombre disfrazado de Enrique IV de Alemania se golpea la cabeza. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A116kxGgaXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260920112500 +0200" stop="20260920125000 +0200" channel="acontra+ CINE">
+    <title lang="es">Escóndete y tiembla (1988)</title>
+    <desc lang="es">Viajeros son objetivos de una familia de psicópatas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91hlpnJKfWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260920125000 +0200" stop="20260920143300 +0200" channel="acontra+ CINE">
+    <title lang="es">El coro (2014)</title>
+    <desc lang="es">Las estrictas e inspiradoras lecciones de un maestro despertarán en un joven el amor por la música. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Uiayj-0kL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
