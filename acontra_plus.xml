@@ -3,34 +3,29 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260920141200 +0200" stop="20260920161200 +0200" channel="acontra+ CINE">
-    <title lang="es">El festín de Babette (1987)</title>
-    <desc lang="es">Una criada francesa gana la lotería y usa el dinero para preparar un banquete. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71OVFlkg-RL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260920161200 +0200" stop="20260920175900 +0200" channel="acontra+ CINE">
-    <title lang="es">Culpable sin rostro (conducta indecorosa) (2018)</title>
-    <desc lang="es">Un soldado británico trasladado a la India contra su voluntad comienza a rebelarse. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91kPrF3vm8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260920175900 +0200" stop="20260920193000 +0200" channel="acontra+ CINE">
-    <title lang="es">Despertando a Ned (1998)</title>
-    <desc lang="es">Un pueblo oculta la muerte de Ned, ganador de la lotería, para repartirse el dinero entre ellos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81lSKouKbuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260920193000 +0200" stop="20260920211100 +0200" channel="acontra+ CINE">
-    <title lang="es">American Playboy (2005)</title>
-    <desc lang="es">Un joven adoptado descubre que sus verdaderos padres son dueños de un imperio de revistas porno. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81P1eiY8T3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260920211100 +0200" stop="20260920224600 +0200" channel="acontra+ CINE">
-    <title lang="es">Banda aparte (2003)</title>
-    <desc lang="es">Arthur y Franz adoran el cine negro americano y su sueño es llegar a ser como los gánsteres. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91np+eX01bL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260920224600 +0200" stop="20260921003900 +0200" channel="acontra+ CINE">
+  <programme start="20260920223900 +0200" stop="20260921003900 +0200" channel="acontra+ CINE">
     <title lang="es">Girlhood (2014)</title>
     <desc lang="es">Marieme es una chica de los suburbios de París que se une a una banda callejera femenina. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91jo3kwvZxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260921003900 +0200" stop="20260921020200 +0200" channel="acontra+ CINE">
+    <title lang="es">Deal (2008)</title>
+    <desc lang="es">Un exjugador de póker transmite toda su sabiduría a un estudiante universitario. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91zLQrEfMQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260921020200 +0200" stop="20260921041400 +0200" channel="acontra+ CINE">
+    <title lang="es">Modigliani (2005)</title>
+    <desc lang="es">La historia jamás contada de la ácida rivalidad entre Picasso y Modigliani. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81r817NqNIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260921041400 +0200" stop="20260921062500 +0200" channel="acontra+ CINE">
+    <title lang="es">Muerte de un viajante (1985)</title>
+    <desc lang="es">Willy Loman un vendedor toma conciencia del vacío de su vida e intenta ponerle remedio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81zTdAWcJuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260921062500 +0200" stop="20260921081300 +0200" channel="acontra+ CINE">
+    <title lang="es">Los girasoles (1970)</title>
+    <desc lang="es">Giovanna se casa con Antonio antes de la guerra, pero él no quiere ir al frente y simula estar loco. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1OT-cPmxeL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
