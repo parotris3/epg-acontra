@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260920223900 +0200" stop="20260921003900 +0200" channel="acontra+ CINE">
-    <title lang="es">Girlhood (2014)</title>
-    <desc lang="es">Marieme es una chica de los suburbios de París que se une a una banda callejera femenina. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91jo3kwvZxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260921003900 +0200" stop="20260921020200 +0200" channel="acontra+ CINE">
-    <title lang="es">Deal (2008)</title>
-    <desc lang="es">Un exjugador de póker transmite toda su sabiduría a un estudiante universitario. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zLQrEfMQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260921020200 +0200" stop="20260921041400 +0200" channel="acontra+ CINE">
-    <title lang="es">Modigliani (2005)</title>
-    <desc lang="es">La historia jamás contada de la ácida rivalidad entre Picasso y Modigliani. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81r817NqNIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260921041400 +0200" stop="20260921062500 +0200" channel="acontra+ CINE">
+  <programme start="20260921042500 +0200" stop="20260921062500 +0200" channel="acontra+ CINE">
     <title lang="es">Muerte de un viajante (1985)</title>
     <desc lang="es">Willy Loman un vendedor toma conciencia del vacío de su vida e intenta ponerle remedio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81zTdAWcJuL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Los girasoles (1970)</title>
     <desc lang="es">Giovanna se casa con Antonio antes de la guerra, pero él no quiere ir al frente y simula estar loco. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1OT-cPmxeL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260921081300 +0200" stop="20260921093800 +0200" channel="acontra+ CINE">
+    <title lang="es">La piedra sagrada (2017)</title>
+    <desc lang="es">Un hombre dispara accidentalmente un dispositivo apocalíptico sumerio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1XwvyLLD+L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260921093800 +0200" stop="20260921110000 +0200" channel="acontra+ CINE">
+    <title lang="es">Indigenous (2014)</title>
+    <desc lang="es">Un grupo de amigos viaja a Panamá para relajarse y allí se encuentran con su peor pesadilla. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tGnRUOrJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260921110000 +0200" stop="20260921141000 +0200" channel="acontra+ CINE">
+    <title lang="es">Los niños del paraíso (1945)</title>
+    <desc lang="es">París, 1820. Dos jóvenes artistas entablan amistad. Un día, una mujer irrumpe en sus vidas. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/61VGB8+dDOL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
