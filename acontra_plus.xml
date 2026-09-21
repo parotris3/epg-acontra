@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260921090000 +0200" stop="20260921110000 +0200" channel="acontra+ CINE">
-    <title lang="es">Indigenous (2014)</title>
-    <desc lang="es">Un grupo de amigos viaja a Panamá para relajarse y allí se encuentran con su peor pesadilla. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tGnRUOrJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260921110000 +0200" stop="20260921141000 +0200" channel="acontra+ CINE">
-    <title lang="es">Los niños del paraíso (1945)</title>
-    <desc lang="es">París, 1820. Dos jóvenes artistas entablan amistad. Un día, una mujer irrumpe en sus vidas. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/61VGB8+dDOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260921141000 +0200" stop="20260921155300 +0200" channel="acontra+ CINE">
+  <programme start="20260921135300 +0200" stop="20260921155300 +0200" channel="acontra+ CINE">
     <title lang="es">The Gift (2015)</title>
     <desc lang="es">Un viejo conocido amenaza la felicidad de un matrimonio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/717a8vrAlSL._UR1920,1080_FMpng_.jpg"/>
@@ -22,5 +12,20 @@
     <title lang="es">Becket (1964)</title>
     <desc lang="es">Enrique II Plantagenet, rey de Inglaterra, y Thomas Becket se enfrentan violentamente. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91DlKcfPiZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260921181600 +0200" stop="20260921202200 +0200" channel="acontra+ CINE">
+    <title lang="es">No se lo digas a nadie (2006)</title>
+    <desc lang="es">La mujer de Alex Beck fue asesinada hace ocho años, ahora él es sospechoso de dos asesinatos. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91LHfqAz5OL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260921202200 +0200" stop="20260921224800 +0200" channel="acontra+ CINE">
+    <title lang="es">Romanzo criminale (2005)</title>
+    <desc lang="es">Una banda de delincuentes asesina a un hombre poderoso y se involucra en el tráfico de drogas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8193TrysWXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260921224800 +0200" stop="20260922001600 +0200" channel="acontra+ CINE">
+    <title lang="es">Gritos y susurros (1972)</title>
+    <desc lang="es">Tres hermanas se reúnen para pasar juntas los últimos días de vida de una de ellas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71l-O1xlqZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
