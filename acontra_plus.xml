@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260922103600 +0200" stop="20260922123600 +0200" channel="acontra+ CINE">
-    <title lang="es">El idiota (1951)</title>
-    <desc lang="es">Un soldado condenado a muerte por crímenes de guerra, se salva de ser fusilado en el último momento. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Z8IZ9HTdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260922123600 +0200" stop="20260922134700 +0200" channel="acontra+ CINE">
-    <title lang="es">La reina de Nueva York (1937)</title>
-    <desc lang="es">La suerte de un periodista cambia cuando le vende a su editor la trágica historia de una chica. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/910YKxlZQDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260922134700 +0200" stop="20260922152400 +0200" channel="acontra+ CINE">
+  <programme start="20260922132400 +0200" stop="20260922152400 +0200" channel="acontra+ CINE">
     <title lang="es">Dies Irae (1943)</title>
     <desc lang="es">En un pueblo danés del siglo XVII, una anciana es acusada de brujería. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81zpJq2N50L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">La perrera (2010)</title>
     <desc lang="es">Tres criminales enfrentan a unos prisioneros brutales en una prisión. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1zsOc+xR0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260922184000 +0200" stop="20260922201500 +0200" channel="acontra+ CINE">
+    <title lang="es">Ciudad del crimen</title>
+    <desc lang="es">Un ex-boxeador que regenta un club descubre que dos de sus bailarinas han sido asesinadas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1OtJlIvFrL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260922201500 +0200" stop="20260922220300 +0200" channel="acontra+ CINE">
+    <title lang="es">Hombres contra mujeres (2010)</title>
+    <desc lang="es">Cuatro historias de pareja, amor y desamor en las que se aborda el problema de la guerra de sexos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Vl5ixvOYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260922220300 +0200" stop="20260922232800 +0200" channel="acontra+ CINE">
+    <title lang="es">Los ojos sin rostro (1960)</title>
+    <desc lang="es">Un brillante cirujano rapta chicas para utilizar su piel y así reconstruir la belleza de su hija. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8194+Gl+upL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
