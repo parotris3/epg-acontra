@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260922132400 +0200" stop="20260922152400 +0200" channel="acontra+ CINE">
-    <title lang="es">Dies Irae (1943)</title>
-    <desc lang="es">En un pueblo danés del siglo XVII, una anciana es acusada de brujería. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81zpJq2N50L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260922152400 +0200" stop="20260922171300 +0200" channel="acontra+ CINE">
-    <title lang="es">Antes del anochecer (2013)</title>
-    <desc lang="es">Jesse y Céline se encuentran de nuevo en Grecia. Han pasado nueve años desde su último encuentro. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81L897QoI-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260922171300 +0200" stop="20260922184000 +0200" channel="acontra+ CINE">
-    <title lang="es">La perrera (2010)</title>
-    <desc lang="es">Tres criminales enfrentan a unos prisioneros brutales en una prisión. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1zsOc+xR0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260922184000 +0200" stop="20260922201500 +0200" channel="acontra+ CINE">
+  <programme start="20260922181500 +0200" stop="20260922201500 +0200" channel="acontra+ CINE">
     <title lang="es">Ciudad del crimen</title>
     <desc lang="es">Un ex-boxeador que regenta un club descubre que dos de sus bailarinas han sido asesinadas. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1OtJlIvFrL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Los ojos sin rostro (1960)</title>
     <desc lang="es">Un brillante cirujano rapta chicas para utilizar su piel y así reconstruir la belleza de su hija. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/8194+Gl+upL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260922232800 +0200" stop="20260923005700 +0200" channel="acontra+ CINE">
+    <title lang="es">La ronda (1950)</title>
+    <desc lang="es">Viena, 1900. El amor está en el aire, y las parejas van y vienen. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71BHBFA4BqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260923005700 +0200" stop="20260923024600 +0200" channel="acontra+ CINE">
+    <title lang="es">Padre patrón (1977)</title>
+    <desc lang="es">La historia real de Gavino Ledda, que fue obligado por su autoritario padre a dejar la escuela. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/61+CRe2Rb7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260923024600 +0200" stop="20260923042200 +0200" channel="acontra+ CINE">
+    <title lang="es">Rabia (1977)</title>
+    <desc lang="es">Una joven desarrolla un gusto especial por la sangre humana tras someterse a una operación. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71vjXi0bcBL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
