@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260923092300 +0200" stop="20260923112300 +0200" channel="acontra+ CINE">
-    <title lang="es">Una chica perfecta (2011)</title>
-    <desc lang="es">Dos padres buscan de manera desesperada a su hija desaparecida. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81kXG7WEJvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260923112300 +0200" stop="20260923124900 +0200" channel="acontra+ CINE">
-    <title lang="es">Blanco perfecto (Downrange) (2018)</title>
-    <desc lang="es">Seis amigos se quedan tirados en la carretera y se convierten en el objetivo de un francotirador. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nEFH7nABL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260923124900 +0200" stop="20260923140700 +0200" channel="acontra+ CINE">
-    <title lang="es">Más allá de la duda (1956)</title>
-    <desc lang="es">Un escritor intenta demostrar la deficiencia de las leyes y la ineficacia de la policía. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Oc-S15fdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260923140700 +0200" stop="20260923153900 +0200" channel="acontra+ CINE">
+  <programme start="20260923133900 +0200" stop="20260923153900 +0200" channel="acontra+ CINE">
     <title lang="es">Kim Novak nunca estuvo aquí (2012)</title>
     <desc lang="es">Henry comienza unas idílicas vacaciones en el campo hasta que ocurre un terrible incidente. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Rx9R4K4hL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Cleo de 5 a 7 (1963)</title>
     <desc lang="es">Cléo deambula, angustiada, mientras aguarda los resultados de un análisis médico. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81K289K2nQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260923191400 +0200" stop="20260923205900 +0200" channel="acontra+ CINE">
+    <title lang="es">Encuentro en la noche (1952)</title>
+    <desc lang="es">Tras diez años de ausencia, Mae Doyle vuelve a su pueblo natal, una pequeña población pesquera. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81zo2eSNOcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260923205900 +0200" stop="20260923223600 +0200" channel="acontra+ CINE">
+    <title lang="es">El placer (1953)</title>
+    <desc lang="es">Un hombre que oculta su edad, un viaje al campo y un pintor ilustran tres historias sobre el placer. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81OVO5JCtKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260923223600 +0200" stop="20260924003100 +0200" channel="acontra+ CINE">
+    <title lang="es">Oldboy (2003)</title>
+    <desc lang="es">Tras ser liberado, un hombre de negocios intenta averiguar la causa de su secuestro hace 15 años. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91piJMJIOkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
