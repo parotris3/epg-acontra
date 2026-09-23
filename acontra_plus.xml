@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260923133900 +0200" stop="20260923153900 +0200" channel="acontra+ CINE">
-    <title lang="es">Kim Novak nunca estuvo aquí (2012)</title>
-    <desc lang="es">Henry comienza unas idílicas vacaciones en el campo hasta que ocurre un terrible incidente. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Rx9R4K4hL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260923153900 +0200" stop="20260923174400 +0200" channel="acontra+ CINE">
-    <title lang="es">13 asesinos (2010)</title>
-    <desc lang="es">Un oficial llega a un acuerdo con un samurái para que le ayude a acabar con un tirano. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71QqYrnKBwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260923174400 +0200" stop="20260923191400 +0200" channel="acontra+ CINE">
-    <title lang="es">Cleo de 5 a 7 (1963)</title>
-    <desc lang="es">Cléo deambula, angustiada, mientras aguarda los resultados de un análisis médico. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81K289K2nQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260923191400 +0200" stop="20260923205900 +0200" channel="acontra+ CINE">
+  <programme start="20260923185900 +0200" stop="20260923205900 +0200" channel="acontra+ CINE">
     <title lang="es">Encuentro en la noche (1952)</title>
     <desc lang="es">Tras diez años de ausencia, Mae Doyle vuelve a su pueblo natal, una pequeña población pesquera. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81zo2eSNOcL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Oldboy (2003)</title>
     <desc lang="es">Tras ser liberado, un hombre de negocios intenta averiguar la causa de su secuestro hace 15 años. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91piJMJIOkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260924003100 +0200" stop="20260924023000 +0200" channel="acontra+ CINE">
+    <title lang="es">Juntos (2003)</title>
+    <desc lang="es">Un joven prodigio del violín y su padre se mudan a Pekín en busca de un maestro. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91UcJguueIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260924023000 +0200" stop="20260924042800 +0200" channel="acontra+ CINE">
+    <title lang="es">El tiempo del lobo</title>
+    <desc lang="es">Anna y su familia descubren que su casa de campo ha sido ocupada por otra familia. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91AG38UD0fL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
