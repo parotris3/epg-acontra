@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260924132700 +0200" stop="20260924152700 +0200" channel="acontra+ CINE">
-    <title lang="es">La cena de los idiotas (1998)</title>
-    <desc lang="es">Un francés adinerado mantiene un certamen semanal para ver quién trae como invitado al mayor idiota. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ALhSuqkiL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260924152700 +0200" stop="20260924170900 +0200" channel="acontra+ CINE">
-    <title lang="es">Rufufú da el golpe (1959)</title>
-    <desc lang="es">Un milanés convence a Pepe y a sus amigos para ir a Milán para robar el furgón de las quinielas. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/71uBR3dN43L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260924170900 +0200" stop="20260924184000 +0200" channel="acontra+ CINE">
-    <title lang="es">Love Bite (2012)</title>
-    <desc lang="es">Jaime descubre que la única forma de estar a salvo de un hombre lobo es teniendo sexo. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81B5h7R964L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260924184000 +0200" stop="20260924203500 +0200" channel="acontra+ CINE">
+  <programme start="20260924183500 +0200" stop="20260924203500 +0200" channel="acontra+ CINE">
     <title lang="es">Mi amigo Mr. Morgan (2013)</title>
     <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Caramel (2007)</title>
     <desc lang="es">Cinco mujeres libanesas comparten sus vidas y preocupaciones en un salón de belleza de Beirut. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Svm35LVfL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260924234500 +0200" stop="20260925022700 +0200" channel="acontra+ CINE">
+    <title lang="es">Scenes From a Marriage (2021)</title>
+    <desc lang="es">Una adaptación de la miniserie sueca de 1973 de Ingar Bergmann sobre un matrimonio que se desmorona. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1a0AxxalkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260925022700 +0200" stop="20260925041000 +0200" channel="acontra+ CINE">
+    <title lang="es">Mi vida como un perro (1987)</title>
+    <desc lang="es">Agridulce viaje de la infancia a la adolescencia que tiene que recorrer un niño sueco de 12 años. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91EciWOY9KL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
