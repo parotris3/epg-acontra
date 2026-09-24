@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260924083700 +0200" stop="20260924103700 +0200" channel="acontra+ CINE">
-    <title lang="es">Consejo de guerra (1980)</title>
-    <desc lang="es">Australianos que luchan por Inglaterra en la Guerra de los Bóer se enfrentan a un consejo de guerra. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91MYLrjr-ML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260924103700 +0200" stop="20260924121400 +0200" channel="acontra+ CINE">
-    <title lang="es">El rostro (1975)</title>
-    <desc lang="es">El hipnotizador y mago Vogler y su mujer están siendo desafiados por los escépticos locales. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Lo+2uo-4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260924121400 +0200" stop="20260924140700 +0200" channel="acontra+ CINE">
-    <title lang="es">Gertrud (1964)</title>
-    <desc lang="es">Gertrud busca el amor absoluto, pero sus relaciones se ven siempre abocadas al fracaso. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71lbHLum9eL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260924140700 +0200" stop="20260924152700 +0200" channel="acontra+ CINE">
+  <programme start="20260924132700 +0200" stop="20260924152700 +0200" channel="acontra+ CINE">
     <title lang="es">La cena de los idiotas (1998)</title>
     <desc lang="es">Un francés adinerado mantiene un certamen semanal para ver quién trae como invitado al mayor idiota. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71ALhSuqkiL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Love Bite (2012)</title>
     <desc lang="es">Jaime descubre que la única forma de estar a salvo de un hombre lobo es teniendo sexo. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81B5h7R964L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260924184000 +0200" stop="20260924203500 +0200" channel="acontra+ CINE">
+    <title lang="es">Mi amigo Mr. Morgan (2013)</title>
+    <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260924203500 +0200" stop="20260924220900 +0200" channel="acontra+ CINE">
+    <title lang="es">Orlando (1993)</title>
+    <desc lang="es">El noble Orlando es condenado por la reina Isabel I a permanecer eternamente joven. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/816iNv+M1YL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260924220900 +0200" stop="20260924234500 +0200" channel="acontra+ CINE">
+    <title lang="es">Caramel (2007)</title>
+    <desc lang="es">Cinco mujeres libanesas comparten sus vidas y preocupaciones en un salón de belleza de Beirut. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Svm35LVfL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
