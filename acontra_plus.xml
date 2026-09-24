@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260924183500 +0200" stop="20260924203500 +0200" channel="acontra+ CINE">
-    <title lang="es">Mi amigo Mr. Morgan (2013)</title>
-    <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260924203500 +0200" stop="20260924220900 +0200" channel="acontra+ CINE">
-    <title lang="es">Orlando (1993)</title>
-    <desc lang="es">El noble Orlando es condenado por la reina Isabel I a permanecer eternamente joven. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/816iNv+M1YL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260924220900 +0200" stop="20260924234500 +0200" channel="acontra+ CINE">
-    <title lang="es">Caramel (2007)</title>
-    <desc lang="es">Cinco mujeres libanesas comparten sus vidas y preocupaciones en un salón de belleza de Beirut. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Svm35LVfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260924234500 +0200" stop="20260925022700 +0200" channel="acontra+ CINE">
+  <programme start="20260925002700 +0200" stop="20260925022700 +0200" channel="acontra+ CINE">
     <title lang="es">Scenes From a Marriage (2021)</title>
     <desc lang="es">Una adaptación de la miniserie sueca de 1973 de Ingar Bergmann sobre un matrimonio que se desmorona. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1a0AxxalkL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Mi vida como un perro (1987)</title>
     <desc lang="es">Agridulce viaje de la infancia a la adolescencia que tiene que recorrer un niño sueco de 12 años. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91EciWOY9KL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260925041000 +0200" stop="20260925054600 +0200" channel="acontra+ CINE">
+    <title lang="es">La mujer casada (1965)</title>
+    <desc lang="es">Un ensayo psicológico y una crítica de la posición de la mujer en la sociedad moderna. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Gd8kl6v1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260925054600 +0200" stop="20260925072600 +0200" channel="acontra+ CINE">
+    <title lang="es">Sácame de dudas (2020)</title>
+    <desc lang="es">Erwan descubre que no es hijo del hombre al que consideraba su padre tras hacerse un análisis. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91w2r94asNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260925072600 +0200" stop="20260925092200 +0200" channel="acontra+ CINE">
+    <title lang="es">Sophie Scholl: los últimos días (2005)</title>
+    <desc lang="es">Sophie Scholl es una estudiante en Múnich en 1943 encarcelada por la Gestapo durante una misión. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1v8rdAhFYL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
