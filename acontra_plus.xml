@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260925002700 +0200" stop="20260925022700 +0200" channel="acontra+ CINE">
-    <title lang="es">Scenes From a Marriage (2021)</title>
-    <desc lang="es">Una adaptación de la miniserie sueca de 1973 de Ingar Bergmann sobre un matrimonio que se desmorona. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1a0AxxalkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260925022700 +0200" stop="20260925041000 +0200" channel="acontra+ CINE">
-    <title lang="es">Mi vida como un perro (1987)</title>
-    <desc lang="es">Agridulce viaje de la infancia a la adolescencia que tiene que recorrer un niño sueco de 12 años. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91EciWOY9KL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260925041000 +0200" stop="20260925054600 +0200" channel="acontra+ CINE">
+  <programme start="20260925034600 +0200" stop="20260925054600 +0200" channel="acontra+ CINE">
     <title lang="es">La mujer casada (1965)</title>
     <desc lang="es">Un ensayo psicológico y una crítica de la posición de la mujer en la sociedad moderna. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71Gd8kl6v1L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Sophie Scholl: los últimos días (2005)</title>
     <desc lang="es">Sophie Scholl es una estudiante en Múnich en 1943 encarcelada por la Gestapo durante una misión. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1v8rdAhFYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260925092200 +0200" stop="20260925110700 +0200" channel="acontra+ CINE">
+    <title lang="es">Gigolo (2024)</title>
+    <desc lang="es">Tras la Primera Guerra Mundial, un hombre regresa a Berlín y decide convertirse en "gigoló". | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71hraIcbBVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260925110700 +0200" stop="20260925130100 +0200" channel="acontra+ CINE">
+    <title lang="es">Good Morning Babilonia (1987)</title>
+    <desc lang="es">Dos hermanos italianos buscan éxito como diseñadores de escenario en Estados Unidos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81+9mNV048L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
