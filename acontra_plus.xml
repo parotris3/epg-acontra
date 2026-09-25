@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260925142200 +0200" stop="20260925162200 +0200" channel="acontra+ CINE">
-    <title lang="es">Frank y el robot (2012)</title>
-    <desc lang="es">Un excriminal utiliza robots para robar nuevamente. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/712WibFxd0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260925162200 +0200" stop="20260925174900 +0200" channel="acontra+ CINE">
-    <title lang="es">Bajo Cero (2006)</title>
-    <desc lang="es">Un grupo de alpinistas debe evitar que unos mercenarios utilicen una destructiva arma. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1F0SjuOWRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260925174900 +0200" stop="20260925193500 +0200" channel="acontra+ CINE">
-    <title lang="es">Todo por Grace (2018)</title>
-    <desc lang="es">Un joven trasciende los límites de raza y clase para perseguir un amor imposible. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1-Zchj8WXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260925193500 +0200" stop="20260925210500 +0200" channel="acontra+ CINE">
+  <programme start="20260925190500 +0200" stop="20260925210500 +0200" channel="acontra+ CINE">
     <title lang="es">Aprendiendo a conducir (2014)</title>
     <desc lang="es">Una escritora y un taxista indio se alejan de sus problemas durante las clases de conducción. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81tu3xFypWL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Invitado de honor (2019)</title>
     <desc lang="es">Verónica quiere permanecer en la cárcel por una agresión sexual que no ha cometido. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1Qt36N5w0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260926001600 +0200" stop="20260926020600 +0200" channel="acontra+ CINE">
+    <title lang="es">El fotógrafo de Minamata (2020)</title>
+    <desc lang="es">W. Eugne Smith, fotógrafo de guerra, regresa a Japón para documentar el envenenamiento por mercurio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Y8Sd-EGgL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260926020600 +0200" stop="20260926041600 +0200" channel="acontra+ CINE">
+    <title lang="es">Tom & Viv (1994)</title>
+    <desc lang="es">Historia del matrimonio fallido entre T.S. Eliot y su esposa enferma. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81UTnu5cYvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
