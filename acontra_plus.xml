@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260925090700 +0200" stop="20260925110700 +0200" channel="acontra+ CINE">
-    <title lang="es">Gigolo (2024)</title>
-    <desc lang="es">Tras la Primera Guerra Mundial, un hombre regresa a Berlín y decide convertirse en "gigoló". | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71hraIcbBVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260925110700 +0200" stop="20260925130100 +0200" channel="acontra+ CINE">
-    <title lang="es">Good Morning Babilonia (1987)</title>
-    <desc lang="es">Dos hermanos italianos buscan éxito como diseñadores de escenario en Estados Unidos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81+9mNV048L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260925130100 +0200" stop="20260925145100 +0200" channel="acontra+ CINE">
-    <title lang="es">La Madre Teresa (2003)</title>
-    <desc lang="es">Una monja dedica su vida a ayudar a los pobres. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/71oPmXaC7cL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260925145100 +0200" stop="20260925162200 +0200" channel="acontra+ CINE">
+  <programme start="20260925142200 +0200" stop="20260925162200 +0200" channel="acontra+ CINE">
     <title lang="es">Frank y el robot (2012)</title>
     <desc lang="es">Un excriminal utiliza robots para robar nuevamente. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/712WibFxd0L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Todo por Grace (2018)</title>
     <desc lang="es">Un joven trasciende los límites de raza y clase para perseguir un amor imposible. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1-Zchj8WXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260925193500 +0200" stop="20260925210500 +0200" channel="acontra+ CINE">
+    <title lang="es">Aprendiendo a conducir (2014)</title>
+    <desc lang="es">Una escritora y un taxista indio se alejan de sus problemas durante las clases de conducción. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tu3xFypWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260925210500 +0200" stop="20260925223600 +0200" channel="acontra+ CINE">
+    <title lang="es">El silencio (2002)</title>
+    <desc lang="es">Dos hermanas, Ester y Anna, y el hijo de una de ellas viajan en tren a un país en guerra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/812c7vMBQQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260925223600 +0200" stop="20260926001600 +0200" channel="acontra+ CINE">
+    <title lang="es">Invitado de honor (2019)</title>
+    <desc lang="es">Verónica quiere permanecer en la cárcel por una agresión sexual que no ha cometido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1Qt36N5w0L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
