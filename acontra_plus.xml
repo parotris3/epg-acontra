@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260925221600 +0200" stop="20260926001600 +0200" channel="acontra+ CINE">
-    <title lang="es">Invitado de honor (2019)</title>
-    <desc lang="es">Verónica quiere permanecer en la cárcel por una agresión sexual que no ha cometido. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Qt36N5w0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260926001600 +0200" stop="20260926020600 +0200" channel="acontra+ CINE">
-    <title lang="es">El fotógrafo de Minamata (2020)</title>
-    <desc lang="es">W. Eugne Smith, fotógrafo de guerra, regresa a Japón para documentar el envenenamiento por mercurio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Y8Sd-EGgL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260926020600 +0200" stop="20260926041600 +0200" channel="acontra+ CINE">
-    <title lang="es">Tom & Viv (1994)</title>
-    <desc lang="es">Historia del matrimonio fallido entre T.S. Eliot y su esposa enferma. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81UTnu5cYvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260926041600 +0200" stop="20260926055400 +0200" channel="acontra+ CINE">
+  <programme start="20260926035400 +0200" stop="20260926055400 +0200" channel="acontra+ CINE">
     <title lang="es">El escapista (2008)</title>
     <desc lang="es">El preso condenado a cadena perpetua Frank Perry recibe un mensaje sobre la salud de su hija. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1sbBOhNhjL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">El hombre orquesta (1970)</title>
     <desc lang="es">Un director de un ballet femenino hace lo posible para que sus bailarinas encuentren marido. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71XmK2jrJ-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260926090800 +0200" stop="20260926111100 +0200" channel="acontra+ CINE">
+    <title lang="es">Feliz Navidad, Mr. Lawrence (1983)</title>
+    <desc lang="es">Un intenso duelo de voluntades se establece entre comandantes japoneses y prisioneros británicos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1Ece-qw1kL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260926111100 +0200" stop="20260926130600 +0200" channel="acontra+ CINE">
+    <title lang="es">La mujer zurda (1980)</title>
+    <desc lang="es">Una mujer recién separada pone rumbo a París con su hijo, donde comienzan una nueva vida. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ebmwYoeRL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
