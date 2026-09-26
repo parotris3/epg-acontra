@@ -3,29 +3,34 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260926150400 +0200" stop="20260926170400 +0200" channel="acontra+ CINE">
-    <title lang="es">Diarios de motocicleta (2004)</title>
-    <desc lang="es">En 1952, Ernesto "Che" Guevara y su amigo Alberto Granado realizan un viaje a través de Sudamérica. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71aFMJNSttL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260926233000 +0200" stop="20260927013000 +0200" channel="acontra+ CINE">
+    <title lang="es">Buenas noches, y buena suerte (2005)</title>
+    <desc lang="es">El periodista Edward R. Murrow cuestiona la ética del senador Joseph McCarthy. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8104a5vWAaL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260926170400 +0200" stop="20260926184700 +0200" channel="acontra+ CINE">
-    <title lang="es">Envidia sana (2020)</title>
-    <desc lang="es">La armonía entre dos parejas se rompe cuando Lea les dice que está escribiendo una novela. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uDdrfBuKL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260927013000 +0200" stop="20260927022900 +0200" channel="acontra+ CINE">
+    <title lang="es">Miedo y deseo (1953)</title>
+    <desc lang="es">Cuatro soldados norteamericanos quedan atrapados y perdidos detrás de las líneas enemigas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81x01UnP1TL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260926184700 +0200" stop="20260926202600 +0200" channel="acontra+ CINE">
-    <title lang="es">El forastero (2014)</title>
-    <desc lang="es">Un contratista militar busca a su hija extraviada. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/819rBMqDTFL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260927022900 +0200" stop="20260927042100 +0200" channel="acontra+ CINE">
+    <title lang="es">Cuento de primavera (1990)</title>
+    <desc lang="es">Una estudiante de música desea que su padre conozca a su nueva amiga, una maestra de filosofía. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tp9wOoGTL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260926202600 +0200" stop="20260926221700 +0200" channel="acontra+ CINE">
-    <title lang="es">El amor de Swann (1984)</title>
-    <desc lang="es">La apasionada historia de amor de Swann, un aristócrata, con la bella prostituta Odette de Crécy. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71WNSPx7jcL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260927042100 +0200" stop="20260927054500 +0200" channel="acontra+ CINE">
+    <title lang="es">Diplomacia (2014)</title>
+    <desc lang="es">Raoul Nordling intenta convencer a Dietrich von Choltitz para que deje intactos los monumentos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81x-O7eaqzL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260926221700 +0200" stop="20260926235700 +0200" channel="acontra+ CINE">
-    <title lang="es">Mejor otro día (2014)</title>
-    <desc lang="es">En Londres, durante la noche de fin de año, cuatro desconocidos coinciden para lanzarse al vacío. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BOSXet0mL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260927054500 +0200" stop="20260927073600 +0200" channel="acontra+ CINE">
+    <title lang="es">Mi noche con Maud (1969)</title>
+    <desc lang="es">Un ingeniero católico trata de resistir las seducciones de una oscura mujer divorciada. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71fF8HWAegL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260927073600 +0200" stop="20260927092500 +0200" channel="acontra+ CINE">
+    <title lang="es">Fuerzas especiales (2011)</title>
+    <desc lang="es">Afganistán, una periodista es capturada por los Talibanes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81wD-+H9LpL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
