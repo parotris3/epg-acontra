@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260927135900 +0200" stop="20260927155900 +0200" channel="acontra+ CINE">
-    <title lang="es">Tsotsi (2005)</title>
-    <desc lang="es">Un ladrón sudafricano cuida al bebé de una mujer a la que disparó cuando esta viajaba en coche. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/C1skyL60iYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260927155900 +0200" stop="20260927175200 +0200" channel="acontra+ CINE">
-    <title lang="es">La gran seducción (2013)</title>
-    <desc lang="es">Los habitantes del pueblo costero canadiense de Tickel Cove necesitan un médico. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ZWzJlAK2L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260927175200 +0200" stop="20260927194200 +0200" channel="acontra+ CINE">
-    <title lang="es">La delicadeza (2011)</title>
-    <desc lang="es">El amor vuelve a llamar a la puerta de Nathalie, tras perder a su amado, en un compañero de trabajo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71YqDG7BGWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260927194200 +0200" stop="20260927211400 +0200" channel="acontra+ CINE">
+  <programme start="20260927191400 +0200" stop="20260927211400 +0200" channel="acontra+ CINE">
     <title lang="es">Sueños eléctricos (1984)</title>
     <desc lang="es">Un arquitecto y su ordenador, que ha cobrado vida propia, pelearán por el amor de su vecina. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/818fKOqBghL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Caché (2005)</title>
     <desc lang="es">Un crítico literario de televisión comienza a recibir inquietantes paquetes con vídeos suyos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71l9y149-cL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260928002300 +0200" stop="20260928014400 +0200" channel="acontra+ CINE">
+    <title lang="es">Persona (1966)</title>
+    <desc lang="es">La simbiosis de las dos personalidades de una misma mujer. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91YJjt7ASEL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260928014400 +0200" stop="20260928030000 +0200" channel="acontra+ CINE">
+    <title lang="es">Milagro en la Calle Mayor</title>
+    <desc lang="es">Una noche, huyendo de la policía, María entra en una iglesia y encuentra allí un bebé abandonado. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/acontra_CINE_16x9._UR1920,1080_FMpng_.png"/>
+  </programme>
+  <programme start="20260928030000 +0200" stop="20260928042800 +0200" channel="acontra+ CINE">
+    <title lang="es">Aceleración máxima (2019)</title>
+    <desc lang="es">Un mafioso secuestra al hijo pequeño de sus asistente. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91cereOs8xL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
