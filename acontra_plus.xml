@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260927090400 +0200" stop="20260927110400 +0200" channel="acontra+ CINE">
-    <title lang="es">Pasión por las letras (2016)</title>
-    <desc lang="es">Maxwell Perkins desarrolla una amistad con Thomas Wolfe. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Ludfflu0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260927110400 +0200" stop="20260927122200 +0200" channel="acontra+ CINE">
-    <title lang="es">Ángel de venganza (1981)</title>
-    <desc lang="es">Una joven sordomuda que ha sido violada recorre las calles de Nueva York en busca de venganza. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qVPfjBNiL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260927122200 +0200" stop="20260927142500 +0200" channel="acontra+ CINE">
-    <title lang="es">Great Expectations (2012)</title>
-    <desc lang="es">Basada en la novela de Charles Dickens. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1CCHqpqbeL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260927142500 +0200" stop="20260927155900 +0200" channel="acontra+ CINE">
+  <programme start="20260927135900 +0200" stop="20260927155900 +0200" channel="acontra+ CINE">
     <title lang="es">Tsotsi (2005)</title>
     <desc lang="es">Un ladrón sudafricano cuida al bebé de una mujer a la que disparó cuando esta viajaba en coche. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/C1skyL60iYL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La delicadeza (2011)</title>
     <desc lang="es">El amor vuelve a llamar a la puerta de Nathalie, tras perder a su amado, en un compañero de trabajo. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71YqDG7BGWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260927194200 +0200" stop="20260927211400 +0200" channel="acontra+ CINE">
+    <title lang="es">Sueños eléctricos (1984)</title>
+    <desc lang="es">Un arquitecto y su ordenador, que ha cobrado vida propia, pelearán por el amor de su vecina. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/818fKOqBghL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260927211400 +0200" stop="20260927223000 +0200" channel="acontra+ CINE">
+    <title lang="es">Egoshooter</title>
+    <desc lang="es">Para lidiar con la transición a la adultez, un adolescente graba todo con su cámara. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81fyvNADFBL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260927223000 +0200" stop="20260928002300 +0200" channel="acontra+ CINE">
+    <title lang="es">Caché (2005)</title>
+    <desc lang="es">Un crítico literario de televisión comienza a recibir inquietantes paquetes con vídeos suyos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71l9y149-cL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
