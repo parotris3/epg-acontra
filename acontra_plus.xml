@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260927191400 +0200" stop="20260927211400 +0200" channel="acontra+ CINE">
-    <title lang="es">Sueños eléctricos (1984)</title>
-    <desc lang="es">Un arquitecto y su ordenador, que ha cobrado vida propia, pelearán por el amor de su vecina. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/818fKOqBghL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260927211400 +0200" stop="20260927223000 +0200" channel="acontra+ CINE">
-    <title lang="es">Egoshooter</title>
-    <desc lang="es">Para lidiar con la transición a la adultez, un adolescente graba todo con su cámara. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81fyvNADFBL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260927223000 +0200" stop="20260928002300 +0200" channel="acontra+ CINE">
+  <programme start="20260927222300 +0200" stop="20260928002300 +0200" channel="acontra+ CINE">
     <title lang="es">Caché (2005)</title>
     <desc lang="es">Un crítico literario de televisión comienza a recibir inquietantes paquetes con vídeos suyos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71l9y149-cL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,20 @@
     <title lang="es">Aceleración máxima (2019)</title>
     <desc lang="es">Un mafioso secuestra al hijo pequeño de sus asistente. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91cereOs8xL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260928042800 +0200" stop="20260928054000 +0200" channel="acontra+ CINE">
+    <title lang="es">Adrenalina</title>
+    <desc lang="es">Durante unas vacaciones en Europa del Este, la hija de una agente del FBI es secuestrada. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qNKG3BZZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260928054000 +0200" stop="20260928071800 +0200" channel="acontra+ CINE">
+    <title lang="es">Soltera a los 40 (2014)</title>
+    <desc lang="es">La vida de Ave María Mulligan se pone patas arriba cuando descubre un secreto familiar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91xlVzV85AL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260928071800 +0200" stop="20260928084200 +0200" channel="acontra+ CINE">
+    <title lang="es">La guerra de los drones (2016)</title>
+    <desc lang="es">Un grupo de científicos resiste el ataque letal de unos drones en el planeta tierra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1u3p+L+CxL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
