@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260927222300 +0200" stop="20260928002300 +0200" channel="acontra+ CINE">
-    <title lang="es">Caché (2005)</title>
-    <desc lang="es">Un crítico literario de televisión comienza a recibir inquietantes paquetes con vídeos suyos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71l9y149-cL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260928002300 +0200" stop="20260928014400 +0200" channel="acontra+ CINE">
-    <title lang="es">Persona (1966)</title>
-    <desc lang="es">La simbiosis de las dos personalidades de una misma mujer. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91YJjt7ASEL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260928014400 +0200" stop="20260928030000 +0200" channel="acontra+ CINE">
-    <title lang="es">Milagro en la Calle Mayor</title>
-    <desc lang="es">Una noche, huyendo de la policía, María entra en una iglesia y encuentra allí un bebé abandonado. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/acontra_CINE_16x9._UR1920,1080_FMpng_.png"/>
-  </programme>
-  <programme start="20260928030000 +0200" stop="20260928042800 +0200" channel="acontra+ CINE">
-    <title lang="es">Aceleración máxima (2019)</title>
-    <desc lang="es">Un mafioso secuestra al hijo pequeño de sus asistente. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91cereOs8xL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260928042800 +0200" stop="20260928054000 +0200" channel="acontra+ CINE">
+  <programme start="20260928034000 +0200" stop="20260928054000 +0200" channel="acontra+ CINE">
     <title lang="es">Adrenalina</title>
     <desc lang="es">Durante unas vacaciones en Europa del Este, la hija de una agente del FBI es secuestrada. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81qNKG3BZZL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +17,20 @@
     <title lang="es">La guerra de los drones (2016)</title>
     <desc lang="es">Un grupo de científicos resiste el ataque letal de unos drones en el planeta tierra. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1u3p+L+CxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260928084200 +0200" stop="20260928102300 +0200" channel="acontra+ CINE">
+    <title lang="es">La regla del juego (1939)</title>
+    <desc lang="es">Ilustración de clásico de Jean Renoir acerca de las reglas sociales y sexuales que separan a clases. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91ZzBu2bdRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260928102300 +0200" stop="20260928121600 +0200" channel="acontra+ CINE">
+    <title lang="es">Todos los animales pequeños (1998)</title>
+    <desc lang="es">Bobby, un joven discapacitado psíquico, decide huir de su padrastro a través de la campiña inglesa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91nvNVgFCVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260928121600 +0200" stop="20260928134700 +0200" channel="acontra+ CINE">
+    <title lang="es">Semilla de crisantemo (1990)</title>
+    <desc lang="es">En la China rural, un hombre mayor compra a Ju Dou, una joven campesina. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81SKH9+LbUL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
