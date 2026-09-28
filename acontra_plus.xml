@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260928082300 +0200" stop="20260928102300 +0200" channel="acontra+ CINE">
-    <title lang="es">La regla del juego (1939)</title>
-    <desc lang="es">Ilustración de clásico de Jean Renoir acerca de las reglas sociales y sexuales que separan a clases. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91ZzBu2bdRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260928102300 +0200" stop="20260928121600 +0200" channel="acontra+ CINE">
-    <title lang="es">Todos los animales pequeños (1998)</title>
-    <desc lang="es">Bobby, un joven discapacitado psíquico, decide huir de su padrastro a través de la campiña inglesa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91nvNVgFCVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260928121600 +0200" stop="20260928134700 +0200" channel="acontra+ CINE">
-    <title lang="es">Semilla de crisantemo (1990)</title>
-    <desc lang="es">En la China rural, un hombre mayor compra a Ju Dou, una joven campesina. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81SKH9+LbUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260928134700 +0200" stop="20260928153500 +0200" channel="acontra+ CINE">
+  <programme start="20260928133500 +0200" stop="20260928153500 +0200" channel="acontra+ CINE">
     <title lang="es">Machete Kills (2013)</title>
     <desc lang="es">Machete va tras un traficante de armas. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/B1zKwzF56cL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La senda de la esperanza</title>
     <desc lang="es">Tres mujeres, que se encuentran alojadas en una pensión de Roma, comparten un mismo sueño. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/A1r2kgbrXwL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260928183800 +0200" stop="20260928201900 +0200" channel="acontra+ CINE">
+    <title lang="es">Super Mario Bros. (1993)</title>
+    <desc lang="es">Mario y Luigi descubren un mundo paralelo poblado por los descendientes de los dinosaurios. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81B0uZ9WZCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260928201900 +0200" stop="20260928220900 +0200" channel="acontra+ CINE">
+    <title lang="es">Naked Lunch (1991)</title>
+    <desc lang="es">Un exterminador alucina y mata a su mujer. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81+5fi71yYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260928220900 +0200" stop="20260928234500 +0200" channel="acontra+ CINE">
+    <title lang="es">Al azar, Baltasar (1966)</title>
+    <desc lang="es">Baltasar es un burro que vive feliz en un pueblo francés, hasta que es comprado por la joven Marie. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91kXDMFyBkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
