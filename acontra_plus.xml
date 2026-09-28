@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260928133500 +0200" stop="20260928153500 +0200" channel="acontra+ CINE">
-    <title lang="es">Machete Kills (2013)</title>
-    <desc lang="es">Machete va tras un traficante de armas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1zKwzF56cL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260928153500 +0200" stop="20260928171100 +0200" channel="acontra+ CINE">
-    <title lang="es">Esperando la hora (1998)</title>
-    <desc lang="es">Cuatro mujeres jóvenes tienen en común la precariedad laboral y la esperanza de un contrato fijo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71aMWv9eWlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260928171100 +0200" stop="20260928183800 +0200" channel="acontra+ CINE">
-    <title lang="es">La senda de la esperanza</title>
-    <desc lang="es">Tres mujeres, que se encuentran alojadas en una pensión de Roma, comparten un mismo sueño. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1r2kgbrXwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260928183800 +0200" stop="20260928201900 +0200" channel="acontra+ CINE">
+  <programme start="20260928181900 +0200" stop="20260928201900 +0200" channel="acontra+ CINE">
     <title lang="es">Super Mario Bros. (1993)</title>
     <desc lang="es">Mario y Luigi descubren un mundo paralelo poblado por los descendientes de los dinosaurios. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81B0uZ9WZCL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Al azar, Baltasar (1966)</title>
     <desc lang="es">Baltasar es un burro que vive feliz en un pueblo francés, hasta que es comprado por la joven Marie. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91kXDMFyBkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260928234500 +0200" stop="20260929021600 +0200" channel="acontra+ CINE">
+    <title lang="es">Un ángel en mi mesa (1991)</title>
+    <desc lang="es">Cinta biográfica sobre la escritora Janet Frame, quien casi fue víctima de una lobotomía. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1FHg-vfEtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260929021600 +0200" stop="20260929041400 +0200" channel="acontra+ CINE">
+    <title lang="es">Nueve vidas (2005)</title>
+    <desc lang="es">Nueve mujeres diferentes entre sí explican de manera cautivadora sus experiencias individuales. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91XIBSY-3pL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
