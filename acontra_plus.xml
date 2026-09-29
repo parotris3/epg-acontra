@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260929090800 +0200" stop="20260929110800 +0200" channel="acontra+ CINE">
-    <title lang="es">Este coche es una ruina (1988)</title>
-    <desc lang="es">Gerald se compra un Jaguar nuevo, y al instante se convierte en su nuevo amor. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91tcvCHxZtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260929110800 +0200" stop="20260929123600 +0200" channel="acontra+ CINE">
-    <title lang="es">Ejecutivo ejecutor (1990)</title>
-    <desc lang="es">Un ejecutivo que perdió a un subalterno, planea asesinatos a fin de ascender en la compañía. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81AJsq90WGL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260929123600 +0200" stop="20260929140400 +0200" channel="acontra+ CINE">
-    <title lang="es">Encubridora (1952)</title>
-    <desc lang="es">Un buen ranchero busca vengar la muerte de su novia cuando ella es asesinada durante un robo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91edcfoTFVL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260929140400 +0200" stop="20260929154300 +0200" channel="acontra+ CINE">
+  <programme start="20260929134300 +0200" stop="20260929154300 +0200" channel="acontra+ CINE">
     <title lang="es">Buffalo Soldiers (2001)</title>
     <desc lang="es">Un soldado condenado se las arregla para organizar una operación de mercado negro. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91RAMxXH5HL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La hija perfecta (2007)</title>
     <desc lang="es">Sarah conoce a Paul y parece que ha encontrado a su alma gemela, pero pronto la situación empeora. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1PTfSTA2NL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260929184800 +0200" stop="20260929205800 +0200" channel="acontra+ CINE">
+    <title lang="es">La gran comilona (1974)</title>
+    <desc lang="es">Cuatro amigos se reúnen en una mansión con la idea de suicidarse comiendo sin tregua. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1EVv2su3fL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260929205800 +0200" stop="20260929223500 +0200" channel="acontra+ CINE">
+    <title lang="es">Pasión (1993)</title>
+    <desc lang="es">Un hombre recién divorciado conoce a una viuda y comienzan una historia de amor. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81rbTrvq8qL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260929223500 +0200" stop="20260929235900 +0200" channel="acontra+ CINE">
+    <title lang="es">La hora del lobo (1968)</title>
+    <desc lang="es">Un artista sufre un colapso emocional y cree que está provocado por una secta. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81jv89mWZ3L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
