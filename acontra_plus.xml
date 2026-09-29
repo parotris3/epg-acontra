@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260929134300 +0200" stop="20260929154300 +0200" channel="acontra+ CINE">
-    <title lang="es">Buffalo Soldiers (2001)</title>
-    <desc lang="es">Un soldado condenado se las arregla para organizar una operación de mercado negro. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91RAMxXH5HL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260929154300 +0200" stop="20260929171500 +0200" channel="acontra+ CINE">
-    <title lang="es">Hunger (2009)</title>
-    <desc lang="es">Cuando expones tu cuerpo a las más extremas condiciones, las consecuencias son imprevisibles. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71gByKTRNSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260929171500 +0200" stop="20260929184800 +0200" channel="acontra+ CINE">
-    <title lang="es">La hija perfecta (2007)</title>
-    <desc lang="es">Sarah conoce a Paul y parece que ha encontrado a su alma gemela, pero pronto la situación empeora. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1PTfSTA2NL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260929184800 +0200" stop="20260929205800 +0200" channel="acontra+ CINE">
+  <programme start="20260929185800 +0200" stop="20260929205800 +0200" channel="acontra+ CINE">
     <title lang="es">La gran comilona (1974)</title>
     <desc lang="es">Cuatro amigos se reúnen en una mansión con la idea de suicidarse comiendo sin tregua. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1EVv2su3fL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La hora del lobo (1968)</title>
     <desc lang="es">Un artista sufre un colapso emocional y cree que está provocado por una secta. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81jv89mWZ3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260929235900 +0200" stop="20260930013100 +0200" channel="acontra+ CINE">
+    <title lang="es">Staten Island (2009)</title>
+    <desc lang="es">Bajo la sombra de Manhattan, las vidas de tres desconocidos se cruzan en Staten Island. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91egPGOTljL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260930013100 +0200" stop="20260930030600 +0200" channel="acontra+ CINE">
+    <title lang="es">¡Va por nosotras! (2020)</title>
+    <desc lang="es">Para salvar a un club a punto de desaparecer, el entrenador decide formarlo solo por mujeres. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81duRIuPVhL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260930030600 +0200" stop="20260930042000 +0200" channel="acontra+ CINE">
+    <title lang="es">El caserón de las sombras (1932)</title>
+    <desc lang="es">Debido a una tormenta, unos viajeros se ven obligados a refugiarse en un viejo caserón. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71KVPyfH4OL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
