@@ -3,34 +3,34 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260929185800 +0200" stop="20260929205800 +0200" channel="acontra+ CINE">
-    <title lang="es">La gran comilona (1974)</title>
-    <desc lang="es">Cuatro amigos se reúnen en una mansión con la idea de suicidarse comiendo sin tregua. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1EVv2su3fL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260930034100 +0200" stop="20260930054100 +0200" channel="acontra+ CINE">
+    <title lang="es">Dame 10 razones (2006)</title>
+    <desc lang="es">Un actor se adentra en un supermercado de un barrio obrero para investigar sobre su personaje. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81m7-duJJZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260929205800 +0200" stop="20260929223500 +0200" channel="acontra+ CINE">
-    <title lang="es">Pasión (1993)</title>
-    <desc lang="es">Un hombre recién divorciado conoce a una viuda y comienzan una historia de amor. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81rbTrvq8qL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260930054100 +0200" stop="20260930073000 +0200" channel="acontra+ CINE">
+    <title lang="es">Me casé con un boludo</title>
+    <desc lang="es">Florencia se da cuenta de que se casó con un idiota. Él intentará recuperarla con un guionista. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71rVwQe6GOL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260929223500 +0200" stop="20260929235900 +0200" channel="acontra+ CINE">
-    <title lang="es">La hora del lobo (1968)</title>
-    <desc lang="es">Un artista sufre un colapso emocional y cree que está provocado por una secta. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81jv89mWZ3L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260930073000 +0200" stop="20260930094400 +0200" channel="acontra+ CINE">
+    <title lang="es">Fanny (1961)</title>
+    <desc lang="es">Marius abandona a Fanny deseoso de conocer mundo, aunque ignora que está embarazada. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81WrIjDy2YL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260929235900 +0200" stop="20260930013100 +0200" channel="acontra+ CINE">
-    <title lang="es">Staten Island (2009)</title>
-    <desc lang="es">Bajo la sombra de Manhattan, las vidas de tres desconocidos se cruzan en Staten Island. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91egPGOTljL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260930094400 +0200" stop="20260930112100 +0200" channel="acontra+ CINE">
+    <title lang="es">La horda (2009)</title>
+    <desc lang="es">Un grupo de policías corruptos y criminales despiadados aúnan fuerzas en contra de unos monstruos. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81opcegUrLL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260930013100 +0200" stop="20260930030600 +0200" channel="acontra+ CINE">
-    <title lang="es">¡Va por nosotras! (2020)</title>
-    <desc lang="es">Para salvar a un club a punto de desaparecer, el entrenador decide formarlo solo por mujeres. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81duRIuPVhL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260930112100 +0200" stop="20260930125400 +0200" channel="acontra+ CINE">
+    <title lang="es">Escoria (1979)</title>
+    <desc lang="es">Carlín, un adolescente violento, llega a un reformatorio e intenta sobrevivir en un entorno hostil. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/919gIkKJ2WL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20260930030600 +0200" stop="20260930042000 +0200" channel="acontra+ CINE">
-    <title lang="es">El caserón de las sombras (1932)</title>
-    <desc lang="es">Debido a una tormenta, unos viajeros se ven obligados a refugiarse en un viejo caserón. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71KVPyfH4OL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20260930125400 +0200" stop="20260930143000 +0200" channel="acontra+ CINE">
+    <title lang="es">Mientras Nueva York duerme (1956)</title>
+    <desc lang="es">En los pasillos del Sentinel, los periodistas intrigan para hacerse con la dirección del diario. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ZbDqARslL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
