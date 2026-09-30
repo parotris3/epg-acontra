@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260930092100 +0200" stop="20260930112100 +0200" channel="acontra+ CINE">
-    <title lang="es">La horda (2009)</title>
-    <desc lang="es">Un grupo de policías corruptos y criminales despiadados aúnan fuerzas en contra de unos monstruos. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81opcegUrLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260930112100 +0200" stop="20260930125400 +0200" channel="acontra+ CINE">
-    <title lang="es">Escoria (1979)</title>
-    <desc lang="es">Carlín, un adolescente violento, llega a un reformatorio e intenta sobrevivir en un entorno hostil. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/919gIkKJ2WL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260930125400 +0200" stop="20260930143000 +0200" channel="acontra+ CINE">
-    <title lang="es">Mientras Nueva York duerme (1956)</title>
-    <desc lang="es">En los pasillos del Sentinel, los periodistas intrigan para hacerse con la dirección del diario. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ZbDqARslL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20260930143000 +0200" stop="20260930161400 +0200" channel="acontra+ CINE">
+  <programme start="20260930141400 +0200" stop="20260930161400 +0200" channel="acontra+ CINE">
     <title lang="es">Primavera tardía (1949)</title>
     <desc lang="es">Noriko vive con su padre viudo y cuida de él, pero ya va siendo muy mayor para permanecer soltera. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/817LyByUZ6L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Juzgado a la italiana (1956)</title>
     <desc lang="es">El magistrado Del Russo preside cuatro casos diferentes que se le presentan en un solo día. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81FlY6AjR4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260930192700 +0200" stop="20260930212500 +0200" channel="acontra+ CINE">
+    <title lang="es">The Brave (1998)</title>
+    <desc lang="es">Un misterioso personaje le hace una siniestra oferta a un humilde padre de familia. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Pj3qqPZJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260930212500 +0200" stop="20260930225000 +0200" channel="acontra+ CINE">
+    <title lang="es">Toni (2014)</title>
+    <desc lang="es">Toni, un inmigrante italiano que trabaja en el sur de Francia, se enamora de una mujer local. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81-0Dtqa25L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20260930225000 +0200" stop="20261001004300 +0200" channel="acontra+ CINE">
+    <title lang="es">Una bolsa de canicas (2017)</title>
+    <desc lang="es">Dos hermanos judíos huyen a través de Francia durante la ocupación alemana. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81n0p3c73LL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
