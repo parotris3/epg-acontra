@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261001185800 +0200" stop="20261001205800 +0200" channel="acontra+ CINE">
-    <title lang="es">El Skylab (2011)</title>
-    <desc lang="es">Julio de 1979. Albertine, de diez años, y sus familiares se reúnen en una casa de Bretaña. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ccAm5Q3PL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261001205800 +0200" stop="20261001223100 +0200" channel="acontra+ CINE">
-    <title lang="es">El hombre de la máscara de acero (2002)</title>
-    <desc lang="es">Tras sufrir un accidente de tráfico, un científico americano es capturado por los rusos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91iVMO8jAyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261001223100 +0200" stop="20261002002400 +0200" channel="acontra+ CINE">
+  <programme start="20261001222400 +0200" stop="20261002002400 +0200" channel="acontra+ CINE">
     <title lang="es">El dulce porvenir (1997)</title>
     <desc lang="es">Un abogado va a un pequeño pueblo que sufre las secuelas del accidente de un autobús escolar. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71-Vxuw0sKL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">El retorno del soldado (2022)</title>
     <desc lang="es">El capitán Chris Baldry vuelve del frente durante la Primera Guerra Mundial sufriendo amnesia. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/8106rx9ahCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261002040500 +0200" stop="20261002055400 +0200" channel="acontra+ CINE">
+    <title lang="es">El sabor del sake (1962)</title>
+    <desc lang="es">Shubei Hirayama es viudo y vive con su hija, pero ve injusto que ella se dedique solo a cuidarlo. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91GC-TwVyML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261002055400 +0200" stop="20261002071800 +0200" channel="acontra+ CINE">
+    <title lang="es">Josie (2017)</title>
+    <desc lang="es">Un hombre solitario se hace amigo de una estudiante, lo que genera suspicacias entre sus vecinos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81SUld6UADL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261002071800 +0200" stop="20261002090600 +0200" channel="acontra+ CINE">
+    <title lang="es">Las aventuras de Picasso (2013)</title>
+    <desc lang="es">En Madrid, Pablo Picasso se convirtió en pintor, pero se fue a París, donde vivió en la pobreza. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qm55QU0oL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
