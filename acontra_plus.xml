@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261001084200 +0200" stop="20261001104200 +0200" channel="acontra+ CINE">
-    <title lang="es">Como el buen vino (2019)</title>
-    <desc lang="es">Tras una crisis vital, un ejecutivo viaja de regreso a su pueblo natal en el sur de Italia. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1EEI-JlAXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261001104200 +0200" stop="20261001122700 +0200" channel="acontra+ CINE">
-    <title lang="es">Un golpe de suerte (2005)</title>
-    <desc lang="es">Paul Barnell encuentra un cadáver y decide usarlo para cobrar una póliza del seguro de vida. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81sbsHvJpCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261001122700 +0200" stop="20261001140200 +0200" channel="acontra+ CINE">
-    <title lang="es">Smart People (2008)</title>
-    <desc lang="es">Profesor se enfrenta a nuevo amor y a visitante inesperado. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/819xBSibw6L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261001140200 +0200" stop="20261001155300 +0200" channel="acontra+ CINE">
+  <programme start="20261001135300 +0200" stop="20261001155300 +0200" channel="acontra+ CINE">
     <title lang="es">Paraíso (2013)</title>
     <desc lang="es">Annika Bengtzon trata de reconstruir su vida tras la violenta muerte de su prometido. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81UESgMWduL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Four Lions (2010)</title>
     <desc lang="es">Cuatro musulmanes intentan realizar, sin éxito, actos de terrorismo en Inglaterra. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81HPccFYNSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261001190400 +0200" stop="20261001205800 +0200" channel="acontra+ CINE">
+    <title lang="es">El Skylab (2011)</title>
+    <desc lang="es">Julio de 1979. Albertine, de diez años, y sus familiares se reúnen en una casa de Bretaña. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ccAm5Q3PL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261001205800 +0200" stop="20261001223100 +0200" channel="acontra+ CINE">
+    <title lang="es">El hombre de la máscara de acero (2002)</title>
+    <desc lang="es">Tras sufrir un accidente de tráfico, un científico americano es capturado por los rusos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91iVMO8jAyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261001223100 +0200" stop="20261002002400 +0200" channel="acontra+ CINE">
+    <title lang="es">El dulce porvenir (1997)</title>
+    <desc lang="es">Un abogado va a un pequeño pueblo que sufre las secuelas del accidente de un autobús escolar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71-Vxuw0sKL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
