@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20260930224300 +0200" stop="20261001004300 +0200" channel="acontra+ CINE">
-    <title lang="es">Una bolsa de canicas (2017)</title>
-    <desc lang="es">Dos hermanos judíos huyen a través de Francia durante la ocupación alemana. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81n0p3c73LL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261001004300 +0200" stop="20261001022400 +0200" channel="acontra+ CINE">
-    <title lang="es">Sin techo ni ley (1991)</title>
-    <desc lang="es">Mona era una nómada, autoestopista y pasó sus últimos días caminando por las carreteras. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91igR0qpfHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261001022400 +0200" stop="20261001042400 +0200" channel="acontra+ CINE">
-    <title lang="es">13 minutos para matar a Hitler (2015)</title>
-    <desc lang="es">Georg Elser pudo haber cambiado el rumbo de la historia de haber contado con trece minutos más. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Nrgxbf4VL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261001042400 +0200" stop="20261001054000 +0200" channel="acontra+ CINE">
+  <programme start="20261001034000 +0200" stop="20261001054000 +0200" channel="acontra+ CINE">
     <title lang="es">Adrenalina</title>
     <desc lang="es">Durante unas vacaciones en Europa del Este, la hija de una agente del FBI es secuestrada. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81qNKG3BZZL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El silencio (2002)</title>
     <desc lang="es">Dos hermanas, Ester y Anna, y el hijo de una de ellas viajan en tren a un país en guerra. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/812c7vMBQQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261001090800 +0200" stop="20261001104200 +0200" channel="acontra+ CINE">
+    <title lang="es">Como el buen vino (2019)</title>
+    <desc lang="es">Tras una crisis vital, un ejecutivo viaja de regreso a su pueblo natal en el sur de Italia. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1EEI-JlAXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261001104200 +0200" stop="20261001122700 +0200" channel="acontra+ CINE">
+    <title lang="es">Un golpe de suerte (2005)</title>
+    <desc lang="es">Paul Barnell encuentra un cadáver y decide usarlo para cobrar una póliza del seguro de vida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81sbsHvJpCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261001122700 +0200" stop="20261001140200 +0200" channel="acontra+ CINE">
+    <title lang="es">Smart People (2008)</title>
+    <desc lang="es">Profesor se enfrenta a nuevo amor y a visitante inesperado. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/819xBSibw6L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
