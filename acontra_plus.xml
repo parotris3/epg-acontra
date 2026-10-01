@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261001034000 +0200" stop="20261001054000 +0200" channel="acontra+ CINE">
-    <title lang="es">Adrenalina</title>
-    <desc lang="es">Durante unas vacaciones en Europa del Este, la hija de una agente del FBI es secuestrada. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qNKG3BZZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261001054000 +0200" stop="20261001073500 +0200" channel="acontra+ CINE">
-    <title lang="es">El caso Farewell (2009)</title>
-    <desc lang="es">Un coronel proporciona información secreta sobre el régimen comunista ruso a un ingeniero francés. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81KMPsGbe+L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261001073500 +0200" stop="20261001090800 +0200" channel="acontra+ CINE">
-    <title lang="es">El silencio (2002)</title>
-    <desc lang="es">Dos hermanas, Ester y Anna, y el hijo de una de ellas viajan en tren a un país en guerra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/812c7vMBQQL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261001090800 +0200" stop="20261001104200 +0200" channel="acontra+ CINE">
+  <programme start="20261001084200 +0200" stop="20261001104200 +0200" channel="acontra+ CINE">
     <title lang="es">Como el buen vino (2019)</title>
     <desc lang="es">Tras una crisis vital, un ejecutivo viaja de regreso a su pueblo natal en el sur de Italia. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1EEI-JlAXL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Smart People (2008)</title>
     <desc lang="es">Profesor se enfrenta a nuevo amor y a visitante inesperado. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/819xBSibw6L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261001140200 +0200" stop="20261001155300 +0200" channel="acontra+ CINE">
+    <title lang="es">Paraíso (2013)</title>
+    <desc lang="es">Annika Bengtzon trata de reconstruir su vida tras la violenta muerte de su prometido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81UESgMWduL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261001155300 +0200" stop="20261001172300 +0200" channel="acontra+ CINE">
+    <title lang="es">Little Monsters (2019)</title>
+    <desc lang="es">Dave se ofrece como voluntario para acompañar a su sobrino en un viaje escolar. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91irhFfgcgL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261001172300 +0200" stop="20261001190400 +0200" channel="acontra+ CINE">
+    <title lang="es">Four Lions (2010)</title>
+    <desc lang="es">Cuatro musulmanes intentan realizar, sin éxito, actos de terrorismo en Inglaterra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81HPccFYNSL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
