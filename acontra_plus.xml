@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261002090100 +0200" stop="20261002110100 +0200" channel="acontra+ CINE">
-    <title lang="es">Muriel (El tiempo de un retorno) (1963)</title>
-    <desc lang="es">Helène se reencuentra con su amor de juventud y descubre que ya no tienen nada en común. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91pf6WLH5zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261002110100 +0200" stop="20261002124000 +0200" channel="acontra+ CINE">
-    <title lang="es">The Osiris Child (2016)</title>
-    <desc lang="es">Un grupo de extraños debe salvar a la humanidad. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tqTV+FPzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261002124000 +0200" stop="20261002141700 +0200" channel="acontra+ CINE">
-    <title lang="es">Trabajo clandestino (1982)</title>
-    <desc lang="es">Nowak y su equipo de albañiles polacos llegan a Londres para trabajar clandestinamente en una casa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Vef6-ewhL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261002141700 +0200" stop="20261002160100 +0200" channel="acontra+ CINE">
+  <programme start="20261002140100 +0200" stop="20261002160100 +0200" channel="acontra+ CINE">
     <title lang="es">Una cosa por otra (2021)</title>
     <desc lang="es">Un fugitivo conoce a una mujer que amenaza con denunciarlo a la policía a menos que mate a su madre. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71GhOMiHeML._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Mediterráneo (1991)</title>
     <desc lang="es">Un grupo de exhaustos soldados italianos naufraga en una isla griega durante la II Guerra Mundial. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91OlRVT3IZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261002192300 +0200" stop="20261002210600 +0200" channel="acontra+ CINE">
+    <title lang="es">Los asesinos de la luna de miel (1970)</title>
+    <desc lang="es">Martha Beck y su novio Ray Fernández se dedican a estafar y asesinar a mujeres ricas y solitarias. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ucXlfED7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261002210600 +0200" stop="20261002221200 +0200" channel="acontra+ CINE">
+    <title lang="es">Locos del aire (1939)</title>
+    <desc lang="es">Ollie y su amigo deciden alistarse en el ejército para olvidar un desamor. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81D5fmE6xzL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261002221200 +0200" stop="20261002235000 +0200" channel="acontra+ CINE">
+    <title lang="es">My Beautiful Laundrette (1986)</title>
+    <desc lang="es">Dos jóvenes se unen para restaurar una lavandería. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71PewlESOcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
