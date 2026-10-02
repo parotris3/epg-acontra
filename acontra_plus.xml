@@ -3,34 +3,34 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261001222400 +0200" stop="20261002002400 +0200" channel="acontra+ CINE">
-    <title lang="es">El dulce porvenir (1997)</title>
-    <desc lang="es">Un abogado va a un pequeño pueblo que sufre las secuelas del accidente de un autobús escolar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71-Vxuw0sKL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261002090100 +0200" stop="20261002110100 +0200" channel="acontra+ CINE">
+    <title lang="es">Muriel (El tiempo de un retorno) (1963)</title>
+    <desc lang="es">Helène se reencuentra con su amor de juventud y descubre que ya no tienen nada en común. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91pf6WLH5zL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261002002400 +0200" stop="20261002022300 +0200" channel="acontra+ CINE">
-    <title lang="es">Detective Dee y el misterio de la llama fantasma (2010)</title>
-    <desc lang="es">Wu, la primera emperatriz de la China, reclama la ayuda de Di Renjie para resolver un misterio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81QvE9VDVqL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261002110100 +0200" stop="20261002124000 +0200" channel="acontra+ CINE">
+    <title lang="es">The Osiris Child (2016)</title>
+    <desc lang="es">Un grupo de extraños debe salvar a la humanidad. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tqTV+FPzL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261002022300 +0200" stop="20261002040500 +0200" channel="acontra+ CINE">
-    <title lang="es">El retorno del soldado (2022)</title>
-    <desc lang="es">El capitán Chris Baldry vuelve del frente durante la Primera Guerra Mundial sufriendo amnesia. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8106rx9ahCL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261002124000 +0200" stop="20261002141700 +0200" channel="acontra+ CINE">
+    <title lang="es">Trabajo clandestino (1982)</title>
+    <desc lang="es">Nowak y su equipo de albañiles polacos llegan a Londres para trabajar clandestinamente en una casa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Vef6-ewhL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261002040500 +0200" stop="20261002055400 +0200" channel="acontra+ CINE">
-    <title lang="es">El sabor del sake (1962)</title>
-    <desc lang="es">Shubei Hirayama es viudo y vive con su hija, pero ve injusto que ella se dedique solo a cuidarlo. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/91GC-TwVyML._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261002141700 +0200" stop="20261002160100 +0200" channel="acontra+ CINE">
+    <title lang="es">Una cosa por otra (2021)</title>
+    <desc lang="es">Un fugitivo conoce a una mujer que amenaza con denunciarlo a la policía a menos que mate a su madre. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71GhOMiHeML._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261002055400 +0200" stop="20261002071800 +0200" channel="acontra+ CINE">
-    <title lang="es">Josie (2017)</title>
-    <desc lang="es">Un hombre solitario se hace amigo de una estudiante, lo que genera suspicacias entre sus vecinos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81SUld6UADL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261002160100 +0200" stop="20261002175300 +0200" channel="acontra+ CINE">
+    <title lang="es">Nueve vidas (2005)</title>
+    <desc lang="es">Nueve mujeres diferentes entre sí explican de manera cautivadora sus experiencias individuales. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91XIBSY-3pL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261002071800 +0200" stop="20261002090600 +0200" channel="acontra+ CINE">
-    <title lang="es">Las aventuras de Picasso (2013)</title>
-    <desc lang="es">En Madrid, Pablo Picasso se convirtió en pintor, pero se fue a París, donde vivió en la pobreza. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qm55QU0oL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261002175300 +0200" stop="20261002192300 +0200" channel="acontra+ CINE">
+    <title lang="es">Mediterráneo (1991)</title>
+    <desc lang="es">Un grupo de exhaustos soldados italianos naufraga en una isla griega durante la II Guerra Mundial. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91OlRVT3IZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
