@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261003085600 +0200" stop="20261003105600 +0200" channel="acontra+ CINE">
-    <title lang="es">La Madre Teresa (2003)</title>
-    <desc lang="es">Una monja dedica su vida a ayudar a los pobres. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/71oPmXaC7cL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261003105600 +0200" stop="20261003124400 +0200" channel="acontra+ CINE">
-    <title lang="es">Nadia, mariposa (2021)</title>
-    <desc lang="es">A los 23 años, Nadia, campeona olímpica de natación, toma la controvertida decisión de retirarse. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71YCqu8eGJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261003124400 +0200" stop="20261003141200 +0200" channel="acontra+ CINE">
-    <title lang="es">La mirada del amor (2013)</title>
-    <desc lang="es">Una mujer se enamora de un hombre que se parece a su esposo fallecido. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91LGJdPU8CL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261003141200 +0200" stop="20261003161600 +0200" channel="acontra+ CINE">
+  <programme start="20261003141600 +0200" stop="20261003161600 +0200" channel="acontra+ CINE">
     <title lang="es">Great Expectations (2012)</title>
     <desc lang="es">Basada en la novela de Charles Dickens. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1CCHqpqbeL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Charada (1963)</title>
     <desc lang="es">Comedia de intriga donde una mujer investiga la muerte de su marido. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81G+eBujYYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261003193500 +0200" stop="20261003211300 +0200" channel="acontra+ CINE">
+    <title lang="es">Déjate llevar (2018)</title>
+    <desc lang="es">Elías es un psicoanalista freudiano que necesita adelgazar y que conoce a una entrenadora personal. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81fznH0hqcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261003211300 +0200" stop="20261003222600 +0200" channel="acontra+ CINE">
+    <title lang="es">Adrenalina</title>
+    <desc lang="es">Durante unas vacaciones en Europa del Este, la hija de una agente del FBI es secuestrada. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qNKG3BZZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261003222600 +0200" stop="20261004001400 +0200" channel="acontra+ CINE">
+    <title lang="es">Antes del anochecer (2013)</title>
+    <desc lang="es">Jesse y Céline se encuentran de nuevo en Grecia. Han pasado nueve años desde su último encuentro. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81L897QoI-L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
