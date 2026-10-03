@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261003191300 +0200" stop="20261003211300 +0200" channel="acontra+ CINE">
-    <title lang="es">Déjate llevar (2018)</title>
-    <desc lang="es">Elías es un psicoanalista freudiano que necesita adelgazar y que conoce a una entrenadora personal. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81fznH0hqcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261003211300 +0200" stop="20261003222600 +0200" channel="acontra+ CINE">
-    <title lang="es">Adrenalina</title>
-    <desc lang="es">Durante unas vacaciones en Europa del Este, la hija de una agente del FBI es secuestrada. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qNKG3BZZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261003222600 +0200" stop="20261004001400 +0200" channel="acontra+ CINE">
+  <programme start="20261003221400 +0200" stop="20261004001400 +0200" channel="acontra+ CINE">
     <title lang="es">Antes del anochecer (2013)</title>
     <desc lang="es">Jesse y Céline se encuentran de nuevo en Grecia. Han pasado nueve años desde su último encuentro. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81L897QoI-L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">La infancia de Iván (1963)</title>
     <desc lang="es">Iván, un niño ruso cuyos padres murieron tras la invasión nazi, espía a los alemanes. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81EtCa22FeL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261004053100 +0200" stop="20261004071800 +0200" channel="acontra+ CINE">
+    <title lang="es">Machete Kills (2013)</title>
+    <desc lang="es">Machete va tras un traficante de armas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1zKwzF56cL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261004071800 +0200" stop="20261004085600 +0200" channel="acontra+ CINE">
+    <title lang="es">Oxford Blues (1984)</title>
+    <desc lang="es">Un americano que anda tras la chica de sus sueños amenaza la tradición de la Universidad de Oxford. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91t7glRFKjL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
