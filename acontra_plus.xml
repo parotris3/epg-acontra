@@ -3,29 +3,34 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261002190600 +0200" stop="20261002210600 +0200" channel="acontra+ CINE">
-    <title lang="es">Los asesinos de la luna de miel (1970)</title>
-    <desc lang="es">Martha Beck y su novio Ray Fernández se dedican a estafar y asesinar a mujeres ricas y solitarias. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ucXlfED7L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261003035000 +0200" stop="20261003055000 +0200" channel="acontra+ CINE">
+    <title lang="es">Gigolo (2024)</title>
+    <desc lang="es">Tras la Primera Guerra Mundial, un hombre regresa a Berlín y decide convertirse en "gigoló". | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71hraIcbBVL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261002210600 +0200" stop="20261002221200 +0200" channel="acontra+ CINE">
-    <title lang="es">Locos del aire (1939)</title>
-    <desc lang="es">Ollie y su amigo deciden alistarse en el ejército para olvidar un desamor. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81D5fmE6xzL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261003055000 +0200" stop="20261003072400 +0200" channel="acontra+ CINE">
+    <title lang="es">The Last Five Years (2014)</title>
+    <desc lang="es">Basada en la obra musical de Jason Robert Brown. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81dfDfoXLCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261002221200 +0200" stop="20261002235000 +0200" channel="acontra+ CINE">
-    <title lang="es">My Beautiful Laundrette (1986)</title>
-    <desc lang="es">Dos jóvenes se unen para restaurar una lavandería. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71PewlESOcL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261003072400 +0200" stop="20261003090600 +0200" channel="acontra+ CINE">
+    <title lang="es">Rufufú da el golpe (1959)</title>
+    <desc lang="es">Un milanés convence a Pepe y a sus amigos para ir a Milán para robar el furgón de las quinielas. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/71uBR3dN43L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261002235000 +0200" stop="20261003013700 +0200" channel="acontra+ CINE">
-    <title lang="es">Orfeu negro (1959)</title>
-    <desc lang="es">La trágica historia de amor entre la joven Eurídice y el conductor y músico Orfeo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91DZLPATqGL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261003090600 +0200" stop="20261003105600 +0200" channel="acontra+ CINE">
+    <title lang="es">La Madre Teresa (2003)</title>
+    <desc lang="es">Una monja dedica su vida a ayudar a los pobres. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/71oPmXaC7cL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261003013700 +0200" stop="20261003040400 +0200" channel="acontra+ CINE">
-    <title lang="es">La escapada de Sobibor (1987)</title>
-    <desc lang="es">El relato de la rebelión de más de 300 judíos de un campo de concentración nazi. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81iS3fCLTCL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261003105600 +0200" stop="20261003124400 +0200" channel="acontra+ CINE">
+    <title lang="es">Nadia, mariposa (2021)</title>
+    <desc lang="es">A los 23 años, Nadia, campeona olímpica de natación, toma la controvertida decisión de retirarse. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71YCqu8eGJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261003124400 +0200" stop="20261003141200 +0200" channel="acontra+ CINE">
+    <title lang="es">La mirada del amor (2013)</title>
+    <desc lang="es">Una mujer se enamora de un hombre que se parece a su esposo fallecido. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91LGJdPU8CL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
