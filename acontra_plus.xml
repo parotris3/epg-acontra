@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261004033100 +0200" stop="20261004053100 +0200" channel="acontra+ CINE">
-    <title lang="es">La infancia de Iván (1963)</title>
-    <desc lang="es">Iván, un niño ruso cuyos padres murieron tras la invasión nazi, espía a los alemanes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81EtCa22FeL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261004053100 +0200" stop="20261004071800 +0200" channel="acontra+ CINE">
-    <title lang="es">Machete Kills (2013)</title>
-    <desc lang="es">Machete va tras un traficante de armas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1zKwzF56cL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261004071800 +0200" stop="20261004085600 +0200" channel="acontra+ CINE">
-    <title lang="es">Oxford Blues (1984)</title>
-    <desc lang="es">Un americano que anda tras la chica de sus sueños amenaza la tradición de la Universidad de Oxford. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91t7glRFKjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261004085600 +0200" stop="20261004110500 +0200" channel="acontra+ CINE">
+  <programme start="20261004090500 +0200" stop="20261004110500 +0200" channel="acontra+ CINE">
     <title lang="es">Stonewall (2015)</title>
     <desc lang="es">Stonewall se convirtió en el punto de partida de los derechos de los homosexuales en Nueva York. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91bmUydEiYL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">La tierra de los hijos</title>
     <desc lang="es">El final de la civilización ha llegado. Un padre y su hijo se encuentran entre los supervivientes. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81UTrjFMl3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261004130100 +0200" stop="20261004145600 +0200" channel="acontra+ CINE">
+    <title lang="es">Sección especial</title>
+    <desc lang="es">En la Francia ocupada, un oficial alemán es asesinado por un grupo de jóvenes insurgentes. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71yJ2Ob6BfL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261004145600 +0200" stop="20261004165300 +0200" channel="acontra+ CINE">
+    <title lang="es">Salvar o morir (2020)</title>
+    <desc lang="es">Un bombero parisino sacrifica su propia seguridad para salvar a sus compañeros durante un incendio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81aMCbkTScL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261004165300 +0200" stop="20261004190500 +0200" channel="acontra+ CINE">
+    <title lang="es">La flauta mágica (1975)</title>
+    <desc lang="es">El príncipe Tamino busca rescatar a la princesa Pamina, secuestrada por un hechicero. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91rFoIZIBaL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
