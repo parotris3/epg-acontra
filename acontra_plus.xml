@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261004145300 +0200" stop="20261004165300 +0200" channel="acontra+ CINE">
-    <title lang="es">Salvar o morir (2020)</title>
-    <desc lang="es">Un bombero parisino sacrifica su propia seguridad para salvar a sus compañeros durante un incendio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81aMCbkTScL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261004165300 +0200" stop="20261004190500 +0200" channel="acontra+ CINE">
-    <title lang="es">La flauta mágica (1975)</title>
-    <desc lang="es">El príncipe Tamino busca rescatar a la princesa Pamina, secuestrada por un hechicero. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/91rFoIZIBaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261004190500 +0200" stop="20261004204500 +0200" channel="acontra+ CINE">
+  <programme start="20261004184500 +0200" stop="20261004204500 +0200" channel="acontra+ CINE">
     <title lang="es">Éxito a cualquier precio (1992)</title>
     <desc lang="es">Un grupo de maliciosos vendedores de inmuebles lucha por sobrevivir en una economía en crisis. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Q-9MYBdRL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">El amor está en el aire (2013)</title>
     <desc lang="es">Julie, a punto de casarse, se encuentra a Antoine, un exnovio del que estuvo muy enamorada. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81s1C3uqZCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261005000600 +0200" stop="20261005015700 +0200" channel="acontra+ CINE">
+    <title lang="es">Cuento de Otoño (1998)</title>
+    <desc lang="es">Los amigos de una viuda, propietaria de una bodega, la ayudan a encontrar el amor. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91YD1xA+foL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261005015700 +0200" stop="20261005040600 +0200" channel="acontra+ CINE">
+    <title lang="es">Tom & Viv (1994)</title>
+    <desc lang="es">Historia del matrimonio fallido entre T.S. Eliot y su esposa enferma. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81UTnu5cYvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
