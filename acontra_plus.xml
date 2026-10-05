@@ -3,34 +3,34 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261005032900 +0200" stop="20261005052900 +0200" channel="acontra+ CINE">
-    <title lang="es">The Addiction (1995)</title>
-    <desc lang="es">Una joven intenta comprender su nueva vida tras ser convertida en vampiro en un ataque. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71hyHt1yFiL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261005135600 +0200" stop="20261005155600 +0200" channel="acontra+ CINE">
+    <title lang="es">La perrera (2010)</title>
+    <desc lang="es">Tres criminales enfrentan a unos prisioneros brutales en una prisión. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1zsOc+xR0L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261005052900 +0200" stop="20261005080700 +0200" channel="acontra+ CINE">
-    <title lang="es">Van Gogh (1992)</title>
-    <desc lang="es">La película de los últimos meses de la vida y el arte del pintor Vincent Van Gogh en París. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91bPQ3prf8L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261005155600 +0200" stop="20261005172800 +0200" channel="acontra+ CINE">
+    <title lang="es">Biggles: el viajero del tiempo (2018)</title>
+    <desc lang="es">Jim y el piloto de combate británico Biggles son hermanos gemelos, pero viven en distintas épocas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1vrbXh6oHL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261005080700 +0200" stop="20261005094700 +0200" channel="acontra+ CINE">
-    <title lang="es">Ondine (2009)</title>
-    <desc lang="es">Un pescador irlandés descubre a una mujer en sus redes. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81+IxXZ2pvL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261005172800 +0200" stop="20261005193400 +0200" channel="acontra+ CINE">
+    <title lang="es">Aline (2020)</title>
+    <desc lang="es">Aline tiene una voz prodigiosa que no pasa desapercibida para un productor ambicioso. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ra+l9mqHL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261005094700 +0200" stop="20261005111500 +0200" channel="acontra+ CINE">
-    <title lang="es">La rifa (2002)</title>
-    <desc lang="es">Una joven viuda con una niña y muchas deudas decide hacer un sorteo en el que ella es el premio. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/81r84AwH+FL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261005193400 +0200" stop="20261005210700 +0200" channel="acontra+ CINE">
+    <title lang="es">The Angriest Man in Brooklyn (2014)</title>
+    <desc lang="es">Un hombre infeliz se entera de que va a morir en 90 minutos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91hgkg7e05L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261005111500 +0200" stop="20261005124200 +0200" channel="acontra+ CINE">
-    <title lang="es">Guillaume y los chicos, ¡a la mesa! (2013)</title>
-    <desc lang="es">Un chico parisino de clase alta, que admira a su exaltada madre, es tratado como una chica. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/815xK8XmLcL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261005210700 +0200" stop="20261005223500 +0200" channel="acontra+ CINE">
+    <title lang="es">Fresas salvajes (1959)</title>
+    <desc lang="es">El profesor Borg reflexiona sobre los placeres y fracasos de su propia vida en un viaje. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/912DmnSVQ3L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261005124200 +0200" stop="20261005142900 +0200" channel="acontra+ CINE">
-    <title lang="es">El extraordinario viaje de T.S. Spivet (2013)</title>
-    <desc lang="es">T.S. Spivet es un genio de diez años, con un gran talento para los inventos, que vive en un rancho. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81j3C0+TMYL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261005223500 +0200" stop="20261006000000 +0200" channel="acontra+ CINE">
+    <title lang="es">Rashomon (1950)</title>
+    <desc lang="es">Siglo XII, Melancólica radiografía de la naturaleza humana. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71wyXb0sZML._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
