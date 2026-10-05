@@ -3,34 +3,34 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261005135600 +0200" stop="20261005155600 +0200" channel="acontra+ CINE">
-    <title lang="es">La perrera (2010)</title>
-    <desc lang="es">Tres criminales enfrentan a unos prisioneros brutales en una prisión. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1zsOc+xR0L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261005232500 +0200" stop="20261006012500 +0200" channel="acontra+ CINE">
+    <title lang="es">Una noche en Casablanca (1946)</title>
+    <desc lang="es">Tres disparatados amigos, que están en un hotel marroquí, deben enfrentarse a un asesino nazi. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71T8gByfeuL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261005155600 +0200" stop="20261005172800 +0200" channel="acontra+ CINE">
-    <title lang="es">Biggles: el viajero del tiempo (2018)</title>
-    <desc lang="es">Jim y el piloto de combate británico Biggles son hermanos gemelos, pero viven en distintas épocas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1vrbXh6oHL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261006012500 +0200" stop="20261006024000 +0200" channel="acontra+ CINE">
+    <title lang="es">Ultraje (1950)</title>
+    <desc lang="es">Tras ser abusada sexualmente, Ann Walton huye de casa e intenta rehacer su vida en otra ciudad. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91zFZFnaX0L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261005172800 +0200" stop="20261005193400 +0200" channel="acontra+ CINE">
-    <title lang="es">Aline (2020)</title>
-    <desc lang="es">Aline tiene una voz prodigiosa que no pasa desapercibida para un productor ambicioso. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ra+l9mqHL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261006024000 +0200" stop="20261006040100 +0200" channel="acontra+ CINE">
+    <title lang="es">Ángel de venganza (1981)</title>
+    <desc lang="es">Una joven sordomuda que ha sido violada recorre las calles de Nueva York en busca de venganza. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qVPfjBNiL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261005193400 +0200" stop="20261005210700 +0200" channel="acontra+ CINE">
-    <title lang="es">The Angriest Man in Brooklyn (2014)</title>
-    <desc lang="es">Un hombre infeliz se entera de que va a morir en 90 minutos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91hgkg7e05L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261006040100 +0200" stop="20261006055800 +0200" channel="acontra+ CINE">
+    <title lang="es">Dos mujeres (2017)</title>
+    <desc lang="es">Claire, una apasionada y estricta matrona, conoce a la amante de su difunto padre. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91RakOdlovL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261005210700 +0200" stop="20261005223500 +0200" channel="acontra+ CINE">
-    <title lang="es">Fresas salvajes (1959)</title>
-    <desc lang="es">El profesor Borg reflexiona sobre los placeres y fracasos de su propia vida en un viaje. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/912DmnSVQ3L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261006055800 +0200" stop="20261006075500 +0200" channel="acontra+ CINE">
+    <title lang="es">La anguila (1997)</title>
+    <desc lang="es">Takuro Yamashita sale en libertad condicional tras haber matado a su esposa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81zRh+SlX7L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261005223500 +0200" stop="20261006000000 +0200" channel="acontra+ CINE">
-    <title lang="es">Rashomon (1950)</title>
-    <desc lang="es">Siglo XII, Melancólica radiografía de la naturaleza humana. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71wyXb0sZML._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261006075500 +0200" stop="20261006093100 +0200" channel="acontra+ CINE">
+    <title lang="es">Orfeo (1950)</title>
+    <desc lang="es">Orfeo, conocido poeta del barrio parisino de Saint-Germain-des-Prés, está obsesionado con la Muerte. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91gieFP4c2L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
