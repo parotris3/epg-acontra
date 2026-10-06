@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261006035800 +0200" stop="20261006055800 +0200" channel="acontra+ CINE">
-    <title lang="es">Dos mujeres (2017)</title>
-    <desc lang="es">Claire, una apasionada y estricta matrona, conoce a la amante de su difunto padre. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91RakOdlovL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261006055800 +0200" stop="20261006075500 +0200" channel="acontra+ CINE">
-    <title lang="es">La anguila (1997)</title>
-    <desc lang="es">Takuro Yamashita sale en libertad condicional tras haber matado a su esposa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81zRh+SlX7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261006075500 +0200" stop="20261006093100 +0200" channel="acontra+ CINE">
-    <title lang="es">Orfeo (1950)</title>
-    <desc lang="es">Orfeo, conocido poeta del barrio parisino de Saint-Germain-des-Prés, está obsesionado con la Muerte. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91gieFP4c2L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261006093100 +0200" stop="20261006105500 +0200" channel="acontra+ CINE">
+  <programme start="20261006085500 +0200" stop="20261006105500 +0200" channel="acontra+ CINE">
     <title lang="es">Si Dios quiere (2015)</title>
     <desc lang="es">Un cardiólogo ateo y déspota se queda estupefacto cuando su hijo anuncia que quiere ser cura. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Tta569noL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Aurora boreal (2007)</title>
     <desc lang="es">Rebeca regresará a su ciudad natal dispuesta a encontrar al asesino del hermano de su amiga. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91r+VRPqJxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261006140800 +0200" stop="20261006154700 +0200" channel="acontra+ CINE">
+    <title lang="es">OSS 117: El Cairo Nido de Espías (2006)</title>
+    <desc lang="es">Durante la crisis de Suez, un torpe espía investiga el caso de un compañero desaparecido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qDNrSn6sL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261006154700 +0200" stop="20261006172600 +0200" channel="acontra+ CINE">
+    <title lang="es">El grito de la lechuza (2010)</title>
+    <desc lang="es">Un joven arquitecto, deprimido y en proceso de divorcio, se muda a una pequeña comunidad. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71eILbXT65L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261006172600 +0200" stop="20261006190800 +0200" channel="acontra+ CINE">
+    <title lang="es">Ídolos, mentiras y rock & roll (1997)</title>
+    <desc lang="es">Un joven inmigrante húngaro intenta adaptarse a la escuela y a la cultura americana de los años 60. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/71URI2-SMXL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
