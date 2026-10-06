@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261006184300 +0200" stop="20261006204300 +0200" channel="acontra+ CINE">
-    <title lang="es">Mientras Nueva York duerme (1956)</title>
-    <desc lang="es">En los pasillos del Sentinel, los periodistas intrigan para hacerse con la dirección del diario. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ZbDqARslL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261006204300 +0200" stop="20261006220400 +0200" channel="acontra+ CINE">
-    <title lang="es">Persona (1966)</title>
-    <desc lang="es">La simbiosis de las dos personalidades de una misma mujer. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91YJjt7ASEL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261006220400 +0200" stop="20261006235000 +0200" channel="acontra+ CINE">
-    <title lang="es">Tres solteros y un biberón (1986)</title>
-    <desc lang="es">Tres amigos solteros se encuentran un paquete en la puerta de su casa que contiene a una niña. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/817Q6tWqkGL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261006235000 +0200" stop="20261007022200 +0200" channel="acontra+ CINE">
+  <programme start="20261007002200 +0200" stop="20261007022200 +0200" channel="acontra+ CINE">
     <title lang="es">Maria Chapdelaine (2021)</title>
     <desc lang="es">La hija de un granjero se enfrenta a una difícil elección entre tres pretendientes muy diferentes. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1+kMZBWj7L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">El placer (1953)</title>
     <desc lang="es">Un hombre que oculta su edad, un viaje al campo y un pintor ilustran tres historias sobre el placer. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81OVO5JCtKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261007053900 +0200" stop="20261007071300 +0200" channel="acontra+ CINE">
+    <title lang="es">Las ocho campanadas (2003)</title>
+    <desc lang="es">Philip Calvert es un agente del servicio secreto naval cuya misión es la de desentrañar un robo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qMCGYTo5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261007071300 +0200" stop="20261007084600 +0200" channel="acontra+ CINE">
+    <title lang="es">Otelo (1952)</title>
+    <desc lang="es">El admirado general Otelo es víctima de las intrigas de unos de sus envidiosos oficiales. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81DQBnGA6NL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
