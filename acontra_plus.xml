@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261007134700 +0200" stop="20261007154700 +0200" channel="acontra+ CINE">
-    <title lang="es">La delicadeza (2011)</title>
-    <desc lang="es">El amor vuelve a llamar a la puerta de Nathalie, tras perder a su amado, en un compañero de trabajo. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71YqDG7BGWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261007154700 +0200" stop="20261007171500 +0200" channel="acontra+ CINE">
-    <title lang="es">Gritos y susurros (1972)</title>
-    <desc lang="es">Tres hermanas se reúnen para pasar juntas los últimos días de vida de una de ellas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71l-O1xlqZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261007171500 +0200" stop="20261007185300 +0200" channel="acontra+ CINE">
-    <title lang="es">El escapista (2008)</title>
-    <desc lang="es">El preso condenado a cadena perpetua Frank Perry recibe un mensaje sobre la salud de su hija. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1sbBOhNhjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261007185300 +0200" stop="20261007204800 +0200" channel="acontra+ CINE">
+  <programme start="20261007184800 +0200" stop="20261007204800 +0200" channel="acontra+ CINE">
     <title lang="es">Barrabás (2025)</title>
     <desc lang="es">Una visión de la muerte y resurrección de Cristo, a través de los ojos de Barrabás. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71AkjH+oCXL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,25 @@
     <title lang="es">Banda aparte (2003)</title>
     <desc lang="es">Arthur y Franz adoran el cine negro americano y su sueño es llegar a ser como los gánsteres. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91np+eX01bL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261007234500 +0200" stop="20261008011100 +0200" channel="acontra+ CINE">
+    <title lang="es">Enrique IV (2014)</title>
+    <desc lang="es">En una fiesta de disfraces, un hombre disfrazado de Enrique IV de Alemania se golpea la cabeza. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A116kxGgaXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261008011100 +0200" stop="20261008022900 +0200" channel="acontra+ CINE">
+    <title lang="es">El padre es abuelo (1951)</title>
+    <desc lang="es">Un padre ve interrumpida su tranquilidad cuando recibe la noticia de que va a ser abuelo. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81LkISzhNZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261008022900 +0200" stop="20261008035800 +0200" channel="acontra+ CINE">
+    <title lang="es">Swimfan (2002)</title>
+    <desc lang="es">Un adolescente se arrepiente de su cita con una compañera. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Adam7EqjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261008035800 +0200" stop="20261008052200 +0200" channel="acontra+ CINE">
+    <title lang="es">La cena de los idiotas (1998)</title>
+    <desc lang="es">Un francés adinerado mantiene un certamen semanal para ver quién trae como invitado al mayor idiota. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ALhSuqkiL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
