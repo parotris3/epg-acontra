@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261007002200 +0200" stop="20261007022200 +0200" channel="acontra+ CINE">
-    <title lang="es">Maria Chapdelaine (2021)</title>
-    <desc lang="es">La hija de un granjero se enfrenta a una difícil elección entre tres pretendientes muy diferentes. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1+kMZBWj7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261007022200 +0200" stop="20261007035800 +0200" channel="acontra+ CINE">
-    <title lang="es">Hunger (2009)</title>
-    <desc lang="es">Cuando expones tu cuerpo a las más extremas condiciones, las consecuencias son imprevisibles. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71gByKTRNSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261007035800 +0200" stop="20261007053900 +0200" channel="acontra+ CINE">
+  <programme start="20261007033900 +0200" stop="20261007053900 +0200" channel="acontra+ CINE">
     <title lang="es">El placer (1953)</title>
     <desc lang="es">Un hombre que oculta su edad, un viaje al campo y un pintor ilustran tres historias sobre el placer. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81OVO5JCtKL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Otelo (1952)</title>
     <desc lang="es">El admirado general Otelo es víctima de las intrigas de unos de sus envidiosos oficiales. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81DQBnGA6NL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261007084600 +0200" stop="20261007101500 +0200" channel="acontra+ CINE">
+    <title lang="es">Viva la Muerte (2013)</title>
+    <desc lang="es">Al final de la Guerra Civil española, un niño intenta encontrarle sentido a la guerra. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Tea-RtG7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261007101500 +0200" stop="20261007135800 +0200" channel="acontra+ CINE">
+    <title lang="es">Los leales 47 ronin</title>
+    <desc lang="es">Aclamada y poética visión del honor en tiempos de guerra del maestro Mizoguchi. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71HCVzLChCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
