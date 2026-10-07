@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261007184800 +0200" stop="20261007204800 +0200" channel="acontra+ CINE">
-    <title lang="es">Barrabás (2025)</title>
-    <desc lang="es">Una visión de la muerte y resurrección de Cristo, a través de los ojos de Barrabás. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71AkjH+oCXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261007204800 +0200" stop="20261007221000 +0200" channel="acontra+ CINE">
-    <title lang="es">11:14 Destino fatal (2003)</title>
-    <desc lang="es">A las 11:14 de la mañana de un mismo día suceden simultáneamente dos accidentes automovilísticos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91b87S6oVxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261007221000 +0200" stop="20261007234500 +0200" channel="acontra+ CINE">
-    <title lang="es">Banda aparte (2003)</title>
-    <desc lang="es">Arthur y Franz adoran el cine negro americano y su sueño es llegar a ser como los gánsteres. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91np+eX01bL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261007234500 +0200" stop="20261008011100 +0200" channel="acontra+ CINE">
+  <programme start="20261007231100 +0200" stop="20261008011100 +0200" channel="acontra+ CINE">
     <title lang="es">Enrique IV (2014)</title>
     <desc lang="es">En una fiesta de disfraces, un hombre disfrazado de Enrique IV de Alemania se golpea la cabeza. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A116kxGgaXL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +22,15 @@
     <title lang="es">La cena de los idiotas (1998)</title>
     <desc lang="es">Un francés adinerado mantiene un certamen semanal para ver quién trae como invitado al mayor idiota. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71ALhSuqkiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261008052200 +0200" stop="20261008070600 +0200" channel="acontra+ CINE">
+    <title lang="es">Los malditos (1947)</title>
+    <desc lang="es">En 1945, varios nazis viajan a Oslo para embarcarse en un submarino rumbo a Sudamérica. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91YWiad1LKL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261008070600 +0200" stop="20261008084900 +0200" channel="acontra+ CINE">
+    <title lang="es">Tierra de sangre (2006)</title>
+    <desc lang="es">Un idealista soldado llamado Joe entabla una prohibida amistad con un prisionero político. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81haPO5U-ZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
