@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261008032200 +0200" stop="20261008052200 +0200" channel="acontra+ CINE">
-    <title lang="es">La cena de los idiotas (1998)</title>
-    <desc lang="es">Un francés adinerado mantiene un certamen semanal para ver quién trae como invitado al mayor idiota. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ALhSuqkiL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261008052200 +0200" stop="20261008070600 +0200" channel="acontra+ CINE">
-    <title lang="es">Los malditos (1947)</title>
-    <desc lang="es">En 1945, varios nazis viajan a Oslo para embarcarse en un submarino rumbo a Sudamérica. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91YWiad1LKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261008070600 +0200" stop="20261008084900 +0200" channel="acontra+ CINE">
-    <title lang="es">Tierra de sangre (2006)</title>
-    <desc lang="es">Un idealista soldado llamado Joe entabla una prohibida amistad con un prisionero político. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81haPO5U-ZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261008084900 +0200" stop="20261008102900 +0200" channel="acontra+ CINE">
+  <programme start="20261008082900 +0200" stop="20261008102900 +0200" channel="acontra+ CINE">
     <title lang="es">Mercenary (2018)</title>
     <desc lang="es">Un hombre coacciona a un comandante para que le ayude a encontrar al terrorista que mató a su mujer. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91LTBSGCAGL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Enamórate de mí</title>
     <desc lang="es">Cuando Michael muere, cree que está libre de las ansiedades de la búsqueda del amor verdadero. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91uM1CTU7eL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261008141100 +0200" stop="20261008154800 +0200" channel="acontra+ CINE">
+    <title lang="es">El día de los muertos (1985)</title>
+    <desc lang="es">Los zombis se han apoderado del planeta. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1ZIzNHVVuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261008154800 +0200" stop="20261008172400 +0200" channel="acontra+ CINE">
+    <title lang="es">Absolución (1987)</title>
+    <desc lang="es">Un cura debe decidir si quebrantar el secreto de confesión. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/618HEhcNOqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261008172400 +0200" stop="20261008184000 +0200" channel="acontra+ CINE">
+    <title lang="es">Milagro en la Calle Mayor</title>
+    <desc lang="es">Una noche, huyendo de la policía, María entra en una iglesia y encuentra allí un bebé abandonado. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1HfeDJLZkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
