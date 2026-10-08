@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261008183200 +0200" stop="20261008203200 +0200" channel="acontra+ CINE">
-    <title lang="es">Los profesores de Saint-Denis (2019)</title>
-    <desc lang="es">Samia tendrá que lidiar con los problemas de disciplina y la realidad social de la escuela. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-2mCfCkLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261008203200 +0200" stop="20261008221200 +0200" channel="acontra+ CINE">
-    <title lang="es">One Last Dance (2003)</title>
-    <desc lang="es">Tres antiguos bailarines se reúnen para usar su talento y poder salvar el estudio de su mentor. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/913oFILPzOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261008221200 +0200" stop="20261009003400 +0200" channel="acontra+ CINE">
+  <programme start="20261008223400 +0200" stop="20261009003400 +0200" channel="acontra+ CINE">
     <title lang="es">Secretos y mentiras (1995)</title>
     <desc lang="es">Un sensible drama donde una mujer busca a su madre. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81VZmcnOdcL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">Los verdugos también mueren (1943)</title>
     <desc lang="es">En mayo de 1942 murió víctima de un atentado Reinhard Heydrich, jefe del gobierno nazi de Praga. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81uWRbWALrL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261009061400 +0200" stop="20261009075700 +0200" channel="acontra+ CINE">
+    <title lang="es">Exótica (1994)</title>
+    <desc lang="es">Un solitario inspector de Hacienda acude cada noche al club de baile erótico Exótica. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B166go0R7zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261009075700 +0200" stop="20261009094900 +0200" channel="acontra+ CINE">
+    <title lang="es">El arpa birmana (1956)</title>
+    <desc lang="es">Año 1945. Un soldado nipón que toca el arpa queda horrorizado por la destrucción que le rodea. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81xonY1GQPL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
