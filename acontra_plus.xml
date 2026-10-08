@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261008134800 +0200" stop="20261008154800 +0200" channel="acontra+ CINE">
-    <title lang="es">El día de los muertos (1985)</title>
-    <desc lang="es">Los zombis se han apoderado del planeta. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1ZIzNHVVuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261008154800 +0200" stop="20261008172400 +0200" channel="acontra+ CINE">
-    <title lang="es">Absolución (1987)</title>
-    <desc lang="es">Un cura debe decidir si quebrantar el secreto de confesión. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/618HEhcNOqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261008172400 +0200" stop="20261008184000 +0200" channel="acontra+ CINE">
-    <title lang="es">Milagro en la Calle Mayor</title>
-    <desc lang="es">Una noche, huyendo de la policía, María entra en una iglesia y encuentra allí un bebé abandonado. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1HfeDJLZkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261008184000 +0200" stop="20261008203200 +0200" channel="acontra+ CINE">
+  <programme start="20261008183200 +0200" stop="20261008203200 +0200" channel="acontra+ CINE">
     <title lang="es">Los profesores de Saint-Denis (2019)</title>
     <desc lang="es">Samia tendrá que lidiar con los problemas de disciplina y la realidad social de la escuela. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81-2mCfCkLL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Secretos y mentiras (1995)</title>
     <desc lang="es">Un sensible drama donde una mujer busca a su madre. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81VZmcnOdcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261009003400 +0200" stop="20261009020800 +0200" channel="acontra+ CINE">
+    <title lang="es">Tsotsi (2005)</title>
+    <desc lang="es">Un ladrón sudafricano cuida al bebé de una mujer a la que disparó cuando esta viajaba en coche. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/C1skyL60iYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261009020800 +0200" stop="20261009035800 +0200" channel="acontra+ CINE">
+    <title lang="es">Todo por Grace (2018)</title>
+    <desc lang="es">Un joven trasciende los límites de raza y clase para perseguir un amor imposible. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1-Zchj8WXL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261009035800 +0200" stop="20261009061400 +0200" channel="acontra+ CINE">
+    <title lang="es">Los verdugos también mueren (1943)</title>
+    <desc lang="es">En mayo de 1942 murió víctima de un atentado Reinhard Heydrich, jefe del gobierno nazi de Praga. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81uWRbWALrL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
