@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261007231100 +0200" stop="20261008011100 +0200" channel="acontra+ CINE">
-    <title lang="es">Enrique IV (2014)</title>
-    <desc lang="es">En una fiesta de disfraces, un hombre disfrazado de Enrique IV de Alemania se golpea la cabeza. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A116kxGgaXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261008011100 +0200" stop="20261008022900 +0200" channel="acontra+ CINE">
-    <title lang="es">El padre es abuelo (1951)</title>
-    <desc lang="es">Un padre ve interrumpida su tranquilidad cuando recibe la noticia de que va a ser abuelo. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81LkISzhNZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261008022900 +0200" stop="20261008035800 +0200" channel="acontra+ CINE">
-    <title lang="es">Swimfan (2002)</title>
-    <desc lang="es">Un adolescente se arrepiente de su cita con una compañera. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Adam7EqjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261008035800 +0200" stop="20261008052200 +0200" channel="acontra+ CINE">
+  <programme start="20261008032200 +0200" stop="20261008052200 +0200" channel="acontra+ CINE">
     <title lang="es">La cena de los idiotas (1998)</title>
     <desc lang="es">Un francés adinerado mantiene un certamen semanal para ver quién trae como invitado al mayor idiota. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71ALhSuqkiL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Tierra de sangre (2006)</title>
     <desc lang="es">Un idealista soldado llamado Joe entabla una prohibida amistad con un prisionero político. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81haPO5U-ZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261008084900 +0200" stop="20261008102900 +0200" channel="acontra+ CINE">
+    <title lang="es">Mercenary (2018)</title>
+    <desc lang="es">Un hombre coacciona a un comandante para que le ayude a encontrar al terrorista que mató a su mujer. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91LTBSGCAGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261008102900 +0200" stop="20261008121500 +0200" channel="acontra+ CINE">
+    <title lang="es">Pie de página (2011)</title>
+    <desc lang="es">Comedia irónica sobre la competitividad, la lealtad, el amor y las relaciones entre padre e hijo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81BbzEwRiVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261008121500 +0200" stop="20261008141100 +0200" channel="acontra+ CINE">
+    <title lang="es">Enamórate de mí</title>
+    <desc lang="es">Cuando Michael muere, cree que está libre de las ansiedades de la búsqueda del amor verdadero. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91uM1CTU7eL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
