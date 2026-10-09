@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261009041400 +0200" stop="20261009061400 +0200" channel="acontra+ CINE">
-    <title lang="es">Los verdugos también mueren (1943)</title>
-    <desc lang="es">En mayo de 1942 murió víctima de un atentado Reinhard Heydrich, jefe del gobierno nazi de Praga. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uWRbWALrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261009061400 +0200" stop="20261009075700 +0200" channel="acontra+ CINE">
-    <title lang="es">Exótica (1994)</title>
-    <desc lang="es">Un solitario inspector de Hacienda acude cada noche al club de baile erótico Exótica. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B166go0R7zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261009075700 +0200" stop="20261009094900 +0200" channel="acontra+ CINE">
-    <title lang="es">El arpa birmana (1956)</title>
-    <desc lang="es">Año 1945. Un soldado nipón que toca el arpa queda horrorizado por la destrucción que le rodea. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81xonY1GQPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261009094900 +0200" stop="20261009114400 +0200" channel="acontra+ CINE">
+  <programme start="20261009094400 +0200" stop="20261009114400 +0200" channel="acontra+ CINE">
     <title lang="es">Mi amigo Mr. Morgan (2013)</title>
     <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">La Serpiente de Fuego (2007)</title>
     <desc lang="es">Una temible criatura ardiente emerge del Sol con la intención de convertir la Tierra en cenizas. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81BBhfVscCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261009131300 +0200" stop="20261009144500 +0200" channel="acontra+ CINE">
+    <title lang="es">Frank y el robot (2012)</title>
+    <desc lang="es">Un excriminal utiliza robots para robar nuevamente. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/712WibFxd0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261009144500 +0200" stop="20261009162000 +0200" channel="acontra+ CINE">
+    <title lang="es">Hydra (2009)</title>
+    <desc lang="es">Una compañía organiza cacerías humanas para los hombres más ricos del mundo. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91HlXRYC4PL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261009162000 +0200" stop="20261009175900 +0200" channel="acontra+ CINE">
+    <title lang="es">El bello Sergio (1959)</title>
+    <desc lang="es">Un hombre vuelve a su ciudad natal y descubre que su mejor amigo se ha convertido en alcohólico. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71al89vV8gL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261009175900 +0200" stop="20261009210200 +0200" channel="acontra+ CINE">
+    <title lang="es">Andrei Rublev (1972)</title>
+    <desc lang="es">Un monje sale de su reclusión y se percata de los crímenes que tienen aterrorizado al pueblo ruso. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81bwxmvdanL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
