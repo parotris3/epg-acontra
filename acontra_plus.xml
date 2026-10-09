@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261009094400 +0200" stop="20261009114400 +0200" channel="acontra+ CINE">
-    <title lang="es">Mi amigo Mr. Morgan (2013)</title>
-    <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261009114400 +0200" stop="20261009131300 +0200" channel="acontra+ CINE">
-    <title lang="es">La Serpiente de Fuego (2007)</title>
-    <desc lang="es">Una temible criatura ardiente emerge del Sol con la intención de convertir la Tierra en cenizas. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BBhfVscCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261009131300 +0200" stop="20261009144500 +0200" channel="acontra+ CINE">
-    <title lang="es">Frank y el robot (2012)</title>
-    <desc lang="es">Un excriminal utiliza robots para robar nuevamente. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/712WibFxd0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261009144500 +0200" stop="20261009162000 +0200" channel="acontra+ CINE">
+  <programme start="20261009142000 +0200" stop="20261009162000 +0200" channel="acontra+ CINE">
     <title lang="es">Hydra (2009)</title>
     <desc lang="es">Una compañía organiza cacerías humanas para los hombres más ricos del mundo. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91HlXRYC4PL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Andrei Rublev (1972)</title>
     <desc lang="es">Un monje sale de su reclusión y se percata de los crímenes que tienen aterrorizado al pueblo ruso. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81bwxmvdanL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261009210200 +0200" stop="20261009222000 +0200" channel="acontra+ CINE">
+    <title lang="es">El marido de la peluquera (1990)</title>
+    <desc lang="es">Fascinado por los estilistas desde que era un niño, Antoine promete casarse con una peluquera. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/918xYPpp98L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261009222000 +0200" stop="20261010001800 +0200" channel="acontra+ CINE">
+    <title lang="es">La novena configuración (1980)</title>
+    <desc lang="es">El Coronel Hudson Kane llega para hacerse cargo de una institución psiquiátrica militar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/614osUZ0gPL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
