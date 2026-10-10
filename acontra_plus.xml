@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261009221800 +0200" stop="20261010001800 +0200" channel="acontra+ CINE">
-    <title lang="es">La novena configuración (1980)</title>
-    <desc lang="es">El Coronel Hudson Kane llega para hacerse cargo de una institución psiquiátrica militar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/614osUZ0gPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261010001800 +0200" stop="20261010014800 +0200" channel="acontra+ CINE">
-    <title lang="es">Mea Culpa (2014)</title>
-    <desc lang="es">Un policía lo pierde todo en su vida después de un accidente que causó dos víctimas mortales. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/918qMZP-K9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261010014800 +0200" stop="20261010040500 +0200" channel="acontra+ CINE">
-    <title lang="es">El cielo protector (1990)</title>
-    <desc lang="es">Una pareja neoyorquina hace un viaje al norte de África en un intento de reparar su matrimonio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91biKRsKAwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261010040500 +0200" stop="20261010055800 +0200" channel="acontra+ CINE">
+  <programme start="20261010035800 +0200" stop="20261010055800 +0200" channel="acontra+ CINE">
     <title lang="es">Fast Food Nation (2006)</title>
     <desc lang="es">Basada en el libro de Eric Schlosser. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1uAkKlOQmL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Sangre sabia (1979)</title>
     <desc lang="es">Un joven sureño, ambicioso, pero sin educación, decide convertirse en predicador. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81cnW2JYytL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261010092900 +0200" stop="20261010110700 +0200" channel="acontra+ CINE">
+    <title lang="es">Vatel (2000)</title>
+    <desc lang="es">La vida de palacio de un mayordomo en la corte de Luis XIV. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/814OqpwnpFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261010110700 +0200" stop="20261010124100 +0200" channel="acontra+ CINE">
+    <title lang="es">Orlando (1993)</title>
+    <desc lang="es">El noble Orlando es condenado por la reina Isabel I a permanecer eternamente joven. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/816iNv+M1YL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261010124100 +0200" stop="20261010141400 +0200" channel="acontra+ CINE">
+    <title lang="es">La garra de Satán (1971)</title>
+    <desc lang="es">El descubrimiento del cuerpo de un hombre bestia atemoriza a unos niños campesinos en Inglaterra. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81nuSA-K9tL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
