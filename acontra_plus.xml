@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261010035800 +0200" stop="20261010055800 +0200" channel="acontra+ CINE">
-    <title lang="es">Fast Food Nation (2006)</title>
-    <desc lang="es">Basada en el libro de Eric Schlosser. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1uAkKlOQmL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261010055800 +0200" stop="20261010074300 +0200" channel="acontra+ CINE">
-    <title lang="es">Llévame a la luna (2012)</title>
-    <desc lang="es">Una mujer se propone eliminar la maldición familiar en la que cada primer matrimonio se divorcia. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/813uBwbCaXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261010074300 +0200" stop="20261010092900 +0200" channel="acontra+ CINE">
-    <title lang="es">Sangre sabia (1979)</title>
-    <desc lang="es">Un joven sureño, ambicioso, pero sin educación, decide convertirse en predicador. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81cnW2JYytL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261010092900 +0200" stop="20261010110700 +0200" channel="acontra+ CINE">
+  <programme start="20261010090700 +0200" stop="20261010110700 +0200" channel="acontra+ CINE">
     <title lang="es">Vatel (2000)</title>
     <desc lang="es">La vida de palacio de un mayordomo en la corte de Luis XIV. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/814OqpwnpFL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La garra de Satán (1971)</title>
     <desc lang="es">El descubrimiento del cuerpo de un hombre bestia atemoriza a unos niños campesinos en Inglaterra. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81nuSA-K9tL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261010141400 +0200" stop="20261010155000 +0200" channel="acontra+ CINE">
+    <title lang="es">El rostro (1975)</title>
+    <desc lang="es">El hipnotizador y mago Vogler y su mujer están siendo desafiados por los escépticos locales. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Lo+2uo-4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261010155000 +0200" stop="20261010171100 +0200" channel="acontra+ CINE">
+    <title lang="es">Dame 10 razones (2006)</title>
+    <desc lang="es">Un actor se adentra en un supermercado de un barrio obrero para investigar sobre su personaje. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81m7-duJJZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261010171100 +0200" stop="20261010190300 +0200" channel="acontra+ CINE">
+    <title lang="es">Antes de la Revolución (1964)</title>
+    <desc lang="es">Fabrizio intenta conciliar su origen burgués con su pertenencia al Partido Comunista Italiano. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91few9fDydL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
