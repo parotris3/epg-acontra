@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261011193200 +0200" stop="20261011213200 +0200" channel="acontra+ CINE">
-    <title lang="es">Macbeth (2015)</title>
-    <desc lang="es">Un hombre de la nobleza sube al trono escocés. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71jK0pNXjjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261011213200 +0200" stop="20261011225700 +0200" channel="acontra+ CINE">
-    <title lang="es">Noche de paz, noche de muerte (1984)</title>
-    <desc lang="es">A los cinco años, Billy presencia cómo un hombre disfrazado de Santa Claus asesina a sus padres. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/812k3nK++pL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261011225700 +0200" stop="20261012002500 +0200" channel="acontra+ CINE">
+  <programme start="20261011222500 +0200" stop="20261012002500 +0200" channel="acontra+ CINE">
     <title lang="es">Noche de paz, noche de muerte Parte 2 (1987)</title>
     <desc lang="es">Rick revive los crímenes de su hermano mayor y sigue la tradición familiar. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81dmcIdxGPL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">El fotógrafo de Minamata (2020)</title>
     <desc lang="es">W. Eugne Smith, fotógrafo de guerra, regresa a Japón para documentar el envenenamiento por mercurio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91Y8Sd-EGgL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261012040300 +0200" stop="20261012054600 +0200" channel="acontra+ CINE">
+    <title lang="es">El gendarme en Nueva York (2023)</title>
+    <desc lang="es">Un gendarme francés viaja a Nueva York y se sorprende al encontrar que su hija ha viajado también. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/711aOCeoaCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261012054600 +0200" stop="20261012073500 +0200" channel="acontra+ CINE">
+    <title lang="es">Hombres contra mujeres (2010)</title>
+    <desc lang="es">Cuatro historias de pareja, amor y desamor en las que se aborda el problema de la guerra de sexos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Vl5ixvOYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261012073500 +0200" stop="20261012090700 +0200" channel="acontra+ CINE">
+    <title lang="es">Los mejores amigos del mundo (2010)</title>
+    <desc lang="es">Un fin de semana al aire libre con sus mejores amigos, los realmente queridos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91EQMpQFeIL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
