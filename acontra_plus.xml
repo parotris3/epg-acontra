@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261012185900 +0200" stop="20261012205900 +0200" channel="acontra+ CINE">
-    <title lang="es">De latir mi corazón se ha parado (2005)</title>
-    <desc lang="es">Tom debe elegir entre seguir el sórdido negocio de su padre o convertirse en pianista como su madre. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81SLJ3sPFuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261012205900 +0200" stop="20261012222400 +0200" channel="acontra+ CINE">
-    <title lang="es">Experimento Filadelfia (2012)</title>
-    <desc lang="es">Dos oficiales que participan en un experimento militar de alto secreto son trasladados a 1984. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A12HWWNktUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261012222400 +0200" stop="20261013002000 +0200" channel="acontra+ CINE">
+  <programme start="20261012222000 +0200" stop="20261013002000 +0200" channel="acontra+ CINE">
     <title lang="es">Disparando a perros (2005)</title>
     <desc lang="es">Un profesor ofrece protección a miles de ruandeses que escapan del genocidio en la Ruanda de 1994. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71bv7tLr2dL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">Nueva vida en Nueva York (2013)</title>
     <desc lang="es">Xavier es un escritor de 40 años que no ha sentado la cabeza y va a Nueva York a encontrar su lugar. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81qkrxjYFTL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261013055600 +0200" stop="20261013074500 +0200" channel="acontra+ CINE">
+    <title lang="es">Insignificance (1985)</title>
+    <desc lang="es">Albert Einstein charla con Marilyn Monroe sobre la teoría de la relatividad, el sexo y la política. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/712jQUN3uVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261013074500 +0200" stop="20261013091100 +0200" channel="acontra+ CINE">
+    <title lang="es">Premonición (2006)</title>
+    <desc lang="es">Un policía despierta de un coma para descubrir que tiene alucinaciones que predicen el futuro. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81QXR1BXE7L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
