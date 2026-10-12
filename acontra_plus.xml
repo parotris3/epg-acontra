@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261012140900 +0200" stop="20261012160900 +0200" channel="acontra+ CINE">
-    <title lang="es">Invasión robótica (2006)</title>
-    <desc lang="es">Un avión con robots militares se estrella en una isla desierta y los Navy Seals deben actuar. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1NIzcm0jDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261012160900 +0200" stop="20261012174200 +0200" channel="acontra+ CINE">
-    <title lang="es">El soldado perdido (2017)</title>
-    <desc lang="es">En 1941, durante un bombardeo, un piloto es salvado por una joven viuda que lo esconde en su casa. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1GHdFfsbCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261012174200 +0200" stop="20261012191200 +0200" channel="acontra+ CINE">
-    <title lang="es">El último vuelo (2014)</title>
-    <desc lang="es">Marie Vallières de Beaumont, una intrépida aviadora, se propone encontrar a su novio desaparecido. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71jGocrVMZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261012191200 +0200" stop="20261012205900 +0200" channel="acontra+ CINE">
+  <programme start="20261012185900 +0200" stop="20261012205900 +0200" channel="acontra+ CINE">
     <title lang="es">De latir mi corazón se ha parado (2005)</title>
     <desc lang="es">Tom debe elegir entre seguir el sórdido negocio de su padre o convertirse en pianista como su madre. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81SLJ3sPFuL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Disparando a perros (2005)</title>
     <desc lang="es">Un profesor ofrece protección a miles de ruandeses que escapan del genocidio en la Ruanda de 1994. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71bv7tLr2dL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261013002000 +0200" stop="20261013020000 +0200" channel="acontra+ CINE">
+    <title lang="es">El forastero (2014)</title>
+    <desc lang="es">Un contratista militar busca a su hija extraviada. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/819rBMqDTFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261013020000 +0200" stop="20261013035900 +0200" channel="acontra+ CINE">
+    <title lang="es">La mujer zurda (1980)</title>
+    <desc lang="es">Una mujer recién separada pone rumbo a París con su hijo, donde comienzan una nueva vida. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ebmwYoeRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261013035900 +0200" stop="20261013055600 +0200" channel="acontra+ CINE">
+    <title lang="es">Nueva vida en Nueva York (2013)</title>
+    <desc lang="es">Xavier es un escritor de 40 años que no ha sentado la cabeza y va a Nueva York a encontrar su lugar. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qkrxjYFTL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
