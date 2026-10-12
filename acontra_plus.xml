@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261012034600 +0200" stop="20261012054600 +0200" channel="acontra+ CINE">
-    <title lang="es">El gendarme en Nueva York (2023)</title>
-    <desc lang="es">Un gendarme francés viaja a Nueva York y se sorprende al encontrar que su hija ha viajado también. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/711aOCeoaCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261012054600 +0200" stop="20261012073500 +0200" channel="acontra+ CINE">
-    <title lang="es">Hombres contra mujeres (2010)</title>
-    <desc lang="es">Cuatro historias de pareja, amor y desamor en las que se aborda el problema de la guerra de sexos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Vl5ixvOYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261012073500 +0200" stop="20261012090700 +0200" channel="acontra+ CINE">
-    <title lang="es">Los mejores amigos del mundo (2010)</title>
-    <desc lang="es">Un fin de semana al aire libre con sus mejores amigos, los realmente queridos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91EQMpQFeIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261012090700 +0200" stop="20261012104300 +0200" channel="acontra+ CINE">
+  <programme start="20261012084300 +0200" stop="20261012104300 +0200" channel="acontra+ CINE">
     <title lang="es">Qiu Ju, una mujer china (1993)</title>
     <desc lang="es">Una campesina china busca justicia tras la agresión a su marido por parte del líder de su comunidad. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81wUbIg4WvL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Los visitantes regresan por el túnel del tiempo (1999)</title>
     <desc lang="es">Godefroy debe recuperar las joyas sagradas de la familia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71QFu2H5CnL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261012143900 +0200" stop="20261012160900 +0200" channel="acontra+ CINE">
+    <title lang="es">Invasión robótica (2006)</title>
+    <desc lang="es">Un avión con robots militares se estrella en una isla desierta y los Navy Seals deben actuar. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1NIzcm0jDL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261012160900 +0200" stop="20261012174200 +0200" channel="acontra+ CINE">
+    <title lang="es">El soldado perdido (2017)</title>
+    <desc lang="es">En 1941, durante un bombardeo, un piloto es salvado por una joven viuda que lo esconde en su casa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1GHdFfsbCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261012174200 +0200" stop="20261012191200 +0200" channel="acontra+ CINE">
+    <title lang="es">El último vuelo (2014)</title>
+    <desc lang="es">Marie Vallières de Beaumont, una intrépida aviadora, se propone encontrar a su novio desaparecido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71jGocrVMZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
