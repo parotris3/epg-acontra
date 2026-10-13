@@ -3,29 +3,34 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261013035600 +0200" stop="20261013055600 +0200" channel="acontra+ CINE">
-    <title lang="es">Nueva vida en Nueva York (2013)</title>
-    <desc lang="es">Xavier es un escritor de 40 años que no ha sentado la cabeza y va a Nueva York a encontrar su lugar. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qkrxjYFTL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261013130400 +0200" stop="20261013150400 +0200" channel="acontra+ CINE">
+    <title lang="es">La hierba errante (1959)</title>
+    <desc lang="es">El director de una compañía de teatro llega al pueblo donde vive su hijo no reconocido. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tYPNPnoNL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261013055600 +0200" stop="20261013074500 +0200" channel="acontra+ CINE">
-    <title lang="es">Insignificance (1985)</title>
-    <desc lang="es">Albert Einstein charla con Marilyn Monroe sobre la teoría de la relatividad, el sexo y la política. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/712jQUN3uVL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261013150400 +0200" stop="20261013164700 +0200" channel="acontra+ CINE">
+    <title lang="es">El hombre perfecto (2015)</title>
+    <desc lang="es">Un joven escritor encuentra un manuscrito de un anciano y lo publica a su nombre. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Tx-evqXLL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261013074500 +0200" stop="20261013091100 +0200" channel="acontra+ CINE">
-    <title lang="es">Premonición (2006)</title>
-    <desc lang="es">Un policía despierta de un coma para descubrir que tiene alucinaciones que predicen el futuro. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81QXR1BXE7L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261013164700 +0200" stop="20261013183900 +0200" channel="acontra+ CINE">
+    <title lang="es">Uno tras otro (2014)</title>
+    <desc lang="es">Cuando su hijo muere de sobredosis, Nils, convencido de que ha sido asesinado, quiere venganza. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81K2F-fI2sL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261013091100 +0200" stop="20261013105900 +0200" channel="acontra+ CINE">
-    <title lang="es">Un hombre en el tejado (1976)</title>
-    <desc lang="es">El teniente de la policía Nyman es brutalmente asesinado en un hospital de Estocolmo. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81mr4InncSL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261013183900 +0200" stop="20261013202600 +0200" channel="acontra+ CINE">
+    <title lang="es">Principiantes (1986)</title>
+    <desc lang="es">Un fotógrafo se enamora locamente de una chica que quiere ser diseñadora de moda. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81USLUz2mlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261013105900 +0200" stop="20261013131000 +0200" channel="acontra+ CINE">
-    <title lang="es">Muerte de un viajante (1985)</title>
-    <desc lang="es">Willy Loman un vendedor toma conciencia del vacío de su vida e intenta ponerle remedio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81zTdAWcJuL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261013202600 +0200" stop="20261013215700 +0200" channel="acontra+ CINE">
+    <title lang="es">Testigo (2017)</title>
+    <desc lang="es">Duval debe afrontar la brutal mecánica del mundo oculto de los servicios secretos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71etEZ+ZdkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261013215700 +0200" stop="20261013235900 +0200" channel="acontra+ CINE">
+    <title lang="es">Un pueblo y su rey (2019)</title>
+    <desc lang="es">París, 1789. La Bastilla ha sido asaltada y un soplo de libertad invade las calles. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71AIj2LVkZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
