@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261013182600 +0200" stop="20261013202600 +0200" channel="acontra+ CINE">
-    <title lang="es">Principiantes (1986)</title>
-    <desc lang="es">Un fotógrafo se enamora locamente de una chica que quiere ser diseñadora de moda. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81USLUz2mlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261013202600 +0200" stop="20261013215700 +0200" channel="acontra+ CINE">
-    <title lang="es">Testigo (2017)</title>
-    <desc lang="es">Duval debe afrontar la brutal mecánica del mundo oculto de los servicios secretos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71etEZ+ZdkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261013215700 +0200" stop="20261013235900 +0200" channel="acontra+ CINE">
-    <title lang="es">Un pueblo y su rey (2019)</title>
-    <desc lang="es">París, 1789. La Bastilla ha sido asaltada y un soplo de libertad invade las calles. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71AIj2LVkZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261013235900 +0200" stop="20261014013100 +0200" channel="acontra+ CINE">
+  <programme start="20261013233100 +0200" stop="20261014013100 +0200" channel="acontra+ CINE">
     <title lang="es">The Ring 2: El círculo 2 (1999)</title>
     <desc lang="es">Tras la muerte de su profesor, Mai Takano investiga la legendaria historia de la cinta maldita. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81-8jDTFh-L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Una familia de Tokio (2013)</title>
     <desc lang="es">Una pareja de ancianos que vive en una pequeña isla viaja a Tokio para visitar a sus tres hijos. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81koP10hlfL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261014040100 +0200" stop="20261014053800 +0200" channel="acontra+ CINE">
+    <title lang="es">Un verano con Mónica (1955)</title>
+    <desc lang="es">Dos adolescentes se enamoran y dejan todo para emprender un viaje juntos en barco. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81X33-oJfLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261014053800 +0200" stop="20261014075500 +0200" channel="acontra+ CINE">
+    <title lang="es">Verano asesino (1985)</title>
+    <desc lang="es">Elle, una joven de 19 años, regresa a su pueblo natal con un oscuro plan de venganza. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91iSUe6b7oL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261014075500 +0200" stop="20261014093100 +0200" channel="acontra+ CINE">
+    <title lang="es">Society (1990)</title>
+    <desc lang="es">Un joven comienza a sospechar que dentro de su familia están sucediendo cosas muy extrañas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81gg8EmuFjL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
