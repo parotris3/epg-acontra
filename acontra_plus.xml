@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261012222000 +0200" stop="20261013002000 +0200" channel="acontra+ CINE">
-    <title lang="es">Disparando a perros (2005)</title>
-    <desc lang="es">Un profesor ofrece protección a miles de ruandeses que escapan del genocidio en la Ruanda de 1994. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71bv7tLr2dL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261013002000 +0200" stop="20261013020000 +0200" channel="acontra+ CINE">
-    <title lang="es">El forastero (2014)</title>
-    <desc lang="es">Un contratista militar busca a su hija extraviada. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/819rBMqDTFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261013020000 +0200" stop="20261013035900 +0200" channel="acontra+ CINE">
-    <title lang="es">La mujer zurda (1980)</title>
-    <desc lang="es">Una mujer recién separada pone rumbo a París con su hijo, donde comienzan una nueva vida. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ebmwYoeRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261013035900 +0200" stop="20261013055600 +0200" channel="acontra+ CINE">
+  <programme start="20261013035600 +0200" stop="20261013055600 +0200" channel="acontra+ CINE">
     <title lang="es">Nueva vida en Nueva York (2013)</title>
     <desc lang="es">Xavier es un escritor de 40 años que no ha sentado la cabeza y va a Nueva York a encontrar su lugar. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81qkrxjYFTL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Premonición (2006)</title>
     <desc lang="es">Un policía despierta de un coma para descubrir que tiene alucinaciones que predicen el futuro. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81QXR1BXE7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261013091100 +0200" stop="20261013105900 +0200" channel="acontra+ CINE">
+    <title lang="es">Un hombre en el tejado (1976)</title>
+    <desc lang="es">El teniente de la policía Nyman es brutalmente asesinado en un hospital de Estocolmo. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81mr4InncSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261013105900 +0200" stop="20261013131000 +0200" channel="acontra+ CINE">
+    <title lang="es">Muerte de un viajante (1985)</title>
+    <desc lang="es">Willy Loman un vendedor toma conciencia del vacío de su vida e intenta ponerle remedio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81zTdAWcJuL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
