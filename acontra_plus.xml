@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261014033800 +0200" stop="20261014053800 +0200" channel="acontra+ CINE">
-    <title lang="es">Un verano con Mónica (1955)</title>
-    <desc lang="es">Dos adolescentes se enamoran y dejan todo para emprender un viaje juntos en barco. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81X33-oJfLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261014053800 +0200" stop="20261014075500 +0200" channel="acontra+ CINE">
-    <title lang="es">Verano asesino (1985)</title>
-    <desc lang="es">Elle, una joven de 19 años, regresa a su pueblo natal con un oscuro plan de venganza. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91iSUe6b7oL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261014075500 +0200" stop="20261014093100 +0200" channel="acontra+ CINE">
-    <title lang="es">Society (1990)</title>
-    <desc lang="es">Un joven comienza a sospechar que dentro de su familia están sucediendo cosas muy extrañas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81gg8EmuFjL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261014093100 +0200" stop="20261014111100 +0200" channel="acontra+ CINE">
+  <programme start="20261014091100 +0200" stop="20261014111100 +0200" channel="acontra+ CINE">
     <title lang="es">Los panzers de la muerte (1988)</title>
     <desc lang="es">En 1942, Adolf Hitler da a sus tropas la orden de no retroceder y oponer una resistencia fanática. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81uPYLrwyUL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">El Rey de Nueva York (1990)</title>
     <desc lang="es">Un capo de la droga psicótico decide al dejar la prisión compartir sus ganancias con los pobres. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81e8X4Con+L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261014142900 +0200" stop="20261014162000 +0200" channel="acontra+ CINE">
+    <title lang="es">El amor de Swann (1984)</title>
+    <desc lang="es">La apasionada historia de amor de Swann, un aristócrata, con la bella prostituta Odette de Crécy. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71WNSPx7jcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261014162000 +0200" stop="20261014181400 +0200" channel="acontra+ CINE">
+    <title lang="es">Byzantium (2012)</title>
+    <desc lang="es">Dos vampiresas que huyen de otros vampiros se refugian en una comunidad británica junto al mar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91pz7+eAfkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
