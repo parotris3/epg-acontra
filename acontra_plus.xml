@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261014142000 +0200" stop="20261014162000 +0200" channel="acontra+ CINE">
-    <title lang="es">El amor de Swann (1984)</title>
-    <desc lang="es">La apasionada historia de amor de Swann, un aristócrata, con la bella prostituta Odette de Crécy. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71WNSPx7jcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261014162000 +0200" stop="20261014181400 +0200" channel="acontra+ CINE">
-    <title lang="es">Byzantium (2012)</title>
-    <desc lang="es">Dos vampiresas que huyen de otros vampiros se refugian en una comunidad británica junto al mar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91pz7+eAfkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261014181400 +0200" stop="20261014202600 +0200" channel="acontra+ CINE">
+  <programme start="20261014182600 +0200" stop="20261014202600 +0200" channel="acontra+ CINE">
     <title lang="es">¡Vivir! (1994)</title>
     <desc lang="es">Una pareja se enfrenta a la turbulenta historia política de China a lo largo de 30 años. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71bSqDq2fPL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Mi vida como un perro (1987)</title>
     <desc lang="es">Agridulce viaje de la infancia a la adolescencia que tiene que recorrer un niño sueco de 12 años. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91EciWOY9KL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261014234300 +0200" stop="20261015014900 +0200" channel="acontra+ CINE">
+    <title lang="es">Nostalgia (1983)</title>
+    <desc lang="es">Un escritor ruso viaja a Italia para investigar la vida de un compositor ruso que estudió allí. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/912DRKglhmL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261015014900 +0200" stop="20261015040100 +0200" channel="acontra+ CINE">
+    <title lang="es">Bullhead (2011)</title>
+    <desc lang="es">Jacky Vanmarsenille es abordado por un veterinario sin escrúpulos para hacer negocios sucios. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/712XNuWfUCL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
