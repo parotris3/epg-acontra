@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261015142700 +0200" stop="20261015162700 +0200" channel="acontra+ CINE">
-    <title lang="es">Pasiones en Kenia (1988)</title>
-    <desc lang="es">Una colonia británica en Kenia se escandaliza por una relación adúltera que conduce a un homicidio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81FV1QRGKuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261015162700 +0200" stop="20261015180700 +0200" channel="acontra+ CINE">
-    <title lang="es">Traveller (1997)</title>
-    <desc lang="es">Tras morir su padre, Pat O'Hara quiere unirse a un grupo de estafadores irlandeses-americanos. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Vr2YKjJIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261015180700 +0200" stop="20261015200300 +0200" channel="acontra+ CINE">
+  <programme start="20261015180300 +0200" stop="20261015200300 +0200" channel="acontra+ CINE">
     <title lang="es">Vania en la calle 42 (1994)</title>
     <desc lang="es">En los noventa, André Gregory montó unas representaciones privadas de la obra "Tío Vania" de Chéjov. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81d8v6E967L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">La cosecha (1994)</title>
     <desc lang="es">En México, Charlie Pope, un guionista de cine en plena depresión, se ve envuelto en una pesadilla. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/91d-BH1BVlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261015231700 +0200" stop="20261016004300 +0200" channel="acontra+ CINE">
+    <title lang="es">Escóndete y tiembla (1988)</title>
+    <desc lang="es">Viajeros son objetivos de una familia de psicópatas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91hlpnJKfWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261016004300 +0200" stop="20261016022000 +0200" channel="acontra+ CINE">
+    <title lang="es">El novio de mi madre (2007)</title>
+    <desc lang="es">La agitada vida de una mujer madura cambia cuando se enamora de un hombre mucho más joven que ella. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81qWfjAZw8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261016022000 +0200" stop="20261016040500 +0200" channel="acontra+ CINE">
+    <title lang="es">La parte de los ángeles (2012)</title>
+    <desc lang="es">Robbie apenas evade la cárcel, se inspira para hallar la forma de salir de una vida sin esperanza. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71ExK0oAYLL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
