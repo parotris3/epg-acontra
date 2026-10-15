@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261015091200 +0200" stop="20261015111200 +0200" channel="acontra+ CINE">
-    <title lang="es">Adiós, felicidad</title>
-    <desc lang="es">Cuatro hermanos se reencuentran por última vez para rendirle un último homenaje a su padre. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1fX27r6b4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261015111200 +0200" stop="20261015125500 +0200" channel="acontra+ CINE">
-    <title lang="es">Cal (1989)</title>
-    <desc lang="es">En Irlanda del Norte, un joven católico es sospechoso en el asesinato de un policía protestante. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81T3UBe8n8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261015125500 +0200" stop="20261015144400 +0200" channel="acontra+ CINE">
-    <title lang="es">Fuerzas especiales (2011)</title>
-    <desc lang="es">Afganistán, una periodista es capturada por los Talibanes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81wD-+H9LpL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261015144400 +0200" stop="20261015162700 +0200" channel="acontra+ CINE">
+  <programme start="20261015142700 +0200" stop="20261015162700 +0200" channel="acontra+ CINE">
     <title lang="es">Pasiones en Kenia (1988)</title>
     <desc lang="es">Una colonia británica en Kenia se escandaliza por una relación adúltera que conduce a un homicidio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81FV1QRGKuL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Traveller (1997)</title>
     <desc lang="es">Tras morir su padre, Pat O'Hara quiere unirse a un grupo de estafadores irlandeses-americanos. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1Vr2YKjJIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261015180700 +0200" stop="20261015200300 +0200" channel="acontra+ CINE">
+    <title lang="es">Vania en la calle 42 (1994)</title>
+    <desc lang="es">En los noventa, André Gregory montó unas representaciones privadas de la obra "Tío Vania" de Chéjov. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81d8v6E967L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261015200300 +0200" stop="20261015214400 +0200" channel="acontra+ CINE">
+    <title lang="es">La regla del juego (1939)</title>
+    <desc lang="es">Ilustración de clásico de Jean Renoir acerca de las reglas sociales y sexuales que separan a clases. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91ZzBu2bdRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261015214400 +0200" stop="20261015231700 +0200" channel="acontra+ CINE">
+    <title lang="es">La cosecha (1994)</title>
+    <desc lang="es">En México, Charlie Pope, un guionista de cine en plena depresión, se ve envuelto en una pesadilla. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91d-BH1BVlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
