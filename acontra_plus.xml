@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261015224300 +0200" stop="20261016004300 +0200" channel="acontra+ CINE">
-    <title lang="es">Escóndete y tiembla (1988)</title>
-    <desc lang="es">Viajeros son objetivos de una familia de psicópatas. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91hlpnJKfWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261016004300 +0200" stop="20261016022000 +0200" channel="acontra+ CINE">
-    <title lang="es">El novio de mi madre (2007)</title>
-    <desc lang="es">La agitada vida de una mujer madura cambia cuando se enamora de un hombre mucho más joven que ella. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81qWfjAZw8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261016022000 +0200" stop="20261016040500 +0200" channel="acontra+ CINE">
-    <title lang="es">La parte de los ángeles (2012)</title>
-    <desc lang="es">Robbie apenas evade la cárcel, se inspira para hallar la forma de salir de una vida sin esperanza. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ExK0oAYLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261016040500 +0200" stop="20261016062500 +0200" channel="acontra+ CINE">
+  <programme start="20261016042500 +0200" stop="20261016062500 +0200" channel="acontra+ CINE">
     <title lang="es">La venganza es mía (1979)</title>
     <desc lang="es">Enokizu es un criminal al que le encanta cometer atrocidades y despiadados crímenes. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81+f+z7V-RL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">13 minutos para matar a Hitler (2015)</title>
     <desc lang="es">Georg Elser pudo haber cambiado el rumbo de la historia de haber contado con trece minutos más. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Nrgxbf4VL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261016093300 +0200" stop="20261016111800 +0200" channel="acontra+ CINE">
+    <title lang="es">El monarca rojo (2006)</title>
+    <desc lang="es">Stalin firma sentencias de muerte mientras su lugarteniente Beria persigue mujeres. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91oiheQFAAL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261016111800 +0200" stop="20261016130700 +0200" channel="acontra+ CINE">
+    <title lang="es">La duda de Darwin (2009)</title>
+    <desc lang="es">Darwin se encontrará con una sociedad reacia al cambio cuando publique su teoría de la evolución. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91lZCeCPcAL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
