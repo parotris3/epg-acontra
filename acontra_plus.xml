@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261016042500 +0200" stop="20261016062500 +0200" channel="acontra+ CINE">
-    <title lang="es">La venganza es mía (1979)</title>
-    <desc lang="es">Enokizu es un criminal al que le encanta cometer atrocidades y despiadados crímenes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81+f+z7V-RL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261016062500 +0200" stop="20261016073900 +0200" channel="acontra+ CINE">
-    <title lang="es">De Repente (1954)</title>
-    <desc lang="es">Unos criminales quieren matar al presidente estadounidense. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-cn0GVi9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261016073900 +0200" stop="20261016093300 +0200" channel="acontra+ CINE">
-    <title lang="es">13 minutos para matar a Hitler (2015)</title>
-    <desc lang="es">Georg Elser pudo haber cambiado el rumbo de la historia de haber contado con trece minutos más. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Nrgxbf4VL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261016093300 +0200" stop="20261016111800 +0200" channel="acontra+ CINE">
+  <programme start="20261016091800 +0200" stop="20261016111800 +0200" channel="acontra+ CINE">
     <title lang="es">El monarca rojo (2006)</title>
     <desc lang="es">Stalin firma sentencias de muerte mientras su lugarteniente Beria persigue mujeres. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91oiheQFAAL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">La duda de Darwin (2009)</title>
     <desc lang="es">Darwin se encontrará con una sociedad reacia al cambio cuando publique su teoría de la evolución. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91lZCeCPcAL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261016130700 +0200" stop="20261016143400 +0200" channel="acontra+ CINE">
+    <title lang="es">Rabbit Hole (2010)</title>
+    <desc lang="es">Basada en la obra de David Lindsay-Abaire. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71n2M0NPlaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261016143400 +0200" stop="20261016164500 +0200" channel="acontra+ CINE">
+    <title lang="es">El último bailarín de Mao (2009)</title>
+    <desc lang="es">Basado en la autobiografía de la estrella de ballet Li Cunxin y su lucha para vivir en los EEUU. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81xmV5KdDbL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261016164500 +0200" stop="20261016181400 +0200" channel="acontra+ CINE">
+    <title lang="es">El sureño (1945)</title>
+    <desc lang="es">Un recolector de algodón de Texas busca tener su propia granja y darle una mejor vida a su familia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91+4OenNoUL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
