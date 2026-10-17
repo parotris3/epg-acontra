@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261016222300 +0200" stop="20261017002300 +0200" channel="acontra+ CINE">
-    <title lang="es">Suspiria (1977)</title>
-    <desc lang="es">Una bailarina de Nueva York se inscribe en una academia de danza embrujada. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1hAy5lxJRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261017002300 +0200" stop="20261017022400 +0200" channel="acontra+ CINE">
-    <title lang="es">Madres e hijas (2010)</title>
-    <desc lang="es">Tres mujeres, Karen, Elizabeth y Lucy, comparten un objetivo común: adoptar a un hijo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8165KRQ-0PL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261017022400 +0200" stop="20261017042500 +0200" channel="acontra+ CINE">
-    <title lang="es">Lullaby (2014)</title>
-    <desc lang="es">Un hombre recibe la noticia de que su padre ha decidido desconectarse del soporte vital. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81CqWEI58fL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261017042500 +0200" stop="20261017055500 +0200" channel="acontra+ CINE">
+  <programme start="20261017035500 +0200" stop="20261017055500 +0200" channel="acontra+ CINE">
     <title lang="es">Juicio de fuego (2008)</title>
     <desc lang="es">Una mujer bombero decide entrar en el cuerpo de élite de paracaidismo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1tw--Od0TL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El infierno del odio (1963)</title>
     <desc lang="es">El ejecutivo de una compañía de zapatos de éxito se convierte en víctima de extorsión. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81NFwmVYj5L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261017093200 +0200" stop="20261017110800 +0200" channel="acontra+ CINE">
+    <title lang="es">Caramel (2007)</title>
+    <desc lang="es">Cinco mujeres libanesas comparten sus vidas y preocupaciones en un salón de belleza de Beirut. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Svm35LVfL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261017110800 +0200" stop="20261017124700 +0200" channel="acontra+ CINE">
+    <title lang="es">14 días, 12 noches (2021)</title>
+    <desc lang="es">Isabel vuelve a Vietnam un año después de la trágica muerte de su hija Clara. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/918nQDfInWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261017124700 +0200" stop="20261017141400 +0200" channel="acontra+ CINE">
+    <title lang="es">El manantial de la doncella (1960)</title>
+    <desc lang="es">Tres campesinos medievales violan y asesinan a una joven en el bosque y su padre busca venganza. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81HPQIn7ktL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
