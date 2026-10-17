@@ -3,34 +3,34 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261017035500 +0200" stop="20261017055500 +0200" channel="acontra+ CINE">
-    <title lang="es">Juicio de fuego (2008)</title>
-    <desc lang="es">Una mujer bombero decide entrar en el cuerpo de élite de paracaidismo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1tw--Od0TL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261017055500 +0200" stop="20261017071400 +0200" channel="acontra+ CINE">
-    <title lang="es">El maquinista de La General (1926)</title>
-    <desc lang="es">Johnny Gray tiene dos únicos amores: una chica y una locomotora llamada "La General". | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/51PhYJveYwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261017071400 +0200" stop="20261017093200 +0200" channel="acontra+ CINE">
-    <title lang="es">El infierno del odio (1963)</title>
-    <desc lang="es">El ejecutivo de una compañía de zapatos de éxito se convierte en víctima de extorsión. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81NFwmVYj5L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261017093200 +0200" stop="20261017110800 +0200" channel="acontra+ CINE">
-    <title lang="es">Caramel (2007)</title>
-    <desc lang="es">Cinco mujeres libanesas comparten sus vidas y preocupaciones en un salón de belleza de Beirut. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Svm35LVfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261017110800 +0200" stop="20261017124700 +0200" channel="acontra+ CINE">
+  <programme start="20261017085000 +0200" stop="20261017105000 +0200" channel="acontra+ CINE">
     <title lang="es">14 días, 12 noches (2021)</title>
     <desc lang="es">Isabel vuelve a Vietnam un año después de la trágica muerte de su hija Clara. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/918nQDfInWL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261017124700 +0200" stop="20261017141400 +0200" channel="acontra+ CINE">
+  <programme start="20261017105000 +0200" stop="20261017121600 +0200" channel="acontra+ CINE">
     <title lang="es">El manantial de la doncella (1960)</title>
     <desc lang="es">Tres campesinos medievales violan y asesinan a una joven en el bosque y su padre busca venganza. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81HPQIn7ktL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261017121600 +0200" stop="20261017140500 +0200" channel="acontra+ CINE">
+    <title lang="es">Los cien pasos (2000)</title>
+    <desc lang="es">Un activista político cuya familia está vinculada a la mafia denuncia el crimen organizado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71fIjNsS4-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261017140500 +0200" stop="20261017154700 +0200" channel="acontra+ CINE">
+    <title lang="es">Quiero ser italiano (2017)</title>
+    <desc lang="es">Para poder salir adelante en Francia, un argelino musulmán se hace pasar por un italiano. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71u4XxPOYmL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261017154700 +0200" stop="20261017172800 +0200" channel="acontra+ CINE">
+    <title lang="es">Un rostro de mujer (1941)</title>
+    <desc lang="es">Una mujer en juicio por un asesinato revela su pasado antes de haberse sometido a una cirugía. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91OdDsCcpVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261017172800 +0200" stop="20261017191700 +0200" channel="acontra+ CINE">
+    <title lang="es">Padre patrón (1977)</title>
+    <desc lang="es">La historia real de Gavino Ledda, que fue obligado por su autoritario padre a dejar la escuela. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/61+CRe2Rb7L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
