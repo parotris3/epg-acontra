@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261018132500 +0200" stop="20261018152500 +0200" channel="acontra+ CINE">
-    <title lang="es">Sanjuro (1962)</title>
-    <desc lang="es">Sanjuro es un samurái errante y hastiado que ayuda a un grupo idealista de jóvenes guerreros. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/913EZq+FQoL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261018152500 +0200" stop="20261018165800 +0200" channel="acontra+ CINE">
-    <title lang="es">Cuando se acaba (2017)</title>
-    <desc lang="es">La relación de Will y Anna cambia por terceras personas. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91H7-OWuwyL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261018165800 +0200" stop="20261018183500 +0200" channel="acontra+ CINE">
-    <title lang="es">El Gran Buster (2018)</title>
-    <desc lang="es">Celebramos la vida y la carrera de Buster Keaton, uno de los cineastas más prolíficos de Hollywood. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91+uDLX0XwL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261018183500 +0200" stop="20261018202200 +0200" channel="acontra+ CINE">
+  <programme start="20261018182200 +0200" stop="20261018202200 +0200" channel="acontra+ CINE">
     <title lang="es">Yatterman (2009)</title>
     <desc lang="es">Gan, Ai y su fiel perro robot gigante tratarán de evitar que Doronjo se haga con una piedra mágica. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81pol7ZTJZL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,25 @@
     <title lang="es">Bichos raros (2007)</title>
     <desc lang="es">Dos inadaptados se conocen en una fiesta de disfraces y descubren que tienen mucho en común. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91jYTr8aPEL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261018231600 +0200" stop="20261019005100 +0200" channel="acontra+ CINE">
+    <title lang="es">Dos vidas en un instante (1998)</title>
+    <desc lang="es">En medio de las crisis, la vida de Helen da un giro y experimenta una realidad alternativa. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71gf9K9ZaPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261019005100 +0200" stop="20261019022400 +0200" channel="acontra+ CINE">
+    <title lang="es">Aprendiendo a conducir (2014)</title>
+    <desc lang="es">Una escritora y un taxista indio se alejan de sus problemas durante las clases de conducción. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tu3xFypWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261019022400 +0200" stop="20261019034900 +0200" channel="acontra+ CINE">
+    <title lang="es">American Summer (2011)</title>
+    <desc lang="es">Un limpiapiscinas y un jardinero convierten una lujosa mansión en un hogar para prostitutas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81GT8PgfZBL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261019034900 +0200" stop="20261019051600 +0200" channel="acontra+ CINE">
+    <title lang="es">Elvira Madigan (1967)</title>
+    <desc lang="es">Una joven equilibrista y un oficial casado se enamoran perdidamente y deciden abandonarlo todo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/712uVLv2tWL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
