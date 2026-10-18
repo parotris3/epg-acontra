@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261018040600 +0200" stop="20261018060600 +0200" channel="acontra+ CINE">
-    <title lang="es">Los mejores amigos del mundo (2010)</title>
-    <desc lang="es">Un fin de semana al aire libre con sus mejores amigos, los realmente queridos. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91EQMpQFeIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261018060600 +0200" stop="20261018074300 +0200" channel="acontra+ CINE">
-    <title lang="es">El día de tu boda (2013)</title>
-    <desc lang="es">Leo se enamora de Colette el día de su boda y decide ganarse su corazón. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91zDK4wxcXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261018074300 +0200" stop="20261018091100 +0200" channel="acontra+ CINE">
-    <title lang="es">El proyecto supermente (2017)</title>
-    <desc lang="es">Algo sucede en Los Ángeles; la tierra ha comenzado a temblar y los edificios se vienen abajo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WroaoxMzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261018091100 +0200" stop="20261018104000 +0200" channel="acontra+ CINE">
+  <programme start="20261018084000 +0200" stop="20261018104000 +0200" channel="acontra+ CINE">
     <title lang="es">La pequeña princesa (1939)</title>
     <desc lang="es">La hija de un oficial del ejército desaparecido tiene que trabajar como sirvienta para sobrevivir. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91xia6F8eQL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Noche real (2015)</title>
     <desc lang="es">En el Día de la Victoria, las princesas Isabel y Margarita se unen a la celebración de incógnito. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1eJ-vL++eL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261018135300 +0200" stop="20261018152500 +0200" channel="acontra+ CINE">
+    <title lang="es">Sanjuro (1962)</title>
+    <desc lang="es">Sanjuro es un samurái errante y hastiado que ayuda a un grupo idealista de jóvenes guerreros. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/913EZq+FQoL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261018152500 +0200" stop="20261018165800 +0200" channel="acontra+ CINE">
+    <title lang="es">Cuando se acaba (2017)</title>
+    <desc lang="es">La relación de Will y Anna cambia por terceras personas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91H7-OWuwyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261018165800 +0200" stop="20261018183500 +0200" channel="acontra+ CINE">
+    <title lang="es">El Gran Buster (2018)</title>
+    <desc lang="es">Celebramos la vida y la carrera de Buster Keaton, uno de los cineastas más prolíficos de Hollywood. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91+uDLX0XwL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
