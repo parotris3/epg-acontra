@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261018182200 +0200" stop="20261018202200 +0200" channel="acontra+ CINE">
-    <title lang="es">Yatterman (2009)</title>
-    <desc lang="es">Gan, Ai y su fiel perro robot gigante tratarán de evitar que Doronjo se haga con una piedra mágica. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81pol7ZTJZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261018202200 +0200" stop="20261018214800 +0200" channel="acontra+ CINE">
-    <title lang="es">Un Plan Para Enamorarse (2011)</title>
-    <desc lang="es">Una consejera matrimonial recién casada descubre que sus padres se van a divorciar. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71gP16ib9fL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261018214800 +0200" stop="20261018231600 +0200" channel="acontra+ CINE">
-    <title lang="es">Bichos raros (2007)</title>
-    <desc lang="es">Dos inadaptados se conocen en una fiesta de disfraces y descubren que tienen mucho en común. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91jYTr8aPEL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261018231600 +0200" stop="20261019005100 +0200" channel="acontra+ CINE">
+  <programme start="20261018225100 +0200" stop="20261019005100 +0200" channel="acontra+ CINE">
     <title lang="es">Dos vidas en un instante (1998)</title>
     <desc lang="es">En medio de las crisis, la vida de Helen da un giro y experimenta una realidad alternativa. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71gf9K9ZaPL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +22,15 @@
     <title lang="es">Elvira Madigan (1967)</title>
     <desc lang="es">Una joven equilibrista y un oficial casado se enamoran perdidamente y deciden abandonarlo todo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/712uVLv2tWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261019051600 +0200" stop="20261019065900 +0200" channel="acontra+ CINE">
+    <title lang="es">Más allá del arcoíris (1990)</title>
+    <desc lang="es">Martha Travis es una médium que ofrece espectáculos de espiritismo junto a su padre alcohólico. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/810DlN4GkSL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261019065900 +0200" stop="20261019093300 +0200" channel="acontra+ CINE">
+    <title lang="es">Pequeñas mentiras sin importancia (2010)</title>
+    <desc lang="es">Un matrimonio invita a un grupo de amigos a su casa de la playa, pero un amigo no puede asistir. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Ci1eiig8L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
