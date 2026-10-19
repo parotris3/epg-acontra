@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261019031600 +0200" stop="20261019051600 +0200" channel="acontra+ CINE">
-    <title lang="es">Elvira Madigan (1967)</title>
-    <desc lang="es">Una joven equilibrista y un oficial casado se enamoran perdidamente y deciden abandonarlo todo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/712uVLv2tWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261019051600 +0200" stop="20261019065900 +0200" channel="acontra+ CINE">
-    <title lang="es">Más allá del arcoíris (1990)</title>
-    <desc lang="es">Martha Travis es una médium que ofrece espectáculos de espiritismo junto a su padre alcohólico. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/810DlN4GkSL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261019065900 +0200" stop="20261019093300 +0200" channel="acontra+ CINE">
-    <title lang="es">Pequeñas mentiras sin importancia (2010)</title>
-    <desc lang="es">Un matrimonio invita a un grupo de amigos a su casa de la playa, pero un amigo no puede asistir. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Ci1eiig8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261019093300 +0200" stop="20261019112700 +0200" channel="acontra+ CINE">
+  <programme start="20261019092700 +0200" stop="20261019112700 +0200" channel="acontra+ CINE">
     <title lang="es">Especiales (2019)</title>
     <desc lang="es">Stephane Benhamou y Daoud Tatou, dos amigos que crearon una ONG para ayudar a niños autistas. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81AsoW8lmTL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">El gato y el canario (1979)</title>
     <desc lang="es">La gran herencia de una mujer la convierte en el objetivo de un misterioso asesino. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91WU8UPlK6L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261019130500 +0200" stop="20261019151600 +0200" channel="acontra+ CINE">
+    <title lang="es">Cuentos de Tokio (1953)</title>
+    <desc lang="es">Una pareja de ancianos pasa la noche en casa de su nuera, la cual muestra más interés que sus hijos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81sgTI5N65L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261019151600 +0200" stop="20261019164500 +0200" channel="acontra+ CINE">
+    <title lang="es">Notre Dame (2019)</title>
+    <desc lang="es">La vida de una arquitecta cambia cuando gana la oportunidad de renovar la catedral de Notre Dame. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/819wBQ4-5BL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261019164500 +0200" stop="20261019182600 +0200" channel="acontra+ CINE">
+    <title lang="es">Secretos de estado (2017)</title>
+    <desc lang="es">Una espía y un terrorista utilizan manipulan personas para intentar alcanzar sus propios objetivos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tB3Pd59XL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
