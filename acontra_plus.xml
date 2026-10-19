@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261019131600 +0200" stop="20261019151600 +0200" channel="acontra+ CINE">
-    <title lang="es">Cuentos de Tokio (1953)</title>
-    <desc lang="es">Una pareja de ancianos pasa la noche en casa de su nuera, la cual muestra más interés que sus hijos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81sgTI5N65L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261019151600 +0200" stop="20261019164500 +0200" channel="acontra+ CINE">
-    <title lang="es">Notre Dame (2019)</title>
-    <desc lang="es">La vida de una arquitecta cambia cuando gana la oportunidad de renovar la catedral de Notre Dame. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/819wBQ4-5BL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261019164500 +0200" stop="20261019182600 +0200" channel="acontra+ CINE">
-    <title lang="es">Secretos de estado (2017)</title>
-    <desc lang="es">Una espía y un terrorista utilizan manipulan personas para intentar alcanzar sus propios objetivos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tB3Pd59XL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261019182600 +0200" stop="20261019195100 +0200" channel="acontra+ CINE">
-    <title lang="es">Toni (2014)</title>
-    <desc lang="es">Toni, un inmigrante italiano que trabaja en el sur de Francia, se enamora de una mujer local. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-0Dtqa25L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261019195100 +0200" stop="20261019214900 +0200" channel="acontra+ CINE">
+  <programme start="20261019194900 +0200" stop="20261019214900 +0200" channel="acontra+ CINE">
     <title lang="es">Estación zombie (2016)</title>
     <desc lang="es">Los pasajeros de un tren luchan por sobrevivir a un virus. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1VO3KLrRNL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +12,25 @@
     <title lang="es">Otro país (1985)</title>
     <desc lang="es">En los años 30, dos jóvenes entablan amistad en un colegio británico de clase alta. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/9182KTodawL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261019231900 +0200" stop="20261020004500 +0200" channel="acontra+ CINE">
+    <title lang="es">Arañas 3D (2013)</title>
+    <desc lang="es">Arañas se vuelven gigantes tras choque de estación espacial. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81CnDetRZRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261020004500 +0200" stop="20261020022300 +0200" channel="acontra+ CINE">
+    <title lang="es">Jeffrey (1995)</title>
+    <desc lang="es">El voto de celibato de un homosexual se pone a prueba cuando encuentra a su pareja perfecta. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/711EJ+nkA0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261020022300 +0200" stop="20261020035200 +0200" channel="acontra+ CINE">
+    <title lang="es">Impacto lunar (2007)</title>
+    <desc lang="es">La luna se está desintegrando y sus partes caen a la Tierra en forma de meteorito. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1AmoxQD9mL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261020035200 +0200" stop="20261020055200 +0200" channel="acontra+ CINE">
+    <title lang="es">El año que dejamos de jugar (2019)</title>
+    <desc lang="es">Anna y su familia de origen judío deben ir de Berlín tras el ascenso de Hitler. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81RzywxeukL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
