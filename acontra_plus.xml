@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261020035200 +0200" stop="20261020055200 +0200" channel="acontra+ CINE">
-    <title lang="es">El año que dejamos de jugar (2019)</title>
-    <desc lang="es">Anna y su familia de origen judío deben ir de Berlín tras el ascenso de Hitler. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81RzywxeukL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261020055200 +0200" stop="20261020072400 +0200" channel="acontra+ CINE">
-    <title lang="es">Buenas noches, y buena suerte (2005)</title>
-    <desc lang="es">El periodista Edward R. Murrow cuestiona la ética del senador Joseph McCarthy. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/8104a5vWAaL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261020072400 +0200" stop="20261020085700 +0200" channel="acontra+ CINE">
-    <title lang="es">20 años no importan (2013)</title>
-    <desc lang="es">La vida de Alice, una mujer ambiciosa y egocéntrica, cambia cuando conoce al joven Baltasar. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91sfPGXr9ML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261020085700 +0200" stop="20261020103300 +0200" channel="acontra+ CINE">
+  <programme start="20261020083300 +0200" stop="20261020103300 +0200" channel="acontra+ CINE">
     <title lang="es">El mundo resplandeciente (2021)</title>
     <desc lang="es">Una mujer se ve arrastrada a una dimensión alternativa en la que su hermana podría seguir viva. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81SRmqiK87L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Wilde (1998)</title>
     <desc lang="es">En la Inglaterra victoriana, la relación de Oscar Wilde con un noble lo conduce a su ruina. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81IkOUj2oqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261020135900 +0200" stop="20261020153600 +0200" channel="acontra+ CINE">
+    <title lang="es">Agujero en la cabeza (2023)</title>
+    <desc lang="es">María decide ir a conocer al activista que mató a su padre hace 40 años. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71PeWGT6PdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261020153600 +0200" stop="20261020173400 +0200" channel="acontra+ CINE">
+    <title lang="es">Norman, el hombre que lo conseguía todo (2016)</title>
+    <desc lang="es">Norman conoce a un joven político que cambiará su vida tres años después para bien y para mal. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81rnT24IdkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261020173400 +0200" stop="20261020190100 +0200" channel="acontra+ CINE">
+    <title lang="es">La bestia bajo el asfalto (1980)</title>
+    <desc lang="es">En Chicago aparece un cocodrilo de un tamaño gigante que sale de sus cloacas. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/816cOdDJ9CL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
