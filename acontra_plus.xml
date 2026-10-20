@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261020133600 +0200" stop="20261020153600 +0200" channel="acontra+ CINE">
-    <title lang="es">Agujero en la cabeza (2023)</title>
-    <desc lang="es">María decide ir a conocer al activista que mató a su padre hace 40 años. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71PeWGT6PdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261020153600 +0200" stop="20261020173400 +0200" channel="acontra+ CINE">
-    <title lang="es">Norman, el hombre que lo conseguía todo (2016)</title>
-    <desc lang="es">Norman conoce a un joven político que cambiará su vida tres años después para bien y para mal. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81rnT24IdkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261020173400 +0200" stop="20261020190100 +0200" channel="acontra+ CINE">
-    <title lang="es">La bestia bajo el asfalto (1980)</title>
-    <desc lang="es">En Chicago aparece un cocodrilo de un tamaño gigante que sale de sus cloacas. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/816cOdDJ9CL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261020190100 +0200" stop="20261020203200 +0200" channel="acontra+ CINE">
+  <programme start="20261020183200 +0200" stop="20261020203200 +0200" channel="acontra+ CINE">
     <title lang="es">La bestia bajo el asfalto 2 (1991)</title>
     <desc lang="es">Un cocodrilo gigante causa alborotos en una ciudad con alcantarillas conectadas con un lago. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71RcpTXa4ML._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">La rodilla de Clara (1971)</title>
     <desc lang="es">Un diplomático a punto de casarse se obsesiona con una parte particular de la anatomía de una mujer. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71ZMw3uHxdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261021001900 +0200" stop="20261021023600 +0200" channel="acontra+ CINE">
+    <title lang="es">Open Range (2003)</title>
+    <desc lang="es">Un grupo de hombres intenta escapar de su pasado guiando ganado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Pc2cUR1nL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261021023600 +0200" stop="20261021034900 +0200" channel="acontra+ CINE">
+    <title lang="es">Los viajes de Gulliver (1939)</title>
+    <desc lang="es">Adaptación al clásico de Jonathan Swift sobre un hombre inglés, Gulliver, que naufraga en Lilliput. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91i1WVx+XML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261021034900 +0200" stop="20261021051400 +0200" channel="acontra+ CINE">
+    <title lang="es">Sucedió mañana (1944)</title>
+    <desc lang="es">En sus bodas de oro, Larry y Sylvia narran a su familia un suceso muy extraño del pasado. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81GpqLoyBML._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
