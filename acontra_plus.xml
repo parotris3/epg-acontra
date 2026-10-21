@@ -3,34 +3,34 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261021130300 +0200" stop="20261021150300 +0200" channel="acontra+ CINE">
-    <title lang="es">Mandíbulas letales (2015)</title>
-    <desc lang="es">Una policía y un experto en escualos investigan una serie de extraños ataques de tiburones. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71v5DWIM60L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261021224300 +0200" stop="20261022004300 +0200" channel="acontra+ CINE">
+    <title lang="es">Objetivo: París (2015)</title>
+    <desc lang="es">Un periodista aprovecha sus raíces musulmanas para infiltrarse en entornos integristas. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71NZ1NhbjlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261021150300 +0200" stop="20261021170700 +0200" channel="acontra+ CINE">
-    <title lang="es">Pandora y el holandés errante (1951)</title>
-    <desc lang="es">Un capitán holandés agobiado por maldiciones eternas encuentra su salvación en una mujer americana. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A121cQI7dQL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261022004300 +0200" stop="20261022022000 +0200" channel="acontra+ CINE">
+    <title lang="es">Mujeres contra hombres (2011)</title>
+    <desc lang="es">Historia de varias parejas sobre la guerra de sexos y la búsqueda desesperada de la persona ideal. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71GwVcxsZxL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261021170700 +0200" stop="20261021182300 +0200" channel="acontra+ CINE">
-    <title lang="es">Un albergue en Tokio (1935)</title>
-    <desc lang="es">Un padre y su hijo, con pocas posesiones, recorren las calles de Tokio en busca de trabajo. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1iG2l8lpnL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261022022000 +0200" stop="20261022035000 +0200" channel="acontra+ CINE">
+    <title lang="es">La hermandad de la justicia (1986)</title>
+    <desc lang="es">Un grupo de adolescentes tratan de vigilar y eliminar droga, violencia, y vandalismo de su colegio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81MS5ierj5L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261021182300 +0200" stop="20261021195500 +0200" channel="acontra+ CINE">
-    <title lang="es">Sueños eléctricos (1984)</title>
-    <desc lang="es">Un arquitecto y su ordenador, que ha cobrado vida propia, pelearán por el amor de su vecina. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/818fKOqBghL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261022035000 +0200" stop="20261022060400 +0200" channel="acontra+ CINE">
+    <title lang="es">Fanny (1961)</title>
+    <desc lang="es">Marius abandona a Fanny deseoso de conocer mundo, aunque ignora que está embarazada. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81WrIjDy2YL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261021195500 +0200" stop="20261021213600 +0200" channel="acontra+ CINE">
-    <title lang="es">Yo compré una moto vampiro (1991)</title>
-    <desc lang="es">Tras un ritual en el que un ocultista es asesinado, una moto es poseída por un espíritu vampírico. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1ZJSyE4GTL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261022060400 +0200" stop="20261022075400 +0200" channel="acontra+ CINE">
+    <title lang="es">The Sea of Trees (2015)</title>
+    <desc lang="es">Un estadounidense y un japonés se conocen en un bosque. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81BFJfGFeZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261021213600 +0200" stop="20261021231000 +0200" channel="acontra+ CINE">
-    <title lang="es">Profesor en Groenlandia (2019)</title>
-    <desc lang="es">Anders deja Dinamarca por un puesto de profesor en Groenlandia y debe adaptarse a su nueva vida. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81or1sSV4zL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261022075400 +0200" stop="20261022092300 +0200" channel="acontra+ CINE">
+    <title lang="es">Encubridora (1952)</title>
+    <desc lang="es">Un buen ranchero busca vengar la muerte de su novia cuando ella es asesinada durante un robo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91edcfoTFVL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
