@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261021031400 +0200" stop="20261021051400 +0200" channel="acontra+ CINE">
-    <title lang="es">Sucedió mañana (1944)</title>
-    <desc lang="es">En sus bodas de oro, Larry y Sylvia narran a su familia un suceso muy extraño del pasado. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81GpqLoyBML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261021051400 +0200" stop="20261021065800 +0200" channel="acontra+ CINE">
-    <title lang="es">Turbo Kid (2015)</title>
-    <desc lang="es">En un mundo apocalíptico, un joven y solitario huérfano vaga por el desierto con su bicicleta BMX. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Xa0BHGcgL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261021065800 +0200" stop="20261021084500 +0200" channel="acontra+ CINE">
-    <title lang="es">Dominio inminente (1991)</title>
-    <desc lang="es">El camarada polaco Jozef Burski, acostumbrado a los lujos, ve cómo sus privilegios se acaban. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91lwMk2yZGL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261021084500 +0200" stop="20261021112100 +0200" channel="acontra+ CINE">
+  <programme start="20261021092100 +0200" stop="20261021112100 +0200" channel="acontra+ CINE">
     <title lang="es">El león del desierto (1980)</title>
     <desc lang="es">Un líder libio rebelde se enfrenta a las tropas italianas de Mussolini. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1CzYjsJAUL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Ocho y medio (1963)</title>
     <desc lang="es">Un director de cine atraviesa una crisis de creatividad. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81arxyacWlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261021133400 +0200" stop="20261021150300 +0200" channel="acontra+ CINE">
+    <title lang="es">Mandíbulas letales (2015)</title>
+    <desc lang="es">Una policía y un experto en escualos investigan una serie de extraños ataques de tiburones. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71v5DWIM60L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261021150300 +0200" stop="20261021170700 +0200" channel="acontra+ CINE">
+    <title lang="es">Pandora y el holandés errante (1951)</title>
+    <desc lang="es">Un capitán holandés agobiado por maldiciones eternas encuentra su salvación en una mujer americana. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A121cQI7dQL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261021170700 +0200" stop="20261021182300 +0200" channel="acontra+ CINE">
+    <title lang="es">Un albergue en Tokio (1935)</title>
+    <desc lang="es">Un padre y su hijo, con pocas posesiones, recorren las calles de Tokio en busca de trabajo. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/acontra_CINE_16x9._UR1920,1080_FMpng_.png"/>
   </programme>
 </tv>
