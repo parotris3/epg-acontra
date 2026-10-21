@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261021092100 +0200" stop="20261021112100 +0200" channel="acontra+ CINE">
-    <title lang="es">El león del desierto (1980)</title>
-    <desc lang="es">Un líder libio rebelde se enfrenta a las tropas italianas de Mussolini. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1CzYjsJAUL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261021112100 +0200" stop="20261021133400 +0200" channel="acontra+ CINE">
-    <title lang="es">Ocho y medio (1963)</title>
-    <desc lang="es">Un director de cine atraviesa una crisis de creatividad. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81arxyacWlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261021133400 +0200" stop="20261021150300 +0200" channel="acontra+ CINE">
+  <programme start="20261021130300 +0200" stop="20261021150300 +0200" channel="acontra+ CINE">
     <title lang="es">Mandíbulas letales (2015)</title>
     <desc lang="es">Una policía y un experto en escualos investigan una serie de extraños ataques de tiburones. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71v5DWIM60L._UR1920,1080_FMpng_.jpg"/>
@@ -26,6 +16,21 @@
   <programme start="20261021170700 +0200" stop="20261021182300 +0200" channel="acontra+ CINE">
     <title lang="es">Un albergue en Tokio (1935)</title>
     <desc lang="es">Un padre y su hijo, con pocas posesiones, recorren las calles de Tokio en busca de trabajo. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/acontra_CINE_16x9._UR1920,1080_FMpng_.png"/>
+    <icon src="https://m.media-amazon.com/images/I/B1iG2l8lpnL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261021182300 +0200" stop="20261021195500 +0200" channel="acontra+ CINE">
+    <title lang="es">Sueños eléctricos (1984)</title>
+    <desc lang="es">Un arquitecto y su ordenador, que ha cobrado vida propia, pelearán por el amor de su vecina. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/818fKOqBghL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261021195500 +0200" stop="20261021213600 +0200" channel="acontra+ CINE">
+    <title lang="es">Yo compré una moto vampiro (1991)</title>
+    <desc lang="es">Tras un ritual en el que un ocultista es asesinado, una moto es poseída por un espíritu vampírico. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1ZJSyE4GTL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261021213600 +0200" stop="20261021231000 +0200" channel="acontra+ CINE">
+    <title lang="es">Profesor en Groenlandia (2019)</title>
+    <desc lang="es">Anders deja Dinamarca por un puesto de profesor en Groenlandia y debe adaptarse a su nueva vida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81or1sSV4zL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
