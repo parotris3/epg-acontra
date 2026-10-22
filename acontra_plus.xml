@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261022132000 +0200" stop="20261022152000 +0200" channel="acontra+ CINE">
-    <title lang="es">Indigenous (2014)</title>
-    <desc lang="es">Un grupo de amigos viaja a Panamá para relajarse y allí se encuentran con su peor pesadilla. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tGnRUOrJL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261022152000 +0200" stop="20261022181000 +0200" channel="acontra+ CINE">
-    <title lang="es">El Barbero de Siberia (2000)</title>
-    <desc lang="es">En 1885, un empresario se aventura en Rusia, soñando con vender un nuevo tractor de vapor. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71N0tVPaqrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261022181000 +0200" stop="20261022195000 +0200" channel="acontra+ CINE">
-    <title lang="es">Pasión por las letras (2016)</title>
-    <desc lang="es">Maxwell Perkins desarrolla una amistad con Thomas Wolfe. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Ludfflu0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261022195000 +0200" stop="20261022212900 +0200" channel="acontra+ CINE">
+  <programme start="20261022192900 +0200" stop="20261022212900 +0200" channel="acontra+ CINE">
     <title lang="es">El legado (1979)</title>
     <desc lang="es">Seis personas llegan a una casa en el campo, pero su tranquilo fin de semana se complicará. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81thiMnpaZL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">La hija perfecta (2007)</title>
     <desc lang="es">Sarah conoce a Paul y parece que ha encontrado a su alma gemela, pero pronto la situación empeora. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1PTfSTA2NL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261022230200 +0200" stop="20261023003900 +0200" channel="acontra+ CINE">
+    <title lang="es">Juntos, nada más (2007)</title>
+    <desc lang="es">Un cocinero, una dibujante y un aristócrata solitario deberán aprender a convivir. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81IK+avmNdL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261023003900 +0200" stop="20261023021100 +0200" channel="acontra+ CINE">
+    <title lang="es">Kim Novak nunca estuvo aquí (2012)</title>
+    <desc lang="es">Henry comienza unas idílicas vacaciones en el campo hasta que ocurre un terrible incidente. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Rx9R4K4hL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261023021100 +0200" stop="20261023033100 +0200" channel="acontra+ CINE">
+    <title lang="es">Terror Profundo (2017)</title>
+    <desc lang="es">Tres amigos quedan atrapados al acecho de tiburones. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91TTW+-0JhL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261023033100 +0200" stop="20261023045400 +0200" channel="acontra+ CINE">
+    <title lang="es">El hombre orquesta (1970)</title>
+    <desc lang="es">Un director de un ballet femenino hace lo posible para que sus bailarinas encuentren marido. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71XmK2jrJ-L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
