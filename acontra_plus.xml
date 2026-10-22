@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261022192900 +0200" stop="20261022212900 +0200" channel="acontra+ CINE">
-    <title lang="es">El legado (1979)</title>
-    <desc lang="es">Seis personas llegan a una casa en el campo, pero su tranquilo fin de semana se complicará. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81thiMnpaZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261022212900 +0200" stop="20261022230200 +0200" channel="acontra+ CINE">
-    <title lang="es">La hija perfecta (2007)</title>
-    <desc lang="es">Sarah conoce a Paul y parece que ha encontrado a su alma gemela, pero pronto la situación empeora. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1PTfSTA2NL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261022230200 +0200" stop="20261023003900 +0200" channel="acontra+ CINE">
+  <programme start="20261022223900 +0200" stop="20261023003900 +0200" channel="acontra+ CINE">
     <title lang="es">Juntos, nada más (2007)</title>
     <desc lang="es">Un cocinero, una dibujante y un aristócrata solitario deberán aprender a convivir. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81IK+avmNdL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,15 @@
     <title lang="es">El hombre orquesta (1970)</title>
     <desc lang="es">Un director de un ballet femenino hace lo posible para que sus bailarinas encuentren marido. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71XmK2jrJ-L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261023045400 +0200" stop="20261023062100 +0200" channel="acontra+ CINE">
+    <title lang="es">El brindis (2020)</title>
+    <desc lang="es">Un hombre espera un mensaje de reconciliación de su ex durante una cena familiar. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91YMCCqF3DL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261023062100 +0200" stop="20261023082000 +0200" channel="acontra+ CINE">
+    <title lang="es">Oro (1974)</title>
+    <desc lang="es">El gerente de unas minas de Sudáfrica trama un plan para subir el precio del oro en el mercado. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81PzgJJMnvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
