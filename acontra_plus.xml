@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261021224300 +0200" stop="20261022004300 +0200" channel="acontra+ CINE">
-    <title lang="es">Objetivo: París (2015)</title>
-    <desc lang="es">Un periodista aprovecha sus raíces musulmanas para infiltrarse en entornos integristas. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71NZ1NhbjlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261022004300 +0200" stop="20261022022000 +0200" channel="acontra+ CINE">
-    <title lang="es">Mujeres contra hombres (2011)</title>
-    <desc lang="es">Historia de varias parejas sobre la guerra de sexos y la búsqueda desesperada de la persona ideal. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71GwVcxsZxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261022022000 +0200" stop="20261022035000 +0200" channel="acontra+ CINE">
-    <title lang="es">La hermandad de la justicia (1986)</title>
-    <desc lang="es">Un grupo de adolescentes tratan de vigilar y eliminar droga, violencia, y vandalismo de su colegio. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81MS5ierj5L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261022035000 +0200" stop="20261022060400 +0200" channel="acontra+ CINE">
+  <programme start="20261022040400 +0200" stop="20261022060400 +0200" channel="acontra+ CINE">
     <title lang="es">Fanny (1961)</title>
     <desc lang="es">Marius abandona a Fanny deseoso de conocer mundo, aunque ignora que está embarazada. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81WrIjDy2YL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Encubridora (1952)</title>
     <desc lang="es">Un buen ranchero busca vengar la muerte de su novia cuando ella es asesinada durante un robo. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91edcfoTFVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261022092300 +0200" stop="20261022105900 +0200" channel="acontra+ CINE">
+    <title lang="es">La mujer casada (1965)</title>
+    <desc lang="es">Un ensayo psicológico y una crítica de la posición de la mujer en la sociedad moderna. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71Gd8kl6v1L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261022105900 +0200" stop="20261022122500 +0200" channel="acontra+ CINE">
+    <title lang="es">Punto de no retorno (2008)</title>
+    <desc lang="es">Un científico sube a un avión con la tecnología de un experimento sobre viajes en el tiempo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A14MvFznsVL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261022122500 +0200" stop="20261022135800 +0200" channel="acontra+ CINE">
+    <title lang="es">Testigo mudo (1996)</title>
+    <desc lang="es">Billy Hughes, una americana que trabaja en Rusia, es testigo de un asesinato en un plató de cine. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71n9KAvmIsL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
