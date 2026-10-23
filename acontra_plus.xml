@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261022223900 +0200" stop="20261023003900 +0200" channel="acontra+ CINE">
-    <title lang="es">Juntos, nada más (2007)</title>
-    <desc lang="es">Un cocinero, una dibujante y un aristócrata solitario deberán aprender a convivir. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81IK+avmNdL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261023003900 +0200" stop="20261023021100 +0200" channel="acontra+ CINE">
-    <title lang="es">Kim Novak nunca estuvo aquí (2012)</title>
-    <desc lang="es">Henry comienza unas idílicas vacaciones en el campo hasta que ocurre un terrible incidente. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71Rx9R4K4hL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261023021100 +0200" stop="20261023033100 +0200" channel="acontra+ CINE">
-    <title lang="es">Terror Profundo (2017)</title>
-    <desc lang="es">Tres amigos quedan atrapados al acecho de tiburones. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91TTW+-0JhL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261023033100 +0200" stop="20261023045400 +0200" channel="acontra+ CINE">
-    <title lang="es">El hombre orquesta (1970)</title>
-    <desc lang="es">Un director de un ballet femenino hace lo posible para que sus bailarinas encuentren marido. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71XmK2jrJ-L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261023045400 +0200" stop="20261023062100 +0200" channel="acontra+ CINE">
+  <programme start="20261023042100 +0200" stop="20261023062100 +0200" channel="acontra+ CINE">
     <title lang="es">El brindis (2020)</title>
     <desc lang="es">Un hombre espera un mensaje de reconciliación de su ex durante una cena familiar. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91YMCCqF3DL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +12,20 @@
     <title lang="es">Oro (1974)</title>
     <desc lang="es">El gerente de unas minas de Sudáfrica trama un plan para subir el precio del oro en el mercado. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81PzgJJMnvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261023082000 +0200" stop="20261023100800 +0200" channel="acontra+ CINE">
+    <title lang="es">Algo celosa (2020)</title>
+    <desc lang="es">Una mujer divorciada y profesora de francés comienza a sentir celos de su hija de 18 años. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A17d+USpfJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261023100800 +0200" stop="20261023115700 +0200" channel="acontra+ CINE">
+    <title lang="es">Fedora (1980)</title>
+    <desc lang="es">A base de flashbacks, recorremos la vida de Fedora, una famosa actriz que muere atropellada. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81h-3V4uDLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261023115700 +0200" stop="20261023132100 +0200" channel="acontra+ CINE">
+    <title lang="es">La piedra sagrada (2017)</title>
+    <desc lang="es">Un hombre dispara accidentalmente un dispositivo apocalíptico sumerio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1XwvyLLD+L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
