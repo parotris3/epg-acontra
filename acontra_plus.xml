@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261023042100 +0200" stop="20261023062100 +0200" channel="acontra+ CINE">
-    <title lang="es">El brindis (2020)</title>
-    <desc lang="es">Un hombre espera un mensaje de reconciliación de su ex durante una cena familiar. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91YMCCqF3DL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261023062100 +0200" stop="20261023082000 +0200" channel="acontra+ CINE">
-    <title lang="es">Oro (1974)</title>
-    <desc lang="es">El gerente de unas minas de Sudáfrica trama un plan para subir el precio del oro en el mercado. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81PzgJJMnvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261023082000 +0200" stop="20261023100800 +0200" channel="acontra+ CINE">
+  <programme start="20261023080800 +0200" stop="20261023100800 +0200" channel="acontra+ CINE">
     <title lang="es">Algo celosa (2020)</title>
     <desc lang="es">Una mujer divorciada y profesora de francés comienza a sentir celos de su hija de 18 años. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A17d+USpfJL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">La piedra sagrada (2017)</title>
     <desc lang="es">Un hombre dispara accidentalmente un dispositivo apocalíptico sumerio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1XwvyLLD+L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261023132100 +0200" stop="20261023144600 +0200" channel="acontra+ CINE">
+    <title lang="es">La hora del lobo (1968)</title>
+    <desc lang="es">Un artista sufre un colapso emocional y cree que está provocado por una secta. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81jv89mWZ3L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261023144600 +0200" stop="20261023161200 +0200" channel="acontra+ CINE">
+    <title lang="es">Hiroshima, mon amour (1959)</title>
+    <desc lang="es">Una actriz francesa se enamora de un arquitecto japonés en la época de la posguerra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81hJzVu9vRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261023161200 +0200" stop="20261023183900 +0200" channel="acontra+ CINE">
+    <title lang="es">Romanzo criminale (2005)</title>
+    <desc lang="es">Una banda de delincuentes asesina a un hombre poderoso y se involucra en el tráfico de drogas. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/8193TrysWXL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
