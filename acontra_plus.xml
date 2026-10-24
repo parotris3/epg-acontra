@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261024034300 +0200" stop="20261024054300 +0200" channel="acontra+ CINE">
-    <title lang="es">Soltera a los 40 (2014)</title>
-    <desc lang="es">La vida de Ave María Mulligan se pone patas arriba cuando descubre un secreto familiar. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91xlVzV85AL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261024054300 +0200" stop="20261024065700 +0200" channel="acontra+ CINE">
-    <title lang="es">Los viajes de Gulliver (1939)</title>
-    <desc lang="es">Adaptación al clásico de Jonathan Swift sobre un hombre inglés, Gulliver, que naufraga en Lilliput. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91i1WVx+XML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261024065700 +0200" stop="20261024082600 +0200" channel="acontra+ CINE">
-    <title lang="es">Este coche es una ruina (1988)</title>
-    <desc lang="es">Gerald se compra un Jaguar nuevo, y al instante se convierte en su nuevo amor. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91tcvCHxZtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261024082600 +0200" stop="20261024095400 +0200" channel="acontra+ CINE">
-    <title lang="es">Ejecutivo ejecutor (1990)</title>
-    <desc lang="es">Un ejecutivo que perdió a un subalterno, planea asesinatos a fin de ascender en la compañía. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81AJsq90WGL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261024095400 +0200" stop="20261024113600 +0200" channel="acontra+ CINE">
+  <programme start="20261024093600 +0200" stop="20261024113600 +0200" channel="acontra+ CINE">
     <title lang="es">La mansión de los crímenes (1971)</title>
     <desc lang="es">Cuatro cuentos de terror que giran entono a una vieja y fantasmal mansión. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/9121sq+78aL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +12,20 @@
     <title lang="es">Los limoneros (2008)</title>
     <desc lang="es">Salma, una viuda palestina, defiende sus limoneros frente a las fuerzas de seguridad israelíes. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/818VZluvhoL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261024131800 +0200" stop="20261024144900 +0200" channel="acontra+ CINE">
+    <title lang="es">Nuestro último verano en Escocia (2014)</title>
+    <desc lang="es">Una pareja recién separada con hijos viaja a Escocia para el cumpleaños del abuelo enfermo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81ZdTEM4w9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261024144900 +0200" stop="20261024162900 +0200" channel="acontra+ CINE">
+    <title lang="es">Seis gendarmes en fuga (2015)</title>
+    <desc lang="es">Chucrot decide ayudar a uno de sus hombres internado con un problema de amnesia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81CHebdNXCL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261024162900 +0200" stop="20261024180200 +0200" channel="acontra+ CINE">
+    <title lang="es">Todo el mundo gana (1990)</title>
+    <desc lang="es">Una mujer contrata a un detective privado para demostrar la inocencia de un joven. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/61cz0V1R8zL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
