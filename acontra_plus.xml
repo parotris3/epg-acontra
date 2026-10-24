@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261024093600 +0200" stop="20261024113600 +0200" channel="acontra+ CINE">
-    <title lang="es">La mansión de los crímenes (1971)</title>
-    <desc lang="es">Cuatro cuentos de terror que giran entono a una vieja y fantasmal mansión. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/9121sq+78aL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261024113600 +0200" stop="20261024131800 +0200" channel="acontra+ CINE">
-    <title lang="es">Los limoneros (2008)</title>
-    <desc lang="es">Salma, una viuda palestina, defiende sus limoneros frente a las fuerzas de seguridad israelíes. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/818VZluvhoL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261024131800 +0200" stop="20261024144900 +0200" channel="acontra+ CINE">
-    <title lang="es">Nuestro último verano en Escocia (2014)</title>
-    <desc lang="es">Una pareja recién separada con hijos viaja a Escocia para el cumpleaños del abuelo enfermo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ZdTEM4w9L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261024144900 +0200" stop="20261024162900 +0200" channel="acontra+ CINE">
+  <programme start="20261024142900 +0200" stop="20261024162900 +0200" channel="acontra+ CINE">
     <title lang="es">Seis gendarmes en fuga (2015)</title>
     <desc lang="es">Chucrot decide ayudar a uno de sus hombres internado con un problema de amnesia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81CHebdNXCL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,25 @@
     <title lang="es">Todo el mundo gana (1990)</title>
     <desc lang="es">Una mujer contrata a un detective privado para demostrar la inocencia de un joven. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/61cz0V1R8zL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261024180200 +0200" stop="20261024192800 +0200" channel="acontra+ CINE">
+    <title lang="es">Nuevo orden (2020)</title>
+    <desc lang="es">Los miembros de una familia se reúnen para una boda. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1Hncfr-0hL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261024192800 +0200" stop="20261024205900 +0200" channel="acontra+ CINE">
+    <title lang="es">Love Bite (2012)</title>
+    <desc lang="es">Jaime descubre que la única forma de estar a salvo de un hombre lobo es teniendo sexo. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81B5h7R964L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261024205900 +0200" stop="20261024225500 +0200" channel="acontra+ CINE">
+    <title lang="es">La voz de la luna (1990)</title>
+    <desc lang="es">Un conspiranoico y su amigo poeta viven una aventura onírica en la llanura del Po. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91ml1q898YL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261024225500 +0200" stop="20261025004200 +0200" channel="acontra+ CINE">
+    <title lang="es">Mr. Wain (2022)</title>
+    <desc lang="es">Louis Wain comenzó a pintar las imágenes de gatos que lo hicieron mundialmente famoso. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81s187kzmYL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
