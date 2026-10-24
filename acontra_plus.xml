@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261024142900 +0200" stop="20261024162900 +0200" channel="acontra+ CINE">
-    <title lang="es">Seis gendarmes en fuga (2015)</title>
-    <desc lang="es">Chucrot decide ayudar a uno de sus hombres internado con un problema de amnesia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81CHebdNXCL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261024162900 +0200" stop="20261024180200 +0200" channel="acontra+ CINE">
-    <title lang="es">Todo el mundo gana (1990)</title>
-    <desc lang="es">Una mujer contrata a un detective privado para demostrar la inocencia de un joven. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/61cz0V1R8zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261024180200 +0200" stop="20261024192800 +0200" channel="acontra+ CINE">
-    <title lang="es">Nuevo orden (2020)</title>
-    <desc lang="es">Los miembros de una familia se reúnen para una boda. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1Hncfr-0hL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261024192800 +0200" stop="20261024205900 +0200" channel="acontra+ CINE">
+  <programme start="20261024185900 +0200" stop="20261024205900 +0200" channel="acontra+ CINE">
     <title lang="es">Love Bite (2012)</title>
     <desc lang="es">Jaime descubre que la única forma de estar a salvo de un hombre lobo es teniendo sexo. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81B5h7R964L._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Mr. Wain (2022)</title>
     <desc lang="es">Louis Wain comenzó a pintar las imágenes de gatos que lo hicieron mundialmente famoso. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81s187kzmYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261025004200 +0200" stop="20261025024400 +0200" channel="acontra+ CINE">
+    <title lang="es">Las bostonianas (1984)</title>
+    <desc lang="es">La sufragista Olive decide convertir a la joven Verena en portavoz del incipiente movimiento. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91JXk-A4hcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261025024400 +0200" stop="20261025031000 +0100" channel="acontra+ CINE">
+    <title lang="es">Aceleración máxima (2019)</title>
+    <desc lang="es">Un mafioso secuestra al hijo pequeño de sus asistente. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91cereOs8xL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
