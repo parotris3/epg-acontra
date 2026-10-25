@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261025031200 +0100" stop="20261025051200 +0100" channel="acontra+ CINE">
-    <title lang="es">Angel (2007)</title>
-    <desc lang="es">Inglaterra, 1910. Ángel Deverell, una joven de origen humilde, trata de escalar socialmente. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81shyQSUPuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261025051200 +0100" stop="20261025073000 +0100" channel="acontra+ CINE">
-    <title lang="es">Los verdugos también mueren (1943)</title>
-    <desc lang="es">En mayo de 1942 murió víctima de un atentado Reinhard Heydrich, jefe del gobierno nazi de Praga. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uWRbWALrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261025073000 +0100" stop="20261025091300 +0100" channel="acontra+ CINE">
-    <title lang="es">El espejo (1975)</title>
-    <desc lang="es">Alekséi habla con su esposa sobre su situación actual y los motivos por los que se han distanciado. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/918hJRIVn7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261025091300 +0100" stop="20261025105200 +0100" channel="acontra+ CINE">
+  <programme start="20261025085200 +0100" stop="20261025105200 +0100" channel="acontra+ CINE">
     <title lang="es">El rayo verde (1986)</title>
     <desc lang="es">Delphine es una joven parisina que trata de recuperarse de una ruptura reciente. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81fcd9fiYlL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Los días impuros del extranjero (1976)</title>
     <desc lang="es">En un pueblo costero, la viuda Anne Osborne conoce al segundo oficial Jim Cameron. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/912HkrAwIwL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261025134800 +0100" stop="20261025154700 +0100" channel="acontra+ CINE">
+    <title lang="es">Oro (1974)</title>
+    <desc lang="es">El gerente de unas minas de Sudáfrica trama un plan para subir el precio del oro en el mercado. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81PzgJJMnvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261025154700 +0100" stop="20261025174000 +0100" channel="acontra+ CINE">
+    <title lang="es">Sin dejar huellas (2018)</title>
+    <desc lang="es">Un oficial de policía alcohólico investiga el caso de un adolescente desaparecido. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91lQHzQSrpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261025174000 +0100" stop="20261025191800 +0100" channel="acontra+ CINE">
+    <title lang="es">Young Adam (2003)</title>
+    <desc lang="es">Joe es un joven que encuentra trabajo en una barcaza propiedad de Les y su enigmática mujer. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1WaZaZMKJL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
