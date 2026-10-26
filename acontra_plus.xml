@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261025221200 +0100" stop="20261026001200 +0100" channel="acontra+ CINE">
-    <title lang="es">La reina de Nueva York (1937)</title>
-    <desc lang="es">La suerte de un periodista cambia cuando le vende a su editor la trágica historia de una chica. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/910YKxlZQDL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261026001200 +0100" stop="20261026015300 +0100" channel="acontra+ CINE">
-    <title lang="es">Un italiano en Chicago</title>
-    <desc lang="es">Rocco Papaleo es un hombre italiano optimista y amable que vive y trabaja en un pueblo minero. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91vmD0hOu8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261026015300 +0100" stop="20261026040300 +0100" channel="acontra+ CINE">
-    <title lang="es">Diarios de motocicleta (2004)</title>
-    <desc lang="es">En 1952, Ernesto "Che" Guevara y su amigo Alberto Granado realizan un viaje a través de Sudamérica. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71aFMJNSttL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261026040300 +0100" stop="20261026054400 +0100" channel="acontra+ CINE">
+  <programme start="20261026034400 +0100" stop="20261026054400 +0100" channel="acontra+ CINE">
     <title lang="es">De la vida de las marionetas (2003)</title>
     <desc lang="es">Peter Egerman viola y estrangula a una prostituta debido a la frustración por su matrimonio fallido. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91dUCyb19QL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Fortunata (2024)</title>
     <desc lang="es">Fortunata intenta abrir su propio salón de belleza para poder separarse de su marido alcohólico. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81delV5A5oL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261026085800 +0100" stop="20261026110700 +0100" channel="acontra+ CINE">
+    <title lang="es">La ciudad de la alegría (1992)</title>
+    <desc lang="es">En la ciudad de Calcuta, dos personas muy diferentes encuentran comprensión la una en la otra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81vWESbKG4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261026110700 +0100" stop="20261026123600 +0100" channel="acontra+ CINE">
+    <title lang="es">Un nuevo camino (2017)</title>
+    <desc lang="es">Una mujer autista huye para participar en una competencia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1ekEBGeSWL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261026123600 +0100" stop="20261026140300 +0100" channel="acontra+ CINE">
+    <title lang="es">Nada (2022)</title>
+    <desc lang="es">Cuando Pierre Anthon comienza el octavo grado, no le ve sentido a la vida y se muda a un árbol. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Vrpm8h3cL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
