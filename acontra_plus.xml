@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261026194600 +0100" stop="20261026214600 +0100" channel="acontra+ CINE">
-    <title lang="es">Un ángel en mi mesa (1991)</title>
-    <desc lang="es">Cinta biográfica sobre la escritora Janet Frame, quien casi fue víctima de una lobotomía. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1FHg-vfEtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261026214600 +0100" stop="20261026233800 +0100" channel="acontra+ CINE">
-    <title lang="es">Una bolsa de canicas (2017)</title>
-    <desc lang="es">Dos hermanos judíos huyen a través de Francia durante la ocupación alemana. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81n0p3c73LL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261026233800 +0100" stop="20261027010800 +0100" channel="acontra+ CINE">
+  <programme start="20261026230800 +0100" stop="20261027010800 +0100" channel="acontra+ CINE">
     <title lang="es">Sonata de otoño (1978)</title>
     <desc lang="es">Bergman retrata el enfrentamiento entre madre e hija, y temas como la incomunicación y la muerte. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81uqx1pmRqL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Quisiera que alguien me esperara en algún lugar (2019)</title>
     <desc lang="es">Aurora va a celebrar su 70 cumpleaños en la casa familiar rodeada de sus cuatro hijos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1eP+jFstkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261027040600 +0100" stop="20261027053500 +0100" channel="acontra+ CINE">
+    <title lang="es">Sexy Beast (2000)</title>
+    <desc lang="es">Gal Dove se planteará regresar al mundo criminal cuando su antiguo socio, Don Logan, se lo propone. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81dP7k-3QgL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261027053500 +0100" stop="20261027073700 +0100" channel="acontra+ CINE">
+    <title lang="es">Juntos (2003)</title>
+    <desc lang="es">Un joven prodigio del violín y su padre se mudan a Pekín en busca de un maestro. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91UcJguueIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261027073700 +0100" stop="20261027093200 +0100" channel="acontra+ CINE">
+    <title lang="es">Más allá del deber (2001)</title>
+    <desc lang="es">Un regimiento escocés, durante la Segunda Guerra, debió construir la vía ferroviaria de la muerte. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81P1jHaw-RL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
