@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261026090700 +0100" stop="20261026110700 +0100" channel="acontra+ CINE">
-    <title lang="es">La ciudad de la alegría (1992)</title>
-    <desc lang="es">En la ciudad de Calcuta, dos personas muy diferentes encuentran comprensión la una en la otra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81vWESbKG4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261026110700 +0100" stop="20261026123600 +0100" channel="acontra+ CINE">
-    <title lang="es">Un nuevo camino (2017)</title>
-    <desc lang="es">Una mujer autista huye para participar en una competencia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1ekEBGeSWL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261026123600 +0100" stop="20261026140300 +0100" channel="acontra+ CINE">
-    <title lang="es">Nada (2022)</title>
-    <desc lang="es">Cuando Pierre Anthon comienza el octavo grado, no le ve sentido a la vida y se muda a un árbol. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Vrpm8h3cL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261026140300 +0100" stop="20261026160200 +0100" channel="acontra+ CINE">
+  <programme start="20261026140200 +0100" stop="20261026160200 +0100" channel="acontra+ CINE">
     <title lang="es">Salyut-7, héroes en el espacio (2017)</title>
     <desc lang="es">Dos astronautas soviéticos ponen de nuevo en funcionamiento la estación espacial Salyut 7. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1Ukc29h3wL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">The Penthouse</title>
     <desc lang="es">La vida de una pareja se convierte en una pesadilla cuando un sospechoso de asesinato los acecha. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91H6hzcC5sL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261026191400 +0100" stop="20261026214600 +0100" channel="acontra+ CINE">
+    <title lang="es">Un ángel en mi mesa (1991)</title>
+    <desc lang="es">Cinta biográfica sobre la escritora Janet Frame, quien casi fue víctima de una lobotomía. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1FHg-vfEtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261026214600 +0100" stop="20261026233800 +0100" channel="acontra+ CINE">
+    <title lang="es">Una bolsa de canicas (2017)</title>
+    <desc lang="es">Dos hermanos judíos huyen a través de Francia durante la ocupación alemana. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81n0p3c73LL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
