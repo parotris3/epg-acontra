@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261026230800 +0100" stop="20261027010800 +0100" channel="acontra+ CINE">
-    <title lang="es">Sonata de otoño (1978)</title>
-    <desc lang="es">Bergman retrata el enfrentamiento entre madre e hija, y temas como la incomunicación y la muerte. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uqx1pmRqL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261027010800 +0100" stop="20261027023600 +0100" channel="acontra+ CINE">
-    <title lang="es">Pterodactyl (2005)</title>
-    <desc lang="es">Un equipo descubre un nido de huevos de pterodáctilo en un volcán inactivo en Turquía. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81N3ibLHBKL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261027023600 +0100" stop="20261027040600 +0100" channel="acontra+ CINE">
-    <title lang="es">Quisiera que alguien me esperara en algún lugar (2019)</title>
-    <desc lang="es">Aurora va a celebrar su 70 cumpleaños en la casa familiar rodeada de sus cuatro hijos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1eP+jFstkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261027040600 +0100" stop="20261027053500 +0100" channel="acontra+ CINE">
+  <programme start="20261027033500 +0100" stop="20261027053500 +0100" channel="acontra+ CINE">
     <title lang="es">Sexy Beast (2000)</title>
     <desc lang="es">Gal Dove se planteará regresar al mundo criminal cuando su antiguo socio, Don Logan, se lo propone. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81dP7k-3QgL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Más allá del deber (2001)</title>
     <desc lang="es">Un regimiento escocés, durante la Segunda Guerra, debió construir la vía ferroviaria de la muerte. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81P1jHaw-RL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261027093200 +0100" stop="20261027111200 +0100" channel="acontra+ CINE">
+    <title lang="es">Vergüenza (1968)</title>
+    <desc lang="es">La relación de una pareja destrozada a causa de una guerra civil que intentaban evitar. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71QagNZ4dPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261027111200 +0100" stop="20261027124200 +0100" channel="acontra+ CINE">
+    <title lang="es">Jane en busca de la ciudad perdida (1988)</title>
+    <desc lang="es">África 1940. Tanto los nazis como los británicos tratan de localizar la ciudad perdida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/912VzzWFthL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261027124200 +0100" stop="20261027143400 +0100" channel="acontra+ CINE">
+    <title lang="es">Las Diabólicas (1955)</title>
+    <desc lang="es">La mujer y el amante del director de un colegio ponen fin a la tiranía del hombre que comparten. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1i3cYW6luL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
