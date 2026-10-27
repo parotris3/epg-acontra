@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261027191800 +0100" stop="20261027211800 +0100" channel="acontra+ CINE">
-    <title lang="es">The Visitor (2007)</title>
-    <desc lang="es">La relación entre dos inmigrantes y un deprimido profesor universitario aviva su interés en la vida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91rKNPDdwkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261027211800 +0100" stop="20261027230600 +0100" channel="acontra+ CINE">
-    <title lang="es">Una chica perfecta (2011)</title>
-    <desc lang="es">Dos padres buscan de manera desesperada a su hija desaparecida. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81kXG7WEJvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261027230600 +0100" stop="20261028005000 +0100" channel="acontra+ CINE">
+  <programme start="20261027225000 +0100" stop="20261028005000 +0100" channel="acontra+ CINE">
     <title lang="es">Eugénie Grandet (2021)</title>
     <desc lang="es">Un padre no ve con buenos ojos a las partes que se apresuran a pedir la mano de su hija. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91hAc2jMZUL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">The Chosen (1981)</title>
     <desc lang="es">Un judío y el hijo de un rabí hasídico se hacen amigos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/818x1QaWSFL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261028040800 +0100" stop="20261028055400 +0100" channel="acontra+ CINE">
+    <title lang="es">El libro de la selva (1942)</title>
+    <desc lang="es">Mowgli, un chico criado entre lobos, trata de defender a sus amigos animales de los cazadores. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71XOJlwzopL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261028055400 +0100" stop="20261028075300 +0100" channel="acontra+ CINE">
+    <title lang="es">Dinero fácil (2010)</title>
+    <desc lang="es">Tres criminales se unen para conseguir un objetivo común: vengarse del gran capo Radovan. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1hkAaQa6JL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261028075300 +0100" stop="20261028092600 +0100" channel="acontra+ CINE">
+    <title lang="es">Cromosoma 3 (1979)</title>
+    <desc lang="es">El psiquiatra Hal Raglen inventa una terapia especial para tratar psicópatas, la somatización. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71AmspXCoFL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
