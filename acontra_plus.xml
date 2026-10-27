@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261027091200 +0100" stop="20261027111200 +0100" channel="acontra+ CINE">
-    <title lang="es">Vergüenza (1968)</title>
-    <desc lang="es">La relación de una pareja destrozada a causa de una guerra civil que intentaban evitar. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71QagNZ4dPL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261027111200 +0100" stop="20261027124200 +0100" channel="acontra+ CINE">
-    <title lang="es">Jane en busca de la ciudad perdida (1988)</title>
-    <desc lang="es">África 1940. Tanto los nazis como los británicos tratan de localizar la ciudad perdida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/912VzzWFthL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261027124200 +0100" stop="20261027143400 +0100" channel="acontra+ CINE">
-    <title lang="es">Las Diabólicas (1955)</title>
-    <desc lang="es">La mujer y el amante del director de un colegio ponen fin a la tiranía del hombre que comparten. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1i3cYW6luL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261027143400 +0100" stop="20261027155700 +0100" channel="acontra+ CINE">
+  <programme start="20261027135700 +0100" stop="20261027155700 +0100" channel="acontra+ CINE">
     <title lang="es">Nadie vive (2012)</title>
     <desc lang="es">Unos delincuentes asaltan a una joven pareja sin saber lo que sus víctimas pueden llegar a hacer. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Reobno5YL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Senso (1954)</title>
     <desc lang="es">Venecia, 1866. Livia, una bella aristócrata italiana, vive un romance con el teniente Franz Mahler. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91RRRFhbw0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261027193400 +0100" stop="20261027211800 +0100" channel="acontra+ CINE">
+    <title lang="es">The Visitor (2007)</title>
+    <desc lang="es">La relación entre dos inmigrantes y un deprimido profesor universitario aviva su interés en la vida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91rKNPDdwkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261027211800 +0100" stop="20261027230600 +0100" channel="acontra+ CINE">
+    <title lang="es">Una chica perfecta (2011)</title>
+    <desc lang="es">Dos padres buscan de manera desesperada a su hija desaparecida. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81kXG7WEJvL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
