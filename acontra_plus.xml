@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261027135700 +0100" stop="20261027155700 +0100" channel="acontra+ CINE">
-    <title lang="es">Nadie vive (2012)</title>
-    <desc lang="es">Unos delincuentes asaltan a una joven pareja sin saber lo que sus víctimas pueden llegar a hacer. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Reobno5YL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261027155700 +0100" stop="20261027173600 +0100" channel="acontra+ CINE">
-    <title lang="es">Perdidos en el Pacífico (2015)</title>
-    <desc lang="es">Sin comida, agua, ni esperanza de rescate, unos soldados navegan sin rumbo tras un accidente. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91elM7CEYmL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261027173600 +0100" stop="20261027193400 +0100" channel="acontra+ CINE">
-    <title lang="es">Senso (1954)</title>
-    <desc lang="es">Venecia, 1866. Livia, una bella aristócrata italiana, vive un romance con el teniente Franz Mahler. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91RRRFhbw0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261027193400 +0100" stop="20261027211800 +0100" channel="acontra+ CINE">
+  <programme start="20261027191800 +0100" stop="20261027211800 +0100" channel="acontra+ CINE">
     <title lang="es">The Visitor (2007)</title>
     <desc lang="es">La relación entre dos inmigrantes y un deprimido profesor universitario aviva su interés en la vida. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91rKNPDdwkL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Una chica perfecta (2011)</title>
     <desc lang="es">Dos padres buscan de manera desesperada a su hija desaparecida. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81kXG7WEJvL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261027230600 +0100" stop="20261028005000 +0100" channel="acontra+ CINE">
+    <title lang="es">Eugénie Grandet (2021)</title>
+    <desc lang="es">Un padre no ve con buenos ojos a las partes que se apresuran a pedir la mano de su hija. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91hAc2jMZUL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261028005000 +0100" stop="20261028021700 +0100" channel="acontra+ CINE">
+    <title lang="es">El silencio del mar (2012)</title>
+    <desc lang="es">Un oficial alemán, cultivado y francófilo, es el huésped impuesto en un hogar francés. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/71fMGZzJLRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261028021700 +0100" stop="20261028040800 +0100" channel="acontra+ CINE">
+    <title lang="es">The Chosen (1981)</title>
+    <desc lang="es">Un judío y el hijo de un rabí hasídico se hacen amigos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/818x1QaWSFL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
