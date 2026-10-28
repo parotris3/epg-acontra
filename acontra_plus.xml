@@ -3,34 +3,34 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261028035400 +0100" stop="20261028055400 +0100" channel="acontra+ CINE">
-    <title lang="es">El libro de la selva (1942)</title>
-    <desc lang="es">Mowgli, un chico criado entre lobos, trata de defender a sus amigos animales de los cazadores. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71XOJlwzopL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261028135800 +0100" stop="20261028155800 +0100" channel="acontra+ CINE">
+    <title lang="es">Los papeles de Aspern (2019)</title>
+    <desc lang="es">Un editor intenta conseguir los poemas que un poeta escribió a quien fuera su musa y amante. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71pRf7q9NaL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261028055400 +0100" stop="20261028075300 +0100" channel="acontra+ CINE">
-    <title lang="es">Dinero fácil (2010)</title>
-    <desc lang="es">Tres criminales se unen para conseguir un objetivo común: vengarse del gran capo Radovan. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1hkAaQa6JL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261028155800 +0100" stop="20261028172900 +0100" channel="acontra+ CINE">
+    <title lang="es">Rabia (1977)</title>
+    <desc lang="es">Una joven desarrolla un gusto especial por la sangre humana tras someterse a una operación. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71vjXi0bcBL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261028075300 +0100" stop="20261028092600 +0100" channel="acontra+ CINE">
-    <title lang="es">Cromosoma 3 (1979)</title>
-    <desc lang="es">El psiquiatra Hal Raglen inventa una terapia especial para tratar psicópatas, la somatización. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71AmspXCoFL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261028172900 +0100" stop="20261028190500 +0100" channel="acontra+ CINE">
+    <title lang="es">The Guest (2014)</title>
+    <desc lang="es">El exmarine David entra en la familia Peterson hasta que se dan cuenta de que no es lo que aparenta. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91yqoHlJH2L._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261028092600 +0100" stop="20261028105900 +0100" channel="acontra+ CINE">
-    <title lang="es">Arctic (2018)</title>
-    <desc lang="es">Un hombre queda varado en pleno Ártico. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91TPEQy3KRL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261028190500 +0100" stop="20261028205100 +0100" channel="acontra+ CINE">
+    <title lang="es">Zulu (2013)</title>
+    <desc lang="es">Dos policías investigan un brutal asesinato. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1y9uAmXsjL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261028105900 +0100" stop="20261028123500 +0100" channel="acontra+ CINE">
-    <title lang="es">600 kilos de oro puro (2010)</title>
-    <desc lang="es">Aventureros roban una mina de oro en la Guyana, pero deben aterrizar de emergencia en plena jungla. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81EGNcaSulL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261028205100 +0100" stop="20261028223300 +0100" channel="acontra+ CINE">
+    <title lang="es">Sin techo ni ley (1991)</title>
+    <desc lang="es">Mona era una nómada, autoestopista y pasó sus últimos días caminando por las carreteras. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91igR0qpfHL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261028123500 +0100" stop="20261028142800 +0100" channel="acontra+ CINE">
-    <title lang="es">La gran seducción (2013)</title>
-    <desc lang="es">Los habitantes del pueblo costero canadiense de Tickel Cove necesitan un médico. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ZWzJlAK2L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261028223300 +0100" stop="20261029002800 +0100" channel="acontra+ CINE">
+    <title lang="es">Oldboy (2003)</title>
+    <desc lang="es">Tras ser liberado, un hombre de negocios intenta averiguar la causa de su secuestro hace 15 años. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91piJMJIOkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
