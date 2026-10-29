@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261029180800 +0100" stop="20261029200800 +0100" channel="acontra+ CINE">
-    <title lang="es">Cuento de primavera (1990)</title>
-    <desc lang="es">Una estudiante de música desea que su padre conozca a su nueva amiga, una maestra de filosofía. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81tp9wOoGTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261029200800 +0100" stop="20261029213800 +0100" channel="acontra+ CINE">
-    <title lang="es">Buenos días (1959)</title>
-    <desc lang="es">Dos niños de los años 50 juran guardar silencio hasta que sus padres les compren un televisor. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71GiINqPEtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261029213800 +0100" stop="20261029232300 +0100" channel="acontra+ CINE">
-    <title lang="es">Adiós, muchachos (1987)</title>
-    <desc lang="es">Una escuela católica protege a un niño judío, escondiendo su verdadera identidad. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71LC8Btr4AL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261029232300 +0100" stop="20261030005300 +0100" channel="acontra+ CINE">
+  <programme start="20261029225300 +0100" stop="20261030005300 +0100" channel="acontra+ CINE">
     <title lang="es">El mejor regalo (2018)</title>
     <desc lang="es">Sena, una aspirante a diseñadora de moda y sin éxito en el amor, cumple 46 años. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81anZEQ6NtL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">No mires atrás (2010)</title>
     <desc lang="es">El inspector Sanzio investiga la violenta muerte de una adolescente en un paraje montañoso italiano. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81G3YyAkyfL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261030040800 +0100" stop="20261030060100 +0100" channel="acontra+ CINE">
+    <title lang="es">Más allá del deber (2001)</title>
+    <desc lang="es">Un regimiento escocés, durante la Segunda Guerra, debió construir la vía ferroviaria de la muerte. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81P1jHaw-RL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261030060100 +0100" stop="20261030073600 +0100" channel="acontra+ CINE">
+    <title lang="es">Pauline en la playa (1983)</title>
+    <desc lang="es">Pauline es una adolescente que pasa un verano con su prima Marion en busca de romance. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91HGjNRrcDL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261030073600 +0100" stop="20261030091600 +0100" channel="acontra+ CINE">
+    <title lang="es">Sácame de dudas (2020)</title>
+    <desc lang="es">Erwan descubre que no es hijo del hombre al que consideraba su padre tras hacerse un análisis. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91w2r94asNL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
