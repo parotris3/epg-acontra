@@ -3,34 +3,34 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261030040100 +0100" stop="20261030060100 +0100" channel="acontra+ CINE">
-    <title lang="es">Más allá del deber (2001)</title>
-    <desc lang="es">Un regimiento escocés, durante la Segunda Guerra, debió construir la vía ferroviaria de la muerte. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81P1jHaw-RL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261030140100 +0100" stop="20261030160100 +0100" channel="acontra+ CINE">
+    <title lang="es">No se lo digas a nadie (2006)</title>
+    <desc lang="es">La mujer de Alex Beck fue asesinada hace ocho años, ahora él es sospechoso de dos asesinatos. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91LHfqAz5OL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261030060100 +0100" stop="20261030073600 +0100" channel="acontra+ CINE">
-    <title lang="es">Pauline en la playa (1983)</title>
-    <desc lang="es">Pauline es una adolescente que pasa un verano con su prima Marion en busca de romance. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91HGjNRrcDL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261030160100 +0100" stop="20261030174100 +0100" channel="acontra+ CINE">
+    <title lang="es">Mejor otro día (2014)</title>
+    <desc lang="es">En Londres, durante la noche de fin de año, cuatro desconocidos coinciden para lanzarse al vacío. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81BOSXet0mL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261030073600 +0100" stop="20261030091600 +0100" channel="acontra+ CINE">
-    <title lang="es">Sácame de dudas (2020)</title>
-    <desc lang="es">Erwan descubre que no es hijo del hombre al que consideraba su padre tras hacerse un análisis. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91w2r94asNL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261030174100 +0100" stop="20261030190100 +0100" channel="acontra+ CINE">
+    <title lang="es">Lavalantula (2015)</title>
+    <desc lang="es">Una serie de erupciones volcánicas en Los Ángeles provoca la aparición de una plaga de tarántulas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1c-DnkrXiL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261030091600 +0100" stop="20261030103900 +0100" channel="acontra+ CINE">
-    <title lang="es">Supervivientes de Los Andes</title>
-    <desc lang="es">Un avión con 45 pasajeros se estrella en Los Andes. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/811U24Djs8L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261030190100 +0100" stop="20261030202600 +0100" channel="acontra+ CINE">
+    <title lang="es">Lavalantula 2 (2016)</title>
+    <desc lang="es">Unas tarántulas gigantes que escupen lava causan terror en Florida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91vc8cZZPhL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261030103900 +0100" stop="20261030120700 +0100" channel="acontra+ CINE">
-    <title lang="es">Tormenta del pasado (2008)</title>
-    <desc lang="es">Una experta de condiciones climática extremas e intentará salvar a una ciudad de un tornado. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Aaf3zxGxL._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261030202600 +0100" stop="20261030220200 +0100" channel="acontra+ CINE">
+    <title lang="es">La Chinoise (1969)</title>
+    <desc lang="es">París, 1967. Un grupo de estudiantes franceses empieza a pensar en la forma de cambiar el mundo. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91xFWfprssL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261030120700 +0100" stop="20261030135300 +0100" channel="acontra+ CINE">
-    <title lang="es">Yojimbo (1961)</title>
-    <desc lang="es">Un samurái llega a un poblado en el que dos bandas de mercenarios luchan entre sí. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71+35AZeQ7L._UR1920,1080_FMpng_.jpg"/>
+  <programme start="20261030220200 +0100" stop="20261030233600 +0100" channel="acontra+ CINE">
+    <title lang="es">Generación robada (2002)</title>
+    <desc lang="es">Año 1931, Australia. Tres niñas aborígenes emprenden un peligroso viaje de vuelta a su casa. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91hbtE3pHFL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
