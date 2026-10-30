@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261029225300 +0100" stop="20261030005300 +0100" channel="acontra+ CINE">
-    <title lang="es">El mejor regalo (2018)</title>
-    <desc lang="es">Sena, una aspirante a diseñadora de moda y sin éxito en el amor, cumple 46 años. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81anZEQ6NtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261030005300 +0100" stop="20261030023300 +0100" channel="acontra+ CINE">
-    <title lang="es">El último gran día (2009)</title>
-    <desc lang="es">Un temible solitario prepara su propio funeral y piensa asistir a él para revelárselo a todos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Cover/acontra_CINE_16x9._UR1920,1080_FMpng_.png"/>
-  </programme>
-  <programme start="20261030023300 +0100" stop="20261030040800 +0100" channel="acontra+ CINE">
-    <title lang="es">No mires atrás (2010)</title>
-    <desc lang="es">El inspector Sanzio investiga la violenta muerte de una adolescente en un paraje montañoso italiano. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81G3YyAkyfL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261030040800 +0100" stop="20261030060100 +0100" channel="acontra+ CINE">
+  <programme start="20261030040100 +0100" stop="20261030060100 +0100" channel="acontra+ CINE">
     <title lang="es">Más allá del deber (2001)</title>
     <desc lang="es">Un regimiento escocés, durante la Segunda Guerra, debió construir la vía ferroviaria de la muerte. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/81P1jHaw-RL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Sácame de dudas (2020)</title>
     <desc lang="es">Erwan descubre que no es hijo del hombre al que consideraba su padre tras hacerse un análisis. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91w2r94asNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261030091600 +0100" stop="20261030103900 +0100" channel="acontra+ CINE">
+    <title lang="es">Supervivientes de Los Andes</title>
+    <desc lang="es">Un avión con 45 pasajeros se estrella en Los Andes. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/811U24Djs8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261030103900 +0100" stop="20261030120700 +0100" channel="acontra+ CINE">
+    <title lang="es">Tormenta del pasado (2008)</title>
+    <desc lang="es">Una experta de condiciones climática extremas e intentará salvar a una ciudad de un tornado. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Aaf3zxGxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261030120700 +0100" stop="20261030135300 +0100" channel="acontra+ CINE">
+    <title lang="es">Yojimbo (1961)</title>
+    <desc lang="es">Un samurái llega a un poblado en el que dos bandas de mercenarios luchan entre sí. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71+35AZeQ7L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
