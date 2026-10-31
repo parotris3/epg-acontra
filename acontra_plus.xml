@@ -3,39 +3,34 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261030182600 +0100" stop="20261030202600 +0100" channel="acontra+ CINE">
-    <title lang="es">Lavalantula 2 (2016)</title>
-    <desc lang="es">Unas tarántulas gigantes que escupen lava causan terror en Florida. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91vc8cZZPhL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261030202600 +0100" stop="20261030220200 +0100" channel="acontra+ CINE">
-    <title lang="es">La Chinoise (1969)</title>
-    <desc lang="es">París, 1967. Un grupo de estudiantes franceses empieza a pensar en la forma de cambiar el mundo. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91xFWfprssL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261030220200 +0100" stop="20261030233600 +0100" channel="acontra+ CINE">
-    <title lang="es">Generación robada (2002)</title>
-    <desc lang="es">Año 1931, Australia. Tres niñas aborígenes emprenden un peligroso viaje de vuelta a su casa. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91hbtE3pHFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261030233600 +0100" stop="20261031004500 +0100" channel="acontra+ CINE">
-    <title lang="es">El caserón de las sombras (1932)</title>
-    <desc lang="es">Debido a una tormenta, unos viajeros se ven obligados a refugiarse en un viejo caserón. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71KVPyfH4OL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261031004500 +0100" stop="20261031021900 +0100" channel="acontra+ CINE">
-    <title lang="es">El guardián (2002)</title>
-    <desc lang="es">Un inspector de policía investiga una ola de violencia provocada por un espíritu maligno. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/813v6NxUfHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261031021900 +0100" stop="20261031034600 +0100" channel="acontra+ CINE">
+  <programme start="20261031034100 +0100" stop="20261031054100 +0100" channel="acontra+ CINE">
     <title lang="es">Bajo Cero (2006)</title>
     <desc lang="es">Un grupo de alpinistas debe evitar que unos mercenarios utilicen una destructiva arma. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1F0SjuOWRL._UR1920,1080_FMpng_.jpg"/>
   </programme>
-  <programme start="20261031034600 +0100" stop="20261031052900 +0100" channel="acontra+ CINE">
+  <programme start="20261031054100 +0100" stop="20261031072500 +0100" channel="acontra+ CINE">
     <title lang="es">Alto el fuego (2019)</title>
     <desc lang="es">Un excombatiente de la Primera Guerra Mundial regresa a casa cuatro años de vida nómada. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81mlTs7fv9L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261031072500 +0100" stop="20261031084700 +0100" channel="acontra+ CINE">
+    <title lang="es">El infierno bajo tierra (2009)</title>
+    <desc lang="es">Un equipo científico ocupa una estación de perforación abandonada en el desierto del Sahara. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71mk-wkBfPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261031084700 +0100" stop="20261031102300 +0100" channel="acontra+ CINE">
+    <title lang="es">Hit & Run (2012)</title>
+    <desc lang="es">Un piloto se arriesga para llevar a una mujer a Los Ángeles. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1SfhywIqsL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261031102300 +0100" stop="20261031122300 +0100" channel="acontra+ CINE">
+    <title lang="es">La linterna roja (1991)</title>
+    <desc lang="es">China, años 20. Una joven accede a ser concubina de un hombre acaudalado que ya tiene tres esposas. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81mKZ-18XaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261031122300 +0100" stop="20261031140100 +0100" channel="acontra+ CINE">
+    <title lang="es">Los amigos del novio (2006)</title>
+    <desc lang="es">A una semana de casarse con su novia embarazada, Paulie está preocupado por los cambios en su vida. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81GHWbBLbmL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
