@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261031190500 +0100" stop="20261031210500 +0100" channel="acontra+ CINE">
-    <title lang="es">Un condenado a muerte se ha escapado (1956)</title>
-    <desc lang="es">En 1943, un soldado de la Resistencia francesa es arrestado y encerrado en el Fuerte Montjuic. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91CfviYQcvL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261031210500 +0100" stop="20261031223300 +0100" channel="acontra+ CINE">
-    <title lang="es">Solamente se vive una vez (1997)</title>
-    <desc lang="es">George y Nathalie pasan las vacaciones en una remota isla de la costa de Maine. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/911BJnjObpL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261031223300 +0100" stop="20261101000700 +0100" channel="acontra+ CINE">
+  <programme start="20261031220700 +0100" stop="20261101000700 +0100" channel="acontra+ CINE">
     <title lang="es">Vivarium (2019)</title>
     <desc lang="es">Una joven pareja visita una inmobiliaria para comprar una casa donde se quedarán atrapados. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/914D3Ssc3AL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +22,20 @@
     <title lang="es">Slumber: El demonio del sueño (2017)</title>
     <desc lang="es">Una doctora lucha contra un demonio que ataca a las personas mientras duermen. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91GqSQHjZkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261101041800 +0100" stop="20261101055800 +0100" channel="acontra+ CINE">
+    <title lang="es">Mi hermano es hijo único (2008)</title>
+    <desc lang="es">En plena revolución social en Italia, dos hermanos dejan de hablarse por ideales políticos. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81kCetHAdTL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261101055800 +0100" stop="20261101072800 +0100" channel="acontra+ CINE">
+    <title lang="es">Este coche es una ruina (1988)</title>
+    <desc lang="es">Gerald se compra un Jaguar nuevo, y al instante se convierte en su nuevo amor. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91tcvCHxZtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261101072800 +0100" stop="20261101092700 +0100" channel="acontra+ CINE">
+    <title lang="es">Mi cena con Andre (1981)</title>
+    <desc lang="es">Durante una cena, dos actores y dramaturgos abordan los grandes temas de la existencia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1+nEcy5x7L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
