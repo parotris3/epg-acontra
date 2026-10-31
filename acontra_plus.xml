@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261031135000 +0100" stop="20261031155000 +0100" channel="acontra+ CINE">
-    <title lang="es">Me casé con un boludo</title>
-    <desc lang="es">Florencia se da cuenta de que se casó con un idiota. Él intentará recuperarla con un guionista. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71rVwQe6GOL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261031155000 +0100" stop="20261031174700 +0100" channel="acontra+ CINE">
-    <title lang="es">Ojos Negros (1987)</title>
-    <desc lang="es">Romano, un hombre italiano, rememora un apasionado romance con una chica rusa llamada Anna. | Edad: Todas las edades</desc>
-    <icon src="https://m.media-amazon.com/images/I/91xMn34dyHL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261031174700 +0100" stop="20261031192400 +0100" channel="acontra+ CINE">
-    <title lang="es">El trabajo de mis sueños (2020)</title>
-    <desc lang="es">Una joven responde las cartas de los fans del escritor J.D. Salinger, pero lo hace a su manera. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1y-1VhlokL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261031192400 +0100" stop="20261031210500 +0100" channel="acontra+ CINE">
+  <programme start="20261031190500 +0100" stop="20261031210500 +0100" channel="acontra+ CINE">
     <title lang="es">Un condenado a muerte se ha escapado (1956)</title>
     <desc lang="es">En 1943, un soldado de la Resistencia francesa es arrestado y encerrado en el Fuerte Montjuic. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91CfviYQcvL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Vivarium (2019)</title>
     <desc lang="es">Una joven pareja visita una inmobiliaria para comprar una casa donde se quedarán atrapados. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/914D3Ssc3AL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261101000700 +0100" stop="20261101012800 +0100" channel="acontra+ CINE">
+    <title lang="es">Riders (2003)</title>
+    <desc lang="es">Una banda de atracadores con habilidad para los deportes de riesgo planea sus últimos golpes. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81GNmXSk-NL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261101012800 +0100" stop="20261101025300 +0100" channel="acontra+ CINE">
+    <title lang="es">Nueva moda en el crimen (1974)</title>
+    <desc lang="es">Un agente secreto trata de blindar su pasado antes de ser nombrado consejero del gobierno. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81VeQkrvcpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261101025300 +0100" stop="20261101041800 +0100" channel="acontra+ CINE">
+    <title lang="es">Slumber: El demonio del sueño (2017)</title>
+    <desc lang="es">Una doctora lucha contra un demonio que ataca a las personas mientras duermen. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91GqSQHjZkL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
