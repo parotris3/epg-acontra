@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261101035800 +0100" stop="20261101055800 +0100" channel="acontra+ CINE">
-    <title lang="es">Mi hermano es hijo único (2008)</title>
-    <desc lang="es">En plena revolución social en Italia, dos hermanos dejan de hablarse por ideales políticos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81kCetHAdTL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261101055800 +0100" stop="20261101072800 +0100" channel="acontra+ CINE">
-    <title lang="es">Este coche es una ruina (1988)</title>
-    <desc lang="es">Gerald se compra un Jaguar nuevo, y al instante se convierte en su nuevo amor. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91tcvCHxZtL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261101072800 +0100" stop="20261101092700 +0100" channel="acontra+ CINE">
-    <title lang="es">Mi cena con Andre (1981)</title>
-    <desc lang="es">Durante una cena, dos actores y dramaturgos abordan los grandes temas de la existencia. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/B1+nEcy5x7L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261101092700 +0100" stop="20261101111500 +0100" channel="acontra+ CINE">
+  <programme start="20261101091500 +0100" stop="20261101111500 +0100" channel="acontra+ CINE">
     <title lang="es">Nadia, mariposa (2021)</title>
     <desc lang="es">A los 23 años, Nadia, campeona olímpica de natación, toma la controvertida decisión de retirarse. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71YCqu8eGJL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Mi amigo Mr. Morgan (2013)</title>
     <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261101131100 +0100" stop="20261101145800 +0100" channel="acontra+ CINE">
+    <title lang="es">Cuento de primavera (1990)</title>
+    <desc lang="es">Una estudiante de música desea que su padre conozca a su nueva amiga, una maestra de filosofía. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81tp9wOoGTL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261101145800 +0100" stop="20261101165200 +0100" channel="acontra+ CINE">
+    <title lang="es">Pawn Sacrifice (2014)</title>
+    <desc lang="es">El ajedrecista Bobby Fischer compite contra un soviético. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/816y1HZz1AL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261101165200 +0100" stop="20261101183200 +0100" channel="acontra+ CINE">
+    <title lang="es">El festín de Babette (1987)</title>
+    <desc lang="es">Una criada francesa gana la lotería y usa el dinero para preparar un banquete. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71OVFlkg-RL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
