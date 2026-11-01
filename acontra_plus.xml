@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261101181500 +0100" stop="20261101201500 +0100" channel="acontra+ CINE">
-    <title lang="es">El hombre perfecto (2015)</title>
-    <desc lang="es">Un joven escritor encuentra un manuscrito de un anciano y lo publica a su nombre. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Tx-evqXLL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261101201500 +0100" stop="20261101220800 +0100" channel="acontra+ CINE">
-    <title lang="es">El Skylab (2011)</title>
-    <desc lang="es">Julio de 1979. Albertine, de diez años, y sus familiares se reúnen en una casa de Bretaña. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ccAm5Q3PL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261101220800 +0100" stop="20261101232800 +0100" channel="acontra+ CINE">
-    <title lang="es">La cena de los idiotas (1998)</title>
-    <desc lang="es">Un francés adinerado mantiene un certamen semanal para ver quién trae como invitado al mayor idiota. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71ALhSuqkiL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261101232800 +0100" stop="20261102011700 +0100" channel="acontra+ CINE">
+  <programme start="20261101231700 +0100" stop="20261102011700 +0100" channel="acontra+ CINE">
     <title lang="es">Los amantes de Montparnasse (1958)</title>
     <desc lang="es">Relato del último año de vida del pintor italiano Modigliani en el barrio francés de Montparnasse. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ph+W4zttL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Fanny y Alexander (1983)</title>
     <desc lang="es">Bergman propone su visión del mundo a través del avatar de una familia sueca a inicios del siglo XX. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91BqWp1kMqL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261102041900 +0100" stop="20261102055800 +0100" channel="acontra+ CINE">
+    <title lang="es">Miss América (1989)</title>
+    <desc lang="es">Una joven del Sur se apunta en el concurso anual de belleza para resaltar la imagen de su pueblo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81yLQTeQGiL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261102055800 +0100" stop="20261102073200 +0100" channel="acontra+ CINE">
+    <title lang="es">Un verano con Mónica (1955)</title>
+    <desc lang="es">Dos adolescentes se enamoran y dejan todo para emprender un viaje juntos en barco. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81X33-oJfLL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261102073200 +0100" stop="20261102084800 +0100" channel="acontra+ CINE">
+    <title lang="es">Egoshooter</title>
+    <desc lang="es">Para lidiar con la transición a la adultez, un adolescente graba todo con su cámara. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81fyvNADFBL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
