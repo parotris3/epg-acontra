@@ -3,27 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261031220700 +0100" stop="20261101000700 +0100" channel="acontra+ CINE">
-    <title lang="es">Vivarium (2019)</title>
-    <desc lang="es">Una joven pareja visita una inmobiliaria para comprar una casa donde se quedarán atrapados. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/914D3Ssc3AL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261101000700 +0100" stop="20261101012800 +0100" channel="acontra+ CINE">
-    <title lang="es">Riders (2003)</title>
-    <desc lang="es">Una banda de atracadores con habilidad para los deportes de riesgo planea sus últimos golpes. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81GNmXSk-NL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261101012800 +0100" stop="20261101025300 +0100" channel="acontra+ CINE">
-    <title lang="es">Nueva moda en el crimen (1974)</title>
-    <desc lang="es">Un agente secreto trata de blindar su pasado antes de ser nombrado consejero del gobierno. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81VeQkrvcpL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261101025300 +0100" stop="20261101041800 +0100" channel="acontra+ CINE">
-    <title lang="es">Slumber: El demonio del sueño (2017)</title>
-    <desc lang="es">Una doctora lucha contra un demonio que ataca a las personas mientras duermen. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91GqSQHjZkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261101041800 +0100" stop="20261101055800 +0100" channel="acontra+ CINE">
+  <programme start="20261101035800 +0100" stop="20261101055800 +0100" channel="acontra+ CINE">
     <title lang="es">Mi hermano es hijo único (2008)</title>
     <desc lang="es">En plena revolución social en Italia, dos hermanos dejan de hablarse por ideales políticos. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81kCetHAdTL._UR1920,1080_FMpng_.jpg"/>
@@ -37,5 +17,15 @@
     <title lang="es">Mi cena con Andre (1981)</title>
     <desc lang="es">Durante una cena, dos actores y dramaturgos abordan los grandes temas de la existencia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/B1+nEcy5x7L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261101092700 +0100" stop="20261101111500 +0100" channel="acontra+ CINE">
+    <title lang="es">Nadia, mariposa (2021)</title>
+    <desc lang="es">A los 23 años, Nadia, campeona olímpica de natación, toma la controvertida decisión de retirarse. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71YCqu8eGJL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261101111500 +0100" stop="20261101131100 +0100" channel="acontra+ CINE">
+    <title lang="es">Mi amigo Mr. Morgan (2013)</title>
+    <desc lang="es">Un profesor de filosofía ya retirado conoce a una joven parisina y, de repente, sus vidas cambian. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81n2QLrOb2L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
