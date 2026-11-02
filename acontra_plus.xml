@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261102082900 +0100" stop="20261102102900 +0100" channel="acontra+ CINE">
-    <title lang="es">Nosotras las mujeres</title>
-    <desc lang="es">Retrato de la vida privada de cinco grandes actrices, que se interpretan a sí mismas. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81s+DfMebeL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261102102900 +0100" stop="20261102122400 +0100" channel="acontra+ CINE">
-    <title lang="es">Saint Jack (1979)</title>
-    <desc lang="es">Jack se enfrentará a un nuevo inspector cuando este quiere revisar las cuentas de su burdel. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81zoGQKfTzL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261102122400 +0100" stop="20261102135500 +0100" channel="acontra+ CINE">
-    <title lang="es">Testigo (2017)</title>
-    <desc lang="es">Duval debe afrontar la brutal mecánica del mundo oculto de los servicios secretos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71etEZ+ZdkL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261102135500 +0100" stop="20261102151900 +0100" channel="acontra+ CINE">
+  <programme start="20261102131900 +0100" stop="20261102151900 +0100" channel="acontra+ CINE">
     <title lang="es">Si Dios quiere (2015)</title>
     <desc lang="es">Un cardiólogo ateo y déspota se queda estupefacto cuando su hijo anuncia que quiere ser cura. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Tta569noL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">Rashomon (1950)</title>
     <desc lang="es">Siglo XII, Melancólica radiografía de la naturaleza humana. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71wyXb0sZML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261102185900 +0100" stop="20261102204700 +0100" channel="acontra+ CINE">
+    <title lang="es">Orfeu negro (1959)</title>
+    <desc lang="es">La trágica historia de amor entre la joven Eurídice y el conductor y músico Orfeo. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91DZLPATqGL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261102204700 +0100" stop="20261102230900 +0100" channel="acontra+ CINE">
+    <title lang="es">Secretos y mentiras (1995)</title>
+    <desc lang="es">Un sensible drama donde una mujer busca a su madre. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81VZmcnOdcL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
