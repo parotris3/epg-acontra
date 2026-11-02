@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261102131900 +0100" stop="20261102151900 +0100" channel="acontra+ CINE">
-    <title lang="es">Si Dios quiere (2015)</title>
-    <desc lang="es">Un cardiólogo ateo y déspota se queda estupefacto cuando su hijo anuncia que quiere ser cura. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Tta569noL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261102151900 +0100" stop="20261102173500 +0100" channel="acontra+ CINE">
-    <title lang="es">Conexión Marsella (2014)</title>
-    <desc lang="es">Un joven magistrado es destinado a combatir la lucha contra el crimen organizado. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81-LZi-Jm3L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261102173500 +0100" stop="20261102185900 +0100" channel="acontra+ CINE">
-    <title lang="es">Rashomon (1950)</title>
-    <desc lang="es">Siglo XII, Melancólica radiografía de la naturaleza humana. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71wyXb0sZML._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261102185900 +0100" stop="20261102204700 +0100" channel="acontra+ CINE">
+  <programme start="20261102184700 +0100" stop="20261102204700 +0100" channel="acontra+ CINE">
     <title lang="es">Orfeu negro (1959)</title>
     <desc lang="es">La trágica historia de amor entre la joven Eurídice y el conductor y músico Orfeo. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/91DZLPATqGL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Secretos y mentiras (1995)</title>
     <desc lang="es">Un sensible drama donde una mujer busca a su madre. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81VZmcnOdcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261102230900 +0100" stop="20261103004600 +0100" channel="acontra+ CINE">
+    <title lang="es">Suspiria (1977)</title>
+    <desc lang="es">Una bailarina de Nueva York se inscribe en una academia de danza embrujada. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/B1hAy5lxJRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261103004600 +0100" stop="20261103023300 +0100" channel="acontra+ CINE">
+    <title lang="es">Yatterman (2009)</title>
+    <desc lang="es">Gan, Ai y su fiel perro robot gigante tratarán de evitar que Doronjo se haga con una piedra mágica. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81pol7ZTJZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261103023300 +0100" stop="20261103041600 +0100" channel="acontra+ CINE">
+    <title lang="es">Tierra de sangre (2006)</title>
+    <desc lang="es">Un idealista soldado llamado Joe entabla una prohibida amistad con un prisionero político. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81haPO5U-ZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
