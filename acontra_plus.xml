@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261103083900 +0100" stop="20261103103900 +0100" channel="acontra+ CINE">
-    <title lang="es">Aurora boreal (2007)</title>
-    <desc lang="es">Rebeca regresará a su ciudad natal dispuesta a encontrar al asesino del hermano de su amiga. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91r+VRPqJxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261103103900 +0100" stop="20261103121700 +0100" channel="acontra+ CINE">
-    <title lang="es">El gato y el canario (1979)</title>
-    <desc lang="es">La gran herencia de una mujer la convierte en el objetivo de un misterioso asesino. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WU8UPlK6L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261103121700 +0100" stop="20261103141100 +0100" channel="acontra+ CINE">
-    <title lang="es">El señor de las bestias (1983)</title>
-    <desc lang="es">Dar, el príncipe guerrero, necesita salvar al amor de su vida, Kiri, ahora prisionera de un rey. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91WflJhW96L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261103141100 +0100" stop="20261103153200 +0100" channel="acontra+ CINE">
+  <programme start="20261103133200 +0100" stop="20261103153200 +0100" channel="acontra+ CINE">
     <title lang="es">Dame 10 razones (2006)</title>
     <desc lang="es">Un actor se adentra en un supermercado de un barrio obrero para investigar sobre su personaje. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/81m7-duJJZL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El arpa birmana (1956)</title>
     <desc lang="es">Año 1945. Un soldado nipón que toca el arpa queda horrorizado por la destrucción que le rodea. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81xonY1GQPL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261103190500 +0100" stop="20261103202800 +0100" channel="acontra+ CINE">
+    <title lang="es">El collar rojo (2019)</title>
+    <desc lang="es">En una aldea francesa azotada por el calor del verano de 1919, un perro no para de ladrar. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81gjqsqToNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261103202800 +0100" stop="20261103215600 +0100" channel="acontra+ CINE">
+    <title lang="es">El brindis (2020)</title>
+    <desc lang="es">Un hombre espera un mensaje de reconciliación de su ex durante una cena familiar. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91YMCCqF3DL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261103215600 +0100" stop="20261103231800 +0100" channel="acontra+ CINE">
+    <title lang="es">La decisión (2026)</title>
+    <desc lang="es">Sara va a cometer un atentado suicida, pero un vendedor hará que se replantee sus convicciones. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/713kMSbRPpL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
