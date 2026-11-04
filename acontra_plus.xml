@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261104034000 +0100" stop="20261104054000 +0100" channel="acontra+ CINE">
-    <title lang="es">Little Monsters (2019)</title>
-    <desc lang="es">Dave se ofrece como voluntario para acompañar a su sobrino en un viaje escolar. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91irhFfgcgL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261104054000 +0100" stop="20261104075600 +0100" channel="acontra+ CINE">
-    <title lang="es">Los verdugos también mueren (1943)</title>
-    <desc lang="es">En mayo de 1942 murió víctima de un atentado Reinhard Heydrich, jefe del gobierno nazi de Praga. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uWRbWALrL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261104075600 +0100" stop="20261104093300 +0100" channel="acontra+ CINE">
-    <title lang="es">Barbacoa de amigos (2014)</title>
-    <desc lang="es">En su 50 cumpleaños, Antoine tiene una ataque al corazón y decide cambiar su estilo de vida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ZftxIvRIL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261104093300 +0100" stop="20261104105000 +0100" channel="acontra+ CINE">
+  <programme start="20261104085000 +0100" stop="20261104105000 +0100" channel="acontra+ CINE">
     <title lang="es">Milagro en la Calle Mayor</title>
     <desc lang="es">Una noche, huyendo de la policía, María entra en una iglesia y encuentra allí un bebé abandonado. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1HfeDJLZkL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Harakiri (1962)</title>
     <desc lang="es">En el Japón de 1630, abundan los samuráis que han perdido su sentido de propósito. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91YkEs3n9sL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261104144000 +0100" stop="20261104155200 +0100" channel="acontra+ CINE">
+    <title lang="es">El pan nuestro de cada día (1934)</title>
+    <desc lang="es">Durante la crisis de 1929, una joven pareja abandona la ciudad y explota una granja abandonada. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/81CZCGswxtL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261104155200 +0100" stop="20261104173900 +0100" channel="acontra+ CINE">
+    <title lang="es">Consejo de guerra (1980)</title>
+    <desc lang="es">Australianos que luchan por Inglaterra en la Guerra de los Bóer se enfrentan a un consejo de guerra. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91MYLrjr-ML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261104173900 +0100" stop="20261104190600 +0100" channel="acontra+ CINE">
+    <title lang="es">Bajo Cero (2006)</title>
+    <desc lang="es">Un grupo de alpinistas debe evitar que unos mercenarios utilicen una destructiva arma. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1F0SjuOWRL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
