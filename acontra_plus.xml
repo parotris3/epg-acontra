@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261104001400 +0100" stop="20261104021400 +0100" channel="acontra+ CINE">
-    <title lang="es">Don Giovanni (1989)</title>
-    <desc lang="es">En esta versión de la ópera clásica de Mozart, Don Juan peca con su criada y es condenado. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Qw8rHPC8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261104021400 +0100" stop="20261104041000 +0100" channel="acontra+ CINE">
-    <title lang="es">La mujer zurda (1980)</title>
-    <desc lang="es">Una mujer recién separada pone rumbo a París con su hijo, donde comienzan una nueva vida. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81ebmwYoeRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261104041000 +0100" stop="20261104054000 +0100" channel="acontra+ CINE">
+  <programme start="20261104034000 +0100" stop="20261104054000 +0100" channel="acontra+ CINE">
     <title lang="es">Little Monsters (2019)</title>
     <desc lang="es">Dave se ofrece como voluntario para acompañar a su sobrino en un viaje escolar. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91irhFfgcgL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Barbacoa de amigos (2014)</title>
     <desc lang="es">En su 50 cumpleaños, Antoine tiene una ataque al corazón y decide cambiar su estilo de vida. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ZftxIvRIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261104093300 +0100" stop="20261104105000 +0100" channel="acontra+ CINE">
+    <title lang="es">Milagro en la Calle Mayor</title>
+    <desc lang="es">Una noche, huyendo de la policía, María entra en una iglesia y encuentra allí un bebé abandonado. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1HfeDJLZkL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261104105000 +0100" stop="20261104122800 +0100" channel="acontra+ CINE">
+    <title lang="es">Oxford Blues (1984)</title>
+    <desc lang="es">Un americano que anda tras la chica de sus sueños amenaza la tradición de la Universidad de Oxford. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91t7glRFKjL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261104122800 +0100" stop="20261104144000 +0100" channel="acontra+ CINE">
+    <title lang="es">Harakiri (1962)</title>
+    <desc lang="es">En el Japón de 1630, abundan los samuráis que han perdido su sentido de propósito. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91YkEs3n9sL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
