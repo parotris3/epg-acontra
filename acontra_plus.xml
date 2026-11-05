@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261105040900 +0100" stop="20261105060900 +0100" channel="acontra+ CINE">
-    <title lang="es">Barrabás (2025)</title>
-    <desc lang="es">Una visión de la muerte y resurrección de Cristo, a través de los ojos de Barrabás. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71AkjH+oCXL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261105060900 +0100" stop="20261105073800 +0100" channel="acontra+ CINE">
-    <title lang="es">Con todas nuestras fuerzas (2014)</title>
-    <desc lang="es">Un joven en silla de ruedas desafía todos los obstáculos para participar en un triatlón. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1SZreKkNsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261105073800 +0100" stop="20261105090500 +0100" channel="acontra+ CINE">
-    <title lang="es">La perrera (2010)</title>
-    <desc lang="es">Tres criminales enfrentan a unos prisioneros brutales en una prisión. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1zsOc+xR0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261105090500 +0100" stop="20261105103600 +0100" channel="acontra+ CINE">
+  <programme start="20261105083600 +0100" stop="20261105103600 +0100" channel="acontra+ CINE">
     <title lang="es">El mejor regalo (2018)</title>
     <desc lang="es">Sena, una aspirante a diseñadora de moda y sin éxito en el amor, cumple 46 años. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81anZEQ6NtL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Ocho y medio (1963)</title>
     <desc lang="es">Un director de cine atraviesa una crisis de creatividad. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81arxyacWlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261105142800 +0100" stop="20261105155400 +0100" channel="acontra+ CINE">
+    <title lang="es">Hiroshima, mon amour (1959)</title>
+    <desc lang="es">Una actriz francesa se enamora de un arquitecto japonés en la época de la posguerra. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81hJzVu9vRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261105155400 +0100" stop="20261105172700 +0100" channel="acontra+ CINE">
+    <title lang="es">La garra de Satán (1971)</title>
+    <desc lang="es">El descubrimiento del cuerpo de un hombre bestia atemoriza a unos niños campesinos en Inglaterra. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81nuSA-K9tL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261105172700 +0100" stop="20261105184700 +0100" channel="acontra+ CINE">
+    <title lang="es">La matanza de Texas (1974)</title>
+    <desc lang="es">Un grupo de jóvenes son atacados con sierras y otras herramientas mortales por seres dementes. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71VJFqz66zL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
