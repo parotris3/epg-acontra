@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261105182000 +0100" stop="20261105202000 +0100" channel="acontra+ CINE">
-    <title lang="es">Le week-end (2013)</title>
-    <desc lang="es">Nick y Meg, a sus 60 años, viajan a París para pasar un fin de semana romántico que reavive su vida. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81A0oV0QixL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261105202000 +0100" stop="20261105220400 +0100" channel="acontra+ CINE">
-    <title lang="es">Lucky Luke (2009)</title>
-    <desc lang="es">El vaquero Lucky Luke regresa a su pueblo natal, Daisy Town, para instaurar de nuevo la paz. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81uqKlxpNsL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261105220400 +0100" stop="20261105234100 +0100" channel="acontra+ CINE">
-    <title lang="es">My Beautiful Laundrette (1986)</title>
-    <desc lang="es">Dos jóvenes se unen para restaurar una lavandería. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71PewlESOcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261105234100 +0100" stop="20261106015500 +0100" channel="acontra+ CINE">
+  <programme start="20261105235500 +0100" stop="20261106015500 +0100" channel="acontra+ CINE">
     <title lang="es">Kabei. Nuestra madre (2008)</title>
     <desc lang="es">Una mujer lucha por mantener a su familia unida cuando su marido es encarcelado por sus opiniones. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81e0U+3YW4L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">Stonewall (2015)</title>
     <desc lang="es">Stonewall se convirtió en el punto de partida de los derechos de los homosexuales en Nueva York. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/91bmUydEiYL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261106040500 +0100" stop="20261106053300 +0100" channel="acontra+ CINE">
+    <title lang="es">Solamente se vive una vez (1997)</title>
+    <desc lang="es">George y Nathalie pasan las vacaciones en una remota isla de la costa de Maine. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/911BJnjObpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261106053300 +0100" stop="20261106065800 +0100" channel="acontra+ CINE">
+    <title lang="es">The Penthouse</title>
+    <desc lang="es">La vida de una pareja se convierte en una pesadilla cuando un sospechoso de asesinato los acecha. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91H6hzcC5sL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261106065800 +0100" stop="20261106085100 +0100" channel="acontra+ CINE">
+    <title lang="es">Una bolsa de canicas (2017)</title>
+    <desc lang="es">Dos hermanos judíos huyen a través de Francia durante la ocupación alemana. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81n0p3c73LL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
