@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261105135400 +0100" stop="20261105155400 +0100" channel="acontra+ CINE">
-    <title lang="es">Hiroshima, mon amour (1959)</title>
-    <desc lang="es">Una actriz francesa se enamora de un arquitecto japonés en la época de la posguerra. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81hJzVu9vRL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261105155400 +0100" stop="20261105172700 +0100" channel="acontra+ CINE">
-    <title lang="es">La garra de Satán (1971)</title>
-    <desc lang="es">El descubrimiento del cuerpo de un hombre bestia atemoriza a unos niños campesinos en Inglaterra. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81nuSA-K9tL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261105172700 +0100" stop="20261105184700 +0100" channel="acontra+ CINE">
-    <title lang="es">La matanza de Texas (1974)</title>
-    <desc lang="es">Un grupo de jóvenes son atacados con sierras y otras herramientas mortales por seres dementes. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71VJFqz66zL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261105184700 +0100" stop="20261105202000 +0100" channel="acontra+ CINE">
+  <programme start="20261105182000 +0100" stop="20261105202000 +0100" channel="acontra+ CINE">
     <title lang="es">Le week-end (2013)</title>
     <desc lang="es">Nick y Meg, a sus 60 años, viajan a París para pasar un fin de semana romántico que reavive su vida. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81A0oV0QixL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">My Beautiful Laundrette (1986)</title>
     <desc lang="es">Dos jóvenes se unen para restaurar una lavandería. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/71PewlESOcL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261105234100 +0100" stop="20261106015500 +0100" channel="acontra+ CINE">
+    <title lang="es">Kabei. Nuestra madre (2008)</title>
+    <desc lang="es">Una mujer lucha por mantener a su familia unida cuando su marido es encarcelado por sus opiniones. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81e0U+3YW4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261106015500 +0100" stop="20261106040500 +0100" channel="acontra+ CINE">
+    <title lang="es">Stonewall (2015)</title>
+    <desc lang="es">Stonewall se convirtió en el punto de partida de los derechos de los homosexuales en Nueva York. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91bmUydEiYL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
