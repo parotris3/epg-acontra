@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261106083700 +0100" stop="20261106103700 +0100" channel="acontra+ CINE">
-    <title lang="es">Yatterman (2009)</title>
-    <desc lang="es">Gan, Ai y su fiel perro robot gigante tratarán de evitar que Doronjo se haga con una piedra mágica. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81pol7ZTJZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261106103700 +0100" stop="20261106121100 +0100" channel="acontra+ CINE">
-    <title lang="es">Jeffrey (1995)</title>
-    <desc lang="es">El voto de celibato de un homosexual se pone a prueba cuando encuentra a su pareja perfecta. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/711EJ+nkA0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261106121100 +0100" stop="20261106134200 +0100" channel="acontra+ CINE">
-    <title lang="es">El último vuelo (2014)</title>
-    <desc lang="es">Marie Vallières de Beaumont, una intrépida aviadora, se propone encontrar a su novio desaparecido. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71jGocrVMZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261106134200 +0100" stop="20261106152000 +0100" channel="acontra+ CINE">
+  <programme start="20261106132000 +0100" stop="20261106152000 +0100" channel="acontra+ CINE">
     <title lang="es">Fortunata (2024)</title>
     <desc lang="es">Fortunata intenta abrir su propio salón de belleza para poder separarse de su marido alcohólico. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81delV5A5oL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">Diarios de motocicleta (2004)</title>
     <desc lang="es">En 1952, Ernesto "Che" Guevara y su amigo Alberto Granado realizan un viaje a través de Sudamérica. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/71aFMJNSttL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261106185600 +0100" stop="20261106202700 +0100" channel="acontra+ CINE">
+    <title lang="es">Asalto a la comisaría del distrito 13 (1976)</title>
+    <desc lang="es">Un policía de Los Ángeles recibe su primer destino en una comisaría que está siendo trasladada. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81oSJqNa7iL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261106202700 +0100" stop="20261106222300 +0100" channel="acontra+ CINE">
+    <title lang="es">Destrucción (2018)</title>
+    <desc lang="es">Una policía revive el drama que marcó su vida. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91Kaac9AZlL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261106222300 +0100" stop="20261106235500 +0100" channel="acontra+ CINE">
+    <title lang="es">Cromosoma 3 (1979)</title>
+    <desc lang="es">El psiquiatra Hal Raglen inventa una terapia especial para tratar psicópatas, la somatización. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71AmspXCoFL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
