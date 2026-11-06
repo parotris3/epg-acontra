@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261106182700 +0100" stop="20261106202700 +0100" channel="acontra+ CINE">
-    <title lang="es">Asalto a la comisaría del distrito 13 (1976)</title>
-    <desc lang="es">Un policía de Los Ángeles recibe su primer destino en una comisaría que está siendo trasladada. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81oSJqNa7iL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261106202700 +0100" stop="20261106222300 +0100" channel="acontra+ CINE">
-    <title lang="es">Destrucción (2018)</title>
-    <desc lang="es">Una policía revive el drama que marcó su vida. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91Kaac9AZlL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261106222300 +0100" stop="20261106235500 +0100" channel="acontra+ CINE">
-    <title lang="es">Cromosoma 3 (1979)</title>
-    <desc lang="es">El psiquiatra Hal Raglen inventa una terapia especial para tratar psicópatas, la somatización. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/71AmspXCoFL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261106235500 +0100" stop="20261107020100 +0100" channel="acontra+ CINE">
+  <programme start="20261107000100 +0100" stop="20261107020100 +0100" channel="acontra+ CINE">
     <title lang="es">Aline (2020)</title>
     <desc lang="es">Aline tiene una voz prodigiosa que no pasa desapercibida para un productor ambicioso. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81ra+l9mqHL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">American Night (2021)</title>
     <desc lang="es">Un cuadro de Andy Warhol desaparecido reaparece y desencadena una peligrosa reacción en cadena. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1RSx3WyEaL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261107040600 +0100" stop="20261107053500 +0100" channel="acontra+ CINE">
+    <title lang="es">Voyage of time: el viaje de la vida (2016)</title>
+    <desc lang="es">Del nacimiento de las estrellas a la evolución de la vida sobre la Tierra. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81PPeaQMSNL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261107053500 +0100" stop="20261107072500 +0100" channel="acontra+ CINE">
+    <title lang="es">The Sea of Trees (2015)</title>
+    <desc lang="es">Un estadounidense y un japonés se conocen en un bosque. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81BFJfGFeZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261107072500 +0100" stop="20261107090500 +0100" channel="acontra+ CINE">
+    <title lang="es">Pasión por las letras (2016)</title>
+    <desc lang="es">Maxwell Perkins desarrolla una amistad con Thomas Wolfe. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Ludfflu0L._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
