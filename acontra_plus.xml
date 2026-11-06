@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261105235500 +0100" stop="20261106015500 +0100" channel="acontra+ CINE">
-    <title lang="es">Kabei. Nuestra madre (2008)</title>
-    <desc lang="es">Una mujer lucha por mantener a su familia unida cuando su marido es encarcelado por sus opiniones. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81e0U+3YW4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261106015500 +0100" stop="20261106040500 +0100" channel="acontra+ CINE">
-    <title lang="es">Stonewall (2015)</title>
-    <desc lang="es">Stonewall se convirtió en el punto de partida de los derechos de los homosexuales en Nueva York. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91bmUydEiYL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261106040500 +0100" stop="20261106053300 +0100" channel="acontra+ CINE">
+  <programme start="20261106033300 +0100" stop="20261106053300 +0100" channel="acontra+ CINE">
     <title lang="es">Solamente se vive una vez (1997)</title>
     <desc lang="es">George y Nathalie pasan las vacaciones en una remota isla de la costa de Maine. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/911BJnjObpL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,20 @@
     <title lang="es">Una bolsa de canicas (2017)</title>
     <desc lang="es">Dos hermanos judíos huyen a través de Francia durante la ocupación alemana. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81n0p3c73LL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261106085100 +0100" stop="20261106103700 +0100" channel="acontra+ CINE">
+    <title lang="es">Yatterman (2009)</title>
+    <desc lang="es">Gan, Ai y su fiel perro robot gigante tratarán de evitar que Doronjo se haga con una piedra mágica. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81pol7ZTJZL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261106103700 +0100" stop="20261106121100 +0100" channel="acontra+ CINE">
+    <title lang="es">Jeffrey (1995)</title>
+    <desc lang="es">El voto de celibato de un homosexual se pone a prueba cuando encuentra a su pareja perfecta. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/711EJ+nkA0L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261106121100 +0100" stop="20261106134200 +0100" channel="acontra+ CINE">
+    <title lang="es">El último vuelo (2014)</title>
+    <desc lang="es">Marie Vallières de Beaumont, una intrépida aviadora, se propone encontrar a su novio desaparecido. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/71jGocrVMZL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
