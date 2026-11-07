@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261107033500 +0100" stop="20261107053500 +0100" channel="acontra+ CINE">
-    <title lang="es">Voyage of time: el viaje de la vida (2016)</title>
-    <desc lang="es">Del nacimiento de las estrellas a la evolución de la vida sobre la Tierra. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81PPeaQMSNL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261107053500 +0100" stop="20261107072500 +0100" channel="acontra+ CINE">
-    <title lang="es">The Sea of Trees (2015)</title>
-    <desc lang="es">Un estadounidense y un japonés se conocen en un bosque. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81BFJfGFeZL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261107072500 +0100" stop="20261107090500 +0100" channel="acontra+ CINE">
-    <title lang="es">Pasión por las letras (2016)</title>
-    <desc lang="es">Maxwell Perkins desarrolla una amistad con Thomas Wolfe. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81Ludfflu0L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261107090500 +0100" stop="20261107102800 +0100" channel="acontra+ CINE">
+  <programme start="20261107082800 +0100" stop="20261107102800 +0100" channel="acontra+ CINE">
     <title lang="es">El infierno bajo tierra (2009)</title>
     <desc lang="es">Un equipo científico ocupa una estación de perforación abandonada en el desierto del Sahara. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/71mk-wkBfPL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,20 @@
     <title lang="es">El sabor del sake (1962)</title>
     <desc lang="es">Shubei Hirayama es viudo y vive con su hija, pero ve injusto que ella se dedique solo a cuidarlo. | Edad: Todas las edades</desc>
     <icon src="https://m.media-amazon.com/images/I/91GC-TwVyML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261107134800 +0100" stop="20261107150200 +0100" channel="acontra+ CINE">
+    <title lang="es">Castores zombies (2014)</title>
+    <desc lang="es">Unos universitarios son atacados por unos castores zombis. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/819U50ILkrL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261107150200 +0100" stop="20261107165100 +0100" channel="acontra+ CINE">
+    <title lang="es">El sabor del sake (1962)</title>
+    <desc lang="es">Shubei Hirayama es viudo y vive con su hija, pero ve injusto que ella se dedique solo a cuidarlo. | Edad: Todas las edades</desc>
+    <icon src="https://m.media-amazon.com/images/I/91GC-TwVyML._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261107165100 +0100" stop="20261107182000 +0100" channel="acontra+ CINE">
+    <title lang="es">Jane en busca de la ciudad perdida (1988)</title>
+    <desc lang="es">África 1940. Tanto los nazis como los británicos tratan de localizar la ciudad perdida. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/912VzzWFthL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
