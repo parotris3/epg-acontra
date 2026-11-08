@@ -3,17 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261108040500 +0100" stop="20261108060500 +0100" channel="acontra+ CINE">
-    <title lang="es">El año que dejamos de jugar (2019)</title>
-    <desc lang="es">Anna y su familia de origen judío deben ir de Berlín tras el ascenso de Hitler. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81RzywxeukL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261108060500 +0100" stop="20261108075800 +0100" channel="acontra+ CINE">
-    <title lang="es">El tiempo del lobo</title>
-    <desc lang="es">Anna y su familia descubren que su casa de campo ha sido ocupada por otra familia. | Edad: 18+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91AG38UD0fL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261108075800 +0100" stop="20261108103200 +0100" channel="acontra+ CINE">
+  <programme start="20261108083200 +0100" stop="20261108103200 +0100" channel="acontra+ CINE">
     <title lang="es">Pequeñas mentiras sin importancia (2010)</title>
     <desc lang="es">Un matrimonio invita a un grupo de amigos a su casa de la playa, pero un amigo no puede asistir. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81Ci1eiig8L._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +17,15 @@
     <title lang="es">Manual de la buena esposa (2020)</title>
     <desc lang="es">Una escuela de hogar se encarga de capacitar a sus estudiantes para que sean esposas modelo. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81GtGBEHRyL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261108142000 +0100" stop="20261108162600 +0100" channel="acontra+ CINE">
+    <title lang="es">No se lo digas a nadie (2006)</title>
+    <desc lang="es">La mujer de Alex Beck fue asesinada hace ocho años, ahora él es sospechoso de dos asesinatos. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91LHfqAz5OL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261108162600 +0100" stop="20261108181600 +0100" channel="acontra+ CINE">
+    <title lang="es">Diálogo de carmelitas (2011)</title>
+    <desc lang="es">En plena Revolución Francesa, la joven Blanche de la Force decide ingresar en un convento. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91fSPpdNqdL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
