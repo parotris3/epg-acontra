@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261109034700 +0100" stop="20261109054700 +0100" channel="acontra+ CINE">
-    <title lang="es">Déjate llevar (2018)</title>
-    <desc lang="es">Elías es un psicoanalista freudiano que necesita adelgazar y que conoce a una entrenadora personal. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81fznH0hqcL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261109054700 +0100" stop="20261109074600 +0100" channel="acontra+ CINE">
-    <title lang="es">Dinero fácil (2010)</title>
-    <desc lang="es">Tres criminales se unen para conseguir un objetivo común: vengarse del gran capo Radovan. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1hkAaQa6JL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261109074600 +0100" stop="20261109092300 +0100" channel="acontra+ CINE">
-    <title lang="es">El día de los muertos (1985)</title>
-    <desc lang="es">Los zombis se han apoderado del planeta. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1ZIzNHVVuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261109092300 +0100" stop="20261109114900 +0100" channel="acontra+ CINE">
+  <programme start="20261109094900 +0100" stop="20261109114900 +0100" channel="acontra+ CINE">
     <title lang="es">Una familia de Tokio (2013)</title>
     <desc lang="es">Una pareja de ancianos que vive en una pequeña isla viaja a Tokio para visitar a sus tres hijos. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81koP10hlfL._UR1920,1080_FMpng_.jpg"/>
@@ -27,5 +12,20 @@
     <title lang="es">El sureño (1945)</title>
     <desc lang="es">Un recolector de algodón de Texas busca tener su propia granja y darle una mejor vida a su familia. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/91+4OenNoUL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261109131700 +0100" stop="20261109151000 +0100" channel="acontra+ CINE">
+    <title lang="es">Girlhood (2014)</title>
+    <desc lang="es">Marieme es una chica de los suburbios de París que se une a una banda callejera femenina. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91jo3kwvZxL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261109151000 +0100" stop="20261109165100 +0100" channel="acontra+ CINE">
+    <title lang="es">Tasmania (2009)</title>
+    <desc lang="es">Ocho convictos escapan de la brutal cárcel de Macquarie Harbour en busca de la libertad. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81Gwz6EXmbL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261109165100 +0100" stop="20261109184300 +0100" channel="acontra+ CINE">
+    <title lang="es">Uno tras otro (2014)</title>
+    <desc lang="es">Cuando su hijo muere de sobredosis, Nils, convencido de que ha sido asesinado, quiere venganza. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81K2F-fI2sL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
