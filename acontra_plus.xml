@@ -3,22 +3,7 @@
   <channel id="acontra+ CINE">
     <display-name>acontra+ CINE</display-name>
   </channel>
-  <programme start="20261108232400 +0100" stop="20261109012400 +0100" channel="acontra+ CINE">
-    <title lang="es">Despertando a Ned (1998)</title>
-    <desc lang="es">Un pueblo oculta la muerte de Ned, ganador de la lotería, para repartirse el dinero entre ellos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81lSKouKbuL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261109012400 +0100" stop="20261109024500 +0100" channel="acontra+ CINE">
-    <title lang="es">Bloodsucking Bastards (2015)</title>
-    <desc lang="es">Evan, un empleado obediente y sobrecargado de trabajo, descubre que su compañero es un vampiro. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91B4zb3tooL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261109024500 +0100" stop="20261109040800 +0100" channel="acontra+ CINE">
-    <title lang="es">11:14 Destino fatal (2003)</title>
-    <desc lang="es">A las 11:14 de la mañana de un mismo día suceden simultáneamente dos accidentes automovilísticos. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/91b87S6oVxL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261109040800 +0100" stop="20261109054700 +0100" channel="acontra+ CINE">
+  <programme start="20261109034700 +0100" stop="20261109054700 +0100" channel="acontra+ CINE">
     <title lang="es">Déjate llevar (2018)</title>
     <desc lang="es">Elías es un psicoanalista freudiano que necesita adelgazar y que conoce a una entrenadora personal. | Edad: 7+</desc>
     <icon src="https://m.media-amazon.com/images/I/81fznH0hqcL._UR1920,1080_FMpng_.jpg"/>
@@ -32,5 +17,15 @@
     <title lang="es">El día de los muertos (1985)</title>
     <desc lang="es">Los zombis se han apoderado del planeta. | Edad: 16+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1ZIzNHVVuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261109092300 +0100" stop="20261109114900 +0100" channel="acontra+ CINE">
+    <title lang="es">Una familia de Tokio (2013)</title>
+    <desc lang="es">Una pareja de ancianos que vive en una pequeña isla viaja a Tokio para visitar a sus tres hijos. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81koP10hlfL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261109114900 +0100" stop="20261109131700 +0100" channel="acontra+ CINE">
+    <title lang="es">El sureño (1945)</title>
+    <desc lang="es">Un recolector de algodón de Texas busca tener su propia granja y darle una mejor vida a su familia. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91+4OenNoUL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 </tv>
